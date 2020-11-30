@@ -2,6 +2,7 @@ package main
 
 import (
 	"log"
+	"path/filepath"
 	"testing"
 )
 
@@ -30,4 +31,11 @@ func TestGetSections(t *testing.T) {
 		log.Fatal(err)
 	}
 	log.Println(n)
+}
+
+func TestGetClassPurport(t *testing.T) {
+	filepath.Walk(`../books/html/`, getKeys)
+	for k, v := range m {
+		log.Println(k, "\t\t", v)
+	}
 }

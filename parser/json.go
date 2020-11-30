@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"io"
 	"os"
+	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
@@ -84,5 +85,43 @@ func getTextFromHTML(path, t1, t2 string) (string, error) {
 	}
 
 	return strings.Trim(doc.Selection.Text(), "\n"), nil
+
+}
+
+func getClasses(path, t1, t2 string) (map[string]string, error) {
+	m := map[string]string{}
+	f, err := os.Open(path)
+	if err != nil {
+		return m, err
+	}
+	defer f.Close()
+
+	r := bufio.NewReader(f)
+	start := false
+	reg := regexp.MustCompile(`class="(.*?)"`)
+	err = nil
+	b := []byte{}
+	for err != io.EOF {
+		b, _, err = r.ReadLine()
+		l := string(b)
+		if strings.Contains(l, t2) {
+			break
+		}
+		if start {
+			if reg.MatchString(l) {
+				mat := reg.FindAllString(l, -1)
+				for _, mm := range mat {
+					m[mm] = path
+				}
+			}
+		}
+		if strings.Contains(l, t1) {
+			start = true
+		}
+	}
+
+	// Load the HTML document
+
+	return m, nil
 
 }

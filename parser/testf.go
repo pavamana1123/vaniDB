@@ -14,10 +14,12 @@ import (
 var (
 	allClass map[string]string
 	c1, c2   []string
+	m        map[string]string
 )
 
 func init() {
 	allClass = map[string]string{}
+	m = map[string]string{}
 }
 
 func getAllClass() {
@@ -97,4 +99,25 @@ func getClassInRange(path string, class1, class2 []string) map[string]string {
 		}
 	}
 	return classes
+}
+
+func getKeys(path string, info os.FileInfo, err error) error {
+
+	if info.IsDir() {
+		if filepath.Base(path) == info.Name() {
+			return nil
+		}
+		filepath.Walk(path, getKeys)
+	}
+
+	log.Println("in path", path)
+
+	n, err := getClasses(path, "PURPORT", "Link to this page:")
+	if err != nil {
+		return err
+	}
+	for k, v := range n {
+		m[k] = v
+	}
+	return nil
 }
