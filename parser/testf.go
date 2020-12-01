@@ -9,6 +9,7 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"strings"
 )
 
 var (
@@ -103,14 +104,14 @@ func getClassInRange(path string, class1, class2 []string) map[string]string {
 
 func getKeys(path string, info os.FileInfo, err error) error {
 
+	path, _ = filepath.Abs(path)
+
 	if info.IsDir() {
-		if filepath.Base(path) == info.Name() {
+		if filepath.Join(filepath.Dir(path), info.Name()) == path {
 			return nil
 		}
 		filepath.Walk(path, getKeys)
 	}
-
-	log.Println("in path", path)
 
 	n, err := getClasses(path, "PURPORT", "Link to this page:")
 	if err != nil {
@@ -120,4 +121,42 @@ func getKeys(path string, info os.FileInfo, err error) error {
 		m[k] = v
 	}
 	return nil
+}
+
+func getClasses(path, t1, t2 string) (map[string]string, error) {
+	m := map[string]string{}
+	f, err := os.Open(path)
+	if err != nil {
+		return m, err
+	}
+	defer f.Close()
+
+	r := bufio.NewReader(f)
+	start := false
+	reg := regexp.MustCompile(`class="(.*?)"`)
+	err = nil
+	b := []byte{}
+	for err != io.EOF {
+		b, _, err = r.ReadLine()
+		l := string(b)
+		if strings.Contains(l, t2) {
+			break
+		}
+		if start {
+			if reg.MatchString(l) {
+				mat := reg.FindAllString(l, -1)
+				for _, mm := range mat {
+					m[mm] = path
+				}
+			}
+		}
+		if strings.Contains(l, t1) {
+			start = true
+		}
+	}
+
+	// Load the HTML document
+
+	return m, nil
+
 }
