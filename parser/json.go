@@ -4,16 +4,16 @@ import (
 	"bufio"
 	"io"
 	"os"
-	"regexp"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
+	"golang.org/x/net/html"
 )
 
 func getVerse(path string) ([]Verse, error) {
 	verse := []Verse{Verse{}}
 
-	raw, err := getTextFromHTML(path, "TEXT", "SYNONYMS")
+	raw, err := getVSTFromHTML(path, "TEXT", "SYNONYMS")
 	if err != nil {
 		return verse, err
 	}
@@ -34,18 +34,14 @@ func getVerse(path string) ([]Verse, error) {
 }
 
 func getSynonyms(path string) (string, error) {
-	return getTextFromHTML(path, "SYNONYMS", "TRANSLATION")
+	return getVSTFromHTML(path, "SYNONYMS", "TRANSLATION")
 }
 
 func getTranslation(path string) (string, error) {
-	return getTextFromHTML(path, "TRANSLATION", "PURPORT")
+	return getVSTFromHTML(path, "TRANSLATION", "PURPORT")
 }
 
-func getPurport(path string) (string, error) {
-	return getTextFromHTML(path, "PURPORT", "Link to this page:")
-}
-
-func getTextFromHTML(path, t1, t2 string) (string, error) {
+func getVSTFromHTML(path, t1, t2 string) (string, error) {
 	f, err := os.Open(path)
 	if err != nil {
 		return "", err
@@ -88,40 +84,84 @@ func getTextFromHTML(path, t1, t2 string) (string, error) {
 
 }
 
-func getClasses(path, t1, t2 string) (map[string]string, error) {
-	m := map[string]string{}
+func getPurport(path string) ([]Paragraph, error) {
+
+	p := []Paragraph{}
+
 	f, err := os.Open(path)
 	if err != nil {
-		return m, err
+		return p, err
 	}
 	defer f.Close()
-
 	r := bufio.NewReader(f)
 	start := false
-	reg := regexp.MustCompile(`class="(.*?)"`)
+	res := ""
 	err = nil
 	b := []byte{}
 	for err != io.EOF {
 		b, _, err = r.ReadLine()
 		l := string(b)
-		if strings.Contains(l, t2) {
+		if strings.Contains(l, "Link to this page:") {
 			break
 		}
 		if start {
-			if reg.MatchString(l) {
-				mat := reg.FindAllString(l, -1)
-				for _, mm := range mat {
-					m[mm] = path
-				}
-			}
+			res += l + "\n"
 		}
-		if strings.Contains(l, t1) {
+		if strings.Contains(l, "PURPORT") {
 			start = true
 		}
 	}
 
-	// Load the HTML document
+	res = strings.ReplaceAll(res, "<br>", "\n")
 
-	return m, nil
+	node, err := html.Parse(strings.NewReader(res))
+	if err != nil {
+		return p, err
+	}
 
+	node = node.FirstChild.FirstChild.NextSibling.FirstChild
+	for node != nil {
+		attr := node.Attr
+		class := ""
+
+		for _, a := range attr {
+			if a.Key == "class" {
+				class = a.Val
+			}
+		}
+
+		gnode := goquery.NewDocumentFromNode(node)
+		text := strings.TrimSpace(gnode.Selection.Text())
+		if text != "" {
+			p = append(p, Paragraph{
+				Type:    getParaType(class),
+				Content: text,
+			})
+		}
+
+		node = node.NextSibling
+	}
+
+	return p, nil
+
+}
+
+func getParaType(class string) string {
+	verseClasses := []string{
+		"VerseRef",
+		"Centered-Verse-in-purp",
+		"Verse",
+		"Verse-in-purp",
+		"Verse-Text",
+		"Prose-Verse-in-purp",
+		"One-line-verse-in-purp",
+	}
+
+	for _, c := range verseClasses {
+		if c == class {
+			return "verse"
+		}
+	}
+
+	return "normal"
 }

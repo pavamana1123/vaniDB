@@ -2,8 +2,9 @@ package main
 
 import (
 	"log"
-	"path/filepath"
 	"testing"
+
+	"github.com/kr/pretty"
 )
 
 func TestNewBook(t *testing.T) {
@@ -25,17 +26,10 @@ func TestGetClassInRange(t *testing.T) {
 	log.Println(getClassInRange("../books/bg/1/1.html", []string{"Textnum"}, []string{"Synonyms", "Synonyms-SA", "Synonyms-Section"}))
 }
 
-func TestGetSections(t *testing.T) {
-	n, err := getPurport("../books/bg/7/1.html")
+func TestGetClassPurport(t *testing.T) {
+	n, err := getPurport("../books/html/sb/1/1/1.html")
 	if err != nil {
 		log.Fatal(err)
 	}
-	log.Println(n)
-}
-
-func TestGetClassPurport(t *testing.T) {
-	filepath.Walk(`../books/html/`, getKeys)
-	for k, v := range m {
-		log.Println(k, "\t\t", v)
-	}
+	pretty.Println(n)
 }
