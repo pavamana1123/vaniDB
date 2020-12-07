@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	downloadAll()
+	// downloadAll()
+	writeAllJSON()
 }

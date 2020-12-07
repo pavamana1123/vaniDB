@@ -80,7 +80,11 @@ func getVSTFromHTML(path, t1, t2 string) (string, error) {
 		return "", err
 	}
 
-	return strings.Trim(doc.Selection.Text(), "\n"), nil
+	s := doc.Selection.Text()
+	s = strings.TrimSpace(s)
+	s = strings.Trim(s, "\n")
+
+	return s, nil
 
 }
 

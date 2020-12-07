@@ -28,3 +28,11 @@ type Paragraph struct {
 	Type    string `json:"type"`
 	Content string `json:"content"`
 }
+
+func NewText() Text {
+	return Text{
+		Info:    Info{},
+		Verses:  []Verse{},
+		Purport: []Paragraph{},
+	}
+}

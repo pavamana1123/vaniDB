@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"testing"
 
@@ -32,4 +33,8 @@ func TestGetClassPurport(t *testing.T) {
 		log.Fatal(err)
 	}
 	pretty.Println(n)
+}
+
+func TestGetTextID(t *testing.T) {
+	fmt.Println(getTextID("../books/html/sb/1/1/1.html"))
 }
