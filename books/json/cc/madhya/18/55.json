@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\55.json",
+		"id": "cc\\madhya\\18\\55",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prastāve kahiluṅ gopāla-kṛpāra ākhyāna\ntabe mahāprabhu gelā 'śrī-kāmyavana'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prastāve—in the course of the story; kahiluṅ—I have stated; gopāla-kṛpāra—of the mercy of Gopāla; ākhyāna—description; tabe—after this; mahāprabhu—Śrī Caitanya Mahāprabhu; gelā—went; śrī-kāmya-vana—to Śrī Kāmyavana.",
+	"translation": "In the course of this story, I have given a description of Lord Gopāla's mercy. After seeing the Gopāla Deity, Śrī Caitanya Mahāprabhu went to Śrī Kāmyavana.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Kāmyavana is mentioned in the Ādi-varāha Purāṇa:"
+		},
+		{
+			"type": "normal",
+			"content": "caturthaṁ kāmyaka-vanaṁ\nvanānāṁ vanam uttamam\ntatra gatvā naro devi\nmama loke mahīyate"
+		},
+		{
+			"type": "normal",
+			"content": "In the Bhakti-ratnākara (Fifth Wave) it is also said:"
+		},
+		{
+			"type": "normal",
+			"content": "ei kāmyavane kṛṣṇa-līlā manohara\nkaribe darśana sthāna kuṇḍa bahutara\nkāmyavane yata tīrtha lekhā nāhi tāra"
+		}
+	]
 }

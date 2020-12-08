@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\28.json",
+		"id": "cc\\madhya\\23\\28",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "'kṛṣṇa kṛpā karibena'--dṛḍha kari' jāne\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇa—Lord Kṛṣṇa; kṛpā karibena—will show His mercy; dṛḍha kari'-making firm; jāne—he believes.",
+	"translation": "\"A fully surrendered devotee always hopes that Lord Kṛṣṇa will be kind to him. This hope is very firm in him."
 }

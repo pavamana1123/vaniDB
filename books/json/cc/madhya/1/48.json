@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\48.json",
+		"id": "cc\\madhya\\1\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vidāya samaya prabhu kahilā sabāre\npratyabda āsibe sabe guṇḍicā dekhibāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidāya—departing; samaya—at the time; prabhu—the Lord; kahilā—said; sabāre—unto everyone; pratyabda—every year; āsibe—you should come; sabe—all; guṇḍicā—of the name Guṇḍicā; dekhibāre—to see.",
+	"translation": "At the time of departure, the Lord requested all the devotees, \"Please come here every year to see the Ratha-yātrā festival of Lord Jagannātha's journey to the Guṇḍicā temple.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "There is a temple named Guṇḍicā at Sundarācala. Lord Jagannātha, Baladeva and Subhadrā are pushed in their three carts from the temple in Purī to the Guṇḍicā temple in Sundarācala. In Orissa, this Ratha-yātrā festival is known as Jagannātha's journey to Guṇḍicā. Whereas others speak of it as the Ratha-yātrā festival, the residents of Orissa refer to it as Guṇḍicā-yātrā."
+		}
+	]
 }

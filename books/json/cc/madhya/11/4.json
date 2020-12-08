@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\4.json",
+		"id": "cc\\madhya\\11\\4",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,-kaha tumi, nāhi kichu bhaya\nyogya haile kariba, ayogya haile naya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—Lord Śrī Caitanya Mahāprabhu said; kaha tumi—yes, you can speak; nāhi—there is not; kichu—any; bhaya—fear; yogya—befitting; haile—if it is; kariba—I shall grant; ayogya—not befitting; haile—if it is; naya—then I shall not.",
+	"translation": "The Lord gave the Bhaṭṭācārya assurance that he could speak without fear, but added that if his statement were suitable He would accept it, and if it were not, He would reject it."
 }

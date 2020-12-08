@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\15\\75.json",
+		"id": "cc\\antya\\15\\75",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sulalita dīrghārgala, kṛṣṇera bhuja-yugala,\nbhuja nahe,--kṛṣṇa-sarpa-kāya\ndui śaila-chidre paiśe, nārīra hṛdaye daṁśe,\nmare nārī se viṣa-jvālāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "su-lalita—very beautiful; dīrgha-argala—long bolts; kṛṣṇera—of Kṛṣṇa; bhuja-yugala—two arms; bhuja—arms; nahe—not; kṛṣṇa—black; sarpa—of snakes; kāya—bodies; dui—two; śaila-chidre—in the space between the hills; paiśe—enter; nārīra—of women; hṛdaye—the hearts; daṁśe—bite; mare—die; nārī—women; se—that; viṣa-jvālāya—from the burning of the poison.",
+	"translation": "\"The two very beautiful arms of Kṛṣṇa are just like long bolts. They also resemble the bodies of black snakes that enter the space between the two hill-like breasts of women and bite their hearts. The women then die from the burning poison.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In other words, the gopīs become very agitated by lusty desires; they are burning due to the poisonous bite inflicted by the black snakes of Kṛṣṇa's beautiful arms."
+		}
+	]
 }

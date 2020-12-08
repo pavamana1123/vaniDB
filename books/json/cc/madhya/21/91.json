@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\21\\91.json",
+		"id": "cc\\madhya\\21\\91",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "golokākhya gokula, mathurā, dvārāvatī\nei tina loke kṛṣṇera sahaje nitya-sthiti\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "goloka-ākhya—called Goloka; gokula—Gokula; mathurā—Mathurā; dvārāvatī—Dvārakā; ei tina loke—all three of these places; kṛṣṇera—of Lord Kṛṣṇa; sahaje—naturally; nitya-sthiti—eternal residence.",
+	"translation": "\"The three lokas are Gokula (Goloka), Mathurā and Dvārakā. Kṛṣṇa lives eternally in these three places.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura comments that in the Goloka planet there are three divisions: Gokula, Mathurā and Dvārakā. In His incarnation as Gaurasundara, Lord Śrī Caitanya Mahāprabhu, the Lord conducts His pastimes in three areas: Navadvīpa, Jagannātha Purī (and South India) and Vraja-maṇḍala (the area of Vṛndāvana-dhāma)."
+		}
+	]
 }

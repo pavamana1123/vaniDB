@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\137.json",
+		"id": "cc\\madhya\\6\\137",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svataḥ-pramāṇa veda satya yei kaya\n'lakṣaṇā' karile svataḥ-prāmāṇya-hāni haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svataḥ-pramāṇa—self-evidence; veda—Vedic literature; satya—truth; yei—whatever; kaya—say; lakṣaṇā—interpretation; karile—by making; svataḥ-prāmāṇya—self-evidential proof; hāni—lost; haya—becomes.",
+	"translation": "\"The Vedic statements are self-evident. Whatever is stated there must be accepted. If we interpret according to our own imagination, the authority of the Vedas is immediately lost.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Out of four main types of evidence-direct perception, hypothesis, historical reference and the Vedas-Vedic evidence is accepted as the foremost. If we want to interpret the Vedic version, we must imagine an interpretation according to what we want to do. First of all, we set forth such an interpretation as a suggestion or hypothesis. As such, it is not actually true, and the self-evident proof is lost."
+		},
+		{
+			"type": "normal",
+			"content": "Śrīla Madhvācārya, commenting on the aphorism dṛśyate tu (Vedānta-sūtra 2.1.6), quotes the Bhaviṣya Purāṇa as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "ṛg-yajuḥ-sāmātharvāś ca\nbhārataṁ pañcarātrakam\nmūla-rāmāyaṇaṁ caiva\nveda ity eva śabditāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "purāṇāni ca yānīha\nvaiṣṇavāni vido viduḥ\nsvataḥ-prāmāṇyam eteṣāṁ\nnātra kiñcid vicāryate"
+		},
+		{
+			"type": "normal",
+			"content": "The Ṛg Veda, Yajur Veda, Sāma Veda, Atharva Veda, Mahābhārata, Pañcarātra and original Rāmāyaṇa are all considered Vedic literature. The Purāṇas (such as the Brahma-vaivarta Purāṇa, Nāradīya Purāṇa, Viṣṇu Purāṇa and Bhāgavata Purāṇa) are especially meant for Vaiṣṇavas and are also Vedic literature. As such, whatever is stated within the Purāṇas, Mahābhārata and Rāmāyaṇa is self-evident. There is no need for interpretation. The Bhagavad-gītā is also within the Mahābhārata; therefore all the statements of the Bhagavad-gītā are self-evident. There is no need for interpretation, and if we do interpret, the entire authority of the Vedic literature is lost."
+		}
+	]
 }

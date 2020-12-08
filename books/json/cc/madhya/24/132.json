@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\132.json",
+		"id": "cc\\madhya\\24\\132",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "brahma-bhūtaḥ prasannātmā\nna śocati na kāṅkṣati\nsamaḥ sarveṣu bhūteṣu\nmad-bhaktiṁ labhate parām\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brahma-bhūtaḥ—being one with the Absolute; prasanna-ātmā—fully joyful; na—never; śocati—laments; na—never; kāṅkṣati—desires; samaḥ—equally disposed; sarveṣu—all; bhūteṣu—to living entities; mat-bhaktim—My devotional service; labhate—gains; parām—transcendental.",
+	"translation": "\" 'One who is thus transcendentally situated at once realizes the Supreme Brahman and is fully joyful. Be never laments nor desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (18.54)."
+		}
+	]
 }

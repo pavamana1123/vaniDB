@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\141.json",
+		"id": "cc\\madhya\\1\\141",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pathe sārvabhauma saha sabāra milana\nsārvabhauma bhaṭṭācāryera kāśīte gamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pathe—on the way; sārvabhauma—Sārvabhauma Bhaṭṭācārya; saha—with; sabāra—of everyone; milana—meeting; sārvabhauma bhaṭṭācāryera—of the devotee named Sārvabhauma Bhaṭṭācārya; kāśīte—to Vārāṇasī; gamana—going.",
+	"translation": "Everyone met Sārvabhauma Bhaṭṭācārya on his way to Vārāṇasī."
 }

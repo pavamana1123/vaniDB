@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\129.json",
+		"id": "cc\\antya\\6\\129",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vāmana hañā yena cānda dharibāre cāya\naneka yatna kainu, tāte kabhu siddha naya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vāmana hañā—being a dwarf; yena—as if; cānda—the moon; dharibāre—to catch; cāya—wants; aneka yatna—many attempts; kainu—I have made; tāte—in that; kabhu siddha naya—I have not been successful.",
+	"translation": "\"Like a dwarf who wants to catch the moon, I have tried my best many times, but I have never been successful."
 }

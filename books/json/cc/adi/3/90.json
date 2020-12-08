@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\90.json",
+		"id": "cc\\adi\\3\\90",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "asura-svabhāve kṛṣṇe kabhu nāhi jāne\nlukāite nāre kṛṣṇa bhakta-jana-sthāne\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "asura-svabhāve—those whose nature is demoniac; kṛṣṇe—Lord Kṛṣṇa; kabhu—at any time; nāhi—not; jāne—know; lukāite—to hide; nāre—is not able; kṛṣṇa—Lord Kṛṣṇa; bhakta-jana—of pure devotees; sthāne—in a place.",
+	"translation": "Those whose nature is demoniac cannot know Kṛṣṇa at any time, but He cannot hide Himself from His pure devotees.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "People who develop the nature of asuras like Rāvaṇa and Hiraṇyakaśipu can never know Kṛṣṇa, the Personality of Godhead, by challenging the authority of Godhead. But Śrī Kṛṣṇa cannot hide Himself from His pure devotees."
+		}
+	]
 }

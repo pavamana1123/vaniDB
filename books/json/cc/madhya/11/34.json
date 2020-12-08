@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\34.json",
+		"id": "cc\\madhya\\11\\34",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cāri gosāñira kaila rāya caraṇa vandana\nyathā-yogya saba bhaktera karila milana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "cāri gosāñira—of the four gosāñis, or spiritual masters; kaila—did; rāya—Rāmānanda Rāya; caraṇa vandana—worshiping the lotus feet; yathā-yogya—as it is befitting; saba—all; bhaktera—of the devotees; karila—did; milana—meeting.",
+	"translation": "Śrī Rāmānanda Rāya therefore offered his obeisances to all the Lord's devotees, in particular to the four spiritual masters. Thus Rāmānanda Rāya suitably met all the devotees.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The four spiritual masters referred to in this verse are Paramānanda Purī, Brahmānanda Bhāratī, Svarūpa Dāmodara and Lord Nityānanda."
+		}
+	]
 }

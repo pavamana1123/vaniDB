@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\87.json",
+		"id": "cc\\antya\\1\\87",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "anyathā e artha kāra nāhi haya jñāna\ntumi pūrve kṛpā kailā, kari anumāna\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "anyathā—otherwise; e artha—this confidential meaning; kāra—of anyone; nāhi—not; haya—is; jñāna—the knowledge; tumi—You; pūrve—before this; kṛpā kailā—bestowed mercy; kari anumāna—I can conjecture.",
+	"translation": "No one could otherwise understand this meaning. I can therefore guess that previously You bestowed upon him Your causeless mercy.\""
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\14\\8.json",
+		"id": "cc\\antya\\14\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "se-kāle e-dui rahena mahāprabhura pāśe\nāra saba kaḍacā-kartā rahena dūra-deśe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "se-kāle—in those days; e-dui—these two; rahena—stayed; mahāprabhura pāśe—with Śrī Caitanya Mahāprabhu; āra—other; saba—all; kaḍacā-kartā—commentators; rahena—remained; dūra-deśe—far away.",
+	"translation": "In those days, Svarūpa Dāmodara and Raghunātha dāsa Gosvāmī lived with Śrī Caitanya Mahāprabhu, whereas all other commentators lived far away from Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Besides Svarūpa Dāmodara and Raghunātha dāsa Gosvāmī, there were many others who also recorded Śrī Caitanya Mahāprabhu's activities. Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura believes that the people of the world would benefit greatly if such notes were available. It is a most unfortunate situation for human society that none of these notebooks are still extant."
+		}
+	]
 }

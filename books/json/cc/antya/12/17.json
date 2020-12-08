@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\17.json",
+		"id": "cc\\antya\\12\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina saba loka ghāṭiyāle rākhilā\nsabā chāḍāñā śivānanda ekalā rahilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; saba loka—all the members of the party; ghāṭiyāle rākhilā—were checked by the toll collector; sabā—all of them; chāḍāñā—causing to be let go; śivānanda—Śivānanda Sena; ekalā rahilā—remained alone.",
+	"translation": "One day when the party was being checked by a toll collector, the devotees were allowed to pass, and Śivānanda Sena remained behind alone to pay the taxes."
 }

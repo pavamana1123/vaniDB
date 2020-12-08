@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\105.json",
+		"id": "cc\\adi\\1\\105",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vaktavya-bāhulya, grantha-vistārera ḍare\nvistāre nā varṇi, sārārtha kahi alpākṣare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vaktavya—of words to be spoken; bāhulya—elaboration; grantha—of the book; vistārera—of the big volume; ḍare—in fear; vistāre—in expanded form; nā—not; varṇi—I describe; sāra-artha—essential meaning; kahi—I say; alpa-akṣare—in few words.",
+	"translation": "I purposely avoid extensive description for fear of increasing the bulk of this book. I shall describe the essence as concisely as possible."
 }

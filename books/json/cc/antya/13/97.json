@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\97.json",
+		"id": "cc\\antya\\13\\97",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāmadāsa kahe,--\"āmi śūdra adhama!\n'brāhmaṇera sevā',--ei mora nija-dharma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāmadāsa kahe—Rāmadāsa said; āmi—I; śūdra—a śūdra; adhama—most fallen; brāhmaṇera sevā—to serve a brāhmaṇa; ei—this; mora nija-dharma—my own religious duty.",
+	"translation": "Rāmadāsa replied, \"I am a śūdra, a fallen soul. To serve a brāhmaṇa is my duty and religious principle."
 }

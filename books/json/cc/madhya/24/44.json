@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\44.json",
+		"id": "cc\\madhya\\24\\44",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "sanakādira mana harila saurabhādi guṇe\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sanaka-ādira mana—the minds of saintly sages like Sanaka and Sanātana; harila—attracted; saurabha-ādi—such as the transcendental aroma of His lotus feet; guṇe—by the quality.",
+	"translation": "\"The minds of the four boy sages [Sanaka, Sanātana, Sanandana and Sanat-kumāra] were attracted to the lotus feet of Kṛṣṇa by the aroma of the tulasī that had been offered to the Lord."
 }

@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\49-50.json",
+		"id": "cc\\antya\\5\\49-50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ye śune, ye paḍe, tāṅra phala etādṛśī\nsei bhāvāviṣṭa yei seve ahar-niśi",
+			"isProse": false
+		},
+		{
+			"roman": "tāṅra phala ki kahimu, kahane nā yāya\nnitya-siddha sei, prāya-siddha tāṅra kāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ye śune—anyone who hears; ye paḍe—anyone who recites; tāṅra—of him; phala—the result; etādṛśī—this; sei—he; bhāva-āviṣṭa—always absorbed in thoughts of Kṛṣṇa; yei seve—who serves; ahaḥ-niśi—day and night; tāṅra—his; phala—result; ki kahimu—what shall I say; kahane nā yāya—it is impossible to express; nitya-siddha—eternally liberated; sei—such a person; prāya-siddha—transcendental; tāṅra—his; kāya—body.",
+	"translation": "\"If a transcendentally situated person, following in the footsteps of Śrīla Rūpa Gosvāmī, hears and speaks about the rāsa-līlā dance of Kṛṣṇa and is always absorbed in thoughts of Kṛṣṇa while serving the Lord day and night within his mind, what shall I say about the result? It is so spiritually exalted that it cannot be expressed in words. Such a person is an eternally liberated associate of the Lord, and his body is completely spiritualized. Although he is visible to material eyes, he is spiritually situated, and all his activities are spiritual. By the will of Kṛṣṇa, such a devotee is understood to possess a spiritual body."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\94.json",
+		"id": "cc\\antya\\20\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nānā-roga-grasta,--calite vasite nā pāri\npañca-roga-pīḍā-vyākula, rātri-dine mari\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nānā-roga-grasta—affected by so many diseases; calite—to walk; vasite—to sit down; nā pāri—I am not properly able; pañca-roga-pīḍā-vyākula—always disturbed by five kinds of disease; rātri-dine—day or night; mari—I can die any time.",
+	"translation": "I am infected by so many diseases that I can neither properly walk nor properly sit. Indeed, I am always exhausted by five kinds of disease. I may die at any time of the day or night."
 }

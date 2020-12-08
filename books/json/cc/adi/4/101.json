@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\101.json",
+		"id": "cc\\adi\\4\\101",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ṣaṣṭha ślokera artha karite prakāśa\nprathame kahiye sei ślokera ābhāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ṣaṣṭha—sixth; ślokera—of the verse; artha—meaning; karite—to do; prakāśa—manifestation; prathame—first; kahiye—I shall speak; sei—that; ślokera—of the verse; ābhāsa—hint.",
+	"translation": "To explain the sixth verse, I shall first give a hint of its meaning."
 }

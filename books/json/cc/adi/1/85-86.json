@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\85-86.json",
+		"id": "cc\\adi\\1\\85-86",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vraje ye vihare pūrve kṛṣṇa-balarāma\nkoṭī-sūrya-candra jini doṅhāra nija-dhāma",
+			"isProse": false
+		},
+		{
+			"roman": "sei dui jagatere ha-iyā sadaya\ngauḍadeśe pūrva-śaile karilā udaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vraje—in Vraja (Vṛndāvana); ye—who; vihare—played; pūrve—formerly; kṛṣṇa—Lord Kṛṣṇa; balarāma—Lord Balarāma; koṭī—millions; sūrya—suns; candra—moons; jini—overcoming; doṅhāra—of the two; nija-dhāma—the effulgence; sei—these; dui—two; jagatere—for the universe; ha-iyā—becoming; sa-daya—compassionate; gauḍa-deśe—in the country of Gauḍa; pūrva-śaile—on the eastern horizon; karilā—did; udaya—arise.",
+	"translation": "Śrī Kṛṣṇa and Balarāma, the Personalities of Godhead, who formerly appeared in Vṛndāvana and were millions of times more effulgent than the sun and moon, have arisen over the eastern horizon of Gauḍadeśa [West Bengal], being compassionate for the fallen state of the world."
 }

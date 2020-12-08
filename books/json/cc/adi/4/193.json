@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\193.json",
+		"id": "cc\\adi\\4\\193",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei-mata paraspara paḍe huḍāhuḍi\nparaspara bāḍhe, keha mukha nāhi muḍi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei mata—like this; paraspara—reciprocal; paḍe—happens; huḍāhuḍi—jostling; paraspara—mutually; bāḍhe—increases; keha—someone; mukha—face; nāhi—not; muḍi—covering.",
+	"translation": "In this way a competition takes place between them in which no one acknowledges defeat."
 }

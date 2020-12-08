@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\9.json",
+		"id": "cc\\antya\\12\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kulīna-grāma-vāsī āra yata khaṇḍa-vāsī\nekatra mililā saba navadvīpe āsi'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kulīna-grāma-vāsī—the inhabitants of Kulīna-grāma; āra—as well as; yata—all; khaṇḍa-vāsī—the inhabitants of Khaṇḍa; ekatra—at one place; mililā—met; saba—all of them; navadvīpe āsi'-coming to Navadvīpa.",
+	"translation": "The inhabitants of Kulīna-grāma and Khaṇḍa village also assembled at Navadvīpa."
 }

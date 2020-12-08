@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\398.json",
+		"id": "cc\\madhya\\20\\398",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vraje kṛṣṇa--sarvaiśvarya-prakāśe 'pūrṇatama'\npurī-dvaye, paravyome--'pūrṇatara', 'pūrṇa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vraje—in Vṛndāvana; kṛṣṇa—Lord Kṛṣṇa; sarva-aiśvarya-prakāśe—manifestation of His full opulence; pūrṇa-tama—most complete; purī-dvaye—in Dvārakā and Mathurā; para-vyome—and in the spiritual world; pūrṇa-tara—more complete; pūrṇa—complete.",
+	"translation": "\"Kṛṣṇa is complete in the spiritual sky [Vaikuṇṭha]. He is more complete in Mathurā and Dvārakā, and He is most complete in Vṛndāvana, Vraja, due to His manifesting all His opulences.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is confirmed in the following three verses from the Bhakti-rasāmṛta-sindhu (2.1.221-223)."
+		}
+	]
 }

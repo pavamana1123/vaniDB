@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\104.json",
+		"id": "cc\\adi\\3\\104",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tulasī-dala-mātreṇa\njalasya culukena vā\nvikrīṇīte svam ātmānaṁ\nbhaktebhyo bhakta-vatsalaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tulasī—of tulasī; dala—a leaf; mātreṇa—by only; jalasya—of water; culukena—by a palmful; vā—and; vikrīṇīte—sells; svam—His own; ātmānam—self; bhaktebhyaḥ—unto the devotees; bhakta-vatsalaḥ—Lord Kṛṣṇa, who is affectionate to His devotees.",
+	"translation": "\"Śrī Kṛṣṇa, who is very affectionate toward His devotees, sells Himself to a devotee who offers Him merely a tulasī leaf and a palmful of water.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Gautamīya-tantra."
+		}
+	]
 }

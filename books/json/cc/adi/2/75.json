@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\75.json",
+		"id": "cc\\adi\\2\\75",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "anuvāda nā kahiyā nā kahi vidheya\nāge anuvāda kahi, paścād vidheya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "anuvāda—the subject; nā kahiyā—not saying; nā—not; kahi—I say; vidheya—the predicate; āge—first; anuvāda—the subject; kahi—I say; paścāt—afterwards; vidheya—the predicate.",
+	"translation": "\"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter."
 }

@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\345.json",
+		"id": "cc\\madhya\\20\\345",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛte yad dhyāyato viṣṇuṁ\ntretāyāṁ yajato makhaiḥ\ndvāpare paricaryāyāṁ\nkalau tad dhari-kīrtanāt\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛte—in the Satya-yuga; yat—which; dhyāyataḥ—from meditation; viṣṇum—on Lord Viṣṇu; tretāyām—in the Tretā-yuga; yajataḥ—from worshiping; makhaiḥ—by performing sacrifices; dvāpare—in the age of Dvāpara; paricaryāyām—by worshiping the lotus feet of Kṛṣṇa; kalau—in the Age of Kali; tat—that same result (can be achieved); hari-kīrtanāt—simply by chanting the Hare Kṛṣṇa mahā-mantra.",
+	"translation": "\" 'Whatever result was obtained in Satya-yuga by meditating on Viṣṇu, in Tretā-yuga by performing sacrifices and in Dvāpara-yuga by serving the Lord's lotus feet can also be obtained in Kali-yuga simply by chanting the Hare Kṛṣṇa mahā-mantra.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is quoted from Śrīmad-Bhāgavatam (12.3.52). At the present moment in Kali-yuga there are many false meditators who concoct some imaginary form and try to meditate upon it. It has become fashionable to meditate, but people know nothing about the object of meditation. That is explained here. Yad dhyāyato viṣṇum. One has to meditate upon Lord Viṣṇu or Lord Kṛṣṇa. Without referring to the śāstras, so-called meditators aim at impersonal objects. Lord Kṛṣṇa has condemned them in Bhagavad-gītā (12.5):"
+		},
+		{
+			"type": "normal",
+			"content": "kleśo 'dhikataras teṣām\navyaktāsakta-cetasām\navyaktā hi gatir duḥkhaṁ\ndehavadbhir avāpyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied.\""
+		},
+		{
+			"type": "normal",
+			"content": "Not knowing how to meditate, foolish people simply suffer, and there is no benefit derived from their spiritual activities. The same reference can be found in the following verse from the Viṣṇu Purāṇa (6.2.17), Padma Purāṇa (Uttara-khaṇḍa 72.25) and Bṛhan-nāradīya Purāṇa (38.97)."
+		}
+	]
 }

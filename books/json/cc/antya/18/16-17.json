@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\16-17.json",
+		"id": "cc\\antya\\18\\16-17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhakta-premāra yata daśā, ye gati prakāra\nyata duḥkha, yata sukha, yateka vikāra",
+			"isProse": false
+		},
+		{
+			"roman": "kṛṣṇa tāhā samyak nā pāre jānite\nbhakta-bhāva aṅgīkare tahā āsvādite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhakta-premāra—of the ecstatic emotion of the devotee; yata—all; daśa—conditions; ye—which; gati prakāra—mode of progress; yata—all; duḥkha—unhappiness; yata—all; sukha—happiness; yateka—all; vikāra—transformation; kṛṣṇa—Lord Kṛṣṇa; tāhā—that; samyak—fully; nā pāre jānite—cannot understand; bhakta-bhāva—the mood of a devotee; aṅgīkare—He accepts; tāhā—that; āsvādite—to taste.",
+	"translation": "Kṛṣṇa Himself cannot fully understand the conditions, the mode of progress, the happiness and unhappiness, and the moods of ecstatic love of His devotees. He therefore accepts the role of a devotee to taste these emotions fully."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\22.json",
+		"id": "cc\\antya\\1\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kukkura nāhi pāya bhāta śuni' duḥkhī hailā\nkukkura cāhite daśa-manuṣya pāṭhāilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kukkura—the dog; nāhi—did not; pāya—get; bhāta—rice; śuni'-hearing; duḥkhī hailā—Śivānanda Sena became very unhappy; kukkura cāhite—to look for the dog; daśa-manuṣya—ten men; pāṭhāilā—sent.",
+	"translation": "When he learned that the dog had not been supplied food in his absence, he was very unhappy. He then immediately sent ten men to find the dog."
 }

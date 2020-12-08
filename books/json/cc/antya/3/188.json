@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\188.json",
+		"id": "cc\\antya\\3\\188",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "ye mukti bhakta nā laya, se kṛṣṇa cāhe dite\"\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ye—which; mukti—liberation; bhakta—a devotee; nā laya—does not take; se—that; kṛṣṇa—Lord Kṛṣṇa; cāhe dite—wants to offer.",
+	"translation": "\"Liberation, which is unacceptable for a pure devotee, is always offered by Kṛṣṇa without difficulty."
 }

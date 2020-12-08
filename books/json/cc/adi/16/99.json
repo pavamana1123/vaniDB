@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\99.json",
+		"id": "cc\\adi\\16\\99",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tumi baḍa paṇḍita, mahākavi-śiromaṇi\nyāṅra mukhe bāhirāya aiche kavya-vāṇī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; baḍa paṇḍita—greatly learned scholar; mahā-kavi—of all great poets; śiromaṇi—the topmost; yāṅra—of whom; mukhe—in the mouth; bāhirāya—emanates; aiche—such; kāvya-vāṇī—poetic language.",
+	"translation": "\"You are the most learned scholar and the topmost of all great poets, for otherwise how could such fine poetry come from your mouth?"
 }

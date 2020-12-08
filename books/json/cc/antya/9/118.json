@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\118.json",
+		"id": "cc\\antya\\9\\118",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "miśra kahe,--\"śuna, prabhu, rājāra vacane\nakapaṭe rājā ei kailā nivedane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "miśra kahe—Kāśī Miśra said; śuna—kindly hear; prabhu—my dear Lord; rājāra vacane—to the statement of the King; akapaṭe—without duplicity; rājā—the King; ei—this; kailā nivedane—has submitted.",
+	"translation": "Kāśī Miśra said,\"My dear Lord, the King has done this without reservations. Kindly hear his statement."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\85.json",
+		"id": "cc\\antya\\4\\85",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kāṣṭhera putalī yena kuhake nācāya\nāpane nā jāne, putalī kibā nāce gāya!\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāṣṭhera putalī—a doll made of wood; yena—as; kuhake nācāya—magician causes to dance; āpane—personally; nā jāne—does not know; putalī—the doll; kibā—how; nāce—dances; gāya—sings.",
+	"translation": "\"A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing."
 }

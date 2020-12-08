@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\214.json",
+		"id": "cc\\adi\\4\\214",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei gopī-gaṇa-madhye uttamā rādhikā\nrūpe, guṇe, saubhāgye, preme sarvādhikā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei—those; gopī-gaṇa—the gopīs; madhye—among; uttamā—the highest; rādhikā—Śrīmatī Rādhārāṇī; rūpe—in beauty; guṇe—in qualities; saubhāgye—in good fortune; preme—in love; sarva-adhikā—above all.",
+	"translation": "Among the gopīs, Śrīmatī Rādhikā is the foremost. She surpasses all in beauty, in good qualities, in good fortune and, above all, in love.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Among all the gopīs, Śrīmatī Rādhārāṇī is the most exalted. She is the most beautiful, the most qualified, and above all the greatest lover of Kṛṣṇa."
+		}
+	]
 }

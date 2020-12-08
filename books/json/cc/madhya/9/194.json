@@ -1,15 +1,49 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\194.json",
+		"id": "cc\\madhya\\9\\194",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aprākṛta vastu nahe prākṛta-gocara\nveda-purāṇete ei kahe nirantara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aprākṛta—spiritual; vastu—substance; nahe—not; prākṛta—of matter; gocara—within the jurisdiction; veda-purāṇete—the Vedas and the Purāṇas; ei—this; kahe—say; nirantara—always.",
+	"translation": "\"Spiritual substance is never within the jurisdiction of the material conception. This is always the verdict of the Vedas and Purāṇas.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in the Kaṭha Upaniṣad (2.3.9, 12):"
+		},
+		{
+			"type": "normal",
+			"content": "na saṁdṛśe tiṣṭhati rūpam asya\nna cakṣuṣā paśyati kaścanainam\nhṛdā manīṣā manasābhikḷpto\nya etad vidur amṛtās te bhavanti"
+		},
+		{
+			"type": "normal",
+			"content": "naiva vācā na manasā\nprāptuṁ śakyo na cakṣuṣā"
+		},
+		{
+			"type": "normal",
+			"content": "\"Spirit is not within the jurisdiction of material eyes, words or mind.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, Śrīmad-Bhāgavatam (10.84.13) states:"
+		},
+		{
+			"type": "normal",
+			"content": "yasyātma-buddhiḥ kuṇape tri-dhātuke\nsva-dhīḥ kalatrādiṣu bhauma ijya-dhīḥ\nyat-tīrtha-buddhiḥ salile na karhicij\njaneṣv abhijñeṣu sa eva go-kharaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"A human being who identifies his body made of three elements with his self, who considers the by-products of his body to be his kinsmen, who considers the land of his birth worshipable, and who goes to a place of pilgrimage simply to take a bath rather than to meet men of transcendental knowledge there, is to be considered like an ass or a cow.\""
+		},
+		{
+			"type": "normal",
+			"content": "These are some Vedic statements about spiritual substance. Spiritual substance cannot be seen by the unintelligent, because they do not have the eyes or the mentality to see the spirit soul. Consequently they think that there is no such thing as spirit. But the followers of the Vedic injunctions take their information from Vedic statements, such as the verses from the Kaṭha Upaniṣad and Śrīmad-Bhāgavatam quoted above."
+		}
+	]
 }

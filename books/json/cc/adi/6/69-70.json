@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\6\\69-70.json",
+		"id": "cc\\adi\\6\\69-70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅ-sabāra kathā rahu,--śrīmatī rādhikā\nsabā haite sakalāṁśe parama-adhikā",
+			"isProse": false
+		},
+		{
+			"roman": "teṅho yāṅra dāsī haiñā sevena caraṇa\nyāṅra prema-guṇe kṛṣṇa baddha anukṣaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅ-sabāra—of the gopīs; kathā—talk; rahu—let alone; śrīmatī rādhikā—Śrīmatī Rādhārāṇī; sabā haite—than all of them; sakala-aṁśe—in every respect; parama-adhikā—highly elevated; teṅho—She also; yāṅra—whose; dāsī—maidservant; haiñā—becoming; sevana—worships; caraṇa—the lotus feet; yāṅra—whose; prema-guṇe—because of loving attributes; kṛṣṇa—Lord Kṛṣṇa; baddha—obliged; anukṣaṇa—always.",
+	"translation": "What to speak of the other gopīs, even Śrī Rādhikā, who in every respect is the most elevated of them all and who has bound Śrī Kṛṣṇa forever by Her loving attributes, serves His feet as His maidservant."
 }

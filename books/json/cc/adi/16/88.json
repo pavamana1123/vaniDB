@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\88.json",
+		"id": "cc\\adi\\16\\88",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kahite cāhaye kichu, nā āise uttara\ntabe vicāraye mane ha-iyā phāṅphara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kahite—to speak; cāhaye—wants; kichu—something; nā—not; āise—comes; uttara—any reply; tabe—thereafter; vicāraye—considers; mane—within the mind; ha-iyā—becoming; phāṅphara—puzzled.",
+	"translation": "He wanted to say something, but no reply could come from his mouth. He then began to consider this puzzle within his mind."
 }

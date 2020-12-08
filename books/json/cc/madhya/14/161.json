@@ -1,15 +1,41 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\161.json",
+		"id": "cc\\madhya\\14\\161",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vayase 'madhyamā' teṅho svabhāvete 'samā'\ngāḍha prema-bhāve teṅho nirantara 'vāmā'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vayase madhyamā—grown up; teṅho—Śrīmatī Rādhārāṇī; sva-bhāvete—in character; samā—equipoised; gāḍha—deep; prema-bhāve—in ecstatic love; teṅho—She; nirantara—constantly; vāmā—of the group of the left-wing gopīs.",
+	"translation": "\"Rādhārāṇī is grown up, and Her character is equipoised. She is always deeply absorbed in ecstatic love and always feeling in the mood of a left-wing gopī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The left wing and right wing of the gopīs has been explained by Rūpa Gosvāmī in Ujjvala-nīlamaṇi. The left wing is described in this way:"
+		},
+		{
+			"type": "normal",
+			"content": "mana-grahe sadodyuktā\ntac-chaithilye ca kopanā\nabhedyā nāyake prāyaḥ\nkrūrā vāmeti kīrtyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"A gopī who is always eager to be jealously angered, who is very enthusiastic for that position, who immediately becomes angry when defeated, who is never under the control of a hero and who always opposes Him is called vāmā, or a leftwing gopī.\""
+		},
+		{
+			"type": "normal",
+			"content": "Śrīla Rūpa Gosvāmī describes the right-wing gopīs in this way:"
+		},
+		{
+			"type": "normal",
+			"content": "asahyā māna-nirbandhe\nnāyake yukta-vādinī\nsāmabhis tena bhedyā ca\ndakṣiṇā parikīrtitā"
+		},
+		{
+			"type": "normal",
+			"content": "\"A gopī who cannot tolerate womanly anger, who speaks suitable words to the hero and who is satisfied by His sweet words is called a dakṣiṇā, or a right-wing gopi.\""
+		}
+	]
 }

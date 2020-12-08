@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\108.json",
+		"id": "cc\\antya\\12\\108",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,--\"sannyāsīra nāhi taile adhikāra\ntāhāte sugandhi taila,--parama dhikkāra!\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—Śrī Caitanya Mahāprabhu replied; sannyāsīra—for a sannyāsī; nāhi—there is not; taile—with oil; adhikāra—use; tāhāte—over and above this; su-gandhi taila—perfumed oil; parama dhik-kāra—immediately to be rejected.",
+	"translation": "The Lord replied, \"A sannyāsī has no use for oil, especially perfumed oil such as this. Take it out immediately.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "According to Raghunandana Bhaṭṭācārya, the spokesman for the smārta regulative principles:"
+		},
+		{
+			"type": "normal",
+			"content": "prātaḥ-snāne vrate śrāddhe\ndvādaśyāṁ grahaṇe tathā\nmadya-lepa-samaṁ tailaṁ\ntasmāt tailaṁ vivarjayet"
+		},
+		{
+			"type": "normal",
+			"content": "\"If one who has taken a vow smears oil on his body while bathing in the morning, while observing a ritualistic ceremony like the śrāddha ceremony, or on dvādaśī day, he may as well pour wine over his body. Therefore, oil should be rejected.\" This word vrata (vow) is sometimes understood to refer to the sannyāsa-vrata. Raghunandana Bhaṭṭācārya has also said in his book Tithi-tattva:"
+		},
+		{
+			"type": "normal",
+			"content": "ghṛtaṁ ca sārṣapaṁ tailaṁ\nyat tailaṁ puṣpa-vāsitam\naduṣṭaṁ pakva-tailaṁ ca\ntailābhyaṅge ca nityaśaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "This means that clarified butter (ghee), mustard oil, floral oil and boiled oil may be used only by gṛhasthas, householders."
+		}
+	]
 }

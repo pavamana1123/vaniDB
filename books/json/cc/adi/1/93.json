@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\93.json",
+		"id": "cc\\adi\\1\\93",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,18 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "\"pra-śabdena mokṣābhisandhir api nirastaḥ\" iti\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pra-śabdena—by the prefix \"pra\"; mokṣa-abhisandhiḥ—the intention of liberation; api—certainly; nirastaḥ—nullified; iti—thus.",
+	"translation": "\"The prefix 'pra' [in the verse from Śrīmad-Bhāgavatam] indicates that the desire for liberation is completely rejected.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is an annotation by Śrīdhara Svāmī, the great commentator on Śrīmad-Bhāgavatam."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\10.json",
+		"id": "cc\\adi\\12\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ācāryera mata yei, sei mata sāra\ntāṅra ājñā laṅghi' cale, sei ta' asāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācāryera—of the spiritual master (Advaita Prabhu); mata—opinion; yei—what is; sei—that; mata—opinion; sāra—active principle; tāṅra—his; ājñā—order; laṅghi'-transgressing; cale—becomes; sei—that; ta'-however; asāra—useless.",
+	"translation": "The order of the spiritual master is the active principle in spiritual life. Anyone who disobeys the order of the spiritual master immediately becomes useless.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Here is the opinion of Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī. Persons who strictly follow the orders of the spiritual master are useful in executing the will of the Supreme, whereas persons who deviate from the strict order of the spiritual master are useless."
+		}
+	]
 }

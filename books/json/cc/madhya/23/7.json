@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\7.json",
+		"id": "cc\\madhya\\23\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "samyaṅ masṛṇita-svānto\nmamatvātiśayāṅkitaḥ\nbhāvaḥ sa eva sāndrātmā\nbudhaiḥ premā nigadyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "samyak—completely; masṛṇita-svāntaḥ—which makes the heart soft; mamatva—of a sense of ownership; atiśaya-aṅkitaḥ—marked with an abundance; bhāvaḥ—emotion; saḥ—that; eva—certainly; sāndra-ātmā—whose nature is very condensed; budhaiḥ—by learned persons; premā—love of Godhead; nigadyate—is described.",
+	"translation": "\" 'When that bhāva softens the heart completely, becomes endowed with a great feeling of possessiveness in relation to the Lord and becomes very much condensed and intensified, it is called prema [love of Godhead] by learned scholars.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Bhakti-rasāmṛta-sindhu (1.4.1)."
+		}
+	]
 }

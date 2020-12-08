@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\13.json",
+		"id": "cc\\adi\\8\\13",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva punaḥ kahoṅ ūrdhva-bāhu hañā\ncaitanya-nityānanda bhaja kutarka chāḍiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva—therefore; punaḥ—again; kahoṅ—I speak; ūrdhva—lifting; bāhu—arms; hañā—so doing; caitanya—Śrī Caitanya Mahāprabhu; nityānanda—Lord Nityānanda; bhaja—worship; kutarka—useless arguments; chāḍiyā—giving up.",
+	"translation": "Therefore I say again, lifting my arms: O fellow human beings, please worship Śrī Caitanya and Nityānanda without false arguments!",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Because a person who performs kṛṣṇa-bhakti but does not understand Śrī Kṛṣṇa Caitanya and Prabhu Nityānanda will simply waste his time, the author, Kṛṣṇadāsa Kavirāja Gosvāmī; requests that everyone take to the worship of Śrī Caitanya and Nityānanda Prabhu and the Pañca-tattva. He assures everyone that any person who does so will be successful in Kṛṣṇa consciousness."
+		}
+	]
 }

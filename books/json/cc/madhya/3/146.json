@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\146.json",
+		"id": "cc\\madhya\\3\\146",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra pālita deha, janma tomā haite\nkoṭi janme tomāra ṛṇa nā pāri śodhite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—your; pālita—raised; deha—body; janma—birth; tomā—you; haite—from; koṭi—millions; janme—in births; tomāra—your; ṛṇa—debt; nā—not; pāri—I am able; śodhite—to repay.",
+	"translation": "\"This body was raised by you, and it comes from you. I cannot repay this debt even in millions of births."
 }

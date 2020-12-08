@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\14\\41.json",
+		"id": "cc\\antya\\14\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prāpta-praṇaṣṭācyuta-vitta ātmā\nyayau viṣādojjhita-deha-gehaḥ\ngṛhīta-kāpālika-dharmako me\nvṛndāvanaṁ sendriya-śiṣya-vṛndaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prāpta—achieved; praṇaṣṭa—lost; acyuta—Kṛṣṇa; vittaḥ—the treasure; ātmā—mind; yayau—went; viṣāda—by lamentation; ujjhita—given up; deha-gehaḥ—body and home; gṛhīta—accepted; kāpālika-dharmakaḥ—the religious principles of a kāpālika-yogī, a kind of mendicant; me—My; vṛndāvanam—to Vṛndāvana; sa—with; indriya—senses; śiṣya-vṛndaḥ—disciples.",
+	"translation": "Śrī Caitanya Mahāprabhu said, \"At first My mind somehow achieved the treasure of Kṛṣṇa, but it again lost Him. Therefore it gave up My body and home because of lamentation and accepted the religious principles of a kāpālika-yogī. Then My mind went to Vṛndāvana with its disciples, My senses.,\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is clearly metaphorical."
+		}
+	]
 }

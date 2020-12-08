@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\17.json",
+		"id": "cc\\antya\\6\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hena-kāle mulukera eka mleccha adhikārī\nsaptagrāma-mulukera se haya 'caudhurī'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hena-kāle—at this time; mulukera—of the country; eka—one; mleccha—Mohammedan; adhikārī—official; saptagrāma-mulukera—of the place known as Saptagrāma; se—that person; haya—is; caudhurī—tax collector.",
+	"translation": "At that time there was a Mohammedan official collecting the taxes of Saptagrāma.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Formerly, when the Mohammedan government was in power, the person appointed tax collector would collect the taxes of the local Zamindars, or landholders. He would keep one-fourth of the collection for himself as a profit, and the balance he would deliver to the treasury of the government."
+		}
+	]
 }

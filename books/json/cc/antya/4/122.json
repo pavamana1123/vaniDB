@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\122.json",
+		"id": "cc\\antya\\4\\122",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,--'kon pathe āilā, sanātana?'\nteṅha kahe,--'samudra-pathe, kariluṅ āgamana'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—the Lord inquired; kon pathe—through which path; āilā sanātana—you have come, Sanātana; teṅha kahe—he replied; samudra-pathe—on the path by the sea; kariluṅ āgamana—I have come.",
+	"translation": "When the Lord inquired, \"By which path have you come?\" Sanātana Gosvāmī replied,\"I have come on the path along the beach.\""
 }

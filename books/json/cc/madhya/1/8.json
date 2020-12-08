@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\8.json",
+		"id": "cc\\madhya\\1\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve kahiluṅ ādi-līlāra sūtra-gaṇa\nyāhā vistāriyāchena dāsa-vṛndāvana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—previously; kahiluṅ—I have described; ādi-līlāra—of the ādi-līlā; sūtra-gaṇa—the synopsis; yāhā—which; vistāriyāchena—has elaborately explained; dāsa-vṛndāvana—Vṛndāvana dāsa Ṭhākura.",
+	"translation": "I have previously described in synopsis the ādi-līlā [initial pastimes], which have already been fully described by Vṛndāvana dāsa Ṭhākura."
 }

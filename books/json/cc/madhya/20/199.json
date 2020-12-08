@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\199.json",
+		"id": "cc\\madhya\\20\\199",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "māghera devatā--mādhava, govinda--phālgune\ncaitre--viṣṇu, vaiśākhe--śrī-madhusūdana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "māghera devatā—the predominating Deity of the month of Māgha (January-February); mādhava—Mādhava; govinda—Govinda; phālgune—in the month of Phālguna (February-March); caitre—in the month of Caitra (March-April); viṣṇu—Lord Viṣṇu; vaiśākhe—in the month of Vaiśākha (April-May); śrī-madhusūdana—Madhusūdana.",
+	"translation": "\"The predominating Deity for the month of Māgha is Mādhava, and the predominating Deity for the month of Phālguna is Govinda. Viṣṇu is the predominating Deity for Caitra, and Madhusūdana is the predominating Deity for Vaiśākha."
 }

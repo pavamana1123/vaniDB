@@ -1,15 +1,61 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\62.json",
+		"id": "cc\\madhya\\23\\62",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'sambhoga'-'vipralambha'-bhede dvividha śṛṅgāra\nsambhogera ananta aṅga, nāhi anta tāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sambhoga—of meeting (enjoyment together); vipralambha—of separation; bhede—in two divisions; dvi-vidha śṛṅgāra—two kinds of conjugal love; sambhogera—of the stage of sambhoga, or meeting; ananta aṅga—unlimited parts; nāhi—not; anta—an end; tāra—of that.",
+	"translation": "\"In conjugal love [śṛṅgāra] there are two departments-meeting and separation. On the platform of meeting, there are unlimited varieties that are beyond description.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Vipralambha is described in the Ujjvala-nīlamaṇi:"
+		},
+		{
+			"type": "normal",
+			"content": "yūnor ayuktayor bhāvo\nyuktayor vātha yo mithaḥ\nabhīṣṭāliṅganādīnām\nanavāptau prakṛṣyate\nsa vipralambho vijñeyaḥ\nsambhogonnatikārakaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "na vinā vipralambhena\nsambhogaḥ puṣṭim aśnute"
+		},
+		{
+			"type": "normal",
+			"content": "When the lover and the beloved meet, they are called yukta (connected). Previous to their meeting, they are called ayukta (not connected). Whether connected or not connected, the ecstatic emotion arising due to not being able to embrace and kiss each other as desired is called vipralambha. This vipralambha helps nourish emotions at the time of meeting. Similarly, sambhoga is thus described:"
+		},
+		{
+			"type": "normal",
+			"content": "darśanāliṅganādīnām\nānukūlyān niṣevayā\nyūnor ullāsam ārohan\nbhāvaḥ sambhoga īryate"
+		},
+		{
+			"type": "normal",
+			"content": "\"Meeting each other and embracing each other are aimed at bringing about the happiness of both the lover and the beloved. When this stage becomes increasingly jubilant, the resultant ecstatic emotion is called sambhoga.\" When awakened, sambhoga is divided into four categories:"
+		},
+		{
+			"type": "normal",
+			"content": "(1) pūrva-rāga-anantara-after pūrva-rāga (attachment prior to meeting), sambhoga is called brief (saṅkṣipta);"
+		},
+		{
+			"type": "normal",
+			"content": "(2) māna-anantara-after māna (anger based on love), sambhoga is called encroached (saṅkīrṇa);"
+		},
+		{
+			"type": "normal",
+			"content": "(3) kiñcid-dūra-pravāsa-anantara-after being a little distance away for some time, sambhoga is called accomplished (sampanna);"
+		},
+		{
+			"type": "normal",
+			"content": "(4) sudūra-pravāsa-anantara-after being far away, sambhoga is called perfection (samṛddhimān)."
+		},
+		{
+			"type": "normal",
+			"content": "The meetings of the lovers that take place in dreams also have these four divisions."
+		}
+	]
 }

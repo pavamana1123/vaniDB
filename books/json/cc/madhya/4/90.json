@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\90.json",
+		"id": "cc\\madhya\\4\\90",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ekeka dina ekeka grāme la-ila māgiñā\nanna-kūṭa kare sabe haraṣita hañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ekeka dina—one day after another; ekeka grāme—one village after another; la-ila—took permission; māgiñā—begging; anna-kūṭa kare—perform the Annakūṭa ceremony; sabe—all; haraṣita—pleased; hañā—becoming.",
+	"translation": "One village after another was pleased to beg Mādhavendra Purī to allot them one day to perform the Annakūṭa ceremony. Thus, day after day, the Annakūṭa ceremony was performed for some time."
 }

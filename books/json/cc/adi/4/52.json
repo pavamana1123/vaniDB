@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\52.json",
+		"id": "cc\\adi\\4\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "apāraṁ kasyāpi praṇayi-jana-vṛndasya kutukī\nrasa-stomaṁ hṛtvā madhuram upabhoktuṁ kam-api yaḥ\nrucaṁ svām āvavre dyutim iha tadīyāṁ prakaṭayan\nsa devaś caitanyākṛtir atitarāṁ naḥ kṛpayatu\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "apāram—boundless; kasya api—of someone; praṇayi-jana-vṛndasya—of the multitude of lovers; kutukī—one who is curious; rasa-stomam—the group of mellows; hṛtvā—stealing; madhuram—sweet; upabhoktum—to enjoy; kam api—some; yaḥ—who; rucam—luster; svām—own; āvavre—covered; dyutim—luster; iha—here; tadīyām—related to Him; prakaṭayan—manifesting; saḥ—He; devaḥ—the Supreme Personality of Godhead; caitanya-ākṛtiḥ—having the form of Lord Caitanya Mahāprabhu; atitarām—greatly; naḥ—unto us; kṛpayatu—may He show His mercy.",
+	"translation": "\"Lord Kṛṣṇa desired to taste the limitless nectarean mellows of the love of one of His multitude of loving damsels [Śrī Rādhā], and so He has assumed the form of Lord Caitanya. He has tasted that love while hiding His own dark complexion with Her effulgent yellow color. May that Lord Caitanya confer upon us His grace.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Texts 51 and 52 are from the Stava-mālā of Śrīla Rūpa Gosvāmī."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\22.json",
+		"id": "cc\\madhya\\19\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mora yata kārya-kāma, saba kailā nāśa\nki tomāra hṛdaye āche, kaha mora pāśa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mora—my; yata—all; kārya-kāma—occupational duties; saba—everything; kailā nāśa—you have spoiled; ki—what; tomāra—your; hṛdaye—within the heart; āche—there is; kaha—kindly tell; mora pāśa—to me.",
+	"translation": "\"You have spoiled all my activities. What is your intention? Please tell me frankly.\""
 }

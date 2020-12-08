@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\35.json",
+		"id": "cc\\adi\\9\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ekalā uṭhāñā dite haya pariśrama\nkeha pāya, keha nā pāya, rahe mane bhrama\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ekalā—alone; uṭhāñā—picking up; dite—to give; haya—it becomes; pariśrama—too laborious; keha—someone; pāya—does get; keha—someone; nā—not; pāya—does get; rahe—remains; mane—in the mind; bhrama—suspicion.",
+	"translation": "\"It would certainly be a very laborious task to pick the fruits and distribute them alone, and still I suspect that some would receive them and others would not."
 }

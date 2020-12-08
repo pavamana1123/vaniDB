@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\31.json",
+		"id": "cc\\antya\\13\\31",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra ṭhāñi ājñā teṅho māge bāra bāra\nājñā deha',--mathurā dekhi' āise eka-bāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra ṭhāñi—from You; ājñā—permission; teṅho—he; māge—begs; bāra bāra—again and again; ājñā deha'-please give permission; mathurā dekhi'-after seeing Mathurā; āise—comes back; eka-bāra—once.",
+	"translation": "\"He begs for Your permission again and again. Therefore, please permit him to go to Mathurā and then return."
 }

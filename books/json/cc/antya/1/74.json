@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\74.json",
+		"id": "cc\\antya\\1\\74",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve sei saba kathā kariyāchi varṇana\ntathāpi kahiye kichu saṅkṣepe kathana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—previously; sei—these; saba—all; kathā—words; kariyāchi varṇana—I have described; tathāpi—still; kahiye—let me say; kichu—something; saṅkṣepe—in brief; kathana—telling.",
+	"translation": "I have already described all these incidents, but I still wish to add briefly something more."
 }

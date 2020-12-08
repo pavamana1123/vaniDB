@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\207.json",
+		"id": "cc\\madhya\\12\\207",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āge kāśīśvara yāya loka nivāriyā\npāche govinda yāya jala-karaṅga lañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āge—in front; kāśīśvara—Kāśīśvara; yāya—goes; loka—the crowd; nivāriyā—checking; pāche—at the end; govinda—Govinda; yāya—goes; jala—of water; karaṅga—a pitcher carried by saintly persons; lañā—taking.",
+	"translation": "When Śrī Caitanya Mahāprabhu went to visit the temple, Kāśīśvara walked in front, checking the crowds of people, and Govinda walked in the rear, bringing the sannyāsī's pitcher filled with water.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The karaṅga is a kind of waterpot especially carried by Māyāvādī sannyāsīs and generally carried by all other sannyāsīs."
+		}
+	]
 }

@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\32.json",
+		"id": "cc\\madhya\\23\\32",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "nāma-gāne sadā ruci, laya kṛṣṇa-nāma\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nāma-gāne—in chanting the holy names; sadā—constantly; ruci—taste,relish; laya—takes; kṛṣṇa-nāma—the Hare Kṛṣṇa mantra.",
+	"translation": "\"Due to having great relish for the holy name, one is inclined to chant the Hare Kṛṣṇa mahā-mantra constantly."
 }

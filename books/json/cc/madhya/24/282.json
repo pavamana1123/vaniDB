@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\282.json",
+		"id": "cc\\madhya\\24\\282",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei ta' kahiluṅ tomāya vyādhera ākhyāna\nyā śunile haya sādhu-saṅga-prabhāva-jñāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei ta' kahiluṅ—thus I have narrated; tomāya—unto you; vyādhera ākhyāna—the story of the hunter; yā śunile—hearing which; haya—there is; sādhu-saṅga—of the association of devotees; prabhāva—of the influence; jñāna—knowledge.",
+	"translation": "\"So far I have narrated the incident of the hunter. By hearing this narration, one can understand the influence derived by associating with devotees.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Caitanya Mahāprabhu wanted to stress that even a hunter, the lowest of men, could become a topmost Vaiṣṇava simply by associating with Nārada Muni or a devotee in his bona fide disciplic succession."
+		}
+	]
 }

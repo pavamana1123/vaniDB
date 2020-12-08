@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\259.json",
+		"id": "cc\\antya\\3\\259",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eta bali' vandilā haridāsera caraṇa\nharidāsa kahe,--\"kara kṛṣṇa-saṅkīrtana\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eta bali'-saying this; vandilā—worshiped; haridāsera caraṇa—the lotus feet of Haridāsa Ṭhākura; haridāsa kahe—Haridāsa said; kara—just perform; kṛṣṇa-saṅkīrtana—chanting of the holy name of Kṛṣṇa.",
+	"translation": "After speaking in this way, Māyā worshiped the lotus feet of Haridāsa Ṭhākura, who initiated her by saying,\"Just perform chanting of the Hare Kṛṣṇa mahā-mantra.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Now even Māyā wanted to be favored by Haridāsa Ṭhākura. Therefore Haridāsa Ṭhākura formally initiated her by asking her to chant the Hare Kṛṣṇa mahā-mantra."
+		}
+	]
 }

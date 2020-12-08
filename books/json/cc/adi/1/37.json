@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\37.json",
+		"id": "cc\\adi\\1\\37",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei chaya guru--śikṣā-guru ye āmāra\ntāṅ'-sabāra pāda-padme koṭi namaskāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—these; chaya—six; guru—spiritual masters; śikṣā-guru—instructing spiritual masters; ye—who are; āmāra—my; tāṅ'-sabāra—of all of them; pāda-padme—unto the lotus feet; koṭi—ten million; namaskāra—respectful obeisances.",
+	"translation": "These six are my instructing spiritual masters, and therefore I offer millions of respectful obeisances unto their lotus feet.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "By accepting the six Gosvāmīs as his instructing spiritual masters, the author specifically makes it clear that one should not be recognized as a Gauḍīya Vaiṣṇava if he is not obedient to them."
+		}
+	]
 }

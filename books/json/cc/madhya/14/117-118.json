@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\117-118.json",
+		"id": "cc\\madhya\\14\\117-118",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yadyapi jagannātha karena dvārakāya vihāra\nsahaja prakaṭa kare parama udāra",
+			"isProse": false
+		},
+		{
+			"roman": "tathāpi vatsara-madhye haya eka-bāra\nvṛndāvana dekhite tāṅra utkaṇṭhā apāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yadyapi—although; jagannātha—Lord Jagannātha; karena—does; dvārakāya—in Dvārakā-dhāma; vihāra—enjoyment; sahaja—natural; prakaṭa—manifestation; kare—does; parama—sublime; udāra—liberal; tathāpi—still; vatsara-madhye—within a year; haya—becomes; eka-bāra—once; vṛndāvana dekhite—to visit Vṛndāvana; tāṅra—His; utkaṇṭhā—eagerness; apāra—unlimited.",
+	"translation": "\"Although Lord Jagannātha enjoys His pastimes at Dvārakā-dhāma and naturally manifests sublime liberality there, still, once a year, He becomes unlimitedly eager to see Vṛndāvana.\""
 }

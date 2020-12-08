@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\299.json",
+		"id": "cc\\madhya\\15\\299",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sārvabhauma-ghare ei bhojana-carita\nsārvabhauma-prema yāṅhā ha-ilā vidita\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sārvabhauma-ghare—in the house of Sārvabhauma Bhaṭṭācārya; ei—these; bhojana-carita—eating affairs; sārvabhauma-prema—love of Sārvabhauma Bhaṭṭācārya; yāṅhā—where; ha-ilā—became; vidita—well known.",
+	"translation": "These are the peculiar characteristics of Śrī Caitanya Mahāprabhu's pastimes. Thus the Lord ate in Sārvabhauma Bhaṭṭācārya's house, and in this way Sārvabhauma's love for the Lord has become very well known.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in the Śākhā-nirṇayāmṛta:"
+		},
+		{
+			"type": "normal",
+			"content": "amogha-paṇḍitaṁ vande\nśrī-gaureṇātma-sātkṛtam\nprema-gadgada-sāndrāṅgaṁ\npulakākula-vigraham"
+		},
+		{
+			"type": "normal",
+			"content": "\"I offer my obeisances unto Amogha Paṇḍita, who was accepted by Lord Śrī Caitanya Mahāprabhu. As a result of this acceptance, he was always merged in ecstatic love, and he manifested ecstatic symptoms such as choking of the voice and standing of the hairs on his body.\""
+		}
+	]
 }

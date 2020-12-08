@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\6\\18.json",
+		"id": "cc\\adi\\6\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yadyapi sāṅkhya māne, 'pradhāna'--kāraṇa\njaḍa ha-ite kabhu nahe jagat-sṛjana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yadyapi—although; sāṅkhya—Sāṅkhya philosophy; māne—accepts; pradhāna—ingredients; kāraṇa—cause; jaḍa ha-ite—from matter; kabhu—at any time; nahe—there is not; jagat-sṛjana—the creation of the material world.",
+	"translation": "Although the Sāṅkhya philosophy accepts that the material ingredients are the cause, the creation of the world never arises from dead matter."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\137.json",
+		"id": "cc\\antya\\16\\137",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ayogya hañā tāhā keha sadā pāna kare\nyogya jana nāhi pāya, lobhe mātra mare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ayogya—unfit; hañā—being; tāhā—that; keha—someone; sadā—always; pāna kare—drinks; yogya jana—the competent person; nāhi pāya—does not get; lobhe—out of greed; mātra—simply; mare—dies.",
+	"translation": "\"There are persons who are unfit to drink that nectar but who nevertheless drink it continuously, whereas some who are suitable never get it and thus die of greed."
 }

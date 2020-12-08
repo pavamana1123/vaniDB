@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\137.json",
+		"id": "cc\\madhya\\8\\137",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "īśvaraḥ paramaḥ kṛṣṇaḥ\nsac-cid-ānanda-vigrahaḥ\nanādir ādir govindaḥ\nsarva-kāraṇa-kāraṇam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "īśvaraḥ—the controller; paramaḥ—supreme; kṛṣṇaḥ—Lord Kṛṣṇa; sat—eternal existence; cit—absolute knowledge; ānanda—absolute bliss; vigrahaḥ—whose form; anādiḥ—without beginning; ādiḥ—the origin of everything; govindaḥ—a name of Lord Kṛṣṇa; sarva—all; kāraṇa—of causes; kāraṇam—He is the original cause.",
+	"translation": "\" 'Kṛṣṇa, who is known as Govinda, is the supreme controller. He has an eternal, blissful, spiritual body. He is the origin of all. He has no other origin, for He is the prime cause of all causes.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from the Brahma-saṁhitā (5.1)."
+		}
+	]
 }

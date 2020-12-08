@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\14\\96.json",
+		"id": "cc\\adi\\14\\96",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva ei-līlā saṅkṣepe sūtra kaila\npunarukti-bhaye vistārirā nā kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva—therefore; ei-līlā—these pastimes; saṅkṣepe—in brief; sūtra—synopsis; kaila—made; punar-ukti—repetition; bhaye—being afraid of; vistārirā—elaborate explanation; nā—did not; kahila—say.",
+	"translation": "I have therefore made only a brief summary. Being afraid of repetition, I have not elaborated upon this subject matter."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\25.json",
+		"id": "cc\\madhya\\5\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "baḍa-vipra kahe,--\"tumi nā kara saṁśaya\ntomāke kanyā diba āmi, karila niścaya\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "baḍa-vipra—the older brāhmaṇa; kahe—replies; tumi—you; nā—not; kara—do; saṁśaya—doubt; tomāke—to you; kanyā—the daughter; diba—shall give; āmi—I; karila—made; niścaya—certainty.",
+	"translation": "The older brāhmaṇa replied, \"My dear boy, do not doubt me. I will give you my daughter in charity. I have already decided this.\""
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\121.json",
+		"id": "cc\\madhya\\17\\121",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'vedānta' śravaṇa kara, nā yāiha tāṅra pāśa\nucchṛṅkhala-loka-saṅge dui-loka-nāśa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vedānta—the philosophy of Vedānta; śravaṇa kara—go on hearing; nā—do not; yāiha—go; tāṅra pāśa—near Him; ucchṛṅkhala—upstart; loka—people; saṅge—in the association of; dui-loka-nāśa—destruction in this world and the next.",
+	"translation": "\"Do not go to see Śrī Caitanya Mahāprabhu. Just continue hearing Vedānta. If you associate with upstarts, you will be lost in this world and in the next.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The word ucchṛṅkhala, meaning \"whimsical,\" is significant in this verse. In Bhagavad-gītā (16.23), Lord Kṛṣṇa Himself says:"
+		},
+		{
+			"type": "normal",
+			"content": "yaḥ śāstra-vidhim utsṛjya\nvartate kāma-kārataḥ\nna sa siddhim avāpnoti\nna sukhaṁ na parāṁ gatim"
+		},
+		{
+			"type": "normal",
+			"content": "If one acts whimsically and does not follow the śāstric principles, he will never attain perfection, happiness or the spiritual world."
+		}
+	]
 }

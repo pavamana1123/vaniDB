@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\90.json",
+		"id": "cc\\antya\\4\\90",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kon kon kārya tumi kara kon dvāre\ntumi nā jānāile keha jānite nā pāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kon kon kārya—what work; tumi—You; kara—perform; kon dvāre—through which; tumi nā jānāile—unless You make to understand; keha jānite nā pāre—no one can understand.",
+	"translation": "\"Unless You inform us, we cannot understand what Your purpose is nor what You want to do through whom."
 }

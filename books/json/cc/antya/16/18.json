@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\18.json",
+		"id": "cc\\antya\\16\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"āmi--nīca-jāti, tumi,--atithi sarvottama\nkon prakāre karimu āmi tomāra sevana?\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmi—I; nīca-jāti—belong to a low caste; tumi—you; atithi—guest; sarva-uttama—very respectable; kon prakāre—how; karimu—shall perform; āmi—I; tomāra sevana—your service.",
+	"translation": "\"I belong to a low caste, and you are a very respectable guest. How shall I serve you?"
 }

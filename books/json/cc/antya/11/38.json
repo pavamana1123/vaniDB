@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\11\\38.json",
+		"id": "cc\\antya\\11\\38",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kintu āmāra ye kichu sukha, saba tomā lañā\ntomāra yogya nahe,--yābe āmāre chāḍiyā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kintu—but; āmāra—My; ye—whatever; kichu—any; sukha—happiness; saba—all; tomā lañā—because of your association; tomāra—for you; yogya nahe—it is not fit; yābe—you will go away; āmāre chāḍiyā—leaving Me aside.",
+	"translation": "\"But whatever happiness is Mine is all due to your association. It is not fitting for you to go away and leave Me aside.\""
 }

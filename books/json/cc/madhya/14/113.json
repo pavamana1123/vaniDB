@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\113.json",
+		"id": "cc\\madhya\\14\\113",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prātaḥ-kāle mahāprabhu nija-gaṇa lañā\njagannātha darśana kaila sundarācale yāñā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prātaḥ-kāle—in the morning; mahāprabhu—Śrī Caitanya Mahāprabhu; nija-gaṇa lañā—taking His associates; jagannātha darśana—visiting Lord Jagannātha; kaila—performed; sundarācale—to the Guṇḍicā temple; yāñā—going.",
+	"translation": "In the morning, Śrī Caitanya Mahāprabhu took His personal associates with Him to see Lord Jagannātha at Sundarācala.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Sundarācala is the Guṇḍicā temple. The temple of Jagannātha at Jagannātha Purī is called Nīlācala, and the temple at Guṇḍicā is called Sundarācala."
+		}
+	]
 }

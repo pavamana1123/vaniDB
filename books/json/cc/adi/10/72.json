@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\72.json",
+		"id": "cc\\adi\\10\\72",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhura paḍuyā dui,--puruṣottama, sañjaya\nvyākaraṇe dui śiṣya--dui mahāśaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhura paḍuyā dui—the Lord's two students; puruṣottama—of the name Puruṣottama; sañjaya—of the name Sañjaya; vyākaraṇe—studying grammar; dui śiṣya—two disciples; dui mahāśaya—very great personalities.",
+	"translation": "The thirty-third and thirty-fourth branches were the two students of Caitanya Mahāprabhu named Puruṣottama and Sañjaya, who were stalwart students in grammar. They were very great personalities.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "These two students were inhabitants of Navadvīpa and were the Lord's first companions in the saṅkīrtana movement. According to the Caitanya-bhāgavata, Puruṣottama Sañjaya was the son of Mukunda Sañjaya, but the author of Śrī Caitanya-caritamṛta has clarified that Puruṣottama and Sañjaya were two people, not one."
+		}
+	]
 }

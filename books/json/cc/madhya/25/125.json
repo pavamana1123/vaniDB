@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\125.json",
+		"id": "cc\\madhya\\25\\125",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pañca-bhūta yaiche bhūtera bhitare-bāhire\nbhakta-gaṇe sphuri āmi bāhire-antare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pañca-bhūta—the five material elements; yaiche—just as; bhūtera—of the living entities; bhitare—inside; bāhire—and outside; bhakta-gaṇe—unto the devotees; sphuri—becoming manifest; āmi—I; bāhire-antare—externally and internally.",
+	"translation": "\" 'The five material elements are existing inside and outside of every living entity. Similarly, I, the Supreme Personality of Godhead, am manifest within the heart of the devotee as well as outside his body.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The pure devotee knows that he is a servant of Kṛṣṇa eternally. He knows that everything can be used in the service of the Lord."
+		}
+	]
 }

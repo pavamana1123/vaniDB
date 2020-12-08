@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\155.json",
+		"id": "cc\\antya\\3\\155",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"satya kahe,--ei ghara mora yogya naya\nmleccha go-vadha kare, tāra yogya haya\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "satya kahe—Rāmacandra Khān says rightly; ei ghara—this house; mora—for Me; yogya naya—is not fit; mleccha—the meateaters; go-vadha kare—who kill cows; tāra—for them; yogya haya—it is fit.",
+	"translation": "\"Rāmacandra Khān has spoken rightly. This place is unfit for Me. It is fit for cow-killing meateaters.\""
 }

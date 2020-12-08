@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\211.json",
+		"id": "cc\\adi\\4\\211",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sahāyā guravaḥ śiṣyā\nbhujiṣyā bāndhavāḥ striyaḥ\nsatyaṁ vadāmi te pārtha\ngopyaḥ kiṁ me bhavanti na\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sahāyāḥ—helpers; guravaḥ—teachers; śiṣyāḥ—students; bhujiṣyāḥ—servants; bāndhavāḥ—friends; striyaḥ—wives; satyam—truthfully; vadāmi—I say; te—unto you; pārtha—O Arjuna; gopyaḥ—the gopīs; kim—what; me—for Me; bhavanti—are; na—not.",
+	"translation": "\"O Pārtha, I speak to you the truth. The gopīs are My helpers, teachers, disciples, servants, friends and consorts. I do not know what they are not to Me.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Gopī-premāmṛta."
+		}
+	]
 }

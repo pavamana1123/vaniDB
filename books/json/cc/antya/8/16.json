@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\16.json",
+		"id": "cc\\antya\\8\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sannyāsīre eta khāoyāñā kare dharma nāśa\nvairāgī hañā eta khāya, vairāgyera nāhi 'bhāsa' \"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sannyāsīre—unto a sannyāsī; eta—so much; khāoyāñā—feeding; kare dharma nāśa—destroys the regulative principles; vairāgī hañā—being in the renounced order; eta—so much; khāya—eats; vairāgyera nāhi bhāsa—there is no trace of renunciation.",
+	"translation": "\"Feeding a sannyāsī too much breaks his regulative principles, for when a sannyāsī eats too much, his renunciation is destroyed.\""
 }

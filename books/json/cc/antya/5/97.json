@@ -1,15 +1,49 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\97.json",
+		"id": "cc\\antya\\5\\97",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'rasābhāsa' haya yadi 'siddhānta-virodha'\nsahite nā pāre prabhu, mane haya krodha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rasa-ābhāsa—overlapping of transcendental mellows; haya—there is; yadi—if; siddhānta-virodha—against the principles of the bhakti cult; sahite nā pāre—cannot tolerate; prabhu—Śrī Caitanya Mahāprabhu; mane—within the mind; haya—is; krodha—anger.",
+	"translation": "If there were a hint that transcendental mellows overlapped in a manner contrary to the principles of the bhakti cult, Śrī Caitanya Mahāprabhu would not tolerate it and would become very angry.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura quotes the following definition of rasābhāsa from the Bhakti-rasāmṛta-sindhu (Uttara-vibhāga, Ninth Wave, 1-3,20,22,24):"
+		},
+		{
+			"type": "normal",
+			"content": "pūrvam evānuśiṣṭena\nvikalā rasa-lakṣaṇā\nrasā eva rasābhāsā\nrasajñair anukīrtitāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "syus tridhoparasāś cānu-\nrasāś cāparasāś ca te\nuttamā madhyamāḥ proktāḥ\nkaniṣṭhāś cety amī kramāt"
+		},
+		{
+			"type": "normal",
+			"content": "prāptaiḥ sthāyi-vibhāvānu-\nbhāvādyais tu virūpatām\nśāntādayo rasā eva\ndvādaśoparasā matāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "bhaktādibhir vibhāvādyaiḥ\nkṛṣṇa-sambandha-varjitaiḥ\nrasā hāsyādayaḥ sapta\nśāntaś cānurasā matāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "kṛṣṇa-tat-pratipakṣaś ced\nviṣayāśrayatāṁ gatāḥ\nhāsādīnāṁ tadā te 'tra\nprājñair aparasā matāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "bhāvāḥ sarve tadābhāsā\nrasābhāsāś ca kecana\namī prokta-rasābhijñaiḥ\nsarve 'pi rasanād rasāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "A mellow temporarily appearing transcendental but contradicting mellows previously stated and lacking some of a mellow's necessities is called rasābhāsa, an overlapping mellow, by advanced devotees who know how to taste transcendental mellows. Such mellows are called uparasa (submellows), anurasa (imitation transcendental mellows) and aparasa (opposing transcendental mellows). Thus the overlapping of transcendental mellows is described as being first grade, second grade or third grade. When the twelve mellows-such as neutrality, servitorship and friendship-are characterized by adverse sthāyi-bhāva, vibhāva and anubhāva ecstasies, they are known as uparasa, submellows. When the seven indirect transcendental mellows and the dried up mellow of neutrality are produced by devotees and moods not directly related to Kṛṣṇa and devotional service in ecstatic love, they are described as anurasa, imitation mellows. If Kṛṣṇa and the enemies who harbor feelings of opposition toward Him are respectively the object and abodes of the mellow of laughter, the resulting feelings are called aparasa, opposing mellows. Experts in distinguishing one mellow from another sometimes accept some overlapping transcendental mellows (rasābhāsa) as rasas due to their being pleasurable and tasteful. Śrīla Viśvanātha Cakravartī Ṭhākura says, paraspara-vairayor yadi yogas tadā rasābhāsaḥ: \"When two opposing transcendental mellows overlap, they produce rasābhāsa, or an overlapping of transcendental mellows.\""
+		}
+	]
 }

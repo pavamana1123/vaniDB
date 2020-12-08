@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\63.json",
+		"id": "cc\\madhya\\8\\63",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-dharmān parityajya\nmām ekaṁ śaraṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo\nmokṣayiṣyāmi mā śucaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-dharmān—all kinds of occupational duties; parityajya—giving up; mām ekam—unto Me only; śaraṇam—as shelter; vraja—go; aham—I; tvām—unto you; sarva-pāpebhyaḥ—from all the reactions of sinful life; mokṣayiṣyāmi—will give liberation; mā—don't; śucaḥ—worry.",
+	"translation": "\"As stated in scripture [Bg. 18.66], 'After giving up all kinds of religious and occupational duties, if you come to Me, the Supreme Personality of Godhead, and take shelter, I will give you protection from all of life's sinful reactions. Do not worry.' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this connection, Śrīla Raghunātha dāsa Gosvāmī instructs in his book Manaḥ-śiksā (2):"
+		},
+		{
+			"type": "normal",
+			"content": "na dharmaṁ nādharmaṁ śruti-gaṇa-niruktaṁ kila kuru\nvraje rādhā-kṛṣṇa-pracura-paricaryām iha tanu"
+		},
+		{
+			"type": "normal",
+			"content": "He has thus enjoined that we should not perform religious or irreligious activities as prescribed in the Vedas. The best course is to engage always in the service of Lord Kṛṣṇa and Rādhārāṇī. That is the perfection of everything in this life. Similarly, in Śrīmad-Bhāgavatam (4.29.46) it is said by Nārada Muni:"
+		},
+		{
+			"type": "normal",
+			"content": "yadā yasyānugṛhṇāti\nbhagavān ātma-bhāvitaḥ\nsa jahāti matiṁ loke\nvede ca pariniṣṭhitām"
+		},
+		{
+			"type": "normal",
+			"content": "\"When one actually takes to the loving service of the Supreme Personality of Godhead, he gives up all duties in the material world, as well as all duties prescribed by the Vedic literature. In this way one is fixed in the service of the Lord.\""
+		}
+	]
 }

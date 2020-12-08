@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\8.json",
+		"id": "cc\\madhya\\14\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāsa-līlāra śloka paḍi' karena stavana\n\"jayati te 'dhikaṁ\" adhyāya karena paṭhana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāsa-līlāra—of the rāsa-līlā dance; śloka—verses; paḍi'-reciting; karena—offers; stavana—prayers; jayati te 'dhikam—beginning with the words jayati te 'dhikam; adhyāya—chapter; karena—does; paṭhana—recitation.",
+	"translation": "The King began to recite verses about the rāsa-līlā from Śrīmad Bhāgavatam. He recited the chapter beginning with the words \"jayati te 'dhikam.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "These verses from Śrīmad-Bhāgavatam, Canto Ten, Chapter Thirty-one, constitute what is known as the Gopī-gītā."
+		}
+	]
 }

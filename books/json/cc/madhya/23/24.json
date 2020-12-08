@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\24.json",
+		"id": "cc\\madhya\\23\\24",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "bhukti, siddhi, indriyārtha tāre nāhi bhāya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhukti—material enjoyment; siddhi—mystic power; indriya-artha—the objects of the senses; tāre—unto him; nāhi bhāya—do not appeal.",
+	"translation": "\"In the material field, people are interested in material enjoyment, mystic power and sense gratification. However, these things do not appeal to the devotee at all."
 }

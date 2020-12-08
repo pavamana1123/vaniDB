@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\311.json",
+		"id": "cc\\adi\\17\\311",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "likhita granthera yadi kari anuvāda\ntabe se granthera artha pāiye āsvāda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "likhita—written; granthera—of the scripture; yadi—if; kari—I do; anuvāda—repetition; tabe—then; se granthera—of that scripture; artha—the meaning; pāiye—I can get; āsvāda—taste.",
+	"translation": "If I repeat what is already written, I may thus relish the purpose of this scripture."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\5.json",
+		"id": "cc\\madhya\\23\\5",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śuddha-sattva-viśeṣātmā\nprema-sūryāṁśu-sāmya-bhāk\nrucibhiś citta-masṛṇya-\nkṛd asau bhāva ucyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuddha-sattva—by unadultered goodness; viśeṣa—distinguished; ātmā—whose nature; prema—of love of God; sūrya—like the sun; aṁśu—a ray; sāmya-bhāk—which is similar to; rucibhiḥ—by different tastes; citta—of the heart; masṛṇya—softness; kṛt—which causes; asau—that softness; bhāvaḥ—emotion; ucyate—is called.",
+	"translation": "\" 'When devotional service is situated on the transcendental platform of pure goodness, it is like a ray of the sunlight of love for Kṛṣṇa. At such a time, devotional service causes the heart to be softened by various tastes, and it is called bhāva [emotion].'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Bhakti-rasāmṛta-sindhu (1.3.1)."
+		}
+	]
 }

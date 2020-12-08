@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\11.json",
+		"id": "cc\\madhya\\11\\11",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ākārād api bhetavyaṁ\nstrīṇāṁ viṣayiṇām api\nyathāher manasaḥ kṣobhas\ntathā tasyākṛter api\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ākārāt—from bodily features; api—even; bhetavyam—to be feared; strīṇām—of women; viṣayiṇām—of materialistic persons; api—even; yathā—as; aheḥ—from a serpent; manasaḥ—of the mind; kṣobhaḥ—agitation; tathā—so; tasya—of it; ākṛteḥ—from the appearance; api—even.",
+	"translation": "\" 'Just as one is immediately frightened upon seeing a live serpent or even the form of a serpent, one endeavoring for self-realization should similarly fear a materialistic person and a woman. Indeed, he should not even glance at their bodily features.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrī Caitanya-candrodaya-nāṭaka (8.24)."
+		}
+	]
 }

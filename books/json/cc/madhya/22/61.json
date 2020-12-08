@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\61.json",
+		"id": "cc\\madhya\\22\\61",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāvat karmāṇi kurvīta\nna nirvidyeta yāvatā\nmat-kathā-śravaṇādau vā\nśraddhā yāvan na jāyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāvat—up to that time; karmāṇi—fruitive activities; kurvīta—one should execute; na nirvidyeta—is not satiated; yāvatā—as long as; mat-kathā—of discourses about Me; śravaṇa-ādau—in the matter of śravaṇam, kīrtanam, and so on; vā—or; śraddhā—faith; yāvat—as long as; na—not; jāyate—is awakened.",
+	"translation": "\" 'As long as one is not satiated by fruitive activity and has not awakened his taste for devotional service by śravaṇaṁ kīrtanaṁ viṣṇoh, one has to act according to the regulative principles of the Vedic injunctions.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (11.20.9)."
+		}
+	]
 }

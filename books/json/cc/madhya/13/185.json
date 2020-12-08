@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\185.json",
+		"id": "cc\\madhya\\13\\185",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tathāpi āpana-gaṇe karite sāvadhāna\nbāhye kichu roṣābhāsa kailā bhagavān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tathāpi—still; āpana-gaṇe—to personal associates; karite—to do; sāvadhāna—warning; bāhye—externally; kichu—some; roṣa-ābhāsa—apparent anger; kailā—showed; bhagavān—the Supreme Personality of Godhead.",
+	"translation": "However, just to warn His personal associates, the Supreme Personality of Godhead, Śrī Caitanya Mahāprabhu, externally expressed feelings of anger.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "When Mahārāja Pratāparudra asked to see the Lord, Śrī Caitanya Mahāprabhu immediately refused, saying:"
+		},
+		{
+			"type": "normal",
+			"content": "niṣkiñcanasya bhagavad-bhajanonmukhasya\npāraṁ paraṁ jigamiṣor bhava-sāgarasya\nsandarśanaṁ viṣayiṇām atha yoṣitāṁ ca\nhā hanta hanta viṣa-bhakṣaṇato 'py asādhu"
+		},
+		{
+			"type": "normal",
+			"content": "(Cc. Madhya 11.8)"
+		},
+		{
+			"type": "normal",
+			"content": "The word niṣkiñcanasya refers to a person who has finished his material activities. Such a person can begin to execute his activities in Kṛṣṇa consciousness to cross over the ocean of nescience. It is very dangerous for such a person to have intimate relationships with mundane people or to become intimately related with women. This formality is to be observed by anyone who is serious about going back home, back to Godhead. To teach His personal associates these principles, Śrī Caitanya Mahāprabhu expressed external anger when touched by the King. Since the Lord was very satisfied with the humble behavior of the King, He intentionally allowed the King to touch Him, but externally He expressed anger just to warn His personal associates."
+		}
+	]
 }

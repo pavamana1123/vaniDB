@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\49.json",
+		"id": "cc\\madhya\\25\\49",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yei grantha-kartā cāhe sva-mata sthāpite\nśāstrera sahaja artha nahe tāṅhā haite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yei—anyone who; grantha-kartā—author; cāhe—wants; sva-mata sthāpite—to establish his own opinion; śāstrera—of the revealed scriptures; sahaja—the direct; artha—meaning; nahe—is not; tāṅhā haite—from such an author.",
+	"translation": "\"Anyone who wants to establish his own opinion or philosophy certainly cannot explain any scripture according to the principle of direct interpretation."
 }

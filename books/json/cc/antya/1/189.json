@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\189.json",
+		"id": "cc\\antya\\1\\189",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hriyam avagṛhya gṛhebhyaḥ karṣati\nrādhāṁ vanāya yā nipuṇā\nsā jayati nisṛṣṭārthā\nvara-vaṁśaja-kākalī dūtī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hriyam—bashfulness; avagṛhya—impeding; gṛhebhyaḥ—from private houses; karṣati—attracts; rādhām—Śrīmatī Rādhārāṇī; vanāya—to the forest; yā—which; nipuṇā—being expert; sā—that; jayati—let it be glorified; nisṛṣṭa-arthā—authorized; vara-vaṁśaja—of the bamboo flute; kākalī—the sweet tone; dūtī—the messenger.",
+	"translation": "May the sweet sound of Lord Kṛṣṇa's flute, His authorized messenger, be glorified, for it expertly releases Śrīmatī Rādhārāṇī from Her shyness and attracts Her from Her home to the forest.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse from Lalita-mādhava (1.24) is spoken by Gārgī, the daughter of Gargamuni."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\66.json",
+		"id": "cc\\adi\\10\\66",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'ratnabāhu' bali' prabhu thuila tāṅra nāma\nakiñcana prabhura priya kṛṣṇadāsa-nāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ratnabāhu—the title Ratnabāhu; bali'-calling him; prabhu—the Lord; thuila—kept; tāṅra—his; nāma—name; akiñcana—unalloyed; prabhura—of the Lord; priya—dear; kṛṣṇadāsa—of the name Kṛṣṇadāsa; nāma—name.",
+	"translation": "Śrī Caitanya Mahāprabhu gave Vijaya dāsa the name Ratnabāhu [\"jewel-handed\"] because he copied many manuscripts for Him. The twenty-eighth branch was Kṛṣṇadāsa, who was very dear to the Lord. He was known as Akiñcana Kṛṣṇadāsa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Akiñcana means \"one who possesses nothing in this world.\""
+		}
+	]
 }

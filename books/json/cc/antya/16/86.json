@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\86.json",
+		"id": "cc\\antya\\16\\86",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei līlā nija-granthe raghunātha-dāsa\n'gaurāṅga-stava-kalpavṛkṣe' kariyāchena prakāśa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei līlā—this pastime; nija-granthe—in his own book; raghunātha-dāsa—Raghunātha dāsa Gosvāmī; gaurāṅga-stava-kalpa-vṛkṣe—Gaurāṅga-stava-kalpavṛkṣa; kariyāchena prakāśa—has described.",
+	"translation": "In his book known as Gaurāṅga-stava-kalpavṛkṣa, Raghunātha dāsa Gosvāmī has described this incident very nicely."
 }

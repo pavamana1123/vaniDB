@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\99.json",
+		"id": "cc\\antya\\9\\99",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "puruṣottama-jānāre teṅha kaila parihāsa\nsei 'jānā' tāre dekhāila mithyā trāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "puruṣottama-jānāre—at Puruṣottama Jānā, the prince; teṅha—he; kaila parihāsa—made a joke; sei jānā—that prince; tāre—unto him; dekhāila—showed; mithyā—false; trāsa—scare.",
+	"translation": "\"He sneered at Puruṣottama Jānā. Therefore the prince tried to scare him as a punishment."
 }

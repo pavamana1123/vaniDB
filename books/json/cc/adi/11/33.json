@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\11\\33.json",
+		"id": "cc\\adi\\11\\33",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "navadvīpe puruṣottama paṇḍita mahāśaya\nnityānanda-nāme yāṅra mahonmāda haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "navadvīpe puruṣottama—Puruṣottama of Navadvīpa; paṇḍita mahāśaya—a very learned scholar; nityānanda-nāme—in the name of Lord Nityānanda Prabhu; yāṅra—whose; mahā-unmāda—great ecstasy; haya—becomes.",
+	"translation": "Puruṣottama Paṇḍita, a resident of Navadvīpa, was the eighth gopāla. He would become almost mad as soon as he heard the holy name of Nityānanda Prabhu.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "It is stated in the Caitanya-bhāgavata that Puruṣottama Paṇḍita was born in Navadvīpa and was a great devotee of Lord Nityānanda Prabhu. As one of the twelve gopalas, his former name was Stokakṛṣṇa."
+		}
+	]
 }

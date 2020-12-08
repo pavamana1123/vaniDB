@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\158.json",
+		"id": "cc\\antya\\4\\158",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"kālikāra baṭuyā jagā aiche garvī haila\ntomā-sabāreha upadeśa karite lāgila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kālikāra—new; baṭuyā—boy; jagā—Jagadānanda Paṇḍita; aiche—so; garvī haila—has become proud; tomā-sabāreha—persons like you; upadeśa karite—to advise; lāgila—has begun.",
+	"translation": "\"Jagā [Jagadānanda Paṇḍita] is only a new boy, but he has become so proud that he thinks himself competent to advise a person like you."
 }

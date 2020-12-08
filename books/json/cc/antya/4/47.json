@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\47.json",
+		"id": "cc\\antya\\4\\47",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "durdaive sevaka yadi yāya anya sthāne\nsei ṭhākura dhanya tāre cule dhari' āne\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "durdaive—by chance; sevaka—the servant; yadi—if; yāya—goes; anya sthāne—to another place; sei ṭhākura—that master; dhanya—glorified; tāre—him; cule—by the hair; dhari'-capturing; āne—brings back.",
+	"translation": "\"If by chance a servant falls down and goes somewhere else, glorious is that master who captures him and brings him back by the hair."
 }

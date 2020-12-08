@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\15.json",
+		"id": "cc\\antya\\5\\15",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tumi ihāṅ vasi' raha, kṣaṇeke āsibena\ntabe yei ājñā deha, sei karibena\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; ihāṅ—here; vasi'-sitting; raha—just wait; kṣaṇeke āsibena—he will come within a moment; tabe—then; yei—whatever; ājñā—order; deha—you give; sei—he; karibena—will do.",
+	"translation": "\"Please sit here and wait for a few moments. As soon as he comes, he will execute whatever order you give him.\""
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\66.json",
+		"id": "cc\\adi\\16\\66",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'vibhavati' kriyāya vākya--sāṅga, punaḥ viśeṣaṇa\n'adbhuta-guṇā'--ei punar-ātta dūṣaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vibhavati kriyāya—by the verb vibhavati (\"flourishes\"); vākya—statement; sāṅga—complete; punaḥ—again; viśeṣaṇa adbhuta-guṇa—the adjective adbhuta-guṇa (\"wonderful qualities\"); ei—this; punar-ātta—repetition of the same word; dūṣaṇa—fault.",
+	"translation": "\"The statement by the word 'vibhavati' ['flourishes'] is complete. Qualifying it with the adjective 'adbhuta-guṇā' ['wonderful qualities'] creates the fault of redundancy."
 }

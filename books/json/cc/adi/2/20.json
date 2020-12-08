@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\20.json",
+		"id": "cc\\adi\\2\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "atha vā bahunaitena\nkiṁ jñātena tavārjuna\nviṣṭabhyāham idaṁ kṛtsnam\nekāṁśena sthito jagat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "atha vā—or; bahunā—much; etena—with this; kim—what use; jñātena—being known; tava—by you; arjuna—O Arjuna; viṣṭabhya—pervading; aham—I; idam—this; kṛtsnam—entire; eka-aṁśena—with one portion; sthitaḥ—situated; jagat—universe.",
+	"translation": "[The Personality of Godhead, Śrī Kṛṣṇa, said:] \"What more shall I say to you? I live throughout this cosmic manifestation merely by My single plenary portion.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Describing His own potencies to Arjuna, the Personality of Godhead Śrī Kṛṣṇa spoke this verse of the Bhagavad-gītā (10.42)."
+		}
+	]
 }

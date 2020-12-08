@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\217.json",
+		"id": "cc\\madhya\\24\\217",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yat-pāda-sevābhirucis tapasvinām\naśeṣa-janmopacitaṁ malaṁ dhiyaḥ\nsadyaḥ kṣiṇoty anvaham edhatī satī\nyathā padāṅguṣṭha-viniḥsṛtā sarit\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yat-pāda-sevā-abhiruciḥ—the taste for serving the lotus feet of Lord Kṛṣṇa; tapasvinām—of persons undergoing severe penances; aśeṣa—unlimited; janma-upacitam—contracted from life after life; malam—dirt; dhiyaḥ—of the intelligence; sadyaḥ—immediately; kṣiṇoti—vanquishes; anvaham—every day; edhatī—increasing; satī—being in the mode of goodness; yathā—as; pada-aṅguṣṭha-viniḥsṛtā—emanating from the toe of the Lord; sarit—the River Ganges.",
+	"translation": "\" 'The taste for loving service is like the water of the River Ganges, which flows from the feet of Lord Kṛṣṇa. Every day that taste diminishes the results of sinful activities acquired over a period of many births by those who perform austerities.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (4.21.31)."
+		}
+	]
 }

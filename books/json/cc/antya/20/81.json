@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\81.json",
+		"id": "cc\\antya\\20\\81",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yāvat buddhira gati, tateka varṇiluṅ\nsamudrera madhye yena eka kaṇa chuṅiluṅ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yāvat—as far; buddhira gati—the limit of my intelligence; tateka—that far; varṇiluṅ—I have described; samudrera madhye—in the midst of the great ocean; yena—just like; eka kaṇa—one particle; chuṅiluṅ—I have touched.",
+	"translation": "I have tried to describe them as far as my intelligence allows, as if trying to touch a drop in the midst of a great ocean."
 }

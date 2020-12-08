@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\28.json",
+		"id": "cc\\madhya\\4\\28",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bālaka kahe,--gopa āmi, ei grāme vasi\nāmāra grāmete keha nā rahe upavāsī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bālaka kahe—the boy said; gopa āmi—I am a cowherd boy; ei grāme vasi—I reside in this village; āmāra grāmete—in My village; keha—anyone; nā—not; rahe—remains; upavāsī—without food.",
+	"translation": "The boy replied, \"Sir, I am a cowherd boy, and I reside in this village. In My village, no one fasts."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\33.json",
+		"id": "cc\\antya\\9\\33",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yei catura, sei kuruka rāja-viṣaya\nrāja-dravya śodhi' pāya, tāra karuka vyaya\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yei—one who; catura—intelligent; sei—such a person; kuruka—let him do; rāja-viṣaya—government service; rāja-dravya śodhi'-after paying the dues of the government; pāya—whatever he gets; tāra karuka vyaya—let him spend that.",
+	"translation": "\"If one is intelligent, let him perform service to the government, and after paying the government, he can spend whatever money is left.\""
 }

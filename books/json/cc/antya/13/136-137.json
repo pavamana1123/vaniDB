@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\136-137.json",
+		"id": "cc\\antya\\13\\136-137",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jagadānandera kahiluṅ vṛndāvana-gamana\ntāra madhye deva-dāsīra gāna-śravaṇa",
+			"isProse": false
+		},
+		{
+			"roman": "mahāprabhura raghunāthe kṛpā-prema-phala\neka-paricchede tina kathā kahiluṅ sakala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jagadānandera—of Jagadānanda Paṇḍita; kahiluṅ—I have described; vṛndāvana-gamana—going to Vṛndāvana; tāra madhye—within that; deva-dāsīra—of the female singer in the temple of Jagannātha; gāna-śravaṇa—hearing of the song; mahāprabhura—of Śrī Caitanya Mahāprabhu; raghunāthe—unto Raghunātha Bhaṭṭa; kṛpā—by mercy; prema—love; phala—result; eka-paricchede—in one chapter; tina kathā—three topics; kahiluṅ—I have described; sakala—all.",
+	"translation": "In this chapter I have spoken about three topics: Jagadānanda Paṇḍita's visit to Vṛndāvana, Śrī Caitanya Mahāprabhu's listening to the song of the deva-dāsī at the temple of Jagannātha, and how Raghunātha Bhaṭṭa Gosvāmī achieved ecstatic love of Kṛṣṇa by the mercy of Śrī Caitanya Mahāprabhu."
 }

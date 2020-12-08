@@ -1,15 +1,65 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\24.json",
+		"id": "cc\\adi\\2\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "veda, bhāgavata, upaniṣat, āgama\n'pūrṇa-tattva' yāṅre kahe, nāhi yāṅra sama\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "veda—the Vedas; bhāgavata—Śrīmad-Bhāgavatam; upaniṣat—the Upaniṣads; āgama—other transcendental literatures; pūrṇa-tattva—full truth; yāṅre—unto whom; kahe—they say; nāhi—there is not; yāṅra—whose; sama—equal.",
+	"translation": "The Personality of Godhead is He who is described as the Absolute Whole in the Vedas, Bhāgavatam, Upaniṣads and other transcendental literatures. No one is equal to Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "There are innumerable authoritative statements in the Vedas regarding the personal feature of the Absolute Truth. Some of them are as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "(1) From the Ṛk-saṁhitā (1.22.20):"
+		},
+		{
+			"type": "normal",
+			"content": "tad viṣṇoḥ paramaṁ padaṁ sadā\npaśyanti sūrayo divīva cakṣur ātatam"
+		},
+		{
+			"type": "normal",
+			"content": "\"The Personality of Godhead Viṣṇu is the Absolute Truth, whose lotus feet all the demigods are always eager to see. Like the sun-god, He pervades everything by the rays of His energy. He appears impersonal to imperfect eyes.\""
+		},
+		{
+			"type": "normal",
+			"content": "(2) From the Nārāyaṇātharva-śira Upaniṣad (1-2): nārāyaṇād eva samutpadyante nārāyaṇāt pravartante nārāyaṇe pralīyante. . . . atha nityo nārāyaṇaḥ. . . . nārāyaṇa evedaṁ sarvaṁ yad bhūtaṁ yac ca bhavyam. . . . śuddho deva eko nārāyaṇo na dvitīyo 'sti kaścit. \"It is from Nārāyaṇa only that everything is generated, by Him only that everything is maintained, and in Him only that everything is annihilated. Therefore Nārāyaṇa is eternally existing. Everything that exists now or will be created in the future is nothing but Nārāyaṇa, who is the unadulterated Deity. There is only Nārāyaṇa and nothing else.\""
+		},
+		{
+			"type": "normal",
+			"content": "(3) From the Nārāyaṇa Upaniṣad (1.4): yataḥ prasūtā jagataḥ prasūtī. \"Nārāyaṇa is the source from whom all the universes emanate.\""
+		},
+		{
+			"type": "normal",
+			"content": "(4) From the Hayaśīrṣa Pañcarātra: paramātmā harir devaḥ. \"Hari is the Supreme Lord.\""
+		},
+		{
+			"type": "normal",
+			"content": "(5) From the Bhāgavatam (11.3.34-35):"
+		},
+		{
+			"type": "normal",
+			"content": "nārāyaṇābhidhānasya\nbrahmaṇaḥ paramātmanaḥ\nniṣṭhām arhatha no vaktuṁ\nyūyaṁ hi brahma-vittamāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"O best of the brāhmaṇas, please tell us of the position of Nārāyaṇa, who is also known as Brahman and Paramātmā.\""
+		},
+		{
+			"type": "normal",
+			"content": "sthity-udbhava-pralaya-hetur ahetur asya\nyat svapna-jāgara-suṣuptiṣu sad bahiś ca\ndehendriyāsu-hṛdayāni caranti yena\nsañjīvitāni tad avehi paraṁ narendra"
+		},
+		{
+			"type": "normal",
+			"content": "\"O King, know Him who is causeless and yet is the cause of creation, maintenance and annihilation. He exists in the three states of consciousness-namely waking, dreaming and deep sleep-as well as beyond them. He enlivens the body, the senses, the breath of life, and the heart, and thus they move. Know Him to be supreme.\""
+		}
+	]
 }

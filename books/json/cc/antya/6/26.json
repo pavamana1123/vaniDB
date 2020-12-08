@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\26.json",
+		"id": "cc\\antya\\6\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kabhu kalaha, kabhu prīti--ihāra niścaya nāi\nkāli punaḥ tina bhāi ha-ibā eka-ṭhāñi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kabhu—sometimes; kalaha—fight; kabhu—sometimes; prīti—very intimate friendly behavior; ihāra—of these things; niścaya nāi—there is no certainty; kāli—the next day; punaḥ—again; tina bhāi—three brothers; ha-ibā—will be; eka-ṭhāñi—at one place.",
+	"translation": "\"Sometimes brothers fight among themselves, and sometimes they have very friendly dealings. There is no certainty when such changes will take place. Thus I am sure that although today you are fighting, tomorrow you three brothers will be sitting together in peace."
 }

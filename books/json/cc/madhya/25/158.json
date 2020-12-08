@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\158.json",
+		"id": "cc\\madhya\\25\\158",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tasyāravinda-nayanasya padāravinda-\nkiñjalka-miśra-tulasī-makaranda-vāyuḥ\nantargataḥ svavivareṇa cakāra teṣāṁ\nsaṅkṣobham akṣara-juṣām api citta-tanvoḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tasya—of Him; aravinda-nayanasya—of the Supreme Personality of Godhead, whose eyes are like the petals of a lotus flower; pada-aravinda—of the lotus feet; kiñjalka—with saffron; miśra—mixed; tulasī—of tulasī leaves; makaranda—with the aroma; vāyuḥ—the air; antargataḥ—entered; sva-vivareṇa—through the nostrils; cakāra—created; teṣām—of them; saṅkṣobham—strong agitation; akṣara-juṣām—of the impersonally self-realized (Kumāras); api—also; citta-tanvoḥ—of the mind and the body.",
+	"translation": "\" 'When the breeze carrying the aroma of tulasī leaves and saffron from the lotus feet of the lotus-eyed Personality of Godhead entered through the nostrils into the hearts of those sages [the Kumāras], they experienced a change in both body and mind, even though they were attached to impersonal Brahman understanding.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (3.15.43)."
+		}
+	]
 }

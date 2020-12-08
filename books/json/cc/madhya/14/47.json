@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\47.json",
+		"id": "cc\\madhya\\14\\47",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ihāṅ jagannāthera ratha-calana-samaya\ngauḍa saba ratha ṭāne, āge nāhi yāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ihāṅ—outside the garden; jagannāthera—of Lord Jagannātha; ratha-calana-samaya—at the time of drawing the car; gauḍa—the workers named gauḍas who draw the car; saba—all; ratha ṭāne—pull the car; āge—forward; nāhi yāya—it does not go.",
+	"translation": "Outside the garden, when it was time to pull Jagannātha's car, all the workers called gauḍas tried to pull it, but it would not move forward."
 }

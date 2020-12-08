@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\166.json",
+		"id": "cc\\madhya\\4\\166",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "purī kahe,--ei dui ghaṣibe candana\nāra janā-dui deha, diba ye vetana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "purī kahe—Mādhavendra Purī said; ei dui—these two assistants; ghaṣibe—will grind; candana—the sandalwood; āra—another; janā-dui—two men; deha—apply; diba—I shall pay; ye—that; vetana—salary.",
+	"translation": "Mādhavendra Purī said, \"These two assistants will regularly grind the sandalwood, and you should also get two other people to help. I shall pay their salary.\""
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\100.json",
+		"id": "cc\\adi\\10\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rātri-dine rādhā-kṛṣṇera mānasa sevana\nprahareka mahāprabhura caritra-kathana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rātri-dine—day and night; rādhā-kṛṣṇera—of Rādhā and Kṛṣṇa; mānasa—within the mind; sevana—service; prahareka—about three hours; mahāprabhura—of Lord Caitanya; caritra—character; kathana—discussing.",
+	"translation": "Day and night he rendered service within his mind to Rādhā-Kṛṣṇa, and for three hours a day he discoursed about the character of Lord Caitanya Mahāprabhu.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "We have many things to learn about bhajana, or worship of the Lord, by following in the footsteps of Raghunātha dāsa Gosvāmī. All the Gosvāmīs engaged in such transcendental activities, as described by Śrīnivāsa Ācārya in his poem about them (kṛṣṇotkīrtana-gāna-nartana-parau premāmṛtāmbho-nidhī). Following in the footsteps of Raghunātha dāsa Gosvāmī, Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī, one has to execute devotional service very strictly, specifically by chanting the holy name of the Lord."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\10\\70.json",
+		"id": "cc\\madhya\\10\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei kṛṣṇadāse diba gauḍe pāṭhāñā\neta kahi' tāre rākhilena āśvāsiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—this; kṛṣṇadāse—Kālā Kṛṣṇadāsa; diba—away; gauḍe—to Bengal; pāṭhāñā—let us send; eta kahi'—saying this; tāre—him; rākhilena—they kept; āśvāsiyā—giving assurance.",
+	"translation": "\"Let us therefore send Kṛṣṇadāsa to Bengal.\" Saying this, they kept Kṛṣṇadāsa engaged in the service of the Lord and gave him assurance.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Because Śrī Caitanya Mahāprabhu rejected him, Kālā Kṛṣṇadāsa became very, very sorry and began to cry. Therefore the Lord's devotees took compassion upon him, gave him assurance and encouraged him to continue to engage in the Lord's service."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\10.json",
+		"id": "cc\\antya\\5\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dharmaḥ svanuṣṭhitaḥ puṁsāṁ\nviṣvaksena-kathāsu yaḥ\nnotpādayed yadi ratiṁ\nśrama eva hi kevalam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dharmaḥ—execution of the system of varṇa and āśrama; su-anuṣṭhitaḥ—properly executed; puṁsām—of men; viṣvaksena-kathāsu—in talks about Viṣvaksena, or Kṛṣṇa; yaḥ—which; na—not; utpādayet—awakens; yadi—if; ratim—taste; śrama—labor; eva—without doubt; hi—certainly; kevalam—only.",
+	"translation": "\"A person who properly performs his regulative duties according to varṇa and āśrama but does not develop his dormant attachment for Kṛṣṇa or awaken his taste to hear and chant about Kṛṣṇa is certainly laboring fruitlessly.' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (1.2.8)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\12.json",
+		"id": "cc\\antya\\8\\12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhikṣā kari' kahe purī,--\"śuna, jagadānanda\navaśeṣa prasāda tumi karaha bhakṣaṇa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhikṣā kari'-after finishing the lunch; kahe purī—Rāmacandra Purī began to speak; śuna, jagadānanda—my dear Jagadānanda, just hear; avaśeṣa prasāda—the remaining prasāda; tumi—you; karaha bhakṣaṇa—eat.",
+	"translation": "After finishing the meal, Rāmacandra Purī requested,\"My dear Jagadānanda, please listen. You eat the food that is left.\""
 }

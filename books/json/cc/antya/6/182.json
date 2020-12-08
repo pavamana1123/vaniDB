@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\182.json",
+		"id": "cc\\antya\\6\\182",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "patrī diyā śivānande vārtā puchila\nśivānanda kahe,--'teṅha ethā nā āila'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "patrī—letter; diyā—delivering; śivānande—unto Śivānanda Sena; vārtā—news; puchila—inquired; śivānanda kahe—Śivānanda said; teṅha—he; ethā—here; nā āila—did not come.",
+	"translation": "After delivering the letter, the men inquired from Śivānanda Sena about Raghunātha dāsa, but Śivānanda Sena replied, \"He did not come here.\""
 }

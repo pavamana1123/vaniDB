@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\14\\9.json",
+		"id": "cc\\antya\\14\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṣaṇe kṣaṇe anubhavi' ei dui-jana\nsaṅkṣepe bāhulye karena kaḍacā-granthana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṣaṇe kṣaṇe—moment by moment; anubhavi'-understanding; ei dui-jana—these two persons; saṅkṣepe—in brief; bāhulye—elaborately; karena—do; kaḍacā-granthana—compiling the notebooks.",
+	"translation": "These two great personalities [Svarūpa Dāmodara and Raghunātha dāsa Gosvāmī] recorded the activities of Śrī Caitanya Mahāprabhu moment by moment. They described these activities briefly as well as elaborately in their notebooks.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For future reference, we should remember that Svarūpa Dāmodara Gosvāmī recorded the pastimes briefly, whereas Raghunātha dāsa Gosvāmī recorded them elaborately. These two great personalities simply recorded the facts; they did not create any descriptive literary embellishments."
+		}
+	]
 }

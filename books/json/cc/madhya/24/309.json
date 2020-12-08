@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\309.json",
+		"id": "cc\\madhya\\24\\309",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"kṣetrajña ātmā puruṣaḥ\npradhānaṁ prakṛtiḥ striyām\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṣetra-jñaḥ—the word kṣetrajña; ātmā—the living entity; puruṣaḥ—the enjoyer; pradhānam—the chief; prakṛtiḥ—the material nature; striyām—in the feminine gender.",
+	"translation": "\" 'The word kṣetrajña refers to the living entity, the enjoyer, the chief and material nature.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Svarga-varga (7) of the Amara-kośa dictionary."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\76.json",
+		"id": "cc\\adi\\1\\76",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-i vigraha kintu ākāre haya āna\naneka prakāśa haya, 'vilāsa' tāra nāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-i—one; vigraha—form; kintu—but; ākāre—in appearance; haya—is; āna—different; aneka—many; prakāśa—manifestations; haya—appear; vilāsa—pastime form; tāra—of that; nāma—the name.",
+	"translation": "But when the numerous forms are slightly different from one another, they are called vilāsa-vigrahas."
 }

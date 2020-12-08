@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\29.json",
+		"id": "cc\\adi\\2\\29",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "iṅhota dvi-bhuja, tiṅho dhare cāri hātha\niṅho veṇu dhare, tiṅho cakrādika sātha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "iṅhota—this one; dvi-bhuja—two arms; tiṅho—He; dhare—manifests; cāri—four; hātha—hands; iṅho—this one; veṇu—flute; dhare—holds; tiṅho—He; cakra-ādika—the wheel, etc.; sātha—with.",
+	"translation": "This Personality of Godhead [Śrī Kṛṣṇa] has two hands and holds a flute, whereas the other [Nārāyaṇa] has four hands, with conch, wheel, mace and lotus.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Nārāyaṇa is identical to Śrī Kṛṣṇa. They are in fact the same person manifested differently, like a high court judge who is differently situated in his office and at home. As Nārāyaṇa the Lord is manifested with four hands, but as Kṛṣṇa He is manifested with two hands."
+		}
+	]
 }

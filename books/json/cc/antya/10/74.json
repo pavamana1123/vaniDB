@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\74.json",
+		"id": "cc\\antya\\10\\74",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka eka danta yena pṛthak pṛthak naḍe\naiche naḍe danta,--yena bhūme khasi' paḍe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka eka—each and every; danta—tooth; yena—as if; pṛthak pṛthak—separately; naḍe—shakes; aiche—like that; naḍe—shake; danta—the teeth; yena—as if; bhūme—on the ground; khasi'-becoming loose; paḍe—fall.",
+	"translation": "All His teeth shook, as if each were separate from the others. Indeed, they seemed about to fall to the ground."
 }

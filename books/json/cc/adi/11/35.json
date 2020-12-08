@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\11\\35.json",
+		"id": "cc\\adi\\11\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mahā-bhāgavata yadunātha kavicandra\nyāṅhāra hṛdaye nṛtya kare nityānanda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mahā-bhāgavata—a great devotee; yadunātha kavicandra—of the name Yadunātha Kavicandra; yāṅhāra—whose; hṛdaye—in the heart; nṛtya—dancing; kare—does; nityānanda—Lord Nityānanda Prabhu.",
+	"translation": "Yadunātha Kavicandra was a great devotee. Lord Nityānanda Prabhu always danced in his heart.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the Caitanya-bhāgavata, Madhya-līlā, Chapter One, it is said that a gentleman known as Ratnagarbha Ācārya was a friend of Śrī Caitanya Mahāprabhu's father. They were residents of the same village. He had three sons-Kṛṣṇānanda, Jīva and Yadunātha Kavicandra."
+		}
+	]
 }

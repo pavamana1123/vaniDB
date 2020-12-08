@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\146.json",
+		"id": "cc\\madhya\\11\\146",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śaṅkare dekhiyā prabhu kahe dāmodare\nsagaurava-prīti āmāra tomāra upare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śaṅkare dekhiyā—seeing Śaṅkara; prabhu—the Lord; kahe—says; dāmodare—unto Dāmodara; sa-gaurava-prīti—affection with awe and reverence; āmāra—My; tomāra upare—upon you.",
+	"translation": "After seeing Śaṅkara, Lord Śrī Caitanya Mahāprabhu told Dāmodara, \"My affection for you is on the platform of awe and reverence.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Here the Lord is addressing Dāmodara Paṇḍita, who is different from Svarūpa Dāmodara. Dāmodara Paṇḍita is the elder brother of Śaṅkara. Thus the Lord informed Dāmodara that His affection toward him was on the platform of awe and reverence. However, the Lord's affection toward his younger brother, Śaṅkara, was on the platform of pure love."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\77.json",
+		"id": "cc\\antya\\12\\77",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sabāi rahila, keha calite nārila\nāra dina pāṅca-sāta ei-mate gela\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sabāi rahila—all of them stayed; keha calite nārila—no one could move; āra—further; dina pāṅca-sāta—five to seven days; ei-mate—in this way; gela—passed.",
+	"translation": "Unable to leave, everyone remained there, and five to seven more days thus passed by."
 }

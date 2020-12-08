@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\80.json",
+		"id": "cc\\adi\\2\\80",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'ete'-śabde avatārera āge anuvāda\n'puruṣera aṁśa' pāche vidheya-saṁvāda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ete-śabde—in the word ete (these); avatārera—of the incarnations; āge—first; anuvāda—the subject; puruṣera—of the puruṣa-avatāras; aṁśa—plenary portions; pāche—afterwards; vidheya—of the predicate; saṁvāda—message.",
+	"translation": "\"First the word, 'ete' ['these'], establishes the subject [the incarnations]. Then 'plenary portions of the puruṣa-avatāras' follows as the predicate."
 }

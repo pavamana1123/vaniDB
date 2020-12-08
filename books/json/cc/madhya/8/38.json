@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\38.json",
+		"id": "cc\\madhya\\8\\38",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmā nistārite tomāra ihāṅ āgamana\nparama-dayālu tumi patita-pāvana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmā nistārite—to deliver me; tomāra—Your; ihāṅ—here; āgamana—appearance; parama-dayālu—greatly merciful; tumi—You; patita-pāvana—the deliverer of all fallen souls.",
+	"translation": "\"You have come here specifically to deliver me. You are so merciful that You alone can deliver all fallen souls.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Narottama dāsa Ṭhākura sings in his Prārthanā (39):"
+		},
+		{
+			"type": "normal",
+			"content": "śrī-kṛṣṇa-caitanya-prabhu dayā kara more,\ntomā vinā ke dayālu jagat-saṁsāre"
+		},
+		{
+			"type": "normal",
+			"content": "patita-pāvana-hetu tava avatāra,\nmo sama patita prabhu nā pāibe āra"
+		},
+		{
+			"type": "normal",
+			"content": "\"My dear Lord, please be merciful to me. Who can be more merciful than Your Lordship within these three worlds? You appear as an incarnation just to reclaim the conditioned, fallen souls, but I assure You that You will not find a soul more fallen than me.\""
+		},
+		{
+			"type": "normal",
+			"content": "Śrī Caitanya Mahāprabhu's specific mission is to deliver fallen souls. Of course, in this Age of Kali there is hardly anyone who is not fallen according to the calculations of Vedic behavior. In His instructions to Rūpa Gosvāmī, Śrī Caitanya Mahāprabhu described the so-called followers of Vedic religion in this way (Madhya 19.146):"
+		},
+		{
+			"type": "normal",
+			"content": "veda-niṣṭha-madhye ardheka veda 'mukhe' māne\nveda-niṣiddha pāpa kare, dharma nāhi gaṇe"
+		},
+		{
+			"type": "normal",
+			"content": "So-called followers of Vedic principles simply accept the Vedas formally, but they act against Vedic principles. This is symptomatic of this Age of Kali. People claim to follow a certain type of religion, saying formally, \"I am Hindu,\" \"I am Muslim,\" \"I am Christian,\" \"I am this or that,\" but actually no one follows the principles enunciated in religious scriptures. This is the disease of this age. But the merciful Śrī Caitanya Mahāprabhu has simply advised us to chant the Hare Kṛṣṇa mahā-mantra: harer nāma harer nāma harer nāmaiva kevalam. The Lord can deliver anyone and everyone, even though one may have fallen from the injunctions of revealed scriptures. This is Śrī Caitanya Mahāprabhu's special mercy. Consequently He is known as patita-pāvana, the deliverer of all fallen souls."
+		}
+	]
 }

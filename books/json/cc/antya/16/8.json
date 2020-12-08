@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\8.json",
+		"id": "cc\\antya\\16\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "raghunātha-dāsera teṅho haya jñāti-khuḍā\nvaiṣṇavera ucchiṣṭa khāite teṅho haila buḍā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "raghunātha-dāsera—of Raghunātha dāsa Gosvāmī; teṅho—he (Kālidāsa); haya—is; jñāti—relative; khuḍā—uncle; vaiṣṇavera—of the Vaiṣṇavas; ucchiṣṭa—remnants of food; khāite—eating; teṅho—he; haila—became; buḍā—aged.",
+	"translation": "Kālidāsa was an uncle of Raghunātha dāsa Gosvāmī. Throughout his entire life, even in his old age, he tried to eat the remnants of food left by Vaiṣṇavas."
 }

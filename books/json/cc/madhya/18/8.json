@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\8.json",
+		"id": "cc\\madhya\\18\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathā rādhā priyā viṣṇos\ntasyāḥ kuṇḍaṁ priyaṁ tathā\nsarva-gopīṣu saivaikā\nviṣṇor atyanta-vallabhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā—as; rādhā—Śrīmatī Rādhārāṇī; priyā—beloved; viṣṇoḥ—of Lord Kṛṣṇa; tasyāḥ—Her; kuṇḍam—lake; priyam—very dear; tathā—similarly; sarva-gopīṣu—among all the gopīs; sā—She; eva—certainly; ekā—alone; viṣṇoḥ—of Lord Kṛṣṇa; atyanta—very much; vallabhā—dear.",
+	"translation": "\" 'Śrīmatī Rādhārāṇī is most dear to Lord Kṛṣṇa, and Her lake known as Rādhā-kuṇḍa is also very dear to Him. Of all the gopīs, Śrīmatī Rādhārāṇī is certainly the most beloved.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Padma Purāṇa."
+		}
+	]
 }

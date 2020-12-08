@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\46.json",
+		"id": "cc\\madhya\\17\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'jhārikhaṇḍe' sthāvara-jaṅgama āche yata\nkṛṣṇa-nāma diyā kaila premete unmatta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jhārikhaṇḍe—in the place known as Jhārikhaṇḍa; sthāvara-jaṅgama—moving and not moving; āche—there are; yata—all; kṛṣṇa-nāma diyā—giving them the holy name of Lord Kṛṣṇa; kaila—made; premete—in ecstasy; unmatta—mad.",
+	"translation": "Thus all living entities-some moving and some standing still in the forest of Jhārikhaṇḍa-became maddened by hearing the holy name of Lord Kṛṣṇa vibrated by Śrī Caitanya Mahāprabhu.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The great forest of Jhārikhaṇḍa is a great tract of land including Āṭagaḍa, Ḍheṅkānala, Āṅgula, Lāhārā, Kiyañjhaḍa, Bāmaḍā, Bonāi, Gāṅgapura, Choṭa Nāgapura, Yaśapura and Saragujā. All these places, which are covered with mountains and jungles, are known as Jhārikhaṇḍa."
+		}
+	]
 }

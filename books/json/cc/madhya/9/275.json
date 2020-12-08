@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\275.json",
+		"id": "cc\\madhya\\9\\275",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tathāpi madhvācārya ye kariyāche nirbandha\nsei ācariye sabe sampradāya-sambandha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tathāpi—still; madhva-ācārya—Madhvācārya; ye—whatever; kariyāche—formulated; nirbandha—rules and regulations; sei—that; ācariye—we practice; sabe—all; sampradāya—party; sambandha—relationship.",
+	"translation": "\"Still, whatever Madhvācārya has established as the formula for our party, we practice as a party policy.\""
 }

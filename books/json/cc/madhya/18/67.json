@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\67.json",
+		"id": "cc\\madhya\\18\\67",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'śrīvana' dekhi' punaḥ gelā 'loha-vana'\n'mahāvana' giyā kailā janma-sthāna-daraśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-vana—Śrīvana; dekhi'-seeing; punaḥ—again; gelā—went; loha-vana—to Lohavana; mahā-vana—to Mahāvana; giyā—going; kailā—performed; janma-sthāna—birth site; daraśana—seeing.",
+	"translation": "Śrī Caitanya Mahāprabhu then visited Śrīvana and Lohavana. He then went to Mahāvana and saw Gokula, the place of Lord Kṛṣṇa's early childhood pastimes.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Of Śrīvana (also called Bilvavana), the Bhakti-ratnākara states, devatā-pūjita bilvavana śobhāmaya: \"The beautiful forest of Bilvavana is worshiped by all the demigods.\""
+		},
+		{
+			"type": "normal",
+			"content": "About Lohavana, Bhakti-ratnākara (Fifth Wave) states:"
+		},
+		{
+			"type": "normal",
+			"content": "lohavane kṛṣṇera adbhuta go-cāraṇa\nethā loha-jaṅghāsure vadhe bhagavān"
+		},
+		{
+			"type": "normal",
+			"content": "\"At Lohavana, Lord Kṛṣṇa used to tend cows. The demon named Lohajaṅgha was killed at this place.\""
+		},
+		{
+			"type": "normal",
+			"content": "Mahāvana is described as follows in Bhakti-ratnākara (Fifth Wave):"
+		},
+		{
+			"type": "normal",
+			"content": "dekha nanda-yaśodā-ālaya mahāvane\nei dekha śrī-kṛṣṇa-candrera janma sthala\nśrī-gokula, mahāvana--dui 'eka' haya"
+		},
+		{
+			"type": "normal",
+			"content": "\"Behold the house of Nanda and Yaśodā in Mahāvana. See the birthplace of Lord Kṛṣṇa. Mahāvana and the birthplace of Lord Kṛṣṇa, Gokula, are one and the same.\""
+		}
+	]
 }

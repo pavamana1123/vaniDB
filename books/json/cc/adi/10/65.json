@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\65.json",
+		"id": "cc\\adi\\10\\65",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-vijaya-dāsa-nāma prabhura ākhariyā\nprabhure aneka puṅthi diyāche likhiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-vijaya-dāsa—of the name Śrī Vijaya dāsa; nāma—name; prabhura—of the Lord; ākhariyā—chief singer; prabhure—unto the Lord; aneka—many; puṅthi—literatures; diyāche—has given; likhiyā—by writing.",
+	"translation": "Śrī Vijaya dāsa, the twenty-seventh branch, another of the Lord's chief singers, gave the Lord many books written by hand.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Formerly there were no printing presses or printed books. All books were handwritten. Precious books were kept in manuscript form in temples or important places, and anyone who was interested in a book had to copy it by hand. Vijaya dāsa was a professional writer who copied many manuscripts and gave them to Śrī Caitanya Mahāprabhu."
+		}
+	]
 }

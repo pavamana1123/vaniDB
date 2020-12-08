@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\130.json",
+		"id": "cc\\madhya\\22\\130",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śraddhā viśeṣataḥ prītiḥ\nśrī-mūrter aṅghri-sevane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śraddhā—faith; viśeṣataḥ—particularly; prītiḥ—love; śrī-mūrteḥ—of the Deity form of the Lord; aṅghri-sevane—in service of the lotus feet.",
+	"translation": "\" 'One should have full faith and Iove in worshiping the lotus feet of the Deity.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse and the following two verses are found in the Bhakti-rasāmṛta-sindhu (1.2.90-92)."
+		}
+	]
 }

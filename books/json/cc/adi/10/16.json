@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\16.json",
+		"id": "cc\\adi\\10\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra śiṣya-upaśiṣya,--tāṅra upaśākhā\neimata saba śākhā-upaśākhāra lekhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra—his; śiṣya—disciples; upaśiṣya—granddisciples and admirers; tāṅra—his; upaśākhā—subbranches; eimata—in this way; saba—all; śākhā—branches; upaśākhāra—subbranches; lekhā—to describe by writing.",
+	"translation": "His disciples and granddisciples are his subbranches. To describe them all would be difficult."
 }

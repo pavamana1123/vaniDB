@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\27.json",
+		"id": "cc\\antya\\5\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "miśrera āgamana rāye sevaka kahilā\nśīghra rāmānanda tabe sabhāte āilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "miśrera—of Pradyumna Miśra; āgamana—arrival; rāye—to Rāmānanda Rāya; sevaka kahilā—the servant informed; śīghra—very soon; rāmānanda—Rāmānanda Rāya; tabe—thereupon; sabhāte āilā—came to the assembly room.",
+	"translation": "When the servant informed Rāmānanda Rāya of Pradyumna Miśra's arrival, Rāmānanda Rāya immediately went to the assembly room."
 }

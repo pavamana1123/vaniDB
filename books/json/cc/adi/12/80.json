@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\80.json",
+		"id": "cc\\adi\\12\\80",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śākhā-śreṣṭha dhruvānanda, śrīdhara brahmacārī\nbhāgavatācārya, haridāsa brahmacārī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śākhā-śreṣṭha—the chief branch; dhruvānanda—of the name Dhruvānanda; śrīdhara brahmacārī—of the name Śrīdhara Brahmacārī; bhāgavatācārya—of the name Bhāgavatācārya; haridāsa brahmacārī—of the name Haridāsa Brahmacārī.",
+	"translation": "The chief branches of Śrī Gadādhara Paṇḍita were (1) Śrī Dhruvānanda, (2) Śrīdhara Brahmacārī, (3) Haridāsa Brahmacārī and (4) Raghunātha Bhāgavatācārya.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Verse 152 of the Gaura-gaṇoddeśa-dīpikā describes Śrī Dhruvānanda Brahmacārī as an incarnation of Lalitā, and verse 194 describes Śrīdhara Brahmacārī as the gopī known as Candralatikā."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\155.json",
+		"id": "cc\\adi\\5\\155",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāmādi-mūrtiṣu kalā-niyamena tiṣṭhan\nnānāvatāram akarod bhuvaneṣu kintu\nkṛṣṇaḥ svayaṁ samabhavat paramaḥ pumān yo\ngovindam ādi-puruṣaṁ tam ahaṁ bhajāmi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāma-ādi—the incarnation of Lord Rāma, etc.; mūrtiṣu—in different forms; kalā-niyamena—by the order of plenary portions; tiṣṭhan—existing; nānā—various; avatāram—incarnations; akarot—executed; bhuvaneṣu—within the worlds; kintu—but; kṛṣṇaḥ—Lord Kṛṣṇa; svayam—personally; samabhavat—appeared; paramaḥ—the supreme; pumān—person; yaḥ—who; govindam—unto Lord Govinda; ādi-puruṣam—the original person; tam—unto Him; aham—I; bhajāmi—offer obeisances.",
+	"translation": "\"I worship Govinda, the primeval Lord, who by His various plenary portions appeared in the world in different forms and incarnations such as Lord Rāma, but who personally appears in His supreme original form as Lord Kṛṣṇa.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Brahma-saṁhitā (5.39)."
+		}
+	]
 }

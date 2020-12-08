@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\283.json",
+		"id": "cc\\antya\\6\\283",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svarūpa kahe,--\"siṁha-dvāre duḥkha anubhaviyā\nchatre māgi' khāya madhyāhna-kāle giyā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svarūpa kahe—Svarūpa Dāmodara replied; siṁha-dvāre—at the Siṁha-dvāra gate; duḥkha anubhaviyā—feeling unhappy; chatre—at the charity booth; māgi'-begging; khāya—he eats; madhyāhna-kāle—at midday; giyā—going.",
+	"translation": "Svarūpa Dāmodara replied, \"Raghunātha dāsa felt unhappy standing at the Siṁha-dvāra. Therefore he is now going at midday to beg alms from the charity booth.\""
 }

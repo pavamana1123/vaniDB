@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\68.json",
+		"id": "cc\\madhya\\22\\68",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yaḥ śāstrādiṣv anipuṇaḥ\nśraddhāvān sa tu madhyamaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yaḥ—anyone who; śāstra-ādiṣu—in the revealed scriptures; anipuṇaḥ—not very expert; śraddhāvān—full of faith; saḥ—he; tu—certainly; madhyamaḥ—second-class or middle-class devotee.",
+	"translation": "\" 'He who does not know scriptural argument very well but who has firm faith is called an intermediate or second-class devotee.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse appears in the Bhakti-rasāmṛta-sindhu (1.2.18)."
+		}
+	]
 }

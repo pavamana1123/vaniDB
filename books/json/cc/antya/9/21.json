@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\21.json",
+		"id": "cc\\antya\\9\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ghoḍā daśa-bāra haya, laha' mūlya kari' \"\neta bali' ghoḍā āne rāja-dvāre dhari'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ghoḍā—horses; daśa-bāra—ten to twelve; haya—there are; laha'-take; mūlya kari'-on the proper value; eta bali'-saying this; ghoḍā āne—he brought the horses; rāja-dvāre dhari'-keeping at the door of the King.",
+	"translation": "\"There are ten to twelve good horses. Take them immediately for a proper price.' After saying this, he brought all the horses to the door of the King."
 }

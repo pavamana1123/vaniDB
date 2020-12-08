@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\199.json",
+		"id": "cc\\adi\\17\\199",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "keha--haridāsa, sadā bale 'hari' 'hari'\njāni kāra ghare dhana karibeka curi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "keha—some of them; haridāsa—of the name Haridāsa; sadā—always; bale—says; hari hari—the name of the Lord, \"Hari, Hari\"; jāni—I understand; kāra—someone's; ghare—at home; dhana—wealth; karibeka—will do; curi—theft.",
+	"translation": "\" 'Some of them are called Haridāsa. They always chant \"Hari, Hari,\" and thus I thought they would steal the riches from someone's house.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Another meaning of \"Hari, Hari\" is \"I am stealing. I am stealing.\""
+		}
+	]
 }

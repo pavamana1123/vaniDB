@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\15\\7.json",
+		"id": "cc\\adi\\15\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "adhyayana-līlā prabhura dāsa-vṛndāvana\n'caitanya-maṅgale' kaila vistāri varṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "adhyayana-līlā—pastimes of studying; prabhura—of the Lord; dāsa-vṛndāvana—Vṛndāvana dāsa Ṭhākura; caitanya-maṅgale—in his book Caitanya-maṅgala; kaila—has done; vistāri—elaborately; varṇana—explanation.",
+	"translation": "In his book Caitanya-maṅgala [which later became Caitanya-bhāgavata], Śrīla Vṛndāvana dāsa Ṭhākura very elaborately described the Lord's pastimes of study.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Caitanya-bhāgavata, Ādi-līlā, chapters Four, Six, Seven, Eight, Nine and Ten, are a good reference for the studious pastimes of Lord Śrī Caitanya Mahāprabhu."
+		}
+	]
 }

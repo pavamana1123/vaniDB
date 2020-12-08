@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\46.json",
+		"id": "cc\\antya\\18\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"kaha, jāliyā, ei dike dekhilā eka-jana?\ntomāra ei daśā kene,--kahata' kāraṇa?\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kaha—please say; jāliyā—O fisherman; ei dike—in this direction; dekhilā—did you see; eka-jana—someone; tomāra—your; ei—this; daśā—condition; kene—why; kahata'-kindly speak; kāraṇa—the cause.",
+	"translation": "\"My dear fisherman,\" he said, \"why are you behaving like this? Have you seen someone hereabouts? What is the cause of your behavior? Please tell us.\""
 }

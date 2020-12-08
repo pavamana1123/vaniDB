@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\87.json",
+		"id": "cc\\madhya\\6\\87",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra nāhika doṣa, śāstre ei kahe\npāṇḍityādye īśvara-tattva-jñāna kabhu nahe'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—your; nāhika—there is not; doṣa—fault; śāstre—the scriptures; ei—this; kahe—mention; pāṇḍitya-ādye—simply by scholarship, etc.; īśvara-tattva-jñāna—knowledge of the principles of the Supreme Personality of Godhead; kabhu—ever; nahe—there is not.",
+	"translation": "\"It is not your fault; it is the verdict of the scriptures. You cannot understand the Supreme Personality of Godhead simply by scholarship.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a very important verse. Even big scholars cannot understand Kṛṣṇa, yet they dare comment on the Bhagavad-gītā. Reading the Bhagavad-gītā means understanding Kṛṣṇa, yet we actually see many scholars making blunders in trying to understand Kṛṣṇa. Gopīnātha Ācārya's statement is confirmed in many places in Vedic literature. In the Kaṭha Upaniṣad (1.2.23) it is stated:"
+		},
+		{
+			"type": "normal",
+			"content": "nāyam ātmā pravacanena labhyo\nna medhayā na bahunā śrutena\nyam evaiṣa vṛṇute tena labhyas\ntasyaiṣa ātmā vivṛṇute tanūṁ svām"
+		},
+		{
+			"type": "normal",
+			"content": "It is also stated in Kaṭha Upaniṣad (1.2.9):"
+		},
+		{
+			"type": "normal",
+			"content": "naiṣā tarkeṇa matir āpaneyā\nproktānyenaiva sujñānāya preṣṭha\nyāṁ tvam āpaḥ satya-dhṛtir batāsi\ntvādṛṅ no bhūyān naciketaḥ praṣṭā"
+		},
+		{
+			"type": "normal",
+			"content": "The fact is that the Supreme Personality of Godhead, the Supersoul, cannot be attained simply by explanations, logic and erudite scholarship. One cannot understand Him simply by one's brain substance. Even by studying all Vedic literature, one cannot understand the Supreme Lord. However, if one is slightly favored by the mercy of the Lord, if the Lord is pleased, one can understand Him. But who are the candidates eligible to receive the mercy of the Lord? Only the devotees. They alone can understand what is the Supreme Personality of Godhead. The Lord reveals Himself to the sincere devotee when He is pleased with his service: svayam eva sphuraty adaḥ. One should not try to understand the Lord simply from the statements of the Vedas, nor should one uselessly attempt to decry these statements through reasoning and logic."
+		}
+	]
 }

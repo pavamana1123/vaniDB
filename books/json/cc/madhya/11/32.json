@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\32.json",
+		"id": "cc\\madhya\\11\\32",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "durāpā hy alpa-tapasaḥ\nsevā vaikuṇṭha-vartmasu\nyatropagīyate nityaṁ\ndeva-devo janārdanaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "durāpā—very difficult to achieve; hi—certainly; alpa-tapasaḥ—by a person not advanced in spiritual life; sevā—service; vaikuṇṭha-vartmasu—unto persons on the path back home, back to Godhead; yatra—wherein; upagīyate—is worshiped and glorified; nityam—regularly; deva-devaḥ—the Supreme Personality of Godhead; janārdanaḥ—Lord Kṛṣṇa.",
+	"translation": "\" 'Those whose austerity is meager can hardly obtain the service of the pure devotees progressing on the path back to the kingdom of Godhead, the Vaikuṇṭhas. Pure devotees engage one hundred percent in glorifying the Supreme Lord, who is the Lord of the demigods and the controller of all living entities.' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is a quotation from Śrīmad-Bhāgavatam (3.7.20). It was spoken by Vidura in his conversation with Maitreya Ṛṣi, a great devotee of the Lord."
+		}
+	]
 }

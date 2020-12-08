@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\99-100.json",
+		"id": "cc\\adi\\4\\99-100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prema-bhakti śikhāite āpane avatari\nrādhā-bhāva-kānti dui aṅgīkāra kari'",
+			"isProse": false
+		},
+		{
+			"roman": "śrī-kṛṣṇa-caitanya-rūpe kaila avatāra\nei ta' pañcama ślokera artha paracāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prema-bhakti—devotional service in love of Godhead; śikhāite—to teach; āpane—Himself; avatari—descending; rādhā-bhāva—the mood of Śrīmatī Rādhārāṇī; kānti—and luster; dui—two; aṅgīkāra kari'-accepting; śrī-kṛṣṇa-caitanya—of Lord Caitanya Mahāprabhu; rūpe—in the form; kaila—made; avatāra—incarnation; ei—this; ta'-certainly; pañcama—fifth; ślokera—of the verse; artha—meaning; paracāra—proclamation.",
+	"translation": "To promulgate prema-bhakti [devotional service in love of Godhead], Kṛṣṇa appeared as Śrī Kṛṣṇa Caitanya with the mood and complexion of Śrī Rādhā. Thus I have explained the meaning of the fifth verse."
 }

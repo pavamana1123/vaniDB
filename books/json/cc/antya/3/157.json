@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\157.json",
+		"id": "cc\\antya\\3\\157",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ihāṅ rāmacandra khāna sevake ājñā dila\ngosāñi yāhāṅ vasilā, tāra māṭī khodāila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ihāṅ—here; rāmacandra khāna—Rāmacandra Khān; sevake—to the servant; ājñā dila—ordered; gosāñi—Lord Nityānanda Prabhu; yāhāṅ—where; vasilā—sat down; tāra—of that place; māṭī—earth; khodāila—caused to dig.",
+	"translation": "Rāmacandra Khān ordered the servant to dig up the dirt in the place where Nityānanda Prabhu had sat."
 }

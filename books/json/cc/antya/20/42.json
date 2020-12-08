@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\42.json",
+		"id": "cc\\antya\\20\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣṇa udāsīna ha-ilā karite parīkṣaṇa\nsakhī saba kahe,--'kṛṣṇe kara upekṣaṇa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇa—Lord Kṛṣṇa; udāsīna—indifferent; ha-ilā—became; karite—to make; parīkṣaṇa—testing; sakhī saba kahe—all the friends say; kṛṣṇe—unto Kṛṣṇa; kara—just do; upekṣaṇa—neglecting.",
+	"translation": "\"Lord Kṛṣṇa has become indifferent to Me just to test My love, and My friends say,'Better to disregard Him.' \""
 }

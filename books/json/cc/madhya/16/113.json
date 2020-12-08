@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\113.json",
+		"id": "cc\\madhya\\16\\113",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dui mahā-pātra,--'haricandana', 'mardarāja'\ntāṅre ājñā dila rājā--'kariha sarva kāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dui mahā-pātra—two respectable officers; haricandana—Haricandana; mardarāja—Mardarāja; tāṅre—to them; ājñā dila—gave orders; rājā—the King; kariha—do; sarva kāya—everything needed.",
+	"translation": "The King ordered two respectable officers named Haricandana and Mardarāja to do whatever was necessary to carry out these orders."
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\264.json",
+		"id": "cc\\madhya\\8\\264",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eta tattva mora citte kaile prakāśana\nbrahmāke veda yena paḍāila nārāyaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eta tattva—all these varieties of truth; mora citte—in my heart; kaile—you did; prakāśana—manifesting; brahmāke—unto Lord Brahmā; veda—the Vedic knowledge; yena—as; paḍāila—taught; nārāyaṇa—the Supreme Lord.",
+	"translation": "Rāmānanda Rāya then admitted, \"You have manifested many transcendental truths in my heart. This is exactly the way Nārāyaṇa educated Lord Brahmā.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The heart of Brahmā was enlightened by the Supreme Personality of Godhead. This is Vedic information given in the Śvetāśvatara Upaniṣad (6.18):"
+		},
+		{
+			"type": "normal",
+			"content": "yo brahmāṇaṁ vidadhāti pūrvaṁ\nyo vai vedāṁś ca prahiṇoti tasmai\ntaṁ ha devam ātma-buddhi-prakāśaṁ\nmumukṣur vai śaraṇam ahaṁ prapadye"
+		},
+		{
+			"type": "normal",
+			"content": "\"Because I desire liberation, let me surrender unto the Supreme Personality of Godhead, who first enlightened Lord Brahmā in Vedic knowledge through Lord Brahmā's heart. The Lord is the original source of all enlightenment and spiritual advancement.\" In this connection one may also refer to Śrīmad-Bhāgavatam 2.9.30-35, 11.14.3, 12.4.40 and 12.13.19."
+		}
+	]
 }

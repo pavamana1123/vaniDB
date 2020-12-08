@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\309.json",
+		"id": "cc\\antya\\6\\309",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ananta guṇa raghunāthera ke karibe lekhā?\nraghunāthera niyama,--yena pāṣāṇera rekhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ananta guṇa—unlimited transcendental attributes; raghunāthera—of Raghunātha dāsa; ke—who; karibe lekhā—can write; raghunāthera—of Raghunātha dāsa; niyama—the strict regulative principles; yena—like; pāṣāṇera rekhā—lines on a stone.",
+	"translation": "Who could list the unlimited transcendental attributes of Raghunātha dāsa? His strict regulative principles were exactly like lines on a stone.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The words pāṣāṇera rekhā are very significant. Raghunātha dāsa Gosvāmī followed the regulative principles so strictly and rigidly that they were compared to the lines on a stone. As such lines cannot be erased at any time, so the regulative principles observed by Śrī Raghunātha dāsa Gosvāmī could not be changed under any circumstances."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\94.json",
+		"id": "cc\\antya\\12\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nimāñi khāñāche,--aiche haya mora mana\npāche jñāna haya,--muñi dekhinu 'svapana' \"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nimāñi khāñāche—Nimāi has eaten; aiche—such; haya—is; mora—my; mana—mind; pāche—afterwards; jñāna haya—I think; muñi—I; dekhinu svapana—saw a dream.",
+	"translation": "\"Sometimes I think that Nimāi has eaten them, but afterwards I think that I was only dreaming.\""
 }

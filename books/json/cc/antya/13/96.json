@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\96.json",
+		"id": "cc\\antya\\13\\96",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"tumi baḍa loka, paṇḍita, mahā-bhāgavate\nsevā nā kariha, sukhe cala mora sāthe\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; baḍa loka—a great personality; paṇḍita—a learned scholar; mahā-bhāgavate—a great devotee; sevā nā kariha—please do not serve; sukhe—happily; cala—go; mora sāthe—with me.",
+	"translation": "\"You are a respectable gentleman, a learned scholar and a great devotee,\" he said. \"Please do not try to serve me. Just come with me in a happy mood.\""
 }

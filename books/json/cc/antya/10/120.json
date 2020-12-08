@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\120.json",
+		"id": "cc\\antya\\10\\120",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ācāryaratnera ei saba upahāra\nācāryanidhira ei, aneka prakāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācāryaratnera—of Candraśekhara; ei—these; saba—all; upahāra—presentations; ācāryanidhira—of Ācāryanidhi; ei—these; aneka prakāra—of different varieties.",
+	"translation": "\"All these are gifts of Ācāryaratna, and these varieties of gifts are from Ācāryanidhi."
 }

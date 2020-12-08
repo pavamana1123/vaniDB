@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\78.json",
+		"id": "cc\\antya\\10\\78",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svarūpera saṅge mātra eka sampradāya\nsvarūpera saṅge seha manda-svara gāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svarūpera saṅge—with Svarūpa Dāmodara; mātra—only; eka—one; sampradāya—group; svarūpera saṅge—with Svarūpa Dāmodara; seha—they; manda-svara—very softly; gāya—chanted.",
+	"translation": "Thus only one group continued chanting with Svarūpa Dāmodara, and they chanted very softly."
 }

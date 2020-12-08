@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\203.json",
+		"id": "cc\\madhya\\1\\203",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "na mṛṣā paramārtham eva me\nśṛṇu vijñāpanam ekam agrataḥ\nyadi me na dayiṣyase tadā\ndayanīyas tava nātha durlabhaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "na—not; mṛṣā—untruth; parama-artham—full of meaning; eva—certainly; me—my; śṛṇu—kindly hear; vijñāpanam—submission; ekam—one; agrataḥ—first; yadi—if; me—unto me; na dayiṣyase—You will not show mercy; tadā—then; dayanīyaḥ—candidate for mercy; tava—Your; nātha—O Lord; durlabhaḥ—difficult to find.",
+	"translation": "\" 'Let us submit one piece of information before You, dear Lord. It is not at all false but is full of meaning. It is this: If You are not merciful upon us, then it will be very, very difficult to find more suitable candidates for Your mercy.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from the Stotra-ratna (47), by Śrī Yāmunācārya."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\42.json",
+		"id": "cc\\madhya\\1\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra bhrātuṣ-putra nāma--śrī-jīva-gosāñi\nyata bhakti-grantha kaila, tāra anta nāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra—his; bhrātuḥ-putra—nephew; nāma—of the name; śrī-jīva-gosāñi—Śrīla Jīva Gosvāmī Prabhupāda; yata—all; bhakti-grantha—books on devotional service; kaila—compiled; tāra—that; anta—end; nāi—there is not.",
+	"translation": "Śrī Rūpa Gosvāmī's nephew, Śrīla Jīva Gosvāmī, has compiled so many books on devotional service that there is no counting them."
 }

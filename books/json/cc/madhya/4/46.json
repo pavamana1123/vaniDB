@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\46.json",
+		"id": "cc\\madhya\\4\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṣaṇeka rodana kari, mana kaila dhīra\nājñā-pālana lāgi' ha-ilā susthira\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṣaṇeka—for some time; rodana kari—crying; mana—mind; kaila—made; dhīra—pacified; ājñā—the order; pālana—of executing; lāgi'-for the matter; ha-ilā—became; su-sthira—silent.",
+	"translation": "Mādhavendra Purī cried for some time, but then he fixed his mind on executing the order of Gopāla. Thus he became tranquil."
 }

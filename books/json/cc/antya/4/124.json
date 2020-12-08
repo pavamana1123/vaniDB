@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\124.json",
+		"id": "cc\\antya\\4\\124",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tapta-vālukāya tomāra pāya haila vraṇa\ncalite nā pāra, kemane karilā sahana?\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tapta-vālukāya—by the hot sand; tomāra—your; pāya—on the soles; haila—there were; vraṇa—blisters; calite nā pāra—you cannot walk; kemane—how; karilā sahana—did you tolerate.",
+	"translation": "\"The hot sand must have blistered your soles. Now you cannot walk. How did you tolerate it?\""
 }

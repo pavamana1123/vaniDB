@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\6.json",
+		"id": "cc\\antya\\18\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu premāveśe karena gāna, nartana\nkabhu bhāvāveśe rāsa-līlānukaraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu—Śrī Caitanya Mahāprabhu; prema-āveśe—in ecstatic love; karena—does; gāna—singing; nartana—dancing; kabhu—sometimes; bhāva-āveśe—in ecstatic emotion; rāsa-līlā—the rāsa-līlā dance; anukaraṇa—imitating.",
+	"translation": "He sang and danced in ecstatic love and sometimes imitated the rāsa dance in emotional ecstasy."
 }

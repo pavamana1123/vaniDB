@@ -1,15 +1,25 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\157.json",
+		"id": "cc\\madhya\\14\\157",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gopikāra preme nāhi rasābhāsa-doṣa\nataeva kṛṣṇera kare parama santoṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gopikāra—of the gopīs; preme—in the loving affairs; nāhi—there is not; rasa-ābhāsa—of an adulterated taste of mellow; doṣa—fault; ataeva—therefore; kṛṣṇera—of Lord Kṛṣṇa; kare—they do; parama santoṣa—highest satisfaction.",
+	"translation": "\"There is no flaw or adulteration in the love of the gopīs; therefore they give Kṛṣṇa the highest pleasure.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Rasābhāsa occurs when one's relationship with Kṛṣṇa is adulterated. There are different types of rasābhāsa-first-, second-and third-class. The word rāsa means \"mellow,\" and ābhāsa means \"a shadow.\" If one tastes one kind of mellow and something extra is imposed, that is uparasa. If something is derived from the original mellow, it is called anurasa. If something is appreciated that is far removed from the original mellow, it is called aparasa. Uparasa, anurasa and aparasa are, respectively, first-, second-and third-class rasābhāsas. As stated in the Bhakti-rasāmṛta-sindhu (4.9):"
+		},
+		{
+			"type": "normal",
+			"content": "pūrvam evānuśiṣṭena vikalā rasa-lakṣaṇā\nrasā eva rasābhāsā rasa-jñair anukīrtitāḥ\nsyus tridhoparasāś cānurasāś cāparasāś ca te\nuttamā madhyamāḥ proktāḥ kaniṣṭhāś cety amī kramāt"
+		}
+	]
 }

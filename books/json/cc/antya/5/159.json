@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\159.json",
+		"id": "cc\\antya\\5\\159",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei ta' kahiluṅ pradyumna-miśra-vivaraṇa\nprabhura ājñāya kaila kṛṣṇa-kathāra śravaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei ta' kahiluṅ—thus I have described; pradyumna-miśra-vivaraṇa—the descriptive narration of Pradyumna Miśra; prabhura ājñāya—on the order of Śrī Caitanya Mahāprabhu; kaila—did; kṛṣṇa-kathāra śravaṇa—listening to discourses on topics concerning Kṛṣṇa.",
+	"translation": "I have thus described the narration concerning Pradyumna Miśra and how, following the order of Śrī Caitanya Mahāprabhu, he listened to discourses about Kṛṣṇa spoken by Rāmānanda Rāya."
 }

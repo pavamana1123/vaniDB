@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\63.json",
+		"id": "cc\\antya\\3\\63",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "nāmābhāsa haite haya saṁsārera kṣaya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nāma-ābhāsa haite—even on account of nāmābhāsa; haya—there is; saṁsārera kṣaya—deliverance from material bondage;",
+	"translation": "\"Even a faint light from the holy name of the Lord can eradicate all the reactions of sinful life.\""
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\88.json",
+		"id": "cc\\antya\\10\\88",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "govinda kahe,--'karite cāhi pāda-samvāhana'\nprabhu kahe,--'kara vā nā kara, yei laya tomāra mana'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govinda kahe—Govinda said; karite—to do; cāhi—I want; pāda-samvāhana—massaging Your legs; prabhu kahe—the Lord replied; kara—do; vā—or; nā kara—do not do; yei—whatever; laya tomāra mana—you decide.",
+	"translation": "Govinda repeatedly requested, \"I want to massage Your legs,\" but the Lord said, \"Do it or don't do it. It depends upon your mind.\""
 }

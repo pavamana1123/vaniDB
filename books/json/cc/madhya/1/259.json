@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\259.json",
+		"id": "cc\\madhya\\1\\259",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe choṭa haridāse prabhu kaila daṇḍa\ndāmodara-paṇḍita kaila prabhuke vākya-daṇḍa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—thereafter; choṭa haridāse—unto Junior Haridāsa; prabhu—the Lord; kaila—did; daṇḍa—punishment; dāmodara-paṇḍita—of the name Dāmodara Paṇḍita; kaila—did; prabhuke—unto the Lord; vākya-daṇḍa—chastisement as a warning.",
+	"translation": "After this, the Lord punished Junior Haridāsa, and Dāmodara Paṇḍita gave some warning to the Lord.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Actually Dāmodara Paṇḍita was the eternal servant of the Lord. He could not punish the Lord at any time, nor had he any desire to, but He did give some warning to the Lord so that others would not blaspheme Him. Of course, He should have known that the Lord is the Supreme Personality of Godhead and is free to act in any way. There is no need to warn Him, and such an action is not very much appreciated by advanced devotees."
+		}
+	]
 }

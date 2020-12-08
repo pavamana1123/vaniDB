@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\86.json",
+		"id": "cc\\antya\\7\\86",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tamāla-śyāmala-tviṣi\nśrī-yaśodā-stanandhaye\nkṛṣṇa-nāmno rūḍhir iti\nsarva-śāstra-vinirṇayaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tamāla-śyāmala-tviṣi—whose complexion is dark blue, resembling a tamāla tree; śrī-yaśodā-stanam-dhaye—sucking the breast of mother Yaśodā; kṛṣṇa-nāmnaḥ—of the name Kṛṣṇa; rūḍhiḥ—the chief meaning; iti—thus; sarva-śāstra—of all revealed scriptures; vinirṇayaḥ—the conclusion.",
+	"translation": "\"The only purport of the holy name of Kṛṣṇa is that He is dark blue like a tamāla tree and is the son of mother Yaśodā. This is the conclusion of all the revealed scriptures.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Nāma-kaumuḍī"
+		}
+	]
 }

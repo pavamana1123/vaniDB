@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\231.json",
+		"id": "cc\\adi\\4\\231",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "e saba siddhānta gūḍha,--kahite nā yuyāya\nnā kahile, keha ihāra anta nāhi pāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "e—this; saba—all; siddhānta—conclusions; gūḍha—very confidential; kahite—to speak; nā—not; yuyāya—quite fit; nā—not; kahile—speaking; keha—anyone; ihāra—of it; anta—end; nāhi—not; pāya—gets.",
+	"translation": "All these conclusions are unfit to disclose in public. But if they are not disclosed, no one will understand them."
 }

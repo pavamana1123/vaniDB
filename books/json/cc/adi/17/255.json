@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\255.json",
+		"id": "cc\\adi\\17\\255",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "saba deśa bhraṣṭa kaila ekalā nimāñi\nbrāhmaṇa mārite cāhe, dharma-bhaya nāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "saba—all; deśa—countries; bhraṣṭa—spoiled; kaila—has; ekalā—alone; nimāñi—Nimāi Paṇḍita; brāhmaṇa—a caste brāhmaṇa; mārite—to strike; cāhe—He wants; dharma—of religious principles; bhaya—fear; nāi—there is not.",
+	"translation": "\"Nimāi Paṇḍita alone has spoiled the entire country,\" they accused. \"He wants to strike a caste brāhmaṇa. He has no fear of religious principles.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In those days also, the caste brāhmaṇas were very proud. They were not prepared to accept chastisement even from a teacher or spiritual master."
+		}
+	]
 }

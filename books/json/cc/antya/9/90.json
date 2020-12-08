@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\90.json",
+		"id": "cc\\antya\\9\\90",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājāra vartana khāya, āra curi kare\nrāja-daṇḍya haya sei śāstrera vicāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājāra vartana—the salary of the King; khāya—he takes; āra—and; curi kare—steals; rāja-daṇḍya—liable to be punished by the King; haya—is; sei—he; śāstrera vicāre—the verdict of the revealed scripture.",
+	"translation": "\"One who serves the government but misappropriates the government's revenue is liable to be punished by the king. That is the verdict of all revealed scriptures."
 }

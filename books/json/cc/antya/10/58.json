@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\58.json",
+		"id": "cc\\antya\\10\\58",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "beḍā-saṅkīrtana tāhāṅ ārambha karilā\nsāta-sampradāya tabe gāite lāgilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "beḍā-saṅkīrtana—surrounding congregational chanting; tāhāṅ—there; ārambha karilā—began; sāta-sampradāya—seven groups; tabe—thereupon; gāite lāgilā—began to chant.",
+	"translation": "After seeing Lord Jagannātha, Śrī Caitanya Mahāprabhu began His all-encompassing saṅkīrtana. He formed seven groups, which then began to chant.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For an explanation of the beḍā-saṅkīrtana, one may refer to Madhya-līlā, Chapter Eleven, verses 215-238."
+		}
+	]
 }

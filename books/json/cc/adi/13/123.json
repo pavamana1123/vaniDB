@@ -1,15 +1,81 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\123.json",
+		"id": "cc\\adi\\13\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pāiyā mānuṣa janma, ye nā śune gaura-guṇa,\nhena janma tāra vyartha haila\npāiyā amṛtadhunī, piye viṣa-garta-pāni,\njanmiyā se kene nāhi maila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pāiyā mānuṣa janma—anyone who has gotten the form of a human body; ye—who; nā—does not; śune—hear; gaura-guṇa—the qualities of Lord Caitanya Mahāprabhu; hena janma—such a birth; tāra—his; vyartha haila—becomes useless; pāiyā—getting the opportunity; amṛtadhunī—of the river of nectar; piye—drinks; viṣa-garta-pāni—water in a poison pit of material happiness; janmiyā—taking birth as a human being; se—he; kene—why; nāhi—did not; maila—die.",
+	"translation": "Anyone who attains a human body but does not take to the cult of Śri Caitanya Mahāprabhu is baffled in his opportunity. Amṛtadhunī is a flowing river of the nectar of devotional service. If after getting a human body one drinks the water in a poison pit of material happiness instead of the water of such a river, it would be better for him not to have lived, but to have died long ago.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this connection Śrīmat Prabodhānanda Sarasvatī has composed the following verses in his Caitanya-candrāmṛta (37, 36, 34):"
+		},
+		{
+			"type": "normal",
+			"content": "acaitanyam idaṁ viśvaṁ yadi caitanyam īśvaram\nna viduḥ sarva-śāstra-jñā hy api bhrāmyanti te janāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"This material world is without Kṛṣṇa consciousness. Lord Caitanya Mahāprabhu is Kṛṣṇa consciousness personified. Therefore if a very learned scholar or scientist does not understand Śrī Caitanya Mahāprabhu, certainly he is wandering uselessly in this world.\""
+		},
+		{
+			"type": "normal",
+			"content": "prasārita-mahā-prema-pīyūṣa-rasa-sāgare\ncaitanya-candre prakaṭe yo dīno dīna eva saḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"A person who does not take advantage of the nectar of devotional service overflowing during the presence of Śrī Caitanya Mahāprabhu's cult is certainly the poorest of the poor.\""
+		},
+		{
+			"type": "normal",
+			"content": "avatīrṇe gaura-candre vistīrṇe prema-sāgare\nsuprakāśita-ratnaughe yo dīno dīna eva saḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"The advent of Lord Caitanya Mahāprabhu is just like an expanding ocean of nectar. One who does not collect the valuable jewels within this ocean is certainly the poorest of the poor.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, the Śrīmad-Bhāgavatam (2.3.19, 20, 23) states:"
+		},
+		{
+			"type": "normal",
+			"content": "śva-viḍ-varāhoṣṭra-kharaiḥ\nsaṁstutaḥ puruṣaḥ paśuḥ\nna yat-karṇa-pathopeto\njātu nāma gadāgrajaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "bile batorukrama-vikramān ye\nna śṛṇvataḥ karṇa-puṭe narasya\njihvāsatī dārdurikeva sūta\nna copagāyaty urugāya-gāthāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "jīvañ chavo bhāgavatāṅghri-reṇuṁ\nna jātu martyo 'bhilabheta yas tu\nśrī-viṣṇu-padyā manujas tulasyāḥ\nśvasañ chavo yas tu na veda gandham"
+		},
+		{
+			"type": "normal",
+			"content": "\"A person who has no connection with Kṛṣṇa consciousness may be a very great personality in so-called human society, but actually he is no better than a great animal. Such big animals are generally praised by other animals like dogs, hogs camels and asses. A person who does not lend his aural reception to hearing about the Supreme Personality of Godhead must be considered to have earholes like holes in a field. Although that person has a tongue, it is like the tongue of a frog, which unnecessarily creates a disturbance by croaking, inviting the snake of death. Similarly, a person who neither takes advantage of the dust of the lotus feet of great devotees nor smells the tulasī leaves offered to the lotus feet of the Lord must be considered dead even though he is supposedly working.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, the Śrīmad-Bhāgavatam, Tenth Canto, Chapter One, verse 4, states:"
+		},
+		{
+			"type": "normal",
+			"content": "nivṛtta-tarṣair upagīyamānād\nbhavauṣadhāc chrotra-mano-'bhirāmāt\nka uttamaśloka-guṇānuvādāt\npumān virajyeta vinā paśu-ghnāt"
+		},
+		{
+			"type": "normal",
+			"content": "\"Who but the animal-killer or the killer of the soul will not care to hear glorification of the Supreme Personality of Godhead? Such glorification is enjoyed by persons liberated from the contamination of this material world.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, in the Third Canto, Chapter Twenty-three, verse 56, the Bhāgavatam says, na tīrtha-pada-sevāyai jīvann api mṛto hi saḥ: \"Although a person is apparently living, if he does not serve the lotus feet of great devotees he is to be considered a dead body.\""
+		}
+	]
 }

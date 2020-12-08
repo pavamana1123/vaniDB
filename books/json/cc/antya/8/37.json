@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\37.json",
+		"id": "cc\\antya\\8\\37",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prastāve kahiluṅ purī-gosāñira niryāṇa\nyei ihā śune, sei baḍa bhāgyavān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prastāve—incidentally; kahiluṅ—i have described; purī-gosāñira—of Mādhavendra Purī; niryāṇa—the passing away; yei—one who; ihā—this; śune—hears; sei—he; baḍa bhāgyavān—very fortunate.",
+	"translation": "I have incidentally described the passing away of Mādhavendra Purī. Anyone who hears this must be considered very fortunate."
 }

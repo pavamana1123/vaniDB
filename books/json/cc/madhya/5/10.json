@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\10.json",
+		"id": "cc\\madhya\\5\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve vidyānagarera dui ta' brāhmaṇa\ntīrtha karibāre duṅhe karilā gamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—previously; vidyānagarera—of the town known as Vidyānagara; dui—two; ta'-certainly; brāhmaṇa—brāhmaṇas; tīrtha karibāre—to tour places of pilgrimage; duṅhe—both of them; karilā—began; gamana—journey.",
+	"translation": "Formerly at Vidyānagara in South India there were two brāhmaṇas who made a long tour to see different places of pilgrimage."
 }

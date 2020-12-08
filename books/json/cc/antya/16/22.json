@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\22.json",
+		"id": "cc\\antya\\16\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka vāñchā haya,--yadi kṛpā kari' kara\npāda-raja deha', pāda mora māthe dhara\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka vāñchā—one desire; haya—there is; yadi—if; kṛpā kari'-being merciful; kara—you do; pāda-raja—the dust of your feet; deha'-give; pāda—feet; mora—my; māthe—on the head; dhara—please place.",
+	"translation": "\"My dear sir, I have one desire. Please be merciful to me by kindly placing your feet upon my head so that the dust on your feet may touch it.\""
 }

@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\184-185.json",
+		"id": "cc\\madhya\\15\\184-185",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "purī-gosāñi, jagadānanda, svarūpa-dāmodara\ndāmodara-paṇḍita, āra govinda, kāśīśvara",
+			"isProse": false
+		},
+		{
+			"roman": "ei-saba-saṅge prabhu vaise nīlācale\njagannātha-daraśana nitya kare prātaḥ-kāle\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "purī-gosāñi—Paramānanda Purī; jagadānanda—Jagadānanda; svarūpa-dāmodara—Svarūpa Dāmodara; dāmodara-paṇḍita—Dāmodara Paṇḍita; āra—and; govinda—Govinda; kāśīśvara—Kāśīśvara; ei-saba—all these personalities; saṅge—accompanied by; prabhu—Śrī Caitanya Mahāprabhu; vaise—stays; nīlācale—at Jagannātha Purī; jagannātha-daraśana—seeing Lord Jagannātha; nitya—daily; kare—does; prātaḥ-kāle—in the morning.",
+	"translation": "Śrī Caitanya Mahāprabhu remained at Jagannātha Purī, Nīlācala, with Paramānanda Purī, Jagadānanda, Svarūpa Dāmodara, Dāmodara Paṇḍita, Govinda and Kāśīśvara. It was Śrī Caitanya Mahāprabhu's daily business to see Lord Jagannātha in the morning."
 }

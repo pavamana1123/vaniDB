@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\26.json",
+		"id": "cc\\madhya\\19\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sanātana kahe,--tumi svatantra gauḍeśvara\nye yei doṣa kare, deha' tāra phala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sanātana kahe—Sanātana Gosvāmī said; tumi—you; svatantra—independent; gauḍa-īśvara—the ruler of Bengal; ye yei—whatever; doṣa—faults; kare—one commits; deha'-you award; tāra phala—the results of that.",
+	"translation": "Sanātana Gosvāmī said, \"You are the supreme ruler of Bengal and are completely independent. Whenever someone commits a fault, you punish him accordingly.\""
 }

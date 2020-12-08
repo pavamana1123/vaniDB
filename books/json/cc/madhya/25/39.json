@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\39.json",
+		"id": "cc\\madhya\\25\\39",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "avajānanti māṁ mūḍhā\nmānuṣīṁ tanum āśritam\nparaṁ bhāvam ajānanto\nmama bhūta-maheśvaram\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "avajānanti—decry; mām—Me; mūḍhāḥ—rascals; mānuṣīm—just like a human being; tanum—a body; āśritam—accepted; param—supreme; bhāvam—position; ajānantaḥ—without knowing; mama—My; bhūta-maheśvaram—exalted position as the Supreme Person, creator of the material world.",
+	"translation": "\" 'Fools disrespect Me because I appear like a human being. They do not know My supreme position as the cause of all causes, the creator of the material energy.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (9.11)."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\170.json",
+		"id": "cc\\madhya\\6\\170",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'pariṇāma-vāda'--vyāsa-sūtrera sammata\nacintya-śakti īśvara jagad-rūpe pariṇata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pariṇāma-vāda—the theory of transformation; vyāsa-sūtrera—of the Vedānta-sūtra; sammata—purpose; acintya-śakti—inconceivable power; īśvara—the Supreme Personality of Godhead; jagat-rūpe—in the form of the cosmic manifestation; pariṇata—transformed.",
+	"translation": "\"The Vedānta-sūtra aims at establishing that the cosmic manifestation has come into being by the transformation of the inconceivable potency of the Supreme Personality of Godhead.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For a further explanation of pariṇāma-vāda, refer to Ādi-līlā, Seventh Chapter, verses 121-133."
+		}
+	]
 }

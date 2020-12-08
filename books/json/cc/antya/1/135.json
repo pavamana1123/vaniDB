@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\135.json",
+		"id": "cc\\antya\\1\\135",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ākṣiptaḥ kāla-sāmyena\npraveśaḥ syāt pravartakaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ākṣiptaḥ—set in motion; kāla-sāmyena—by a suitable time; praveśaḥ—the entrance; syāt—should be; pravartakaḥ—named pravartaka.",
+	"translation": "'When the entrance of the actors is set in motion by the arrival of a suitable time, the entrance is called pravartaka.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from Nāṭaka-candrikā (12) by Śrīla Rūpa Gosvāmī."
+		}
+	]
 }

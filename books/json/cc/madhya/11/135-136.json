@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\135-136.json",
+		"id": "cc\\madhya\\11\\135-136",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "advaita kahe,-īśvarera ei svabhāva haya\nyadyapi āpane pūrṇa, sarvaiśvarya-maya",
+			"isProse": false
+		},
+		{
+			"roman": "tathāpi bhakta-saṅge haya sukhollāsa\nbhakta-saṅge kare nitya vividha vilāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "advaita kahe—Advaita Ācārya Prabhu said; īśvarera—of the Lord; ei—this; svabhāva—feature; haya—becomes; yadyapi—although; āpane—Himself; pūrṇa—all-perfect; sarva-aiśvarya-maya—full of all opulences; tathāpi—still; bhakta-saṅge—in the association of devotees; haya—there is; sukha-ullāsa—great jubilation; bhakta-saṅge—with devotees; kare—does; nitya—eternally; vividha—various; vilāsa—pastimes.",
+	"translation": "Advaita Ācārya Prabhu replied, \"This is a natural characteristic of the Supreme Personality of Godhead. Although He is personally complete and full of all opulences, He takes transcendental pleasure in the association of His devotees, with whom He has a variety of eternal pastimes.\""
 }

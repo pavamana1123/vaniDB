@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\104.json",
+		"id": "cc\\madhya\\18\\104",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "loka kahe,--rātrye kaivartya naukāte caḍiyā\nkālīya-dahe matsya māre, deuṭī jvāliyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "loka kahe—the sensible respectable persons said; rātrye—at night; kaivartya—a fisherman; naukāte—on a boat; caḍiyā—getting up; kālīya-dahe—in the lake of Kālīya; matsya māre—catches fish; deuṭī jvāliyā—lighting a torch.",
+	"translation": "These respectable gentlemen replied, \"At night in the Kālīya Lake a fisherman lighting a torch in his boat catches many fish."
 }

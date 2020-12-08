@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\151.json",
+		"id": "cc\\madhya\\24\\151",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"sarūpāṇām eka-śeṣa eka-vibhaktau\"\nuktārthānām aprayogaḥ\nrāmaś ca rāmaś ca rāmaś ca rāmā itivat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sa-rūpāṇām—of words of the same form; eka-śeṣaḥ—only the last; eka-vibhaktau—in the same case; ukta-arthānām—of the previously spoken meanings; aprayogaḥ—nonapplication; rāmaḥ ca—and Rāma; rāmaḥ ca—and Rāma; rāmaḥ ca—and Rāma; rāmāḥ itivat—in this way, by one rāma, many rāmas are indicated.",
+	"translation": "\" 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Pāṇini's sūtras (1.2.64)."
+		}
+	]
 }

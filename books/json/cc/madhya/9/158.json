@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\158.json",
+		"id": "cc\\madhya\\9\\158",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "agādha īśvara-līlā kichui nā jāni\ntumi yei kaha, sei satya kari' māni\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "agādha—unfathomable; īśvara-līlā—pastimes of the Lord; kichui—anything; nā jāni—I do not know; tumi—You; yei—whatever; kaha—say; sei satya—that is right; kari' māni—I accept.",
+	"translation": "\"The transcendental pastimes of the Lord are unfathomable, and I do not know anything about them. Whatever You say I accept as the truth.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is the way to understand the truth about the Supreme Personality of Godhead. After hearing the Bhagavad-gītā, Arjuna said very much the same thing:"
+		},
+		{
+			"type": "normal",
+			"content": "sarvam etad ṛtaṁ manye\nyan māṁ vadasi keśava\nna hi te bhagavan vyaktiṁ\nvidur devā na dānavāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"O Kṛṣṇa, I totally accept as truth all that You have told me. Neither the demigods nor the demons, O Lord, can understand Your personality.\" (Bg. 10.14)"
+		},
+		{
+			"type": "normal",
+			"content": "It is not possible to understand the truth about the pastimes of the Lord simply by using our own logic, argument and academic education. We must receive bona fide information from the Supreme Personality of Godhead, just as Arjuna received information when Kṛṣṇa spoke the Bhagavad-gītā. We have to accept the Bhagavad-gītā or any other Vedic literature in good faith. These Vedic scriptures are the only source of knowledge about the Lord. We must understand that we cannot comprehend the Absolute Truth by the speculative process."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\45.json",
+		"id": "cc\\adi\\4\\45",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathottaram asau svāda-\nviśeṣollāsamayy api\nratir vāsanayā svādvī\nbhāsate kāpi kasyacit\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā-uttaram—one after another; asau—that; svāda-viśeṣa—of particular tastes; ullāsa-mayī—consisting of the increase; api—although; ratiḥ—love; vāsanayā—by the different desire; svādvī—sweet; bhāsate—exists; kā api—any; kasyacit—of someone (the devotee).",
+	"translation": "\"Increasing love is experienced in various tastes, one above another. But that love which has the highest taste in the gradual succession of desire manifests itself in the form of conjugal love.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from Śrīla Rūpa Gosvāmī's Bhakti-rasāmṛta-sindhu (2.5.38)."
+		}
+	]
 }

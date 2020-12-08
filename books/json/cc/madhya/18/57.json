@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\57.json",
+		"id": "cc\\madhya\\18\\57",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāhāṅ līlā-sthalī dekhi' gelā 'nandīśvara'\n'nandīśvara' dekhi' preme ha-ilā vihvala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāhāṅ—at Kāmyavana; līlā-sthalī—all the places of pastimes; dekhi'-visiting; gelā nandīśvara—went to Nandīśvara; nandīśvara dekhi'-while seeing Nandīśvara; preme ha-ilā vihvala—became overwhelmed by ecstatic love.",
+	"translation": "After visiting the places of Kṛṣṇa's pastimes at Kāmyavana, Śrī Caitanya Mahāprabhu went to Nandīśvara. While there, He was overwhelmed with ecstatic love.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Nandīśvara is the house of Mahārāja Nanda."
+		}
+	]
 }

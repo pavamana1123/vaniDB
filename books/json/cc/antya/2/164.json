@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\164.json",
+		"id": "cc\\antya\\2\\164",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe śrīvāsa tāra vṛttānta kahila\nyaiche saṅkalpa, yaiche triveṇī praveśila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—at that time; śrīvāsa—Śrīvāsa Ṭhākura; tāra—of Junior Haridāsa; vṛttānta—story; kahila—spoke; yaiche—how; saṅkalpa—he decided; yaiche—how; triveṇī praveśila—he entered the waters at the confluence of the Ganges and Yamunā.",
+	"translation": "Then Śrīvāsa Ṭhākura related the details of Haridāsa's decision and his entering the waters at the confluence of the Ganges and Yamunā."
 }

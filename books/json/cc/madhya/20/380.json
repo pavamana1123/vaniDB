@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\380.json",
+		"id": "cc\\madhya\\20\\380",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vayaso vividhatve 'pi\nsarva-bhakti-rasāśrayaḥ\ndharmī kiśora evātra\nnitya-līlā-vilāsa vān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vayasaḥ—of age; vividhatve—in varieties; api—although; sarva—of all kinds; bhakti-rasa-āśrayaḥ—the shelter of devotional service; dharmī—whose constitutional nature; kiśoraḥ—in the age before youth; eva—certainly; atra—in this; nitya-līlā—of eternal pastimes; vilāsavān—the supreme enjoyer.",
+	"translation": "\" 'The Supreme Personality of Godhead is eternally enjoying Himself, and He is the shelter of all kinds of devotional service. Although His ages are various, His age known as kiśora [pre-youth] is best of all.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Bhakti-rasāmṛta-sindhu (2.1.63)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\27.json",
+		"id": "cc\\antya\\6\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmi yaiche pitāra, taiche tomāra bālaka\nāmi tomāra pālya, tumi āmāra pālaka\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmi—I; yaiche—just like; pitāra—of my father; taiche—similarly; tomāra—your; bālaka—son; āmi—I; tomāra—your; pālya—person to be maintained; tumi—you; āmāra—my; pālaka—maintainer.",
+	"translation": "\"Just as I am my father's son, so I am also yours. I am your dependent, and you are my maintainer."
 }

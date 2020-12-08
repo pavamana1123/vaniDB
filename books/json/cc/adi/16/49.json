@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\49.json",
+		"id": "cc\\adi\\16\\49",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāte bhāla kari' śloka karaha vicāra\nkavi kahe,--ye kahile sei veda-sāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāte—therefore; bhāla—very carefully; kari'-doing it; śloka—the verse; karaha—do; vicāra—judgment; kavi kahe—the poet said; ye kahile—what You have said; sei—that is; veda-sāra—exactly right.",
+	"translation": "The Lord concluded, \"Now, therefore, let us carefully scrutinize this verse.\" The poet replied, \"Yes, the verse You have recited is perfectly correct."
 }

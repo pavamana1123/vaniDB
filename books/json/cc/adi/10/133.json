@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\133.json",
+		"id": "cc\\adi\\10\\133",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāmānanda rāya, paṭṭanāyaka gopīnātha\nkalānidhi, sudhānidhi, nāyaka vāṇīnātha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāmānanda rāya—of the name Rāmānanda Rāya; paṭṭanāyaka gopīnātha—of the name Paṭṭanāyaka Gopīnātha; kalānidhi—of the name Kalānidhi; sudhānidhi—of the name Sudhānidhi; nāyaka vāṇīnātha—of the name Nāyaka Vāṇīnātha.",
+	"translation": "The five sons of Bhavānanda Rāya were Rāmānanda Rāya, Paṭṭanāyaka Gopīnātha, Kalānidhi, Sudhānidhi and Nāyaka Vāṇīnātha."
 }

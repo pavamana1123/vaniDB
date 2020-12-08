@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\26.json",
+		"id": "cc\\antya\\2\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "asaṅkhya lokera ghaṭā,--keha āise yāya\nlokera saṅghaṭṭe keha darśana nā pāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "asaṅkhya lokera ghaṭā—a great crowd of people; keha—some; āise—come; yāya—go; lokera saṅghaṭṭe—in the great crowd of people; keha—some of them; darśana nā pāya—could not see Nakula Brahmacārī.",
+	"translation": "There was a large crowd of people, some coming and some going. Indeed, some people in that great crowd could not even see Nakula Brahmacārī."
 }

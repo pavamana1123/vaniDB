@@ -1,15 +1,25 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\58.json",
+		"id": "cc\\madhya\\18\\58",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'pāvanādi' saba kuṇḍe snāna kariyā\nlokere puchila, parvata-upare yāñā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pāvana-ādi—Pāvana and others; saba kuṇḍe—in every lake; snāna kariyā—taking a bath; lokere puchila—inquired from persons there; parvata-upare yāñā—going up a hill.",
+	"translation": "Śrī Caitanya Mahāprabhu bathed in all the celebrated lakes, beginning with Lake Pāvana. Thereafter He climbed a hill and spoke to the people.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Pāvana-sarovara is described in the Mathurā-māhātmya:"
+		},
+		{
+			"type": "normal",
+			"content": "pāvane sarasi snātvā\nkṛṣṇaṁ nandīśvare girau\ndṛṣṭvā nandaṁ yaśodāṁ ca\nsarvābhīṣṭam avāpnuyāt"
+		}
+	]
 }

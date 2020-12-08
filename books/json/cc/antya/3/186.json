@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\186.json",
+		"id": "cc\\antya\\3\\186",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "mukti' tuccha-phala haya nāmābhāsa haite\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "'mukti—liberation; tuccha-phala—insignificant result; haya—is; nāma-ābhāsa haite—from a glimpse of awakening of offenseless chanting of the holy name.",
+	"translation": "\"Liberation is the insignificant result derived from a glimpse of awakening of offenseless chanting of the holy name."
 }

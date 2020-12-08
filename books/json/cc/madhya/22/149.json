@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\149.json",
+		"id": "cc\\madhya\\22\\149",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāgātmikā-bhakti--'mukhyā' vraja-vāsi-jane\ntāra anugata bhaktira 'rāgānugā'-nāme\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāgātmikā-bhakti—spontaneous devotional service; mukhyā—preeminent; vraja-vāsi-jane—in the inhabitants of Vraja, or Vṛndāvana; tāra—that; anugata—following; bhaktira—of devotional service; rāgānugā-nāme—named rāgānugā or following after spontaneous devotional service.",
+	"translation": "\"The original inhabitants of Vṛndāvana are attached to Kṛṣṇa spontaneously in devotional service. Nothing can compare to such spontaneous devotional service, which is called rāgātmikā bhakti. When a devotee follows in the footsteps of the devotees of Vṛndāvana, his devotional service is called rāgānugā bhakti.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In his Bhakti-sandarbha, Jīva Gosvāmī states:"
+		},
+		{
+			"type": "verse",
+			"content": "tad evaṁ tat-tad-abhimāna-lakṣaṇa-bhāva-viśeṣveṇa svābhāvika-rāgasya vaiśiṣṭye sati tat-tad-rāga-prayuktā śravaṇa-kīrtana-smaraṇa-pāda-sevana-vandanātma-nivedana-prāyā bhaktis teṣāṁ rāgātmikā bhaktir ity ucyate.... tatas tadīyaṁ rāgaṁ rucyānugacchantī sā rāgānugā."
+		},
+		{
+			"type": "normal",
+			"content": "When a pure devotee follows the footsteps of a devotee in Vṛndāvana, he develops rāgānugā bhakti."
+		}
+	]
 }

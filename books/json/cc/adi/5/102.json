@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\102.json",
+		"id": "cc\\adi\\5\\102",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra nābhi-padma haite uṭhila eka padma\nsei padme haila brahmāra janma-sadma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra—His; nābhi-padma—lotus navel; haite—from; uṭhila—grew; eka—one; padma—lotus flower; sei padme—on that lotus; haila—there was; brahmāra—of Lord Brahmā; janma-sadma—the place of birth.",
+	"translation": "From His navel grew a lotus flower, which became the birthplace of Lord Brahmā."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\317.json",
+		"id": "cc\\antya\\6\\317",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei bhāta raghunātha rātre ghare āni'\nbhāta pākhāliyā phele ghare diyā bahu pāni\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei bhāta—that rejected rice; raghunātha—Raghunātha dāsa; rātre—at night; ghare āni'-bringing home; bhāta—the rice; pākhāliyā—washing; phele—throws; ghare—at home; diyā—putting; bahu pāni—much water.",
+	"translation": "At night Raghunātha dāsa would collect that decomposed rice, bring it home and wash it with ample water."
 }

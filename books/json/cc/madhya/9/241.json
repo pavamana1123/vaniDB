@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\241.json",
+		"id": "cc\\madhya\\9\\241",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bahu yatne sei puṅthi nila lekhāiyā\n'ananta padmanābha' āilā haraṣita hañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bahu yatne—with great attention; sei puṅthi—that scripture; nila—took; lekhāiyā—having it copied; ananta-padmanābha—to Ananta Padmanābha; āilā—came; haraṣita—in great happiness; hañā—being.",
+	"translation": "Śrī Caitanya Mahāprabhu copied the Brahma-saṁhitā and afterwards, with great pleasure, went to a place known as Ananta Padmanābha.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Concerning Ananta Padmanābha, one should refer to Madhya-līlā, Chapter One, text 115."
+		}
+	]
 }

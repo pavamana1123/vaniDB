@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\77.json",
+		"id": "cc\\adi\\2\\77",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yaiche kahi,--ei vipra parama paṇḍita\nvipra--anuvāda, ihāra vidheya--pāṇḍitya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yaiche—just as; kahi—I say; ei—this; vipra—brāhmaṇa; parama—great; paṇḍita—learned man; vipra—the brāhmaṇa; anuvāda—subject; ihāra—of this; vidheya—predicate; pāṇḍitya—erudition.",
+	"translation": "\"For example, we may say: 'This vipra is a greatly learned man.' In this sentence, the vipra is the subject, and the predicate is his erudition."
 }

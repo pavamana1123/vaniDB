@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\18.json",
+		"id": "cc\\madhya\\24\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nir niścaye niṣ kramārthe\nnir nirmāṇa-niṣedhayoḥ\ngrantho dhane 'tha sandarbhe\nvarṇa-saṅgrathane 'pi ca\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "niḥ—the prefix niḥ; niścaye—in the sense of ascertainment; niḥ—the prefix niḥ; krama-arthe—in the meaning of succession; niḥ—the prefix niḥ; nirmāṇa—in the sense of forming; niṣedhayoḥ—in the sense of forbidding; granthaḥ—the word grantha; dhane—in the sense of wealth; atha—also; sandarbhe—thesis; varṇa-saṅgrathane—in the sense of tying together words; api—also; ca—and.",
+	"translation": "\" 'The prefix niḥ may be used for a sense of ascertainment, gradation, construction or forbidding. The word grantha means riches, thesis and composition.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is another quotation from the Viśva-prakāśa dictionary."
+		}
+	]
 }

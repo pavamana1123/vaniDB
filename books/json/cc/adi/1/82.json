@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\82.json",
+		"id": "cc\\adi\\1\\82",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhakta ādi krame kaila sabhāra vandana\ne-sabhāra vandana sarva-śubhera kāraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhakta—the devotees; ādi—and so on; krame—in order; kaila—did; sabhāra—of the assembly; vandana—worship; e-sabhāra—of this assembly; vandana—worship; sarva-śubhera—of all good fortune; kāraṇa—the source.",
+	"translation": "Now I have worshiped all the various levels of devotees. Worshiping them is the source of all good fortune.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "To offer prayers to the Lord, one should first offer prayers to His devotees and associates."
+		}
+	]
 }

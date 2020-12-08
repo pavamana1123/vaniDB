@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\267.json",
+		"id": "cc\\madhya\\1\\267",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "brahmāṇḍa-bhitare haya caudda bhuvana\ncaudda-bhuvane vaise yata jīva-gaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brahmāṇḍa-bhitare—within the universe; haya—there are; caudda bhuvana—fourteen planetary systems; caudda-bhuvane—in those fourteen planetary systems; vaise—reside; yata—as many as there are; jīva-gaṇa—living entities.",
+	"translation": "There are fourteen planetary systems within the universe, and all living entities reside in those planetary systems."
 }

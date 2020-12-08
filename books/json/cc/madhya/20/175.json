@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\175.json",
+		"id": "cc\\madhya\\20\\175",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vaibhava-prakāśa yaiche devakī-tanuja\ndvibhuja-svarūpa kabhu, kabhu haya caturbhuja\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vaibhava-prakāśa—the feature of vaibhava-prakāśa; yaiche—just as; devakī-tanuja—the son of Devakī; dvi-bhuja—two-handed; svarūpa—form; kabhu—sometimes; kabhu—sometimes; haya—is; catuḥ-bhuja—four-handed.",
+	"translation": "\"An example of vaibhava-prakāśa is the son of Devakī. He sometimes has two hands and sometimes four hands.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "When Lord Kṛṣṇa took His birth, He appeared outside the womb as four-handed Viṣṇu. Then Devakī and Vasudeva offered their prayers to Him and asked Him to assume His two-handed form. The Lord immediately assumed His two handed form and ordered that He be transferred to Gokula on the other side of the River Yamunā."
+		}
+	]
 }

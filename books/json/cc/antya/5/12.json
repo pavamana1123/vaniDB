@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\12.json",
+		"id": "cc\\antya\\5\\12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "darśana nā pāñā miśra sevake puchila\nrāyera vṛttānta sevaka kahite lāgila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "darśana—audience; nā—not; pāñā—getting; miśra—Pradyumna Miśra; sevake—unto the servant; puchila—inquired; rāyera—of Rāmānanda Rāya; vṛttānta—description; sevaka-the servant; kahite lāgila—began to speak.",
+	"translation": "Unable to see Rāmānanda Rāya immediately, Pradyumna Miśra inquired from the servant, who then gave a description of Śrī Rāmānanda Rāya."
 }

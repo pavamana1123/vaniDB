@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\91.json",
+		"id": "cc\\madhya\\22\\91",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "varaṁ huta-vaha-jvālā-\npañjarāntar-vyavasthitiḥ\nna śauri-cintā-vimukha-\njana-saṁvāsa-vaiśasam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "varam—better; huta-vaha—of fire; jvālā—in the flames; pañjara-antaḥ—inside a cage; vyavasthitiḥ—abiding; na—not; śauri-cintā—of Kṛṣṇa consciousness, or thought of Kṛṣṇa; vimukha—bereft; jana—of persons; saṁvāsa—of the association; vaiśasam—the calamity.",
+	"translation": "\" 'It is better to accept the miseries of being encaged within bars and surrounded by burning flames than to associate with those bereft of Kṛṣṇa consciousness. Such association is a very great hardship.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Kātyāyana-saṁhitā."
+		}
+	]
 }

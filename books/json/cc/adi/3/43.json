@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\43.json",
+		"id": "cc\\adi\\3\\43",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'nyagrodha-parimaṇḍala' haya tāṅra nāma\nnyagrodha-parimaṇḍala-tanu caitanya guṇa-dhāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nyagrodha-parimaṇḍala—nyagrodha-parimaṇḍala; haya—is; tāṅra—of him; nāma—the name; nyagrodha-parimaṇḍala—nyagrodha-parimaṇḍala; tanu—having such a body; caitanya—Lord Caitanya Mahāprabhu; guṇa-dhāma—the abode of good qualities.",
+	"translation": "Such a person is called nyagrodha-parimaṇḍala. Śrī Caitanya Mahāprabhu, who personifies all good qualities, has the body of a nyagrodha-parimaṇḍala.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "No one other than the Supreme Lord Himself, who has engaged the conditioned souls by His own illusory energy, can possess these bodily features. These features certainly indicate an incarnation of Viṣṇu and no one else."
+		}
+	]
 }

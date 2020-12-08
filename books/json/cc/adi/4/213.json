@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\213.json",
+		"id": "cc\\adi\\4\\213",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "man-māhātmyaṁ mat-saparyāṁ\nmac-chraddhāṁ man-mano-gatam\njānanti gopikāḥ pārtha\nnānye jānanti tattvataḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mat-māhātmyam—My greatness; mat-saparyām—My service; mat-śraddhām—respect for Me; mat-manaḥ-gatam—the intention of My mind; jānanti—they know; gopikāḥ—the gopīs; pārtha—O Arjuna; na—not; anye—others; jānanti—know; tattvataḥ—factually.",
+	"translation": "\"O Pārtha, the gopīs know My greatness, My loving service, respect for Me, and My mentality. Others cannot really know these.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse was spoken by Lord Kṛṣṇa to Arjuna in the Ādi Purāṇa."
+		}
+	]
 }

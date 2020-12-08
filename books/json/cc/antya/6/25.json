@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\25.json",
+		"id": "cc\\antya\\6\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"āmāra pitā, jyeṭhā haya tomāra dui bhāi\nbhāi-bhāiye tomarā kalaha kara sarvadāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmāra pitā—my father; jyeṭhā—and his elder brother; haya—are; tomāra—your; dui bhāi—two brothers; bhāi-bhāiye—between brother and brother; tomarā—all of you; kalaha kara—fight; sarvadāi—always.",
+	"translation": "\"My dear sir, my father and his elder brother are both your brothers. All brothers always fight about something."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\75.json",
+		"id": "cc\\adi\\16\\75",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "caturtha-caraṇe cāri 'bha'-kāra-prakāśa\nataeva śabdālaṅkāra anuprāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "caturtha-caraṇe—in the fourth line; cāri—four; bha-kāra—of the letter bha; prakāśa—manifestations; ataeva—therefore; śabda-alaṅkāra—ornamental use of different sounds; anuprāsa—alliteration.",
+	"translation": "\"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds."
 }

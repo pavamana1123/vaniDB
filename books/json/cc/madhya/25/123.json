@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\123.json",
+		"id": "cc\\madhya\\25\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "etāvad eva jijñāsyaṁ\ntattva-jijñāsunātmanaḥ\nanvaya-vyatirekābhyāṁ\nyat syāt sarvatra sarvadā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "etāvat—up to this; eva—certainly; jijñāsyam—to be inquired about; tattva—of the Absolute Truth; jijñāsunā—by the student; ātmanaḥ—of the self; anvaya—directly; vyatirekābhyām—and indirectly; yat—whatever; syāt—it may be; sarvatra—everywhere; sarvadā—always.",
+	"translation": "\" 'A person interested in transcendental knowledge must therefore always directly and indirectly inquire about it to know about the all-pervading truth.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (2.9.36). It is the fourth verse of the catuḥ-ślokī. For an explanation see Ādi-līlā, Chapter One, text 56."
+		}
+	]
 }

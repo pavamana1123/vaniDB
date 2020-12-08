@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\50.json",
+		"id": "cc\\antya\\9\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tumi yāi' kara tāhāṅ sarva samādhāna\ndravya yaiche āise, āra rahe tāra prāṇa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; yāi'-going; kara—make; tāhāṅ—there; sarva samādhāna—all adjustments; dravya—goods; yaiche—so that; āise—come; āra—and; rahe—keeps; tāra—his; prāṇa—life.",
+	"translation": "\"Go there and adjust everything. I want only the payment, not his life.\""
 }

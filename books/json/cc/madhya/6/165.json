@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\165.json",
+		"id": "cc\\madhya\\6\\165",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "apareyam itas tv anyāṁ\nprakṛtiṁ viddhi me parām\njīva-bhūtāṁ mahā-bāho\nyayedaṁ dhāryate jagat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aparā—inferior; iyam—this; itaḥ—from this; tu—but; anyām—another; prakṛtim—nature; viddhi—know; me—My; parām—transcendental; jīva-bhūtām—existing as the living entities; mahā-bāho—O mighty-armed one; yayā—by which; idam—this; dhāryate—is sustained; jagat—material world.",
+	"translation": "\" 'Besides these inferior energies, which are material, there is another energy, a spiritual energy, and this is the living being, O mighty-armed one. The entire material world is sustained by the living entities.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Verses 164 and 165 are quotations from the Bhagavad-gītā (7.4-5)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\156.json",
+		"id": "cc\\antya\\4\\156",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jagadānanda-paṇḍite āmi yukti puchila\nvṛndāvana yāite teṅha upadeśa dila\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jagadānanda-paṇḍite—from Jagadānanda Paṇḍita; āmi—I; yukti—advice; puchila—inquired; vṛndāvana yāite—to go to Vṛndāvana; teṅha—he; upadeśa dila—has given instruction.",
+	"translation": "\"I have consulted Jagadānanda Paṇḍita for his opinion, and he has also advised me to return to Vṛndāvana.\""
 }

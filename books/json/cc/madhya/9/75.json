@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\75.json",
+		"id": "cc\\madhya\\9\\75",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "go-samāje śiva dekhi' āilā vedāvana\nmahādeva dekhi' tāṅre karilā vandana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "go-samāje—at the place named Go-samāja; śiva dekhi'-seeing the deity of Lord Śiva; āilā vedāvana—He arrived at Vedāvana; mahādeva dekhi'-seeing Lord Śiva; tāṅre—unto him; karilā vandana—offered prayers.",
+	"translation": "The Lord then visited a place known as Go-samāja, where He saw Lord Śiva's temple. He then arrived at Vedāvana, where He saw another deity of Lord Śiva and offered him prayers.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Go-samāja is a place of pilgrimage for the devotees of Lord Śiva. It is very important and is located next to Vedāvana."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\215.json",
+		"id": "cc\\antya\\4\\215",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gauḍe ye artha chila, tāhā ānāilā\nkuṭumba-brāhmaṇa-devālaye bāṅṭi' dilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gauḍe—in Bengal; ye—whatever; artha—money; chila—there was; tāhā—that; ānāilā—collected; kuṭumba—to relatives; brāhmaṇa—brāhmaṇas; devālaye—temples; bāṅṭi' dilā—divided and distributed.",
+	"translation": "He collected whatever money he had accumulated in Bengal and divided it among his relatives, the brāhmaṇas and the temples."
 }

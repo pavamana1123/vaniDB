@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\117.json",
+		"id": "cc\\madhya\\24\\117",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "harer guṇākṣipta-matir\nbhagavān bādarāyaṇiḥ\nadhyagān mahad-ākhyānaṁ\nnityaṁ viṣṇu-jana-priyaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hareḥ—of Lord Kṛṣṇa; guṇa-ākṣipta-matiḥ—whose mind was agitated by the qualities; bhagavān—the most powerful transcendentalist; bādarāyaṇiḥ—Śukadeva, son of Vyāsadeva; adhyagāt—studied; mahat-ākhyānam—the great epic description; nityam—eternally; viṣṇu-jana-priyaḥ—who is very dear to the Vaiṣṇavas, devotees of Lord Viṣṇu.",
+	"translation": "\" 'Being very much attracted by the transcendental pastimes of the Lord, the mind of Śrīla Śukadeva Gosvāmī was agitated by Kṛṣṇa consciousness. He therefore began to study Śrīmad-Bhāgavatam by the grace of his father.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (1.7.11)."
+		}
+	]
 }

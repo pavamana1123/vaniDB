@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\87.json",
+		"id": "cc\\antya\\10\\87",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bāra bāra govinda kahe eka-dik ha-ite\nprabhu kahe,--'aṅga āmi nāri cālāite'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bāra bāra—again and again; govinda—Govinda; kahe—requests; eka-dik ha-ite—to turn on one side; prabhu kahe—Śrī Caitanya Mahāprabhu replied; aṅga—My body; āmi—I; nāri cālāite—cannot move.",
+	"translation": "Govinda made his request again and again, but the Lord replied,\"I cannot move My body.\""
 }

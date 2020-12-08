@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\37.json",
+		"id": "cc\\madhya\\5\\37",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina nija-loka ekatra karila\ntā-sabāra āge saba vṛttānta kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; nija-loka—all his relatives; ekatra—in one place; karila—assembled; tā-sabāra—of all of them; āge—in front; saba—all; vṛttānta—narration; kahila—spoke.",
+	"translation": "Thus one day the elderly brāhmaṇa called for a meeting of all his relatives and friends, and before them all he narrated what had taken place in front of Gopāla."
 }

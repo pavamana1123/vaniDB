@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\15\\10.json",
+		"id": "cc\\adi\\15\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śacī kahe,--nā khāiba, bhāla-i kahilā\nsei haite ekādaśī karite lāgilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śacī kahe—mother Śacī said; nā khāiba—I shall not take; bhāla-i kahilā—You have said very nicely; sei haite—from that day; ekādaśī—Ekādaśī day; karite lāgilā—began to observe.",
+	"translation": "Mother Śacī said, \"You have spoken very nicely. I shall not eat grains on Ekādaśī.\" From that day, she began to observe fasting on Ekādaśī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "It is a prejudice amongst smārta-brāhmaṇas that a widow must observe fasting on Ekādaśī but a woman who has her husband should not. It appears that before the request of Lord Caitanya Śacīmātā was not observing Ekādaśī because of her being sa-dhava, which means that her husband was living. Śrī Caitanya Mahāprabhu, however, introduced the system that a woman, even if not a widow, must observe the Ekādaśī day and must not touch any kind of grains, even those offered to the Deity of Viṣṇu."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\123.json",
+		"id": "cc\\antya\\10\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kulīna-grāmera ei āge dekha yata\nkhaṇḍa-vāsī lokera ei dekha tata\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kulīna-grāmera—of the residents of Kulīna-grāma; ei—these; āge—before; dekha—see; yata—all; khaṇḍa-vāsī lokera—of the residents of Khaṇḍa; ei—these; dekha—see; tata—so many.",
+	"translation": "\"Here are the preparations made by the inhabitants of Kulīna-grāma, and these have been made by the inhabitants of Khaṇḍa.\""
 }

@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\26.json",
+		"id": "cc\\madhya\\18\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'annakūṭa'-nāme grāme gopālera sthiti\nrāja-puta-lokera sei grāme vasati\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "annakūṭa-nāme—by the name Annakūṭa; grāme—in the village; gopālera—of Gopāla; sthiti—residence; rāja-puta-lokera—of people from Rajasthan; sei grāme—in that village; vasati—habitation.",
+	"translation": "Gopāla stayed in a village called Annakūṭa-grāma on Govardhana Hill. The villagers who lived in that village were mainly from Rajasthan.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The village named Annakūṭa-grāma is referred to in Bhakti-ratnākara (Fifth Wave):"
+		},
+		{
+			"type": "normal",
+			"content": "gopa-gopī bhuñjāyena kautuka apāra\nei hetu 'āniyora' nāma se ihāra"
+		},
+		{
+			"type": "normal",
+			"content": "annakūṭa-sthāna ei dekha śrīnivāsa\ne-sthāna darśane haya pūrṇa abhilāṣa"
+		},
+		{
+			"type": "normal",
+			"content": "\"It is here that all the gopīs and the gopas enjoyed wonderful pastimes with Śrī Kṛṣṇa. Therefore this place is also called Āniyora. The Annakūṭa ceremony was celebrated here. O Śrīnivāsa, whoever sees this place has all his desires fulfilled.\" It is also stated:"
+		},
+		{
+			"type": "normal",
+			"content": "kuṇḍera nikaṭa dekha niviḍa-kānana\nethāi 'gopāla' chilā hañā saṅgopana"
+		},
+		{
+			"type": "normal",
+			"content": "\"Look at the dense forest near the kuṇḍa. It was there that Gopāla was concealed.\" Also, the Stavāvalī (8.75) by Raghunātha dāsa Gosvāmī states:"
+		},
+		{
+			"type": "normal",
+			"content": "vrajendra-varyārpita-bhogam uccair\ndhṛtvā bṛhat-kāyam aghārir utkaḥ\nvareṇa rādhāṁ chalayan vibhuṅkte\nyatrānna-kūṭaṁ tad ahaṁ prapadye"
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\216.json",
+		"id": "cc\\adi\\4\\216",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "trai-lokye pṛthivī dhanyā\nyatra vṛndāvanaṁ purī\ntatrāpi gopikāḥ pārtha\nyatra rādhābhidhā mama\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "trai-lokye—in the three worlds; pṛthivī—the earth; dhanyā—fortunate; yatra—where; vṛndāvanam—Vṛndāvana; purī—the town; tatra—there; api—certainly; gopikāḥ—the gopīs; pārtha—O Arjuna; yatra—where; rādhā—Śrīmatī Rādhārāṇī; abhidhā—named; mama—My.",
+	"translation": "\"O Pārtha, in all the three planetary systems, this earth is especially fortunate, for on earth is the town of Vṛndāvana. And there the gopīs are especially glorious because among them is My Śrīmatī Rādhārāṇī.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse, spoken by Lord Kṛṣṇa to Arjuna, is cited from the Ādi Purāṇa."
+		}
+	]
 }

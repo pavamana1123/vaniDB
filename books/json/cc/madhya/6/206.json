@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\206.json",
+		"id": "cc\\madhya\\6\\206",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śata śloka kaila eka daṇḍa nā yāite\nbṛhaspati taiche śloka nā pāre karite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śata—one hundred; śloka—verses; kaila—composed; eka—one; daṇḍa—a duration of twenty-four minutes; nā—not; yāite—passing; bṛhaspati—Bṛhaspati, the priest of the heavenly planets; taiche—such; śloka—verses; nā—not; pāre—able; karite—to compose.",
+	"translation": "Sārvabhauma Bhaṭṭācārya composed one hundred verses in a very short time. Indeed, not even Bṛhaspati, the priest of the heavenly planets, could compose verses as quickly.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The name of the book of one hundred beautiful verses composed by Sārvabhauma Bhaṭṭācārya is Suśloka-śataka."
+		}
+	]
 }

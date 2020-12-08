@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\6\\49-50.json",
+		"id": "cc\\adi\\6\\49-50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrīvāsa, haridāsa, rāmadāsa, gadādhara\nmurāri, mukunda, candraśekhara, vakreśvara",
+			"isProse": false
+		},
+		{
+			"roman": "e-saba paṇḍita-loka parama-mahattva\ncaitanyera dāsye sabāya karaye unmatta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrīvāsa—Śrīvāsa Ṭhākura; haridāsa—Haridāsa Ṭhākura; rāmadāsa—Rāmadāsa; gadādhara—Gadādhara; murāri—Murāri; mukunda—Mukunda; candraśekhara—Candraśekhara; vakreśvara—Vakreśvara; e-saba—all of them; paṇḍita-loka—very learned scholars; parama-mahattva—very much glorified; caitanyera—of Śrī Caitanya Mahāprabhu; dāsye—the servitude; sabāya—all of them; karaye unmatta—makes mad.",
+	"translation": "Śrīvāsa, Haridāsa, Rāmadāsa, Gadādhara, Murāri, Mukunda, Candraśekhara and Vakreśvara are all glorious and are all learned scholars, but the sentiment of servitude to Lord Caitanya makes them mad in ecstasy."
 }

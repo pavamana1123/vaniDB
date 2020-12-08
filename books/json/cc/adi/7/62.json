@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\7\\62.json",
+		"id": "cc\\adi\\7\\62",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prakāśānanda-nāme sarva sannyāsi-pradhāna\nprabhuke kahila kichu kariyā sammāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prakāśānanda—Prakāśānanda; nāme—of the name; sarva—all; sannyāsi-pradhāna—chief of the Māyāvādī sannyāsīs; prabhuke—unto the Lord; kahila—said; kichu—something; kariyā—showing Him; sammāna—respect.",
+	"translation": "The leader of all the Māyāvādī sannyāsīs present was named Prakāśānanda Sarasvatī, and after standing up he addressed Lord Caitanya Mahāprabhu as follows with great respect.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As Lord Śrī Caitanya Mahāprabhu showed respect to all the Māyāvādī sannyāsīs, similarly the leader of the Māyāvādī sannyāsīs, Prakāśānanda, also showed his respects to the Lord."
+		}
+	]
 }

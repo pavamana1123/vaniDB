@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\8.json",
+		"id": "cc\\madhya\\4\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra sūtre āche, teṅha nā kaila varṇana\nyathā-kathañcit kari' se līlā kathana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra—his; sūtre—in the synopsis; āche—there are; teṅha—he; nā kaila varṇana—did not describe; yathā-kathañcit—something of them; kari'-doing; se—these; līlā—of pastimes; kathana—narration.",
+	"translation": "Some of the incidents he did not describe elaborately but only summarized, and these I shall try to describe in this book."
 }

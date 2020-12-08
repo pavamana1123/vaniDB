@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\15-16.json",
+		"id": "cc\\antya\\10\\15-16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmra-kāśandi, ādā-kāśandi jhāla-kāśandi nāma\nnembu-ādā āmra-koli vividha vidhāna",
+			"isProse": false
+		},
+		{
+			"roman": "āmsi, āma-khaṇḍa, tailāmra, āma-sattā\nyatna kari' guṇḍā kari' purāṇa sukutā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmra-kāśandi—āmra-kāśandi; ādā-kāśandi—ādā-kāśandi; jhāla-kāśandi—jhāla-kāśandi; nāma—named; nembu-ādā—a preparation made with lime and ginger; āmra-koli—āmra-koli; vividha vidhāna—various preparations; āmsi—āmsi; āma-khaṇḍa—āma-khaṇḍa; tailāmra—mango within mustard oil; āma-sattā—āma-sattā; yatna kari'-with great attention; guṇḍā kari'-making into a powder; purāṇa sukutā—dried bitter vegetables such as bitter melon.",
+	"translation": "These are the names of some of the pickles and condiments in the bags of Rāghava Paṇḍita: āmra-kāśandi, ādā-kāśandi, jhāla-kāśandi, nembu-ādā, āmra-koli, āmsi, āma-khaṇḍa, tailāmra and āma-sattā. With great attention, Damayantī also made dried bitter vegetables into a powder."
 }

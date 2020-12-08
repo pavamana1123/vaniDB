@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\19\\17.json",
+		"id": "cc\\antya\\19\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ācāryera ṭhāñi giyā ājñā māgilā\nācārya-gosāñi prabhure sandeśa kahilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācāryera ṭhāñi—to Advaita Ācārya; giyā—going; ājñā māgilā—begged for permission to leave; ācārya-gosāñi—Advaita Ācārya; prabhure—unto Śrī Caitanya Mahāprabhu; sandeśa kahilā—sent a message.",
+	"translation": "When he went to Advaita Ācārya and also asked His permission to return, Advaita Prabhu gave him a message to deliver to Śrī Caitanya Mahāprabhu."
 }

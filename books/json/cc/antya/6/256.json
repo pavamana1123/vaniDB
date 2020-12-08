@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\256.json",
+		"id": "cc\\antya\\6\\256",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "keha yadi deya, tabe karaye bhakṣaṇa\nkabhu upavāsa, kabhu karaye carvaṇa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "keha—someone; yadi—if; deya—offers; tabe—then; karaye bhakṣaṇa—he eats; kabhu—sometimes; upavāsa—fasting; kabhu—sometimes; karaye carvaṇa—he chews.",
+	"translation": "\"He eats if someone gives him something to eat. Sometimes he fasts, and sometimes he chews fried grains.\""
 }

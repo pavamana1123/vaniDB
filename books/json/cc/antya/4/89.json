@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\89.json",
+		"id": "cc\\antya\\4\\89",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "haridāsa kahe,--\"mithyā abhimāna kari\ntomāra gambhīra hṛdaya bujhite nā pāri\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "haridāsa kahe—Haridāsa Ṭhākura replied; mithyā—falsely; abhimāna kari—are proud; tomāra—Your; gambhīra—deep; hṛdaya—intention; bujhite nā pāri—we cannot understand.",
+	"translation": "Haridāsa Ṭhākura replied, \"We are falsely proud of our capabilities. Actually we cannot understand Your deep intentions."
 }

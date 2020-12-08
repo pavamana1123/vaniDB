@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\35.json",
+		"id": "cc\\antya\\10\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gaṅgā-mṛttikā āni' vastrete chāniyā\npāṅpaḍi kariyā dilā gandha-dravya diyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gaṅgā-mṛttikā—dirt from the River Ganges; āni'-bringing; vastrete—through a cloth; chāniyā—pressing; pāṅpaḍi kariyā dilā—made into small balls; gandha-dravya diyā—mixing with aromatic agents.",
+	"translation": "Damayantī took earth from the Ganges, dried it, powdered it, strained it through a fine cloth, mixed in aromatic ingredients and rolled it into small balls."
 }

@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\51.json",
+		"id": "cc\\madhya\\24\\51",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "rūpa-guṇa-śravaṇe rukmiṇy-ādira ākarṣaṇa\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rūpa—beauty; guṇa—qualities; śravaṇe—by hearing; rukmiṇī-ādira—of the queens, headed by Rukmiṇī; ākarṣaṇa—attracting.",
+	"translation": "\"The queens in Dvārakā, who are headed by Rukmiṇī, are also attracted to Kṛṣṇa simply by hearing about His transcendental beauty and qualities."
 }

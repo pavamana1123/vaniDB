@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\66.json",
+		"id": "cc\\madhya\\24\\66",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "tathāpi ca-kārera kahe mukhya artha sāta\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tathāpi—still; ca-kārera—of the word ca; kahe—it is said; mukhya—chief; artha—meanings; sāta—seven.",
+	"translation": "\"The word ca can be explained in seven ways."
 }

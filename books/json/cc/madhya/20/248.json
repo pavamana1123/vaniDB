@@ -1,15 +1,49 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\248.json",
+		"id": "cc\\madhya\\20\\248",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ananta avatāra kṛṣṇera, nāhika gaṇana\nśākhā-candra-nyāya kari dig-daraśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ananta—unlimited; avatāra—incarnations; kṛṣṇera—of Lord Kṛṣṇa; nāhika gaṇana—there is no possibility of counting; śākhā-candra-nyāya—by the analogy of the moon and the branches of a tree; kari—I make; dik-daraśana—a slight indication.",
+	"translation": "\"There are innumerable incarnations of Kṛṣṇa, and there is no possibility of counting them. We can simply indicate them by giving the example of the moon and the branches of a tree.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Although the moon appears to be located in the branches of a tree, it is actually situated very far away. Similarly, none of the avatāras, or incarnations, of Lord Kṛṣṇa are within this material world, but they are visible by the causeless mercy of the Lord. We should not consider them to belong to this material world. As stated in Bhagavad-gītā:"
+		},
+		{
+			"type": "normal",
+			"content": "avajānanti māṁ mūḍhā\nmānuṣīṁ tanum āśritam\nparaṁ bhāvam ajānanto\nmama bhūta-maheśvaram"
+		},
+		{
+			"type": "normal",
+			"content": "\"Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be.\" (Bg. 9.11)"
+		},
+		{
+			"type": "verse",
+			"content": "Avatāras descend of their own free will, and although they may act like ordinary human beings, they do not belong to this material world. Lord Kṛṣṇa and His avatāras can be understood only by the grace of the Lord."
+		},
+		{
+			"type": "normal",
+			"content": "nāyam ātmā pravacanena labhyo\nna medhayā na bahunā śrutena\nyam evaiṣa vṛṇute tena labhyas\ntasyaiṣa ātmā vivṛṇute tanūṁ svām"
+		},
+		{
+			"type": "normal",
+			"content": "(Kaṭha Upaniṣad 1.2.23)"
+		},
+		{
+			"type": "normal",
+			"content": "athāpi te deva padāmbuja-dvaya-\nprasāda-leśānugṛhīta eva hi\njānāti tattvaṁ bhagavan-mahimno\nna cānya eko 'pi ciraṁ vicinvan"
+		},
+		{
+			"type": "normal",
+			"content": "(Bhāg. 10.14.29)"
+		}
+	]
 }

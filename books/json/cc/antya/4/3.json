@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\3.json",
+		"id": "cc\\antya\\4\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nīlācala haite rūpa gauḍe yabe gelā\nmathurā haite sanātana nīlācala āilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nīlācala haite—from Nīlācala (Jagannātha Purī); rūpa—Śrīla Rūpa Gosvāmī; gauḍe—to Bengal; yabe—when; gelā—went; mathurā haite—from Mathurā; sanātana—Sanātana Gosvāmī; nīlācala āilā—came to Jagannātha Purī.",
+	"translation": "When Śrīla Rūpa Gosvāmī returned from Jagannātha Purī to Bengal, Sanātana Gosvāmī went from Mathurā to Jagannātha Purī to see Śrī Caitanya Mahāprabhu."
 }

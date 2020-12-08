@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\25.json",
+		"id": "cc\\madhya\\9\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vipra bale,--ei tomāra darśana-prabhāve\ntomā dekhi' gela mora ājanma svabhāve\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vipra bale—the brāhmaṇa replied; ei—this; tomāra darśana-prabhāve—by the influence of Your visit; tomā dekhi'-after seeing You; gela—went; mora—my; ā-janma—from childhood; svabhāve—nature.",
+	"translation": "The brāhmaṇa replied, \"This is all due to Your influence, sir. After seeing You, I have lost my lifelong practice."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\20.json",
+		"id": "cc\\madhya\\4\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve mādhava-purīra lāgi' kṣīra kaila curi\nataeva nāma haila 'kṣīra-corā hari'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—formerly; mādhava-purīra lāgi'-for Mādhavendra Purī; kṣīra—sweet rice; kaila—did; curi—steal; ataeva—therefore; nāma—the name; haila—became; kṣīra-corā hari—the Lord who stole a pot of sweet rice.",
+	"translation": "Formerly the Deity had stolen a pot of sweet rice for Mādhavendra Purī; therefore He became very famous as the Lord who stole the sweet rice."
 }

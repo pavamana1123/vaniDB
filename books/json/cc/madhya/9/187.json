@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\187.json",
+		"id": "cc\\madhya\\9\\187",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vipra kahe,--jīvane mora nāhi prayojana\nagni-jale praveśiyā chāḍiba jīvana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vipra kahe—the brāhmaṇa said; jīvane mora—for my life; nāhi—there is not; prayojana—necessity; agni—in fire; jale—in water; praveśiyā—entering; chāḍiba—I shall give up; jīvana—life.",
+	"translation": "The brāhmaṇa replied, \"I have no reason to live. I shall give up my life by entering either fire or water."
 }

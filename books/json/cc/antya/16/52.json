@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\52.json",
+		"id": "cc\\antya\\16\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "namas te nara-siṁhāya\nprahlādāhlāda-dāyine\nhiraṇyakaśipor vakṣaḥ-\nśilā-ṭaṅka-nakhālaye\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "namaḥ—I offer my respectful obeisances; te—unto You; nara-siṁhāya—Lord Nṛsiṁhadeva; prahlāda—to Mahārāja Prahlāda; āhlāda—of pleasure; dāyine—giver; hiraṇya-kaśipoḥ—of Hiraṇyakaśipu; vakṣaḥ—chest; śilā—like stone; ṭaṅka—like the chisel; nakha-ālaye—whose fingernails.",
+	"translation": "\"I offer my respectful obeisances unto You, Lord Nṛsiṁhadeva. You are the giver of pleasure to Mahārāja Prahlāda, and Your nails cut the chest of Hiraṇyakaśipu like a chisel cutting stone.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This and the following verse are quoted from the Nṛsiṁha Purāṇa."
+		}
+	]
 }

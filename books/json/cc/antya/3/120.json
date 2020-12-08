@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\120.json",
+		"id": "cc\\antya\\3\\120",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'kāli duḥkha pāilā, aparādha nā la-ibā mora\navaśya karimu āmi tomāya aṅgīkāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāli—yesterday; duḥkha pāilā—you were disappointed; aparādha—offense; nā la-ibā—please do not take; mora—my; avaśya—certainly; karimu—shall do; āmi—I; tomāya—unto you; aṅgīkāra—acceptance.",
+	"translation": "\"Last night you were disappointed. Please excuse my offense. I shall certainly accept you."
 }

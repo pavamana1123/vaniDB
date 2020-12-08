@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\26.json",
+		"id": "cc\\madhya\\23\\26",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "'sarvottama' āpanāke 'hīna' kari māne\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-uttama—although standing above all; āpanāke—himself; hīna kari—as the lowest; māne—considers.",
+	"translation": "\"Although a pure devotee's standard is above all, he still considers himself to be in the lowest stage of life."
 }

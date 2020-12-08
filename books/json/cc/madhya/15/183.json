@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\183.json",
+		"id": "cc\\madhya\\15\\183",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gadādhara-paṇḍita rahilā prabhura pāśe\nyameśvare prabhu yāṅre karāilā āvāse\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gadādhara-paṇḍita—Gadādhara Paṇḍita; rahilā—remained; prabhura pāśe—along with Śrī Caitanya Mahāprabhu; yameśvare—at Yameśvara; prabhu—Śrī Caitanya Mahāprabhu; yāṅre—unto whom; karāilā—made to take; āvāse—residence.",
+	"translation": "Gadādhara Paṇḍita remained with Śrī Caitanya Mahāprabhu, and he was given a place to live at Yameśvara.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Yameśvara is on the southwest side of the Jagannātha temple. Gadādhara Paṇḍita resided there, and there was a small garden and a sandy beach known as Yameśvara-ṭoṭā."
+		}
+	]
 }

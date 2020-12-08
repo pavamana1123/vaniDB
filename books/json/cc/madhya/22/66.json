@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\66.json",
+		"id": "cc\\madhya\\22\\66",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śāstre yuktau ca nipuṇaḥ\nsarvathā dṛḍha-niścayaḥ\nprauḍha-śraddho 'dhikārī yaḥ\nsa bhaktāv uttamo mataḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śāstre—in the revealed scriptures; yuktau—in logic; ca—also; nipuṇaḥ—expert; sarvathā—in all respects; dṛḍha-niścayaḥ—who is firmly convinced; prauḍha—deep; śraddhaḥ—who has faith; adhikārī—eligible; yaḥ—who; saḥ—he; bhaktau—in devotional service; uttamaḥ—highest; mataḥ—is considered.",
+	"translation": "\" 'One who is expert in logic and understanding of revealed scriptures, and who always has firm conviction and deep faith that is not blind, is to be considered a topmost devotee in devotional service.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse appears in the Bhakti-rasāmṛta-sindhu (1.2.17) by Śrīla Rūpa Gosvāmī."
+		}
+	]
 }

@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\74-75.json",
+		"id": "cc\\adi\\4\\74-75",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣṇa-kāntā-gaṇa dekhi tri-vidha prakāra\neka lakṣmī-gaṇa, pure mahiṣī-gaṇa āra",
+			"isProse": false
+		},
+		{
+			"roman": "vrajāṅganā-rūpa, āra kāntā-gaṇa-sāra\nśrī-rādhikā haite kāntā-gaṇera vistāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇa-kāntā-gaṇa—the lovers of Lord Kṛṣṇa; dekhi—I see; tri-vidha—three; prakāra—kinds; eka—one; lakṣmī-gaṇa—the goddesses of fortune; pure—in the city; mahiṣī-gaṇa—the queens; āra—and; vraja-aṅganā—of the beautiful women of Vraja; rūpa—having the form; āra—another type; kāntā-gaṇa—of the lovers; sāra—the essence; śrī-rādhikā haite—from Śrīmatī Rādhārāṇī; kāntā-gaṇera—of the lovers of Kṛṣṇa; vistāra—the expansion.",
+	"translation": "The beloved consorts of Lord Kṛṣṇa are of three kinds: the goddesses of fortune, the queens, and the milkmaids of Vraja, who are the foremost of all. These consorts all proceed from Rādhikā."
 }

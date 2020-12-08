@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\54.json",
+		"id": "cc\\madhya\\22\\54",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'sādhu-saṅga', 'sādhu-saṅga'--sarva-śāstre kaya\nlava-mātra sādhu-saṅge sarva-siddhi haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sādhu-saṅga sādhu-saṅga—association with pure devotees; sarva-śāstre—all the revealed scriptures; kaya—say; lava-mātra—even for a moment; sādhu-saṅge—by association with a devotee; sarva-siddhi—all success; haya—there is.",
+	"translation": "\"The verdict of all revealed scriptures is that by even a moment's association with a pure devotee, one can attain all success.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "According to astronomical calculations, lava is one eleventh of one second."
+		}
+	]
 }

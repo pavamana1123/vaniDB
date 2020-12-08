@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\57-58.json",
+		"id": "cc\\adi\\17\\57-58",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrīvāsa paṇḍitera sthāne āche aparādha\ntathā yāha, teṅho yadi karena prasāda",
+			"isProse": false
+		},
+		{
+			"roman": "tabe tora habe ei pāpa-vimocana\nyadi punaḥ aiche nāhi kara ācaraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrīvāsa paṇḍitera—of Śrīvāsa Ṭhākura; sthāne—at the lotus feet; āche—there is; aparādha—offense; tathā—there; yāha—go; teṅho—he; yadi—if; karena—does; prasāda—blessings; tabe—then; tora—your; habe—there will be; ei—this; pāpa-vimocana—immunity from sinful reaction; yadi—if; punaḥ—again; aiche—such; nāhi kara—you do not commit; ācaraṇa—behavior.",
+	"translation": "\"You have committed an offense at the lotus feet of Śrīvāsa Ṭhākura,\" the Lord said. \"First you must go there and beg for his mercy, and then if he gives you his blessings and you do not commit such sins again, you will be freed from these reactions.\""
 }

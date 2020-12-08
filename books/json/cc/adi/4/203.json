@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\203.json",
+		"id": "cc\\adi\\4\\203",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "govinda-prekṣaṇākṣepi-\nbāṣpa-pūrābhivarṣiṇam\nuccair anindad ānandam\naravinda-vilocanā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govinda—of Lord Govinda; prekṣaṇa—the seeing; ākṣepi—hindering; bāṣpa-pūra—groups of tears; abhivarṣiṇam—which cause to rain; uccaiḥ—powerfully; anindat—condemned; ānandam—the bliss; aravinda-vilocanā—the lotus-eyed Rādhārāṇī.",
+	"translation": "\"The lotus-eyed Rādhārāṇī powerfully condemned the ecstatic love that caused a flow of tears that hindered Her sight of Govinda.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is also from Bhakti-rasāmṛta-sindhu (2.3.54)."
+		}
+	]
 }

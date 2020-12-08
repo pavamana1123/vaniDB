@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\15\\84.json",
+		"id": "cc\\antya\\15\\84",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāse harim iha vihita-vilāsam\nsmarati mano mama kṛta-parihāsam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāse—in the rāsa dance; harim—Śrī Kṛṣṇa; iha—here; vihita-vilāsam—performing pastimes; smarati—remembers; manaḥ—mind; mama—my; kṛta-parihāsam—fond of making jokes.",
+	"translation": "\"Here in the arena of the rāsa dance, I remember Kṛṣṇa, who is always fond of joking and performing pastimes.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is quoted from Gīta-govinda (2.3)."
+		}
+	]
 }

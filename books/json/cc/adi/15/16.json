@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\15\\16.json",
+		"id": "cc\\adi\\15\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina naivedya-tāmbūla khāiyā\nbhūmite paḍilā prabhu acetana hañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; naivedya—food offered to the Deity; tāmbūla—betel nut; khāiyā—after eating; bhūmite—on the ground; padilā—fell; prabhu—the Lord; acetana—unconscious; hañā—becoming.",
+	"translation": "One day Śrī Caitanya Mahāprabhu ate betel nuts offered to the Deity, but they acted as an intoxicant, and He fell down on the ground unconscious.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Betel nuts are an intoxicant, and therefore the regulative principles prohibit eating them. Śrī Caitanya Mahāprabhu's pastime of fainting after eating betel nuts is a solid instruction to all of us that one should not touch betel nuts, even those offered to Viṣṇu, just as one should not touch grains on the Ekādaśī day. Of course, Lord Caitanya Mahāprabhu's fainting had a particular purpose. As the Supreme Personality of Godhead, He can do whatever He likes and eat whatever He wants, but we should not imitate His pastimes."
+		}
+	]
 }

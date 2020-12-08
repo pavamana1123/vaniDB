@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\265.json",
+		"id": "cc\\antya\\6\\265",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śivānanda yaiche sei manuṣye kahilā\nkarṇapūra sei-rūpe śloka varṇilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śivānanda—Śivānanda Sena; yaiche—as; sei—unto the; manuṣye—messenger; kahilā—said; karṇapūra—the great poet Kavi-karṇapūra; sei rūpe—in that way; śloka varṇilā—composed verses.",
+	"translation": "In these verses, the great poet Kavi-karṇapūra gives the same information that Śivānanda Sena conveyed to the messenger from Raghunātha dāsa's father."
 }

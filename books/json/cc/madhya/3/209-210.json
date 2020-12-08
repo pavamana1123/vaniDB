@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\209-210.json",
+		"id": "cc\\madhya\\3\\209-210",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nityānanda-gosāñi, paṇḍita jagadānanda\ndāmodara paṇḍita, āra datta mukunda",
+			"isProse": false
+		},
+		{
+			"roman": "ei cāri-jana ācārya dila prabhu sane\njananī prabodha kari' vandila caraṇe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nityānanda-gosāñi—Lord Nityānanda; paṇḍita jagadānanda—Jagadānanda Paṇḍita; dāmodara paṇḍita—Dāmodara Paṇḍita; āra datta mukunda—and Mukunda Datta; ei cāri-jana—these four persons; ācārya—Advaita Ācārya; dila—gave; prabhu sane—with Śrī Caitanya Mahāprabhu; jananī—mother Śacī; prabodha kari'-pacifying; vandila caraṇe—offerred prayers at her lotus feet.",
+	"translation": "Śrī Advaita Ācārya sent four persons-Nityānanda Gosāñi, Jagadānanda Paṇḍita, Dāmodara Paṇḍita and Mukunda Datta-to accompany the Lord. After pacifying His mother, Śacīmātā, Śrī Caitanya Mahāprabhu submitted prayers to her lotus feet."
 }

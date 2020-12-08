@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\236.json",
+		"id": "cc\\antya\\6\\236",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "grāmya-kathā nā śunibe, grāmya-vārtā nā kahibe\nbhāla nā khāibe āra bhāla nā paribe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "grāmya-kathā—ordinary talks of common men; nā śunibe—never hear; grāmya-vārtā—ordinary news; nā kahibe—do not speak; bhāla—well; nā khāibe—do not eat; āra—and; bhāla—nicely; nā paribe—do not dress.",
+	"translation": "\"Do not talk like people in general or hear what they say. You should not eat very palatable food, nor should you dress very nicely."
 }

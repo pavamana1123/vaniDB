@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\148.json",
+		"id": "cc\\madhya\\6\\148",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vedera nigūḍha artha bujhana nā haya\npurāṇa-vākye sei artha karaya niścaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vedera—of the Vedic literature; nigūḍha—confidential; artha—meaning; bujhana—understanding; nā—not; haya—is; purāṇa-vākye—by the words of the Purāṇas; sei—that; artha—meaning; karaya—makes; niścaya—certain.",
+	"translation": "\"The confidential meaning of the Vedas is not easily understood by common men; therefore that meaning is supplemented by the words of the Purāṇas."
 }

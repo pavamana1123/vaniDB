@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\84.json",
+		"id": "cc\\madhya\\22\\84",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhavāpavargo bhramato yadā bhavej\njanasya tarhy acyuta sat-samāgamaḥ\nsat-saṅgamo yarhi tadaiva sad-gatau\nparāvareśe tvayi jāyate ratiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhava-apavargaḥ—liberation from the nescience of material existence; bhramataḥ—wandering; yadā—when; bhavet—should be; janasya—of a person; tarhi—at that time; acyuta—O Supreme Personality of Godhead; sat-samāgamaḥ—association with devotees; sat-saṅgamaḥ—association with the devotees; yarhi—when; tadā—at that time; eva—only; sat-gatau—the highest goal of life; parāvareśe—the Lord of the universe; tvayi—to You; jāyate—appears; ratiḥ—attraction.",
+	"translation": "\" 'O my Lord! O infallible Supreme Person! When a person wandering throughout the universes becomes eligible for liberation from material existence, he gets an opportunity to associate with devotees. When he associates with devotees, his attraction for You is awakened. You are the Supreme Personality of Godhead, the highest goal of the supreme devotees and the Lord of the universe.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (10.51.53)."
+		}
+	]
 }

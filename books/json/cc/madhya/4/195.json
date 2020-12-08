@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\195.json",
+		"id": "cc\\madhya\\4\\195",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kibā gauracandra ihā kare āsvādana\nihā āsvādite āra nāḥi cauṭha-jana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kibā—how excellent; gauracandra—Lord Śrī Caitanya Mahāprabhu; ihā—this; kare—does; āsvādana—tasting; ihā—this verse; āsvādite—to taste; āra—another; nāhi—there is not; cauṭha-jana—a fourth man.",
+	"translation": "Only Śrī Caitanya Mahāprabhu has tasted the poetry of this verse. No fourth man is capable of understanding it.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This indicates that only Śrīmatī Rādhārāṇī, Mādhavendra Purī and Caitanya Mahāprabhu are capable of understanding the purport of this verse."
+		}
+	]
 }

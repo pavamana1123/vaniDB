@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\10\\110.json",
+		"id": "cc\\madhya\\10\\110",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pāṇḍityera avadhi, vākya nāhi kāro sane\nnirjane rahaye, loka saba nāhi jāne\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pāṇḍityera avadhi—the limit of learned scholarship; vākya nāhi—no word; kāro sane—with anyone; nirjane—in a solitary place; rahaye—stays; loka—people in general; saba—all; nāhi jāne—do not know.",
+	"translation": "Svarūpa Dāmodara was the limit of all learned scholarship, but he did not exchange words with anyone. He simply remained in a solitary place, and no one could understand where he was."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\69.json",
+		"id": "cc\\madhya\\11\\69",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājā kahe,-paḍichāke āmi ājñā diba\nvāsā ādi ye cāhiye,-paḍichā saba diba\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājā kahe—the King said; paḍichāke—unto the attendant; āmi—I; ājñā diba—shall give orders; vāsā—residential quarters; ādi—and other arrangements; ye cāhiye—whatever you want; paḍichā—the attendant; saba—everything; diba—will supply.",
+	"translation": "The King replied, \"I shall give orders to the attendant in the temple. He will arrange for everyone's residential quarters and prasāda, as you desire."
 }

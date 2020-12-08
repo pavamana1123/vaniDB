@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\133.json",
+		"id": "cc\\madhya\\22\\133",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "durūhādbhuta-vīrye 'smin\nśraddhā dūre 'stu pañcake\nyatra svalpo 'pi sambandhaḥ\nsad-dhiyāṁ bhāva-janmane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "durūha—difficult to be reconciled; adbhuta—wonderful; vīrye—in the power; asmin—in this; śraddhā—faith; dūre—far away; astu—let it be; pañcake—in the above-mentioned five principles; yatra—in which; svalpaḥ—a little; api—even; sambandhaḥ—connection; sat-dhiyām—of those who are intelligent and offenseless; bhāva-janmane—to awaken one's dormant love for Kṛṣṇa.",
+	"translation": "\" 'The power of these five principles is very wonderful and difficult to reconcile. Even without faith in them, a person who is offenseless can experience dormant love of Kṛṣṇa simply by being a little connected with them.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is also found in the Bhakti-rasāmṛta-sindhu (1.2.238)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\63.json",
+		"id": "cc\\antya\\18\\63",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eke prema, āre bhaya,--dviguṇa asthira\nbhaya-aṁśa gela,--se haila kichu dhīra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eke—on one hand; prema—ecstatic love; āre—on the other hand; bhaya—fear; dvi-guṇa—doubly; asthira—agitated; bhaya-aṁśa—the fear part; gela—disappeared; se—he; haila—became; kichu—somewhat; dhīra—sober.",
+	"translation": "The fisherman was affected by ecstatic love, but he was also fearful. He had thus become doubly agitated. Now that his fear had subsided, however, he had become somewhat normal."
 }

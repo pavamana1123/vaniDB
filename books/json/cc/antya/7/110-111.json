@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\110-111.json",
+		"id": "cc\\antya\\7\\110-111",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"nitya āmāra ei sabhāya haya kakṣā-pāta\neka-dina upare yadi haya mora vāt",
+			"isProse": false
+		},
+		{
+			"roman": "tabe sukha haya, āra saba lajjā yāya\nsva-vacana sthāpite āmi ki kari upāya?\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nitya—daily; āmāra—my; ei—this; sabhāya—in the assembly; haya—there is; kakṣā-pāta—defeat; eka-dina—one day; upare—on top; yadi—if; haya—are; mora—my; vāt—words; tabe—then; sukha—happiness; haya—is; āra—and; saba—all; lajjā—shame; yāya—goes; sva-vacana—my statement; sthāpite—to establish; āmi—I; ki—what; kari—shall adopt; upāya—means.",
+	"translation": "\"Every day I am defeated in this assembly. If by chance I am one day victorious, that will be a great source of happiness for me, and all my shame will go away. But what means shall I adopt to establish my statements?\""
 }

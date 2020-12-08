@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\64.json",
+		"id": "cc\\antya\\8\\64",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"sannyāsīra dharma nahe 'indriya-tarpaṇa'\nyaiche taiche kare mātra udara bharaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sannyāsīra—of a sannyāsī; dharma—religious principle; nahe—is not; indriya-tarpaṇa—to gratify the senses; yaiche taiche—some way or other; kare—does; mātra—only; udara bharaṇa—filling the belly.",
+	"translation": "Rāmacandra Purī advised, \"It is not the business of a sannyāsī to gratify his senses. He should fill his belly some way or other."
 }

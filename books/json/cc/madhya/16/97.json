@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\97.json",
+		"id": "cc\\madhya\\16\\97",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "uḍiyā-bhakta-gaṇe prabhu yatne nivārilā\nnija-gaṇa-saṅge prabhu 'bhavānīpura, āilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "uḍiyā-bhakta-gaṇe—the devotees of Orissa; prabhu—Śrī Caitanya Mahāprabhu; yatne—with great care; nivārilā—stopped; nija-gaṇa-saṅge—with His personal associates; prabhu—Śrī Caitanya Mahāprabhu; bhavānīpura āilā—came to Bhavānīpura.",
+	"translation": "It was with great care that Caitanya Mahāprabhu forbade the Orissa devotees to follow Him. Accompanied by personal associates, He first went to Bhavānīpura.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "One goes through Bhavānīpura before reaching a well-known place named Jānkādei-pura, or Jānakīdevī-pura."
+		}
+	]
 }

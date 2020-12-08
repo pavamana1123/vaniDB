@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\205.json",
+		"id": "cc\\antya\\3\\205",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"tomā-sabāra doṣa nāhi, ei ajña brāhmaṇa\ntāra doṣa nāhi, tāra tarka-niṣṭha mana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomā-sabāra—of all of you; doṣa—fault; nāhi—there is not; ei—this; ajña—ignorant; brāhmaṇa—so-called brāhmaṇa; tāra doṣa nāhi—he is also not at fault; tāra—his; tarka-niṣṭha—accustomed to speculation; mana—mind.",
+	"translation": "\"None of you are at fault,\" he said. \"Indeed, even this ignorant so-called brāhmaṇa is not at fault, for he is accustomed to dry speculation and logic."
 }

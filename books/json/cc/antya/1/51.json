@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\51.json",
+		"id": "cc\\antya\\1\\51",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmi gaṅgā-pathe āilāṅa, tiṅho rāja-pathe\nataeva āmāra dekhā nahila tāṅra sāthe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmi—I; gaṅgā-pathe—on the path on the bank of the Ganges; āilāṅa—I came; tiṅho—he; rāja-pathe—on the public road; ataeva—therefore; āmāra—my; dekhā—meeting; nahila—was not possible; tāṅra sāthe—with him.",
+	"translation": "I came by the path on the bank of the Ganges, whereas Sanātana Gosvāmī came by the public road. Therefore we did not meet."
 }

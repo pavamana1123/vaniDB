@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\2\\54.json",
+		"id": "cc\\madhya\\2\\54",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "garuḍera sannidhāne, rahi' kare daraśane,\nse ānandera ki kahiba ba'le\ngaruḍa-stambhera tale, āche eka nimna khāle,\nse khāla bharila aśru-jale\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "garuḍera—Garuḍa; sannidhāne—near; rahi'-staying; kare—does; daraśane—seeing; se ānandera—of that bliss; ki—what; kahiba—I shall say; ba'le—on the strength; garuḍa—of the statue of Garuḍa; stambhera—of the column; tale—underneath; āche—there is; eka—one; nimna—low; khāle—ditch; se khāla—that ditch; bharila—became filled; aśru-jale—with the water of tears.",
+	"translation": "Staying near the Garuḍa-stambha, the Lord would look upon Lord Jagannātha. What can be said about the strength of that love? On the ground beneath the column of the Garuḍa-stambha was a deep ditch, and that ditch was filled with the water of His tears.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In front of the temple of Jagannātha is a column on which the statue of Garuḍa is situated. It is called the Garuḍa-stambha. At the base of that column is a ditch, and that ditch was filled with the tears of the Lord."
+		}
+	]
 }

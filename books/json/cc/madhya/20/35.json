@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\35.json",
+		"id": "cc\\madhya\\20\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "īśāna kahe,--\"eka mohara āche avaśeṣa\"\ngosāñi kahe,--\"mohara lañā yāha' tumi deśa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "īśāna kahe—Īśāna replied; eka—one; mohara—gold coin; āche—is; avaśeṣa—left; gosāñi—Sanātana Gosvāmī; kahe—replied; mohara lañā—taking this gold coin; yāha—return; tumi—you; deśa—to your country.",
+	"translation": "Īśāna replied, \"I still have one gold coin in my possession.\" Sanātana Gosvāmī then said, \"Take the coin and return to your home.\""
 }

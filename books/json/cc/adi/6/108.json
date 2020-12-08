@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\6\\108.json",
+		"id": "cc\\adi\\6\\108",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svā-mādhurya āsvādite karena yatana\nbhakta-bhāva vinu nahe tāhā āsvādana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svā-mādhurya—the sweetness of Himself; āsvādite—to taste; karena yatana—makes endeavors; bhakta-bhāva—the emotion of being a devotee; vinu—without; nahe—there is not; tāhā—that; āsvādana—tasting.",
+	"translation": "He tries to taste His own sweetness, but He cannot do so without accepting the emotions of a devotee.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Lord Śrī Kṛṣṇa wanted to relish the transcendental mellow of a devotee, and therefore He accepted the role of a devotee by appearing as Śrī Kṛṣṇa Caitanya Mahāprabhu."
+		}
+	]
 }

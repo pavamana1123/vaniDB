@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\30.json",
+		"id": "cc\\antya\\3\\30",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'bāre bāre āsi' āmi tomāra bhavane\nmiṣṭānna vyañjana saba kariye bhojane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bāre bāre—again and again; āsi'-coming; āmi—I; tomāra bhavane—at your place; miṣṭānna—sweetmeats; vyañjana—vegetables; saba—all; kariye—do; bhojane—eating.",
+	"translation": "\"I come to your home again and again to eat all the sweetmeats and vegetables you offer."
 }

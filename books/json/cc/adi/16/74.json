@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\74.json",
+		"id": "cc\\adi\\16\\74",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prathama-caraṇe pañca 'ta'-kārera pāṅti\ntṛtīya-caraṇe haya pañca 'repha'-sthiti\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prathama-caraṇe—in the first line; pañca—five; ta-karera—of the letter ta; pāṅti—very nice composition; tṛtīya-caraṇe—in the third line; haya—there is; pañca—five; repha—of the letter ra; sthiti—composition.",
+	"translation": "\"In the arrangement of the first line the letter 'ta' occurs five times, and the arrangement of the third line repeats the letter 'ra' five times."
 }

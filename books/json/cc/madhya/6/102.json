@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\102.json",
+		"id": "cc\\madhya\\6\\102",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "iti dvāpara urv-īśa\nstuvanti jagad-īśvaram\nnānā-tantra-vidhānena\nkalāv api tathā śṛṇu\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "iti—thus; dvāpare—in Dvāpara-yuga; uru-īśa—O King; stuvanti—offer prayers; jagat-īśvaram—unto the Supreme Personality of Godhead; nānā—various; tantra—of the supplementary Vedic literature; vidhānena—by regulative principles; kalau—in the Age of Kali; api—certainly; tathā—so also; śṛṇu—hear.",
+	"translation": "\" 'In the Age of Kali, as well as in Dvāpara-yuga, the people offer prayers to the Supreme Personality of Godhead by various mantras and observe the regulative principles of the supplementary Vedic literature. Now please hear of this from me.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (11.5.31)."
+		}
+	]
 }

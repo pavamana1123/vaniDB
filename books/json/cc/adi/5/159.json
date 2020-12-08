@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\159.json",
+		"id": "cc\\adi\\5\\159",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "veda-guhya kathā ei ayogya kahite\ntathāpi kahiye tāṅra kṛpā prakāśite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "veda—like the Vedas; guhya—very confidential; kathā—incident; ei—this; ayogya kahite—not fit to disclose; tathāpi—still; kahiye—I speak; tāṅra—His; kṛpā—mercy; prakāśite—to manifest.",
+	"translation": "To disclose it is not proper, for it should be kept as confidential as the Vedas, yet I shall speak of it to make His mercy known to all."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\73.json",
+		"id": "cc\\antya\\20\\73",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vṛndāvana-dāsa prathama ye līlā varṇila\nsei-saba līlāra āmi sūtra-mātra kaila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vṛndāvana-dāsa—Vṛndāvana dāsa Ṭhākura; prathama—at first; ye—whatever; līlā—pastimes; varṇila—described; sei-saba—all of those; līlāra—of the pastimes; āmi—I; sūtra-mātra kaila—prepared only the synopsis.",
+	"translation": "Whatever pastimes Śrīla Vṛndāvana dāsa Ṭhākura has first described I have merely summarized."
 }

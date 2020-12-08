@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\322.json",
+		"id": "cc\\madhya\\20\\322",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śateka vatsara haya jīvana' brahmāra\npañca-lakṣa cāri-sahasra manvantarāvatāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śateka vatsara haya—there are one hundred years; jīvana—the duration of life; brahmāra—of Brahmā; pañca-lakṣa—500,000; cāri-sahasra—4,000; manu-antara-avatāra—incarnations of Manu.",
+	"translation": "\"During the hundred years of Brahmā's life, there are 504,000 manvantara-avatarās."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\35.json",
+		"id": "cc\\antya\\6\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei-mata raghunāthera vatsareka gela\ndvitīya vatsare palāite mana kaila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei-mata—in this way; raghunāthera—of Raghunātha dāsa; vatsareka—one year; gela—passed; dvitīya vatsare—the next year; palāite—to go away from home; mana kaila—he decided.",
+	"translation": "In this way Raghunātha dāsa passed one year exactly like a first-class business manager, but the next year he again decided to leave home."
 }

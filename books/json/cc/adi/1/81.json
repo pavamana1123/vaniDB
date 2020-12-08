@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\81.json",
+		"id": "cc\\adi\\1\\81",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svayaṁ-rūpa kṛṣṇera kāya-vyūha--tāṅra sama\nbhakta sahite haya tāṅhāra āvaraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svayam-rūpa—His own original form (two-handed Kṛṣṇa); kṛṣṇera—of Lord Kṛṣṇa; kāya-vyūha—personal expansions; tāṅra—with Him; sama—equal; bhakta—the devotees; sahite—associated with; haya—are; tāṅhāra—His; āvaraṇa—covering.",
+	"translation": "The personal associates of the primeval Lord, Śrī Kṛṣṇa, are His devotees, who are identical with Him. He is complete with His entourage of devotees.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Kṛṣṇa and His various personal expansions are nondifferent in potential power. These expansions are associated with further, secondary expansions, or servitor expansions, who are called devotees."
+		}
+	]
 }

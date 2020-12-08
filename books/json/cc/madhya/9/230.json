@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\230.json",
+		"id": "cc\\madhya\\9\\230",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmiha sannyāsī dekha, tumiha sannyāsī\nmore duḥkha deha,--tomāra 'nyāya' nāhi vāsi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmiha—I; sannyāsī—in the renounced order of life; dekha—you see; tumiha—you; sannyāsī—in the renounced order of life; more—unto Me; duḥkha—pains; deha—you give; tomāra—your; nyāya—logic; nāhi vāsi—I do not find.",
+	"translation": "\"I am in the renounced order of life, and so are you. Yet you are purposefully giving Me pain, and I do not see any good logic in this.\""
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\13.json",
+		"id": "cc\\adi\\5\\13",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "māyātīte vyāpi-vaikuṇṭha-loke\npūrṇaiśvarye śrī-catur-vyūha-madhye\nrūpaṁ yasyodbhāti saṅkarṣaṇākhyaṁ\ntaṁ śrī-nityānanda-rāmaṁ prapadye\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "māyā-atīte—beyond the material creation; vyāpi—all-expanding; vaikuṇṭha-loke—in Vaikuṇṭhaloka, the spiritual world; pūrṇa-aiśvarye—endowed with full opulence; śrī-catuḥ-vyūha-madhye—in the quadruple expansions (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha); rūpam—form; yasya—whose; udbhāti—appears; saṅkarṣaṇa-ākhyam—known as Saṅkarṣaṇa; tam—to Him; śrī-nityānanda-rāmam—to Lord Balarāma in the form of Lord Nityānanda; prapadye—I surrender.",
+	"translation": "I surrender unto the lotus feet of Śrī Nityānanda Rāma, who is known as Saṅkarṣaṇa in the midst of the catur-vyūha [consisting of Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha]. He possesses full opulences and resides in Vaikuṇṭhaloka, far beyond the material creation.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from Śrī Svarūpa Dāmodara Gosvāmī's diary. It appears as the eighth of the first fourteen verses of Śrī Caitanya-caritāmṛta."
+		}
+	]
 }

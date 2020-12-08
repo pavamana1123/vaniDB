@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\20.json",
+		"id": "cc\\madhya\\15\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āpane pratāparudra, āra miśra-kāśī\nsārvabhauma, āra paḍichā-pātra tulasī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āpane pratāparudra—personally King Pratāparudra; āra—and; miśra-kāśī—Kāśī Miśra; sārvabhauma—Sārvabhauma Bhaṭṭācārya; āra—and; paḍichā-pātra tulasī—Paḍichāpātra Tulasī, the temple superintendent.",
+	"translation": "At that time, King Pratāparudra was also personally present with Kāśī Miśra, Sārvabhauma Bhaṭṭācārya and Tulasī Paḍichāpātra."
 }

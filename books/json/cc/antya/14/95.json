@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\14\\95.json",
+		"id": "cc\\antya\\14\\95",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vaivarṇye śaṅkha-prāya śveta haila aṅga\ntabe kampa uṭhe,--yena samudre taraṅga\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vaivarṇye—by fading; śaṅkha-prāya—like a conchshell; śveta—white; haila—became; aṅga—body; tabe—at that time; kampa—shivering; uṭhe—arises; yena—as if; samudre—in the ocean; taraṅga—waves.",
+	"translation": "His entire body faded to the color of a white conchshell, and then He began to quiver, like the waves in the ocean."
 }

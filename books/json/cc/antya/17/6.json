@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\17\\6.json",
+		"id": "cc\\antya\\17\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vidyāpati, caṇḍīdāsa, śrī-gīta-govinda\nbhāvānurūpa śloka paḍena rāya-rāmānanda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidyāpati—the author Vidyāpati; caṇḍīdāsa—the author Caṇḍīdāsa; śrī-gīta-govinda—the famous book by Jayadeva Gosvāmī; bhāva-anurūpa—according to the ecstatic emotion; śloka—verses; paḍena—recites; rāya-rāmānanda—Rāmānanda Rāya.",
+	"translation": "Rāmānanda Rāya would quote verses from the books of Vidyāpati and Caṇḍīdāsa, and especially from the Gīta-govinda by Jayadeva Gosvāmī, to complement the ecstasy of Śrī Caitanya Mahāprabhu."
 }

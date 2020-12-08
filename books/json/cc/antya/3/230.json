@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\230.json",
+		"id": "cc\\antya\\3\\230",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jyotsnāvatī rātri, daśa dik sunirmala\ngaṅgāra laharī jyotsnāya kare jhala-mala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jyotsnāvatī—full of moonlight; rātri—the night; daśa dik—ten directions; su-nirmala—very clear and bright; gaṅgāra laharī—the waves of the Ganges; jyotsnāya—in the moonlight; kare jhala-mala—appear dazzling.",
+	"translation": "The night was full of moonlight, which made the waves of the Ganges look dazzling. All directions were clear and bright."
 }

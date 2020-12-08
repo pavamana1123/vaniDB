@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\74.json",
+		"id": "cc\\madhya\\4\\74",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāra pāśe dadhi, dugdha, māṭhā, śikhariṇī\npāyasa, mathanī, sara pāśe dhari āni'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāra pāśe—by the side of the vegetables; dadhi—yogurt; dugdha—milk; māṭhā—buttermilk; śikhariṇī—a sweet preparation made with yogurt; pāyasa—sweet rice; mathanī—cream; sara—solid cream collected over yogurt; pāśe—by the side; dhari—keeping; āni'-bringing.",
+	"translation": "Pots of yogurt, milk, buttermilk and śikhariṇī, sweet rice, cream and solid cream were placed alongside the vegetables.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this kind of ceremony, which is called Annakūṭa, cooked rice is stacked like a small mountain for prasāda distribution."
+		}
+	]
 }

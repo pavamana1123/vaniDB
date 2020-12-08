@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\9.json",
+		"id": "cc\\madhya\\9\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dakṣiṇa deśera loka aneka prakāra\nkeha jñānī, keha karmī, pāṣaṇḍī apāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dakṣiṇa deśera—of South India; loka—people; aneka—many; prakāra—varieties; keha—someone; jñānī—philosophical speculator; keha—someone; karmī—fruitive worker; pāṣaṇḍī—nondevotees; apāra—innumerable.",
+	"translation": "In South India there were many types of people. Some were philosophical speculators, and some were fruitive workers, but in any case there were innumerable nondevotees."
 }

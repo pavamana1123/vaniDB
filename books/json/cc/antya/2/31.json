@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\31.json",
+		"id": "cc\\antya\\2\\31",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'gaura-gopāla mantra' tomāra cāri akṣara\naviśvāsa chāḍa, yei kariyācha antara\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gaura-gopāla mantra—the Gaura-gopāla mantra; tomāra—your; cāri akṣara—composed of four syllables; aviśvāsa chāḍa—give up your doubts; yei—which; kariyācha antara—you have kept within your mind.",
+	"translation": "\"You are chanting the Gaura-gopāla mantra composed of four syllables. Now please give up the doubts that have resided within you.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktivinoda Ṭhākura explains the Gaura-gopāla mantra in his Amṛta-pravāha-bhāṣya. Worshipers of Śrī Gaurasundara accept the four syllables gau-ra-aṇ-ga as the Gaura mantra, but pure worshipers of Rādhā and Kṛṣṇa accept the four syllables rā-dhā kṛṣ-ṇa as the Gaura-gopāla mantra. However, Vaiṣṇavas consider Śrī Caitanya Mahāprabhu nondifferent from Rādhā-Kṛṣṇa (śrī-kṛṣṇa-caitanya rādhā-kṛṣṇa nahe anya). Therefore one who chants the mantra Gaurāṅga and one who chants the names of Rādhā and Kṛṣṇa are on the same level."
+		}
+	]
 }

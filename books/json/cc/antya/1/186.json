@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\186.json",
+		"id": "cc\\antya\\1\\186",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "padāni tv agatārthāni\ntad-artha-gataye narāḥ\nyojayanti padair anyaiḥ\nsa udghātyaka ucyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "padāni—words; tu—but; agata-arthāni—having an unclear meaning; tat—that,; artha-gataye—to understand the meaning; narāḥ—men; yojayanti—join; padaiḥ—with words; anyaiḥ—other; saḥ—that; udghātyakaḥ—udghātyaka; ucyate—is called.",
+	"translation": "To explain an unclear word, men generally join it with other words. Such an attempt is called udghātyaka.' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is quoted from the Sāhitya-darpaṇa (6.289)."
+		}
+	]
 }

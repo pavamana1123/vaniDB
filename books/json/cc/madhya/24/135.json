@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\135.json",
+		"id": "cc\\madhya\\24\\135",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nirodho 'syānu śayanam\nātmanaḥ saha śaktibhiḥ\nmuktir hitvānyathā-rūpaṁ\nsvarūpeṇa vyavasthitiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nirodhaḥ—winding up; asya—of this; anu—after; śayanam—lying down; ātmanaḥ—of the Supreme Lord; saha—with; śaktibhiḥ—the energies (marginal and external); muktiḥ—liberation; hitvā—giving up; anyathā—other; rūpam—form; svarūpeṇa—with one's own eternal form; vyavasthitiḥ—staying.",
+	"translation": "\" 'The living entities and other potencies merge in the Mahā-Viṣṇu as the Lord lies down and winds up [destroys] the cosmic manifestation. Liberation means being situated in one's eternal original form, which he attains after giving up the changeable gross and subtle bodies.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (2.10.6)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\42.json",
+		"id": "cc\\madhya\\11\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mora lāgi' prabhu-pade kaile nivedana?\nsārvabhauma kahe,-kainu aneka yatana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mora lāgi'-on my behalf; prabhu-pade—at the lotus feet of the Lord; kaile nivedana—did you submit my petition; sārvabhauma kahe—Sārvabhauma replied; kainu—I did; aneka yatana—much endeavor.",
+	"translation": "The King asked, \"Have you submitted my petition to the Lord?\"\n \nSārvabhauma replied, \"Yes, with much endeavor I have tried my best."
 }

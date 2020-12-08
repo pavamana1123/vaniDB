@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\46.json",
+		"id": "cc\\madhya\\14\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'hari-bola' bali' kāṅgāla preme bhāsi' yāya\naichana adbhuta līlā kare gaurarāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hari-bola bali'-by chanting \"Hari bol\"; kāṅgāla—the poor section of people; preme—in ecstatic love; bhāsi' yāya—began to float; aichana—such; adbhuta—wonderful; līlā—pastimes; kare—performs; gaurarāya—Śrī Caitanya Mahāprabhu.",
+	"translation": "As soon as the beggars chanted the holy name, \"Hari bol,\" they were immediately absorbed in ecstatic love of Godhead. In this way Śrī Caitanya Mahāprabhu performed wonderful pastimes.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "To feel the emotion of ecstatic love of God is to be on the transcendental platform. If one can keep himself in that transcendental position, he will surely return home, back to Godhead. In the spiritual world there are no higher, middle or lower classes. This is confirmed by Īśopaniṣad, Mantra Seven:"
+		},
+		{
+			"type": "normal",
+			"content": "yasmin sarvāṇi bhūtāny\nātmaivābhūd vijānataḥ\ntatra ko mohaḥ kaḥ śoka\nekatvam anupaśyataḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"One who always sees all living entities as spiritual sparks, in quality one with the Lord, becomes a true knower of things. What, then, can be illusion or anxiety for him?\""
+		}
+	]
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\adi\\14\\5.json",
+		"id": "cc\\adi\\14\\5",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vande caitanya-kṛṣṇasya\nbālya-līlāṁ mano-harām\nlaukikīm api tām īśa-\nceṣṭayā valitāntarām\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vande—I worship; caitanya-kṛṣṇasya—of Lord Caitanya, who is Kṛṣṇa Himself; bālya-līlā—pastimes of childhood; manaḥ-harām—which are so beautiful; laukikīm—appearing ordinary; api—although; tām—those; īśa-ceṣṭayā—by manifestation of supreme authority; valita-antarām—quite fit although appearing differently.",
+	"translation": "Let me offer my respectful obeisances unto the childhood pastimes of Lord Śrī Caitanya Mahāprabhu, who is Lord Kṛṣṇa Himself. Although such pastimes appear exactly like those of an ordinary child, they should be understood as various pastimes of the Supreme Personality of Godhead.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the Bhagavad-gītā (9.11) this statement is confirmed as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "avajānanti māṁ mūḍhā\nmānuṣīṁ tanum āśritam\nparaṁ bhāvam ajānanto\nmama bhūta-maheśvaram"
+		},
+		{
+			"type": "normal",
+			"content": "\"Fools deride Me when I descend in the human form. They do not know My transcendental nature and My supreme dominion over all that be.\" To execute His pastimes, the Supreme Personality of Godhead appears on this planet or within this universe like an ordinary human being or human child, yet He maintains His superiority as the Supreme Lord. Lord Kṛṣṇa appeared as a human child, but His uncommon activities, even in His childhood-like the killing of the demon Pūtanā or lifting of Govardana Hill-were not the engagements of an ordinary child. Similarly, although the pastimes of Lord Caitanya, as they will be described in this chapter, appear like the activities of a small boy, they are uncommon pastimes impossible for an ordinary human child to execute."
+		}
+	]
 }

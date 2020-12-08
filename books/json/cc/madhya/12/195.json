@@ -1,15 +1,41 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\195.json",
+		"id": "cc\\madhya\\12\\195",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hena tomāra saṅge mora ekatre bhojana\nnā jāni, tomāra saṅge kaiche haya mana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hena—thus; tomāra—Your; saṅge—in association; mora—My; ekatre—together; bhojana—eating; nā jāni—I do not know; tomāra saṅge—by Your association; kaiche—how; haya mana—My mind will turn.",
+	"translation": "Nityānanda Prabhu continued: \"You are such a monist! And now I am eating beside You. I do not know how My mind will be affected in this way.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Saṅgāt sañjāyate kāmaḥ (Bg. 2.62). One develops his consciousness according to society and association. As Śrīla Nityānanda Prabhu admits, a devotee should be very careful when associating with those who are not devotees. When asked by a householder devotee what the behavior of a devotee should be, Śrī Caitanya Mahāprabhu immediately replied:"
+		},
+		{
+			"type": "normal",
+			"content": "asat-saṅga-tyāga,--ei vaiṣṇava-ācāra\n'strī-saṅgī'--eka asādhu, 'kṛṣṇābhakta' āra"
+		},
+		{
+			"type": "normal",
+			"content": "(Cc. Madhya 22.87)"
+		},
+		{
+			"type": "normal",
+			"content": "A Vaiṣṇava, a devotee, should simply discard intimate association with nondevotees. In his Upadeśāmṛta, Śrīla Rūpa Gosvāmī has described the symptoms of intimate relationships in this way:"
+		},
+		{
+			"type": "normal",
+			"content": "dadāti pratigṛhṇāti\nguhyam ākhyāti pṛcchati\nbhuṅkte bhojayate caiva\nṣaḍ-vidhaṁ prīti-lakṣaṇam"
+		},
+		{
+			"type": "normal",
+			"content": "The words bhuṅkte bhojayate indicate that one should eat with devotees. One should carefully avoid eating food offered by nondevotees. Indeed, a devotee should be very strict in not accepting food from a nondevotee, especially food prepared in restaurants or hotels or on airplanes. Śrīla Nityānanda Prabhu's reference in this connection is meant to emphasize that one should avoid eating with Māyāvādīs and covert Māyāvādīs like the sahajiyā Vaiṣṇavas, who are materially affected."
+		}
+	]
 }

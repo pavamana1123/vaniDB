@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\44.json",
+		"id": "cc\\antya\\5\\44",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kintu śāstra-dṛṣṭye eka kari anumāna\nśrī-bhāgavata-śāstra--tāhāte pramāṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kintu—but; śāstra-dṛṣṭye—according to the direction of the śāstra; eka—one; kari anumāna—I make a guess; śrī-bhāgavata-śāstra—Śrīmad-Bhāgavatam, the Vedic scripture; tāhāte—in that connection; pramāṇa—evidence.",
+	"translation": "\"But I can make a guess in terms of directions from the śāstra. Śrīmad Bhāgavatam, the Vedic scripture, gives the direct evidence in this matter."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\148.json",
+		"id": "cc\\madhya\\3\\148",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tumi yāhāṅ kaha, āmi tāhāṅi rahiba\ntumi yei ājñā kara, sei ta' kariba\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; yāhāṅ—wherever; kaha—ask; āmi—I; tāhāṅi—there; rahiba—shall stay; tumi—you; yei—whatever; ājñā—order; kara—give; sei—that; ta'-certainly; kariba—I shall execute.",
+	"translation": "\"My dear mother, wherever you ask Me to stay I shall stay, and whatever you order I shall execute.\""
 }

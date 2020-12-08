@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\36.json",
+		"id": "cc\\antya\\6\\36",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rātre uṭhi' ekelā calilā palāñā\ndūra haite pitā tāṅre ānila dhariyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rātre—at night; uṭhi'-getting up; ekelā—alone; calilā—left; palāñā—running away; dūra haite—from a distant place; pitā—his father; tāṅre—him; ānila—brought back; dhariyā—catching.",
+	"translation": "He got up alone one night and left, but his father caught him in a distant place and brought him back."
 }

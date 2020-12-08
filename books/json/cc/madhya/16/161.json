@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\161.json",
+		"id": "cc\\madhya\\16\\161",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei kāle se yavanera eka anucara\n'uḍiyā-kaṭake' āila kari' veśāntara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei kāle—at that time; se yavanera—of the Mohammedan governor; eka anucara—one follower; uḍiyā-kaṭake—to the camp of Orissan soldiers; āila—came; kari' veśa-antara—changing the dress.",
+	"translation": "At that time, a follower of the Mohammedan governor arrived at the Orissa encampment dressed in disguise."
 }

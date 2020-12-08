@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\48-49.json",
+		"id": "cc\\antya\\2\\48-49",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ācambite nṛsiṁhānanda tāhāṅi āilā\nduṅhe tāṅre mili' tabe sthāne vasāilā",
+			"isProse": false
+		},
+		{
+			"roman": "duṅhe duḥkhī dekhi' tabe kahe nṛsiṁhānanda\n'tomā duṅhākāre kene dekhi nirānanda?'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācambite—all of a sudden; nṛsiṁhānanda—Nṛsiṁhānanda; tāhāṅi āilā—came there; duṅhe—Śivānanda and Jagadānanda; tāṅre—him; mili'-meeting; tabe—then; sthāne vasāilā—caused to sit; duṅhe—both; duḥkhī—unhappy; dekhi'-seeing; tabe—then; kahe nṛsiṁhānanda—Nṛsiṁhānanda began to speak; tomā duṅhākāre—both of you; kene—why; dekhi—I see; nirānanda—unhappy.",
+	"translation": "Suddenly Nṛsiṁhānanda arrived, and Jagadānanda and Śivānanda arranged for him to sit near them. Seeing them both so unhappy, Nṛsiṁhānanda inquired,\"Why do I see that you are both despondent?\""
 }

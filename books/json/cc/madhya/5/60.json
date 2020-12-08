@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\60.json",
+		"id": "cc\\madhya\\5\\60",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āra keha saṅge nāhi, ei saṅge ekala\ndhuturā khāoyāñā bāpe karila pāgala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āra—anyone; keha—else; saṅge—in company; nāhi—there was not; ei—this brāhmaṇa; saṅge—in company; ekala—alone; dhuturā—an intoxicant; khāoyāñā—making him eat; bāpe—my father; karila—made; pāgala—mad.",
+	"translation": "\"There was no one besides this man with my father. Giving him an intoxicant known as dhuturā to eat, this rogue made my father mad."
 }

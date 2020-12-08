@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\210.json",
+		"id": "cc\\madhya\\1\\210",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra hṛdaya āmi jāni patrī-dvāre\ntomā śikhāite śloka pāṭhāila tomāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—your; hṛdaya—hearts; āmi—I; jāni—understand; patrī-dvāre—by those letters; tomā—you; śikhāite—to instruct; śloka—a verse; pāṭhāila—I sent; tomāre—unto you.",
+	"translation": "\"By your letters, I could understand your heart. Therefore, in order to teach you, I sent you one verse, which reads as follows."
 }

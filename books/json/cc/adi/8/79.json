@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\79.json",
+		"id": "cc\\adi\\8\\79",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei likhi, madana-gopāla ye likhāya\nkāṣṭhera puttalī yena kuhake nācāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei likhi—I write that; madana-gopāla—the Deity Madana-gopāla; ye—whatever; likhāya—dictates to me; kāṣṭhera—wooden; puttalī—a doll; yena—like; kuhake—the enchanter; nācāya—causes to dance.",
+	"translation": "As a wooden doll is made to dance by a magician, I write as Madana-gopāla orders me to do so.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is the position of a pure devotee. One should not take any responsibility on his own but should be a soul surrendered to the Supreme Personality of Godhead, who will then give him dictation as caitya-guru, or the spiritual master within. The Supreme Personality of Godhead is pleased to guide a devotee from within and without. From within He guides him as the Supersoul, and from without He guides him as the spiritual master."
+		}
+	]
 }

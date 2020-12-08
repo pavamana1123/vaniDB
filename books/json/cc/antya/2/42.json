@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\42.json",
+		"id": "cc\\antya\\2\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śivānande kahiha,--āmi ei pauṣa-māse\nācambite avaśya āmi yāiba tāṅra pāśe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śivānande kahiha—speak to Śivānanda Sena; āmi—I; ei—this; pauṣa-māse—in the month of December; ācambite—all of a sudden; avaśya—certainly; āmi—I; yāiba—shall go; tāṅra pāśe—to his place.",
+	"translation": "\"Please inform Śivānanda Sena that this December I shall certainly go to his home."
 }

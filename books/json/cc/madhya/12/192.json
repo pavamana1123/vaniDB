@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\192.json",
+		"id": "cc\\madhya\\12\\192",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "janma-kula-śīlācāra nā jāni yāhāra\ntāra saṅge eka paṅkti-baḍa anācāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "janma—birth; kula—family; śīla—character; ācāra—behavior; nā—not; jāni—I know; yāhāra—of whom; tāra saṅge—with him; eka paṅkti—in one line; baḍa anācāra—a great discrepancy.",
+	"translation": "\"It is not proper for householders to dine with those whose previous birth, family, character and behavior are unknown.\""
 }

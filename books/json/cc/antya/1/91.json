@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\91.json",
+		"id": "cc\\antya\\1\\91",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,18 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "phalena phala-kāraṇam anumīyate\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "phalena—by the result; phala-kāraṇam—the origin of the result; anumīyate—one can guess.",
+	"translation": "By seeing a result, one can understand the cause of that result.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from the doctrines of nyāya, or logic."
+		}
+	]
 }

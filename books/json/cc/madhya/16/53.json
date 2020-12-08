@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\53.json",
+		"id": "cc\\madhya\\16\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "balagaṇḍi-bhogera bahu prasāda āila\nsabā saṅge mahāprabhu prasāda khāila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "balagaṇḍi-bhogera—of the food offered at Balagaṇḍi; bahu prasāda—a great quantity of prasāda; āila—arrived; sabā saṅge—with all the devotees; mahāprabhu—Śrī Caitanya Mahāprabhu; prasāda—remnants of the food of Jagannātha; khāila—ate.",
+	"translation": "The remnants of food offered to the Lord at Balagaṇḍi then arrived in great quantity, and Śrī Caitanya Mahāprabhu and all His devotees ate it.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In reference to Balagaṇḍi, see Madhya-līlā (13.193)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\274.json",
+		"id": "cc\\madhya\\6\\274",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yadyapi tomāra artha ei śabde kaya\ntathāpi 'āśliṣya-doṣe' kahana nā yāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yadyapi—although; tomāra—Your; artha—meaning; ei—this; śabde—by the word; kaya—is said; tathāpi—still; āśliṣya-doṣe—by the fault of ambiguity; kahana—to say; nā—not; yāya—possible.",
+	"translation": "\"Although Your explanation is correct, it should not be used because there is ambiguity in the word 'mukti-pada.'"
 }

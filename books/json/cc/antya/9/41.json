@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\41.json",
+		"id": "cc\\antya\\9\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hena-kāle āra loka āila dhāñā\nkhaḍegara upare gopīnāthe diteche ḍāriyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hena-kāle—at this time; āra—another; loka—person; āila—came; dhāñā—running; khaḍegara upare—upon the swords; gopīnāthe—Gopīnātha; diteche ḍāriyā—they are throwing.",
+	"translation": "Then another person came with the news that Gopīnātha had already been set up to be thrown upon the points of the swords."
 }

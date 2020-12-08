@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\38.json",
+		"id": "cc\\antya\\16\\38",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei-mata yata vaiṣṇava vaise gauḍa-deśe\nkālidāsa aiche sabāra nilā avaśeṣe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei-mata—in this way; yata—as many as; vaiṣṇava—Vaiṣṇavas; vaise—reside; gauḍa-deśe—in Bengal; kālidāsa—Kālidāsa; aiche—in that way; sabāra—of all of them; nilā—took; avaśeṣe—the remnants.",
+	"translation": "In this way Kālidāsa ate the remnants of food left by all the Vaiṣṇavas residing in Bengal."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\16.json",
+		"id": "cc\\madhya\\5\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dui-vipra-madhye eka vipra--vṛddha-prāya\nāra vipra--yuvā, tāṅra karena sahāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dui-vipra-madhye—between the two brāhmaṇas; eka vipra—one brāhmaṇa; vrddha-prāya—elderly man; āra vipra—the second brāhmaṇa; yuvā—young man; tāṅra—of the older brāhmaṇa; karena—does; sahāya—assistance.",
+	"translation": "One of the two brāhmaṇas was an old man, and the other was young. The young man was assisting the old one."
 }

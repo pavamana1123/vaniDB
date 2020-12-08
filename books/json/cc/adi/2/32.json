@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\32.json",
+		"id": "cc\\adi\\2\\32",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra nābhi-padma haite āmāra janmodaya\ntumi pitā-mātā, āmi tomāra tanaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra-Your; nābhi-padma-lotus of the navel; haite-from; āmāra-my; janma-udaya-birth; tumi-You; pitā-father; mātā-mother; āmi-I; tomāra-Your; tanaya-son.",
+	"translation": "\"I took birth from the lotus that grew from Your navel. Thus You are both my father and my mother, and I am Your son."
 }

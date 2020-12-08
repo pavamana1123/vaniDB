@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\53.json",
+		"id": "cc\\antya\\5\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mora nāma la-iha,--'teho pāṭhāilā more\ntoṁāra sthāne kṛṣṇa-kathā śunibāra tare'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mora—My; nāma—name; la-iha—take; teho—He; pāṭhāilā—sent; more—me; tomāra sthāne—from you; kṛṣṇa-kathā—topics of Kṛṣṇa; śunibāra tare—to hear.",
+	"translation": "\"You can take My name before him, saying, 'He has sent me to hear about Lord Kṛṣṇa from you.'"
 }

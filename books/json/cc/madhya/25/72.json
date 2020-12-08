@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\72.json",
+		"id": "cc\\madhya\\25\\72",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,-'tumi jagad-guru pūjyatama\nāmi tomāra nā ha-i 'śiṣyera śiṣya' sama\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—Śrī Caitanya Mahāprabhu continued to speak; tumi—you; jagat-guru—the spiritual master of the whole world; pūjya-tama—the most worshipable; āmi—I; tomāra—your; nā ha-i—am not; śiṣyera śiṣya sama—equal to the disciple of the disciple.",
+	"translation": "When Prakāśānanda Sarasvatī caught hold of the Lord's lotus feet, the Lord said, \"My dear sir, you are the spiritual master of the whole world; therefore you are most worshipable. As far as I am concerned, I am not even on the level of the disciple of your disciple.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Māyāvādī sannyāsīs generally call themselves jagad-guru, the spiritual master of the whole world. Many consider themselves worshipable by everyone, although they do not even go outside India or their own district. Out of His great magnanimity and humility, Śrī Caitanya Mahāprabhu presented Himself as a subordinate disciple of Prakāśānanda Sarasvatī."
+		}
+	]
 }

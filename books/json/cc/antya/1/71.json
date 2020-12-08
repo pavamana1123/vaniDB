@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\71.json",
+		"id": "cc\\antya\\1\\71",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dui'nāndī' 'prastāvanā', dui'saṁghaṭanā'\npṛthak kariyā likhi kariyā bhāvanā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dui nāndī—two invocations of good fortune; prastāvanā—introductions; dui—two; saṁghaṭanā—chains of events; pṛthak kariyā—making separate; likhi—I shall write; kariyā bhāvanā—thinking about them.",
+	"translation": "I shall write two separate invocations of good fortune and two different introductions. Let me think deeply about the matter and then describe two different sets of incidents.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The two works are Vidagdha-mādhava and Lalita-mādhava. Vidagdha-mādhava describes pastimes in Vṛndāvana, and Lalita-mādhava describes pastimes in Dvārakā and Mathurā."
+		}
+	]
 }

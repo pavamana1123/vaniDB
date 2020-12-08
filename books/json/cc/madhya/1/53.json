@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\53.json",
+		"id": "cc\\madhya\\1\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ye kāle karena jagannātha daraśana\nmane bhāve, kurukṣetre pāñāchi milana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ye kāle—at those times; karena—does; jagannātha—Lord Jagannātha; daraśana—visiting; mane—within the mind; bhāve—thinks; kuru-kṣetre—on the field of Kurukṣetra; pāñāchi—I have gotten; milana—meeting.",
+	"translation": "At those times, Śrī Caitanya Mahāprabhu would visit Lord Jagannātha. Then His feelings exactly corresponded to those of the gopīs when they saw Kṛṣṇa at Kurukṣetra after long separation. Kṛṣṇa had come to Kurukṣetra with His brother and sister to visit.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "When Kṛṣṇa was performing yajña (sacrifice) at Kurukṣetra, He invited all the inhabitants of Vṛndāvana to come see Him. Lord Caitanya's heart was always filled with separation from Kṛṣṇa, but as soon as He had the opportunity to visit the Jagannātha temple, He became fully absorbed in the thoughts of the gopīs who came to see Kṛṣṇa at Kurukṣetra."
+		}
+	]
 }

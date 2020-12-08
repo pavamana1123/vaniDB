@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\88.json",
+		"id": "cc\\adi\\4\\88",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "anayārādhito nūnaṁ\nbhagavān harir īśvaraḥ\nyan no vihāya govindaḥ\nprīto yām anayad rahaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "anayā—by this one; ārādhitaḥ—worshiped; nūnam—certainly; bhagavān—the Supreme Personality of Godhead; hariḥ—Lord Kṛṣṇa; īśvaraḥ—the Supreme Lord; yat—from which; naḥ—us; vihāya—leaving aside; govindaḥ—Govinda; prītaḥ—pleased; yām—whom; anayat—lead; rahaḥ—to a lonely place.",
+	"translation": "\"Truly the Personality of Godhead has been worshiped by Her. Therefore Lord Govinda, being pleased, has brought Her to a lonely spot, leaving us all behind.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This text is from Śrīmad-Bhāgavatam (10.30.28)."
+		}
+	]
 }

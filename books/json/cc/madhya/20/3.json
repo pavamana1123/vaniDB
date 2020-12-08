@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\3.json",
+		"id": "cc\\madhya\\20\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ethā gauḍe sanātana āche bandi-śāle\nśrī-rūpa-gosāñīra patrī āila hena-kāle\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ethā—here; gauḍe—in Bengal; sanātana—Sanātana Gosvāmī; āche—was; bandi-śāle—in prison; śrī-rūpa-gosāñīra—of Śrīla Rūpa Gosvāmī; patrī—the letter; āila—came; hena-kāle—at that time.",
+	"translation": "While Sanātana Gosvāmī was imprisoned in Bengal, a letter arrived from Śrīla Rūpa Gosvāmī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktivinoda Ṭhākura informs us that this letter from Rūpa Gosvāmī to Sanātana Gosvāmī is mentioned by the annotator of Udbhaṭa-candrikā. Śrīla Rūpa Gosvāmī wrote a note to Sanātana Gosvāmī from Bāklā. This note indicated that Śrī Caitanya Mahāprabhu was coming to Mathurā, and it stated:"
+		},
+		{
+			"type": "normal",
+			"content": "yadu-pateḥ kva gatā mathurā-purī\nraghu-pateḥ kva gatottara-kośalā\niti vicintya kurusva manaḥ sthiraṁ\nna sad idaṁ jagad ity avadhāraya"
+		},
+		{
+			"type": "normal",
+			"content": "\"Where has the Mathurā Purī of Yadupati gone? Where has the northern Kośalā of Raghupati gone? By reflection, make the mind steady, thinking, 'This universe is not eternal.' \""
+		}
+	]
 }

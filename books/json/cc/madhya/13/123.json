@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\123.json",
+		"id": "cc\\madhya\\13\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei ślokārtha pūrve kariyāchi vyākhyāna\nślokera bhāvārtha kari saṅkṣepe ākhyāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei śloka-artha—the meaning of this verse; pūrve—previously; kariyāchi—I have done; vyākhyāna—explanation; ślokera—of the same verse; bhāva-artha—purport; kari—I do; saṅkṣepe—in brief; ākhyāna—description.",
+	"translation": "I have already explained this verse. Now I shall simply describe it in brief.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this connection, see Madhya-līlā, Chapter One, verses 53, 77-80 and 82-84."
+		}
+	]
 }

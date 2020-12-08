@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\65.json",
+		"id": "cc\\antya\\6\\65",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dui dui mṛt-kuṇḍikā sabāra āge dila\neke dugdha-ciḍā, āre dadhi-ciḍā kaila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dui dui—two and two; mṛt-kuṇḍikā—earthen pots; sabāra āge—before everyone; dila—offered; eke—in one; dugdha-ciḍā—chipped rice with condensed milk; āre—in the other; dadhi-ciḍā—chipped rice with yogurt; kaila—put.",
+	"translation": "Everyone was offered two earthen pots. In one was put chipped rice with condensed milk and in the other chipped rice with yogurt."
 }

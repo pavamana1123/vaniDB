@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\99.json",
+		"id": "cc\\madhya\\19\\99",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahena,--kaha, teṅho paḍe kṛṣṇa-līlā\npremāveśe prabhura deha-mana āyuyāilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahena—Śrī Caitanya Mahāprabhu said; kaha—please go on speaking; teṅho—he; paḍe—recites; kṛṣṇa-līlā—the pastimes of Lord Kṛṣṇa; prema-āveśe—in great ecstasy of love; prabhura—of Śrī Caitanya Mahāprabhu; deha-mana—body and mind; āyuyāilā—became slackened.",
+	"translation": "Śrī Caitanya Mahāprabhu requested Raghupati Upādhyāya to continue speaking about the pastimes of Śrī Kṛṣṇa. Thus the Lord was absorbed in ecstatic love, and His mind and body slackened.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Our minds and bodies are always engaged in material activities. When they are activated on the spiritual platform, they slacken on the material platform."
+		}
+	]
 }

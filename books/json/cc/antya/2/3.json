@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\3.json",
+		"id": "cc\\antya\\2\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-loka uddhārite gaura-avatāra\nnistārera hetu tāra trividha prakāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-loka—all the worlds; uddhārite—to deliver; gaura-avatāra—the incarnation of Lord Śrī Caitanya Mahāprabhu; nistārera hetu—causes of the deliverance of all people; tāra—His; tri-vidha prakāra—three kinds.",
+	"translation": "In His incarnation as Śrī Caitanya Mahāprabhu, Lord Śrī Kṛṣṇa descended to deliver all the living beings in the three worlds, from Brahmaloka down to Pātālaloka. He caused their deliverance in three ways."
 }

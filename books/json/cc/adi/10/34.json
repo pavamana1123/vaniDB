@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\34.json",
+		"id": "cc\\adi\\10\\34",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sadāśiva-paṇḍita yāṅra prabhu-pade āśa\nprathamei nityānandera yāṅra ghare vāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sadāśiva-paṇḍita—of the name Sadāśiva Paṇḍita; yāṅra—whose; prabhu-pade—unto the lotus feet of the Lord; āśa—constant desire; prathamei—in the beginning; nityānandera—of Lord Nityānanda; yāṅra—of whom; ghare—in the home; vāsa—residence.",
+	"translation": "Sadāśiva Paṇḍita, the twelfth branch, was always anxious to serve the lotus feet of the Lord. It was his good fortune that when Lord Nityānanda came to Navadvīpa He resided at his house.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "It is mentioned in the Caitanya-bhāgavata, Antya-līlā, Chapter Nine, that Sadāśiva Paṇḍita was a pure devotee and that Nityānanda Prabhu resided at his house."
+		}
+	]
 }

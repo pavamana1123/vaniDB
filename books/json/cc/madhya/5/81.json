@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\81.json",
+		"id": "cc\\madhya\\5\\81",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "choṭa-vipra bale,--'patra karaha likhana\npunaḥ yena nāhi cale e-saba vacana'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "choṭa-vipra—the young brāhmaṇa; bale—says; patra—paper; karaha—do; likhana—writing; punaḥ—again; yena—so that; nāhi—not; cale—change; e-saba—all these; vacana—statements.",
+	"translation": "The young brāhmaṇa took this opportunity to speak: \"Please write this down on paper in black and white so that you may not again change your word of honor.\""
 }

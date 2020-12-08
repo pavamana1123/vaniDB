@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\190.json",
+		"id": "cc\\antya\\3\\190",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'gopāla cakravartī' nāma eka-jana\nmajumadārera ghare sei ārindā pradhāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gopāla cakravartī—Gopāla Cakravartī; nāma—named; eka-jana—one person; majumadārera ghare—at the residence of Hiraṇya and Govardhana Majumadāra; sei—he; ārindā pradhāna—the chief tax collector.",
+	"translation": "At the house of Hiraṇya and Govardhana Majumadāra, a person named Gopāla Cakravartī was officially the chief tax collector."
 }

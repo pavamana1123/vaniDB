@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\241.json",
+		"id": "cc\\antya\\6\\241",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "punaḥ samarpilā tāṅre svarūpera sthāne\n'antaraṅga-sevā' kare svarūpera sane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "punaḥ—again; samarpilā—handed over; tāṅre—him; svarūpera sthāne—to Svarūpa Dāmodara; antaraṅga-sevā—very confidential service; kare—he renders; svarūpera sane—with Svarūpa Dāmodara.",
+	"translation": "Śrī Caitanya Mahāprabhu again entrusted him to Svarūpa Dāmodara. Thus Raghunātha dāsa rendered very confidential service with Svarūpa Dāmodara Gosvāmī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Antaraṅga-sevā refers to service performed in one's spiritual body. Svarūpa Dāmodara Gosvāmī was formerly Lalitādevī. Raghunātha dāsa Gosvāmī, who was among his assistants, now also began to serve Rādhā and Kṛṣṇa within his mind."
+		}
+	]
 }

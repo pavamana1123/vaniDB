@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\171.json",
+		"id": "cc\\adi\\5\\171",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eta bali' nāce gāya, karaye santoṣa\nkṛṣṇa-kārya kare vipra--nā karila roṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eta bali'-saying this; nāce—he dances; gāya—chants; karaye santoṣa—becomes satisfied; kṛṣṇa-kārya—the duties of Deity worship; kare—performs; vipra—the brāhmaṇa; nā karila—did not become; roṣa—angry.",
+	"translation": "After saying this, he danced and sang to his heart's content, but the brāhmaṇa did not become angry, for he was then serving Lord Kṛṣṇa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Mīnaketana Rāmadāsa was a great devotee of Lord Nityānanda. When he entered the house of Kṛṣṇadāsa Kavirāja, Guṇārṇava Miśra, the priest who was worshiping the Deity installed in the house, did not receive him very well. A similar event occurred when Romaharṣaṇa-sūta was speaking to the great assembly of sages at Naimiṣāraṇya. Lord Baladeva entered that great assembly, but since Romaharṣana-sūta was on the vyāsāsana, he did not get down to offer respect to Lord Baladeva. The behavior of Guṇārṇava Miśra indicated that he had no great respect for Lord Nityānanda, and this idea was not at all palatable to Mīnaketana Rāmadāsa. For this reason the mentality of Mīnaketana Rāmadāsa is never deprecated by devotees."
+		}
+	]
 }

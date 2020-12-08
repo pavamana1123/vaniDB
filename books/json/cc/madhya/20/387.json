@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\387.json",
+		"id": "cc\\madhya\\20\\387",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jyotiścakre sūrya yena phire rātri-dine\nsapta-dvīpāmbudhi laṅghi' phire krame krame\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jyotiḥ-cakre—in the zodiac; sūrya—of the sun; yena—as; phire—moves; rātri-dine—the day and night; sapta-dvīpa-ambudhi—the oceans of the islands; laṅghi'-crossing; phire—rotates; krame krame—one after another.",
+	"translation": "\"The sun moves across the zodiac day and night and crosses the oceans between the seven islands one after the other."
 }

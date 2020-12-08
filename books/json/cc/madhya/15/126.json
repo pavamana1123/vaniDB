@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\126.json",
+		"id": "cc\\madhya\\15\\126",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājā kahe,--mukunda, tumi paḍilā ki lāgi'?\nmukunda kahe, rājā, mora vyādhi āche mṛgī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājā kahe—the King inquired; mukunda—O Mukunda; tumi paḍilā—you fell; ki lāgi'-for what reason; mukunda kahe—Mukunda replied; rājā—my dear King; mora—of me; vyādhi—disease; āche—is; mṛgī—epilepsy.",
+	"translation": "\"The King then inquired, 'Mukunda, why did you fall down?' Mukunda replied, 'My dear King, I have a disease that is like epilepsy.'"
 }

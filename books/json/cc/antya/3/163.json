@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\163.json",
+		"id": "cc\\antya\\3\\163",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jāti-dhana-jana khānera sakala la-ila\nbahu-dina paryanta grāma ujāḍa rahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jāti—birthright; dhana—riches; jana—followers; khānera—of Rāmacandra Khān; sakala—everything; la-ila—he took away; bahu-dina—a long time; paryanta—for; grāma—the village; ujāḍa rahila—remained deserted.",
+	"translation": "The Mohammedan minister took away Rāmacandra Khān's position, wealth and followers. For many days the village remained deserted."
 }

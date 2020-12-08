@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\68.json",
+		"id": "cc\\adi\\3\\68",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'aṅga'-śabde aṁśa kahe śāstra-paramāṇa\naṅgera avayava 'upāṅga'-vyākhyāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aṅga-śabde—by the word aṅga, or limb; aṁśa—part; kahe—says; śāstra—of the scriptures; paramāṇa—the evidence; aṅgera—of the limb; avayava—the constituent part; upāṅga-vyākhyāna—the exposition of the word upāṅga.",
+	"translation": "According to the evidence of the revealed scriptures, a bodily limb [aṅga] is also called a part [aṁśa], and a part of a limb is called a partial part [upāṅga]."
 }

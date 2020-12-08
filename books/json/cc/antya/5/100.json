@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\100.json",
+		"id": "cc\\antya\\5\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ādau tumi śuna, yadi tomāra mana māne\npāche mahāprabhure tabe karāimu śravaṇe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ādau—in the beginning; tumi—you; śuna—hear; yadi—if; tomāra mana māne—you accept; pāche—thereafter; mahāprabhure—Śrī Caitanya Mahāprabhu; tabe—then; karāimu śravaṇe—I shall request to hear.",
+	"translation": "\"First you hear it, and if it is acceptable to your mind, I shall request Śrī Caitanya Mahāprabhu to hear it.\""
 }

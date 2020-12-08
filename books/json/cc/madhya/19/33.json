@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\33.json",
+		"id": "cc\\madhya\\19\\33",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmi-dui-bhāi calilāṅa tāṅhāre milite\ntumi yaiche taiche chuṭi' āisa tāhāṅ haite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmi-dui-bhāi—we two brothers; calilāṅa—have gone; tāṅhāre milite—to meet Him; tumi—you; yaiche taiche—somehow or other; chuṭi'-getting free; āisa—come; tāhāṅ haite—from there.",
+	"translation": "In his letter to Sanātana Gosvāmī, Śrīla Rūpa Gosvāmī wrote, \"We two brothers are starting out to go see Śrī Caitanya Mahāprabhu. You must also somehow or other get released and come meet us.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The two brothers herein mentioned are Rūpa Gosvāmī and his younger brother, Anupama Mallika. Rūpa Gosvāmī was informing Sanātana Gosvāmī that he should join him and his younger brother."
+		}
+	]
 }

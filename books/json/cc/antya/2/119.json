@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\119.json",
+		"id": "cc\\antya\\2\\119",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mātrā svasrā duhitrā vā\nnā viviktāsano bhavet\nbalavān indriya-grāmo\nvidvāṁsam api karṣati\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mātrā—with one's mother; svasrā—with one's sister; duhitrā—with one's daughter; vā—or; nā—not; vivikta-āsanaḥ—sitting together; bhavet—there should be; balavān—very strong; indriya-grāmaḥ—the group of senses; vidvāṁsam—a person with knowledge of liberation; api—even; karṣati—attract.",
+	"translation": "\" 'One should not sit closely with one's mother, sister or daughter, for the senses are so strong that they may attract even a person advanced in knowledge.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse appears in the Manu-saṁhitā (2.215) and Śrīmad-Bhāgavatam (9.19.17)."
+		}
+	]
 }

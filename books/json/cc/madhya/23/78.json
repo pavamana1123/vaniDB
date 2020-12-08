@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\78.json",
+		"id": "cc\\madhya\\23\\78",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "atha pañca-guṇā ye syur\naṁśena giriśādiṣu\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "atha—now(over and above these); pañca-guṇāḥ—five qualities; ye—which; syuḥ—may exist; aṁśena—by part; giriśa-ādiṣu—in demigods like Lord Śiva.",
+	"translation": "\" 'Apart from these fifty qualities, there are five other qualities found in the Supreme Personality of Godhead that are partially present in demigods like Śiva.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse and the following seven verses are also found in the Bhakti-rasāmṛta-sindhu (2.1.37-44)."
+		}
+	]
 }

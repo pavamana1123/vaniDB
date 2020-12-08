@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\23.json",
+		"id": "cc\\adi\\9\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "baḍa śākhā, upaśākhā, tāra upaśākhā\nyata upajila tāra ke karibe lekhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "baḍa śākhā—the big branches; upaśākhā—subbranches; tāra—their; upaśākhā—subbranches; yata—all that; upajila—grew; tāra—of them; ke—who; karibe—can count; lekhā—or write.",
+	"translation": "These branches and subbranches and their subbranches became so numerous that no one can actually write about them."
 }

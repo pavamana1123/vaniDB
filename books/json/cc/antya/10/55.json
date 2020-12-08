@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\55.json",
+		"id": "cc\\antya\\10\\55",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "govinda-ṭhāñi rāghava jhāli samarpilā\nbhojana-gṛhera koṇe jhāli govinda rākhilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govinda-ṭhāñi—in charge of Govinda; rāghava—Rāghava Paṇḍita; jhāli—the jhāli, the bags of eatables; samarpilā—delivered; bhojana-gṛhera—of the dining room; koṇe—in the corner; jhāli—the bags; govinda—Govinda; rākhilā—kept.",
+	"translation": "Rāghava Paṇḍita delivered the bags of eatables to Govinda, who kept them in a corner of the dining room."
 }

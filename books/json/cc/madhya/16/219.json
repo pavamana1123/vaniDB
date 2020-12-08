@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\219.json",
+		"id": "cc\\madhya\\16\\219",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nadīyā-vāsī, brāhmaṇera upajīvya-prāya\nartha, bhūmi, grāma diyā karena sahāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nadīyā-vāsī—inhabitants of Nadia; brāhmaṇera—of all brāhmaṇas; upajīvya-prāya—almost the entire source of income; artha—money; bhūmi—land; grāma—villages; diyā—giving as charity; karena sahāya—give help.",
+	"translation": "Practically all the brāhmaṇas residing in Nadia were dependent on the charity of Hiraṇya and Govardhana, who gave them money, land and villages.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Although Navadvīpa was very opulent and populous during Śrī Caitanya Mahāprabhu's time, practically all the brāhmaṇas depended on the charity of Hiraṇya and Govardhana. Because the brothers highly respected the brāhmaṇas, they very liberally gave them money."
+		}
+	]
 }

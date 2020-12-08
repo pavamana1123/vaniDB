@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\17.json",
+		"id": "cc\\adi\\9\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "skandhera upare bahu śākhā upajila\nupari upari śākhā asaṅkhya ha-ila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "skandhera upare—upon the trunk; bahu śākhā—many branches; upajila—grew; upari upari—over and above them; śākhā—other branches; asaṅkhya—innumerable; ha-ila—fructified.",
+	"translation": "From the trunk grew many branches and above them innumerable others."
 }

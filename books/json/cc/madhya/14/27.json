@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\27.json",
+		"id": "cc\\madhya\\14\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nāraṅga, cholaṅga, ṭābā, kamalā, bīja-pūra\nbādāma, chohārā, drākṣā, piṇḍa-kharjura\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nāraṅga—oranges; cholaṅga—grapefruits; ṭābā—another type of orange; kamalā—tangerines; bīja-pūra—another type of tangerine; bādāma—almonds; chohārā—dried fruit; drākṣā—raisins; piṇḍa-kharjura—dates.",
+	"translation": "There were also oranges, grapefruit, tangerines, almonds, dried fruit, raisins and dates."
 }

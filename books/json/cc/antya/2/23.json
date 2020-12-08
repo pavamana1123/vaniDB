@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\23.json",
+		"id": "cc\\antya\\2\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "parīkṣā karite tāṅra yabe icchā haila\nbāhire rahiyā tabe vicāra karila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "parīkṣā karite—to test; tāṅra—of Śivānanda Sena; yabe—when; icchā—desire; haila—there was; bāhire rahiyā—staying outside; tabe—at that time; vicāra karila—considered.",
+	"translation": "Desiring to test the authenticity of Nakula Brahmacārī, he stayed outside, thinking as follows."
 }

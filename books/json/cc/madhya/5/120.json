@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\120.json",
+		"id": "cc\\madhya\\5\\120",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "utkalera rājā puruṣottama-deva nāma\nsei deśa jini' nila kariyā saṅgrāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "utkalera—of Orissa; rājā—the King; puruṣottama-deva—Puruṣottama-deva; nāma—named; sei deśa—this country; jini'-conquering; nila—took; kariyā—executing; saṅgrāma—fight.",
+	"translation": "Later there was a fight, and this country was conquered by King Puruṣottama-deva of Orissa."
 }

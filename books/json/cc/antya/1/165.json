@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\165.json",
+		"id": "cc\\antya\\1\\165",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ayaṁ nayana-daṇḍita-pra vara-puṇḍarīka-prabhaḥ\nprabhāti nava-jāguḍa-dyuti-viḍambi-pītāmbaraḥ\naraṇyaja-pariṣkriyā-damita-divya-veśādaro\nharin-maṇi-manohara-dyutibhir ujjvalāṅgo hariḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ayam—this; nayana—by whose beautiful eyes; daṇḍita—defeated; pravara—best; puṇḍarīka-prabhaḥ—the luster of the white lotus flower; prabhāti—looks beautiful; nava-jāguḍa-dyuti—the brilliance of newly painted viḍambi; viḍambi-deriding; pīta-ambaraḥ—whose yellow dress; araṇya-ja—picked up from the forest; pariṣkriyā—by whose ornaments; damita—subdued; divya-veśa-ādaraḥ—the hankering for first-class dress; harin-maṇi—of emeralds; manohara—mind-attracting; dyutibhiḥ—with splendor; ujjvala-aṅgaḥ—whose beautiful body; hariḥ—the Supreme Personality of Godhead.",
+	"translation": "'The beauty of Kṛṣṇa's eyes surpasses the beauty of white lotus flowers, His yellow garments surpass the brilliance of fresh decorations of kuṅkuma, His ornaments of selected forest flowers surpass the hankering for the best of garments, and His bodily beauty possesses mind-attracting splendor greater than the jewels known as marakata-maṇi [emeralds].'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse from Vidagdha-mādhava (1.17) is spoken by paurṇamāsī."
+		}
+	]
 }

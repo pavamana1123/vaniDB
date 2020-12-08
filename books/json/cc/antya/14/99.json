@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\14\\99.json",
+		"id": "cc\\antya\\14\\99",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhura aṅge dekhe aṣṭa-sāttvika vikāra\nāścarya sāttvika dekhi' hailā camatkāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhura—of Śrī Caitanya Mahāprabhu; aṅge—in the body; dekhe—they see; aṣṭa-sāttvika vikāra—eight kinds of transcendental transformations; āścarya—wonderful; sāttvika—transcendental; dekhi'-seeing; hailā camatkāra—they became struck with wonder.",
+	"translation": "All eight kinds of transcendental transformations were visible in the Lord's body. All the devotees were struck with wonder to see such a sight.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The eight ecstatic symptoms are the state of being stunned, perspiration, standing of the hairs on end, faltering of the voice, trembling, fading of the body's color, tears and devastation."
+		}
+	]
 }

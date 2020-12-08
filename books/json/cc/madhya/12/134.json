@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\134.json",
+		"id": "cc\\madhya\\12\\134",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "praṇālikā chāḍi' yadi pāni vahāila\nnūtana nadī yena samudre milila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "praṇālikā—water from the outlets; chāḍi'—releasing; yadi—when; pāni—water; vahāila—flowed; nūtana—new; nadī—river; yena—as if; samudre—in the ocean; milila—met.",
+	"translation": "When the water from the different rooms was finally let out through the halls, it appeared as if new rivers were rushing out to meet the waters of the ocean."
 }

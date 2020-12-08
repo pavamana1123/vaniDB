@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\53.json",
+		"id": "cc\\madhya\\14\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aṅkuśera ghāya hastī karaye citkāra\nratha nāhi cale, loke kare hāhākāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aṅkuśera—of the elephant-goad; ghāya—by striking; hastī—the elephants; karaye—made; citkāra—crying; ratha—the car; nāhi cale—does not move; loke—all the people; kare—exclaim; hāhā-kāra—alas.",
+	"translation": "The elephants, being beaten by the elephant-goad, were crying, but still the car would not move. The assembled people cried out, \"Alas!\""
 }

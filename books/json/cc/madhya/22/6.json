@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\6.json",
+		"id": "cc\\madhya\\22\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrutir mātā pṛṣṭā diśati bhavad-ārādhana-vidhiṁ\nyathā mātur vāṇī smṛtir api tathā vakti bhaginī\npurāṇādyā ye vā sahaja-nivahās te tad-anugā\nataḥ satyaṁ jñātaṁ murahara bhavān eva śaraṇam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrutiḥ—Vedic knowledge; mātā—like a mother who is affectionate to her children; pṛṣṭā—when questioned; diśati—she directs; bhavat—of You; ārādhana—worship; vidhim—the process; yathā—just as; mātuḥ vāṇī—the instructions of the mother; smṛtiḥ—smṛti-śāstras, which explain the Vedic literatures; api—also; tathā—similarly; vakti—express; bhaginī—like a sister; purāṇa-ādyāḥ—headed by the Purāṇas; ye—which; vā—or; sahaja-nivahāḥ—like brothers; te—all of them; tat—of the mother; anugāḥ—followers; ataḥ—therefore; satyam—the truth; jñātam—known; mura-hara—O killer of the demon Mura; bhavān—Your Lordship; eva—only; śaraṇam—the shelter.",
+	"translation": "\" 'When the mother Vedas [śruti] is questioned as to whom to worship, she says that You are the only Lord and worshipable object. Similarly, the corollaries of the śruti-śāstras, the smṛti-śāstras, give the same instructions, just like sisters. The Purāṇas, which are like brothers, follow in the footsteps of their mother. O enemy of the demon Mura, the conclusion is that You are the only shelter. Now I have understood this in truth.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This quotation from the Vedic literature was spoken by great sages."
+		}
+	]
 }

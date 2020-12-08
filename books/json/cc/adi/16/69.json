@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\69.json",
+		"id": "cc\\adi\\16\\69",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "daśa alaṅkāre yadi eka śloka haya\neka doṣe saba alaṅkāra haya kṣaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "daśa alaṅkāre—with ten instances of literary ornamentation; yadi—if; eka—one; śloka—verse; haya—there is; eka doṣe—by one fault; saba—all; alaṅkāra—ornaments; haya kṣaya—become null and void.",
+	"translation": "\"If there are ten literary ornaments in a verse but even one faulty expression, the entire verse is nullified."
 }

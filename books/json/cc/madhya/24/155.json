@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\155.json",
+		"id": "cc\\madhya\\24\\155",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sagarbha, nigarbha,--ei haya dui bheda\neka eka tina bhede chaya vibheda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sagarbha—sagarbha; nigarbha-nigarbha; ei-thus; haya—there are; dui—two; bheda—different varieties; eka eka—each one; tina bhede—in three varieties; chaya vibheda—therefore there are six varieties.",
+	"translation": "\"The two ātmārāma-yogīs are called sagarbha and nigarbha. Each of these is divided into three; therefore there are six types of worshipers of the Supersoul.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The word sagarbha-yogī refers to a yogī who worships the Supersoul in the Viṣṇu form. The nigarbha-yogī worships the Supersoul without form. The sagarbha and nigarbha yogīs are further categorized: (1) sagarbha-yogārurukṣu, (2) nigarbha-yogārurukṣu, (3) sagarbha-yogārūḍha, (4) nigarbha-yogārūḍha, (5) sagarbha-prāpta-siddhi and (6) nigarbha-prāpta-siddhi."
+		}
+	]
 }

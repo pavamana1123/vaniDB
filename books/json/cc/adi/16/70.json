@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\70.json",
+		"id": "cc\\adi\\16\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sundara śarīra yaiche bhūṣaṇe bhūṣita\neka śveta-kuṣṭhe yaiche karaye vigīta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sundara—beautiful; śarīra—body; yaiche—as; bhūṣaṇe—with ornaments; bhūṣita—decorated; eka—one; śveta-kuṣṭhe—with a white spot of leprosy; yaiche—as; karaye—is made; vigīta—abominable.",
+	"translation": "\"One's beautiful body may be decorated with jewels, but one spot of white leprosy makes the entire body abominable.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The great sage Bharata Muni, an authority on poetic metaphor, has given his opinion in this connection as follows."
+		}
+	]
 }

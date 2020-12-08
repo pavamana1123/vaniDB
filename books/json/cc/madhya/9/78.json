@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\78.json",
+		"id": "cc\\madhya\\9\\78",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kumbhakarṇa-kapāle dekhi' sarovara\nśiva-kṣetre śiva dekhe gaurāṅga-sundara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kumbhakarṇa-kapāle—at Kumbhakarṇa-kapāla; dekhi'-after seeing; sarovara—the lake; śiva-kṣetre—at Śiva-kṣetra; śiva—Lord Śiva; dekhe—sees; gaurāṅga-sundara—Lord Śrī Caitanya Mahāprabhu.",
+	"translation": "At Kumbhakarṇa-kapāla, Śrī Caitanya Mahāprabhu saw a great lake and then the holy place named Śiva-kṣetra, where a temple of Lord Śiva is located.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Kumbhakarṇa is the name of the brother of Rāvaṇa. At the present moment the city of Kumbhakarṇa-kapāla is known as Kumbhakonṇam; it is situated twenty miles northeast of the city of Tanjoreāñ. There are twelve temples of Lord Śiva located at Kumbhakonṇam, as well as four Viṣṇu temples and one temple to Lord Brahmā. Śiva-kṣetra, within the city of Tanjoreāñ, is situated near a big lake known as Śiva-gaṅgā. At this place is a large temple of Lord Śiva known as Bṛhatīśvara-śiva-mandira."
+		}
+	]
 }

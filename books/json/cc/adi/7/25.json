@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\7\\25.json",
+		"id": "cc\\adi\\7\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "uchalila prema-vanyā caudike veḍāya\nstrī, vṛddha, bālaka, yuvā, sabāre ḍubāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "uchalila—became agitated; prema-vanyā—the inundation of love of Godhead; caudike—in all directions; veḍāya—surrounding; strī—women; vṛddha—old men; bālaka—children; yuvā—young men; sabāre—all of them; ḍubāya—merged into.",
+	"translation": "The flood of love of Godhead swelled in all directions, and thus young men, old men, women and children were all immersed in that inundation.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "When the contents of the storehouse of love of Godhead is thus distributed, there is a powerful inundation that covers the entire land. In Śrīdhāma Māyāpura there is sometimes a great flood after the rainy season. This is an indication that from the birthplace of Lord Caitanya the inundation of love of Godhead should be spread all over the world, for this will help everyone, including old men, young men, women and children. The Kṛṣṇa consciousness movement of Śrī Caitanya Mahāprabhu is so powerful that it can inundate the entire world and interest all classes of men in the subject of love of Godhead."
+		}
+	]
 }

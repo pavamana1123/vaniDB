@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\123.json",
+		"id": "cc\\antya\\3\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rātri-śeṣa haila, veśyā usimisi kare\ntāra rīti dekhi' haridāsa kahena tāhāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rātri—night; śeṣa haila—came to an end; veśyā—the prostitute; usimisi—restless; kare—became; tāra—her; rīti—activities; dekhi'-seeing; haridāsa—Haridāsa Ṭhākura; kahena—says; tāhāre—unto her.",
+	"translation": "When the night came to an end, the prostitute was restless. Seeing this, Haridāsa Ṭhākura spoke to her as follows."
 }

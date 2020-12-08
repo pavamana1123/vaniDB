@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\98.json",
+		"id": "cc\\madhya\\25\\98",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cāri-veda-upaniṣade yata kichu haya\ntāra artha lañā vyāsa karilā sañcaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "cāri-veda—the four divisions of the Vedas (Sāma, Yajur, Ṛg and Atharva); upaniṣade—and in 108 Upaniṣads; yata—whatever; kichu haya—is there; tāra artha—the meanings of those Vedic literatures; lañā—taking together; vyāsa—Vyāsadeva; karilā sañcaya—collected.",
+	"translation": "\"Vyāsadeva collected whatever Vedic conclusions were in the four Vedas and 108 Upaniṣads and placed them in the codes of the Vedānta-sūtra."
 }

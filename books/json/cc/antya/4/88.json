@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\88.json",
+		"id": "cc\\antya\\4\\88",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "parera sthāpya dravya keha nā khāya, vilāya\nniṣedhiha iṅhāre,--yena nā kare anyāya\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "parera—by another; sthāpya—to be kept: dravya—property; keha nā khāya—no one uses; vilāya—distributes; niṣedhiha—forbid; iṅhāre—him; yena—so; nā kare—he does not do; anyāya—something unlawful.",
+	"translation": "\"One who is entrusted with another's property does not distribute it or use it for his own purposes. Therefore, tell him not to do such an unlawful thing.\""
 }

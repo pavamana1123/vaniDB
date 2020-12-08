@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\269.json",
+		"id": "cc\\madhya\\8\\269",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra sammukhe dekhi kāñcana-pañcālikā\ntāṅra gaura-kāntye tomāra sarva aṅga ḍhākā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—of You; sammukhe—in front; dekhi—I see; kāñcana-pañcālikā—a doll made of gold; tāṅra—of it; gaura-kāntye—by a golden complexion; tomāra—Your; sarva—all; aṅga—body; ḍhākā—covering.",
+	"translation": "\"I now see You appearing like a golden doll, and Your entire body appears covered by a golden luster.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śyāmasundara is blackish, but here Rāmānanda Rāya says that he saw Śrī Caitanya Mahāprabhu appear golden. The lustrous body of Śrī Caitanya Mahāprabhu was covered by the bodily complexion of Śrīmatī Rādhārāṇī."
+		}
+	]
 }

@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\48.json",
+		"id": "cc\\madhya\\18\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe rūpa gosāñi saba nija-gaṇa lañā\neka-māsa daraśana kailā mathurāya rahiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—thereupon; rūpa gosāñi—Śrīla Rūpa Gosvāmī; saba—all; nija-gaṇa lañā—taking his associates with him; eka-māsa—for one month; daraśana kailā—saw the Deity; mathurāya rahiyā—staying at the city of Mathurā.",
+	"translation": "Śrīla Rūpa Gosvāmī and his associates stayed in Mathurā for one month and saw the Deity Gopāla.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The following description of the temple of Viṭhṭhaleśvara is given in Bhakti-ratnākara (Fifth Wave):"
+		},
+		{
+			"type": "normal",
+			"content": "viṭhṭhalera sevā kṛṣṇa-caitanya-vigraha\ntāhāra darśane haila parama āgraha"
+		},
+		{
+			"type": "normal",
+			"content": "śrī-viṭhṭhalanātha--bhaṭṭa-vallabha-tanaya\nkarilā yateka prīti kahile nā haya"
+		},
+		{
+			"type": "normal",
+			"content": "gāṭholi-grāme gopāla āilā 'chala' kari'\ntāṅre dekhi' nṛtya-gīte magna gaurahari"
+		},
+		{
+			"type": "normal",
+			"content": "śrī-dāsa-gosvāmī ādi parāmarśa kari'\nśrī-viṭhṭhaleśvare kailā sevā-adhikārī"
+		},
+		{
+			"type": "normal",
+			"content": "pitā śrī-vallabha-bhaṭṭa tāṅra adarśane\nkata-dina mathurāya chilena nirjane"
+		},
+		{
+			"type": "normal",
+			"content": "Śrī Vallabha Bhaṭṭa had two sons. The elder, Gopīnātha, was born in 1432 Śakābda Era, and the younger, Viṭhṭhalanātha, was born in 1437 and died in 1507. Viṭhṭhala had seven sons: Giridhara, Govinda, Bālakṛṣṇa, Gokuleśa, Raghunātha, Yadunātha and Ghanaśyāma. Viṭhṭhala completed many of his father's unfinished books, including his commentary on Vedānta-sūtra, the Subodhinī commentary on Śrīmad-Bhāgavatam, Vidvan-maṇḍana, Śṛṅgāra-rasa-maṇḍana and Nyāsādeśa-vivaraṇa. Śrī Caitanya Mahāprabhu went to Vṛndāvana before the birth of Viṭhṭhala. Śrīla Rūpa Gosvāmī was very old at the time Gopāla stayed at the house of Viṭhṭhalanātha."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\206.json",
+		"id": "cc\\adi\\5\\206",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mora nāma śune yei tāra puṇya kṣaya\nmora nāma laya yei tāra pāpa haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mora nāma—my name; śune—hears; yei—anyone who; tāra—his; puṇya kṣaya—destruction of piety; mora nāma—my name; laya—takes; yei—anyone; tāra—his; pāpa—sin; haya—is.",
+	"translation": "Anyone who hears my name loses the results of his pious activities. Anyone who utters my name becomes sinful."
 }

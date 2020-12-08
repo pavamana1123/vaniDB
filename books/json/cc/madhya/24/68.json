@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\68.json",
+		"id": "cc\\madhya\\24\\68",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "api-śabde mukhya artha sāta vikhyāta\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "api-śabde—by the word api; mukhya—chief; artha—meanings; sāta—seven; vikhyāta—celebrated.",
+	"translation": "\"There are seven chief meanings of the word api. They are as follows."
 }

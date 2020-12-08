@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\19.json",
+		"id": "cc\\antya\\9\\19",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dui-lakṣa kāhana tāra ṭhāñi bākī ha-ila\ndui-lakṣa kāhana kauḍi rājā ta' māgila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dui-lakṣa—200,000 kāhanas of kauḍis (one kāhana equals 1280 kauḍis); tāra ṭhāñi—from him; bākī ha-ila—there was a balance due; dui-lakṣa kāhana—200,000 kāhanas; kauḍi—conchshells; rājā—the King; ta'-certainly; māgila—demanded.",
+	"translation": "\"Once when he deposited the collection, however, a balance of 200,000 kāhanas of conchshells was due from him. Therefore the King demanded this sum."
 }

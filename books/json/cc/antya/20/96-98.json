@@ -1,15 +1,23 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\96-98.json",
+		"id": "cc\\antya\\20\\96-98",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-govinda, śrī-caitanya, śrī-nityānanda\nśrī-advaita, śrī-bhakta, āra śrī-śrotṛ-vṛnda",
+			"isProse": false
+		},
+		{
+			"roman": "śrī-svarūpa, śrī-rūpa, śrī-sanātana\nśrī-raghunātha-dāsa śrī-guru, śrī-jīva-caraṇa",
+			"isProse": false
+		},
+		{
+			"roman": "iṅhā-sabāra caraṇa-kṛpā ya lekhāya āmāre\nāra eka haya,--teṅho ati-kṛpā kare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-govinda—Śrī Govindadeva; śrī-caitanya—Śrī Caitanya Mahāprabhu; śrī nityānanda—Lord Nityānanda; śrī-advaita—Advaita Ācārya; śrī-bhakta—other devotees; āra—also; śrī-śrotṛ-vṛnda—the readers of this book; śrī-svarūpa—Svarūpa Dāmodara Gosvāmī; śrī-rūpa—Śrī Rūpa Gosvāmī; śrī-sanātana—Śrī Sanātana Gosvāmī; śrī-raghunātha-dāsa—Śrī Raghunātha dāsa Gosvāmī; śrī-guru—my spiritual master; śrī-jīva-caraṇa—the lotus feet of Śrī Jīva Gosvāmī; iṅhā sabāra—of all of them; caraṇa-kṛpāya—by the mercy of the lotus feet; lekhāya—causes to write; āmāre—me; āra eka—another one; haya—there is; teṅho—He; ati-kṛpā kare—shows me very great favor.",
+	"translation": "I am writing this book by the mercy of the lotus feet of Śrī Govindadeva, Śrī Caitanya Mahāprabhu, Lord Nityānanda, Advaita Ācārya, other devotees and the readers of this book, as well as Svarūpa Dāmodara Gosvāmī, Śrī Rūpa Gosvāmī, Śrī Sanātana Gosvāmī, Śrī Raghunātha dāsa Gosvāmī, who is my spiritual master, and Śrī Jīva Gosvāmī. I have also been specifically favored by another Supreme Personality."
 }

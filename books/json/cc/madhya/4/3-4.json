@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\3-4.json",
+		"id": "cc\\madhya\\4\\3-4",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nīlādri-gamana, jagannātha-daraśana\nsārvabhauma bhaṭṭācārya-prabhura milana",
+			"isProse": false
+		},
+		{
+			"roman": "e saba līlā prabhura dāsa vṛndāvana\nvistāri' kariyāchena uttama varṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nīlādri-gamana—going to Jagannātha Purī; jagannātha-daraśana—visiting the temple of Lord Jagannātha; sārvabhauma bhaṭṭācārya—with Sārvabhauma Bhaṭṭācārya; prabhura—of the Lord; milana—meeting; e saba—all these; līlā—pastimes; prabhura—of the Lord; dāsa vṛndāvana—Vṛndāvana dāsa Ṭhākura; vistāri'-elaborating; kariyāchena—has done; uttama—very nice; varṇana—description.",
+	"translation": "The Lord went to Jagannātha Purī and visited Lord Jagannātha's temple. He also met with Sārvabhauma Bhaṭṭācārya. All these pastimes have been very elaborately explained by Vṛndāvana dāsa Ṭhākura in his book Caitanya-bhāgavata."
 }

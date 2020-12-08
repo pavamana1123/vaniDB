@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\49.json",
+		"id": "cc\\antya\\9\\49",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājā kahe,--\"ei vāt āmi nāhi jāni\nprāṇa kene la-iba, tāra dravya cāhi āmi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājā kahe—the King replied; ei vāt—this news; āmi—I; nāhi jāni—do not know; prāṇa—his life; kene—why; la-iba—should I take; tāra—his; dravya—money; cāhi āmi—I want.",
+	"translation": "The King answered in surprise,\"I did not know about all this. Why should his life be taken? I only want the money from him."
 }

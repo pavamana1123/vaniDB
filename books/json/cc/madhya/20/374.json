@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\374.json",
+		"id": "cc\\madhya\\20\\374",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'vibhūti' kahiye yaiche gītā-ekādaśe\njagat vyāpila kṛṣṇa-śakty-ābhāsāveśe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vibhūti—specific power; kahiye—we say; yaiche—just like; gītā—of Bhagavad-gītā; ekādaśe—in the Eleventh Chapter; jagat—throughout the whole universe; vyāpila—He expanded; kṛṣṇa-śakti-ābhāsa-āveśe—by the reflection of His power.",
+	"translation": "\"As explained in the Eleventh Chapter of Bhagavad-gītā, Kṛṣṇa has spread Himself all over the universe in many personalities through specific powers, known as vibhūti.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The expansion of specific māyā powers is explained in Śrīmad-Bhāgavatam (2.7.39)."
+		}
+	]
 }

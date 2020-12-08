@@ -1,15 +1,23 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\108-110.json",
+		"id": "cc\\antya\\4\\108-110",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "advaita, nityānanda, śrīvāsa, vakreśvara\nvāsudeva, murāri, rāghava, dāmodara",
+			"isProse": false
+		},
+		{
+			"roman": "purī, bhāratī, svarūpa, paṇḍitā gadādhara\nsārvabhauma, rāmānanda, jagadānanda, śaṅkara",
+			"isProse": false
+		},
+		{
+			"roman": "kāśīśvara, govindādi yata bhakta-gaṇa\nsabā-sane sanātanera karāilā milana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "advaita—Advaita; nityānanda—Nityānanda; śrīvāsa—Śrīvāsa; vakreśvara—Vakreśvara; vāsudeva—Vāsudeva; murāri—Murāri; rāghava—Rāghava; dāmodara—Dāmodara; purī—Purī; bhāratī—Bhāratī; svarūpa—Svarūpa; paṇḍita-gadādhara—Gadādhara Paṇḍita; sārvabhauma—Sārvabhauma; rāmānanda—Rāmānanda; jagadānanda—Jagadānanda; śaṅkara—Śaṅkara; kāśīśvara—Kāśīśvara; govinda—Govinda; ādi—and others; yata bhakta-gaṇa—all the devotees; sabā-sane—with all of them; sanātanera—of Sanātana Gosvāmī; karāilā milana—made introduction.",
+	"translation": "Śrī Caitanya Mahāprabhu introduced Sanātana Gosvāmī to these and other selected devotees: Advaita, Nityānanda, Śrīvāsa, Vakreśvara, Vāsudeva, Murāri, Rāghava, Dāmodara, Paramānanda Purī, Brahmānanda Bhāratī, Svarūpa Dāmodara, Gadādhara Paṇḍita, Sārvabhauma, Rāmānanda, Jagadānanda, Śaṅkara, Kāśīśvara and Govinda."
 }

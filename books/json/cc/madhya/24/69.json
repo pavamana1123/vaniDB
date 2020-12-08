@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\69.json",
+		"id": "cc\\madhya\\24\\69",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "api sambhāvanā-praśna-\nśaṅkā-garhā-samuccaye\ntathā yukta-padārtheṣu\nkāma-cāra-kriyāsu ca\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "api—the word api; sambhāvanā—possibility; praśna—question; śaṅkā—doubt; garhā—censure or abuse; samuccaye—aggregation; tathā—as well as; yukta-pada-artheṣu—the appropriate application of things; kāma-cāra-kriyāsu—of extravagance; ca—and.",
+	"translation": "\" 'The word api is used in the sense of possibility, question, doubt, censure, aggregation, appropriate application of things, and extravagance.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is another quotation from the Viśva-prakāśa."
+		}
+	]
 }

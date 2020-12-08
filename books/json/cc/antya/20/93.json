@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\93.json",
+		"id": "cc\\antya\\20\\93",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vṛddha jarātura āmi andha, badhira\nhasta hāle, manobuddhi nahe mora sthira\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vṛddha—an old man; jarā-ātura—troubled by invalidity; āmi—I; andha—blind; badhira—deaf; hasta hāle—my hands tremble; manaḥ-buddhi—mind and intelligence; nahe—not; mora—my; sthira—steady.",
+	"translation": "I am old and troubled by invalidity. I am almost blind and deaf, my hands tremble, and my mind and intelligence are unsteady."
 }

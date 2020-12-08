@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\7.json",
+		"id": "cc\\antya\\10\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāse yaiche ghara yāite gopīre ājñā dilā\ntāṅra ājñā bhāṅgi' tāṅra saṅge se rahilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāse—at the time of the rāsa dance; yaiche—as; ghara yāite—to return home; gopīre—the gopīs; ājñā dilā—Lord Kṛṣṇa ordered; tāṅra—His; ājñā—order; bhāṅgi'-breaking; tāṅra saṅge—in His association; se—they; rahilā—kept themselves.",
+	"translation": "During the rāsa dance, Kṛṣṇa asked all the gopīs to return home, but the gopīs neglected His order and stayed there for His association."
 }

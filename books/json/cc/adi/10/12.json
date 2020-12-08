@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\12.json",
+		"id": "cc\\adi\\10\\12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'ācāryaratna' nāma dhare baḍa eka śākhā\ntāṅra parikara, tāṅra śākhā-upaśākhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācāryaratna—of the name Ācāryaratna; nāma—name; dhare—he accepts; baḍa—big; eka—one; śākhā—branch; tāṅra—his; parikara—associates; tāṅra—his; śākhā—branch; upaśākhā—subbranches.",
+	"translation": "Another big branch was Ācāryaratna, and his associates were subbranches."
 }

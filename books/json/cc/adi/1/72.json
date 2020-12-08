@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\72.json",
+		"id": "cc\\adi\\1\\72",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāsotsavaḥ sampravṛtto\ngopī-maṇḍala-maṇḍitaḥ\nyogeśvareṇa kṛṣṇena\ntāsāṁ madhye dvayor dvayoḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāsa-utsavaḥ—the festival of the rāsa dance; sampravṛttaḥ—was begun; gopī-maṇḍala—by groups of gopīs; maṇḍitaḥ—decorated; yoga-īśvareṇa—by the master of all mystic powers; kṛṣṇena—by Lord Kṛṣṇa; tāsām—of them; madhye—in the middle; dvayoḥ dvayoḥ—of each two.",
+	"translation": "\"When Lord Kṛṣṇa, surrounded by groups of cowherd girls, began the festivities of the rāsa dance, the Lord of all mystic powers placed Himself between each two girls.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is also quoted from Śrīmad-Bhāgavatam (10.33.3)."
+		}
+	]
 }

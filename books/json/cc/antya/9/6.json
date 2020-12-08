@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\6.json",
+		"id": "cc\\antya\\9\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dine nṛtya-kīrtana, jagannātha-daraśana\nrātrye rāya-svarūpa-sane rasa-āsvādana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dine—during the day; nṛtya-kīrtana—dancing and chanting; jagannātha-daraśana—seeing Lord Jagannātha; rātrye—at night; rāya-svarūpa-sane—with Rāmānanda Rāya and Svarūpa Dāmodara; rasa-āsvādana—tasting transcendental bliss.",
+	"translation": "During the day He chanted, danced and saw Lord Jagannātha in the temple. At night He tasted transcendental bliss in the company of Rāmānanda Rāya and Svarūpa Dāmodara."
 }

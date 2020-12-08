@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\53.json",
+		"id": "cc\\adi\\16\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kavi kahe,--kaha dekhi, kon guṇa-doṣa\nprabhu kahena,--kahi, śuna, nā kariha roṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kavi kahe—the poet said; kaha dekhi—you say \"I see\"; kon—what; guṇa—qualities; doṣa—faults; prabhu kahena—the Lord replied; kahi—let Me say; śuna—please hear; nā—do not; kariha—become; roṣa—angry.",
+	"translation": "The poet said, \"All right, let me see what qualities and faults You have found.\" The Lord replied, \"Let Me speak, and please hear Me without becoming angry."
 }

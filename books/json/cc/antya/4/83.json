@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\83.json",
+		"id": "cc\\antya\\4\\83",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eta saba karma āmi ye-dehe karimu\ntāhā chāḍite cāha tumi, kemane sahimu?\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eta saba—all this; karma—work; āmi—I; ye-dehe—by which body; karimu—will do; tāhā—that; chāḍite—to give up; cāha tumi—you want; kemane—how; sahimu—shall I tolerate.",
+	"translation": "\"I have to do all this work through your body, but you want to give it up. How can I tolerate this?\""
 }

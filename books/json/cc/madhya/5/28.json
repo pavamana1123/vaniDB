@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\28.json",
+		"id": "cc\\madhya\\5\\28",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhīṣmakera icchā,--kṛṣṇe kanyā samarpite\nputrera virodhe kanyā nārila arpite\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhīṣmakera—of King Bhīṣmaka; icchā—the desire; kṛṣṇe—unto Kṛṣṇa; kanyā—daughter; samarpite—to give; putrera—of his son; virodhe—by the objection; kanyā—daughter; nārila—was unable; arpite—to offer.",
+	"translation": "\"King Bhīṣmaka wanted to give his daughter, Rukmiṇī, in charity to Kṛṣṇa, but Rukmī, his eldest son, objected. Therefore he could not carry out his decision.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in Śrīmad-Bhāgavatam (10.52.25):"
+		},
+		{
+			"type": "normal",
+			"content": "bandhūnām icchatāṁ dātuṁ\nkṛṣṇāya bhaginīṁ nṛpa\ntato nivārya kṛṣṇa-dviḍ\nrukmī caidyam amanyata"
+		},
+		{
+			"type": "normal",
+			"content": "King Bhīṣmaka of Vidarbha wanted to offer Kṛṣṇa his daughter, Rukmiṇī, but Rukmī, the eldest of his five sons, objected. Therefore he withdrew his decision and decided to offer Rukmiṇī to the King of Cedi, Śiśupāla, who was a cousin of Kṛṣṇa's. However, Rukmiṇī conceived of a trick: she sent a letter to Kṛṣṇa asking Him to kidnap her. Thus in order to please Rukmiṇī, who was His great devotee, Kṛṣṇa kidnapped her. There ensued a great fight between Kṛṣṇa and the opposing party, headed by Rukmiṇī's brother Rukmī. Rukmī was defeated and, because of his harsh words against Kṛṣṇa, was about to be killed, but he was saved at the request of Rukmiṇī. However, Kṛṣṇa shaved off all of Rukmī's hair with His sword. Śrī Balarāma did not like this, and so to please Rukmiṇī, Balarāma rebuked Kṛṣṇa."
+		}
+	]
 }

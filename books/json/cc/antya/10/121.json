@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\121.json",
+		"id": "cc\\antya\\10\\121",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vāsudeva-dattera ei murāri-guptera āra\nbuddhimanta-khāṅnera ei vividha prakāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vāsudeva-dattera—of Vāsudeva Datta; ei—these; murāri-guptera—of Murāri Gupta; āra—and; buddhimanta-khāṅnera—of Buddhimanta Khān; ei—these; vividha prakāra—of different varieties.",
+	"translation": "\"And all these varieties of food have been given by Vāsudeva Datta, Murāri Gupta and Buddhimanta Khān."
 }

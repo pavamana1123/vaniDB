@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\66.json",
+		"id": "cc\\adi\\13\\66",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra saṅge ānanda kare vaiṣṇavera gaṇa\nkṛṣṇa-kathā, kṛṣṇa-pūjā, nāma-saṅkīrtana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra saṅge—with Him (Advaita Ācārya); ānanda—pleasure; kare—takes; vaiṣṇavera—of the devotees; gaṇa—assembly; kṛṣṇa-kathā—topics of Lord Kṛṣṇa; kṛṣṇa-pūjā—worship of Kṛṣṇa; nāma-saṅkīrtana—chanting of the Hare Kṛṣṇa mahā-mantra.",
+	"translation": "In the house of Advaita Ācārya, all the Vaiṣṇavas took pleasure in always talking of Kṛṣṇa, always worshiping Kṛṣṇa and always chanting the Hare Kṛṣṇa mahā-mantra.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "On these principles only does the Kṛṣṇa consciousness movement go on. We have no business other than to talk of Kṛṣṇa, worship Kṛṣṇa and chant the Hare Kṛṣṇa mahā-mantra."
+		}
+	]
 }

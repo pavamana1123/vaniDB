@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\70.json",
+		"id": "cc\\antya\\4\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhajanera madhye śreṣṭha nava-vidhā bhakti\n'kṛṣṇa-prema', 'kṛṣṇa' dite dhare mahā-śakti\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhajanera madhye—in executing devotional service; śreṣṭha—the best; nava-vidhā bhakti—the nine prescribed methods of devotional service; kṛṣṇa-prema—ecstatic love of Kṛṣṇa; kṛṣṇa—and Kṛṣṇa; dite—to deliver; dhare—possess; mahā-śakti—great potency.",
+	"translation": "\"Among the ways of executing devotional service, the nine prescribed methods are the best, for these processes have great potency to deliver Kṛṣṇa and ecstatic love for Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The nine kinds of devotional service are mentioned in Śrīmad-Bhāgavatam (7.5.23):"
+		},
+		{
+			"type": "normal",
+			"content": "śravaṇaṁ kīrtanaṁ viṣṇoḥ\nsmaraṇaṁ pāda-sevanam\narcanaṁ vandanaṁ dāsyaṁ\nsakhyam ātma-nivedanam"
+		},
+		{
+			"type": "normal",
+			"content": "These nine are hearing, chanting, remembering Kṛṣṇa, offering service to Kṛṣṇa's lotus feet, offering worship in the temple, offering prayers, working as a servant, making friendship with Kṛṣṇa and unreservedly surrendering to Kṛṣṇa. These nine processes of devotional service can grant one Kṛṣṇa and ecstatic love for Him. In the beginning one has to discharge devotional service according to regulative principles, but gradually, as devotional service becomes one's life and soul, one achieves the most exalted position of ecstatic love for Kṛṣṇa. Ultimately, Kṛṣṇa is the goal of life. One need not have taken birth in an aristocratic brāhmaṇa family to attain the lotus feet of Kṛṣṇa, nor is a person born in a low family unfit to achieve Kṛṣṇa's lotus feet. In Śrīmad-Bhāgavatam (3.33.7) Devahūti says to Kapiladeva:"
+		},
+		{
+			"type": "normal",
+			"content": "aho bata śva-paco 'to garīyān\nyaj-jihvāgre vartate nāma tubhyam\ntepus tapas te juhuvuḥ sasnur āryā\nbrahmānūcur nāma gṛṇanti ye te"
+		},
+		{
+			"type": "normal",
+			"content": "\"O my Lord, even a person born in a low family of dog-eaters is glorious if he always chants the holy name of the Lord. Such a person has already performed all types of austerities, penances and Vedic sacrifices, has already bathed in the sacred rivers, and has also studied all the Vedic literature. Thus he has become an exalted personality.\" Similarly, Kuntīdevī says to Lord Kṛṣṇa:"
+		},
+		{
+			"type": "normal",
+			"content": "janmaiśvarya-śruta-śrībhir\nedhamāna-madaḥ pumān\nnaivārhaty abhidhātuṁ vai\ntvām akiñcana-gocaram"
+		},
+		{
+			"type": "normal",
+			"content": "\"A person who is proud of his birth, opulence, knowledge and beauty cannot achieve Your lotus feet. You are available only to the humble and meek, not to the proud.\" (Bhāg. 1.8.26.)"
+		}
+	]
 }

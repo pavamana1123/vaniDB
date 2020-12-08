@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\188.json",
+		"id": "cc\\madhya\\8\\188",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vidagdho nava-tāruṇyaḥ\nparihāsa-viśāradaḥ\nniścinto dhīra-lalitaḥ\nsyāt prāyaḥ preyasī-vaśaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidagdhaḥ—clever; nava-tāruṇyaḥ—always freshly youthful; parihāsa—in joking; viśāradaḥ—expert; niścintaḥ—without anxiety; dhīra-lalitaḥ—a hero in loving affairs; syāt—is; prāyaḥ—almost always; preyasī-vaśaḥ—one who keeps His girlfriends subjugated.",
+	"translation": "\" 'A person who is very cunning and always youthful, expert in joking and without anxiety, and who can keep his girlfriends always subjugated, is called dhīra-lalita.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from the Bhakti-rasāmṛta-sindhu (2.1.230)."
+		}
+	]
 }

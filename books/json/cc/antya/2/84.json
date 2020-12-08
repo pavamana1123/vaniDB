@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\84.json",
+		"id": "cc\\antya\\2\\84",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "puruṣottame prabhu-pāśe bhagavān ācārya\nparama vaiṣṇava teṅho supaṇḍita ārya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "puruṣottame—at Jagannātha Purī; prabhu-pāśe—in the association of Śrī Caitanya Mahāprabhu; bhagavān ācārya—Bhagavān Ācārya; parama vaiṣṇava—pure devotee; teṅho—he; su-paṇḍita—very learned scholar; ārya—gentleman.",
+	"translation": "At Jagannātha Purī, in the association of Śrī Caitanya Mahāprabhu, lived Bhagavān Ācārya, who was certainly a gentleman, a learned scholar and a great devotee.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For a description of Bhagavān Ācārya, one may refer to the Ādi-līlā, Tenth Chapter, verse 136."
+		}
+	]
 }

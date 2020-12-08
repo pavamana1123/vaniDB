@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\170.json",
+		"id": "cc\\madhya\\24\\170",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sad-dharmasyāvabodhāya\nyeṣāṁ nirbandhinī matiḥ\nacirād eva sarvārthaḥ\nsidhyaty eṣām abhīpsitaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sat-dharmasya—of the path of progressive devotional service; avabodhāya—for understanding; yeṣām—those whose; nirbandhinī—unflinching; matiḥ—intelligence; acirāt—very soon; eva—certainly; sarva-arthaḥ—the goal of life; sidhyati—becomes fulfilled; eṣām—of these persons; abhīpsitaḥ—desired.",
+	"translation": "\" 'Those who are anxious to awaken their spiritual consciousness, who have unflinching intelligence and who are not deviated, certainly attain the desired goal of life.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Nāradīya Purāṇa."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\31.json",
+		"id": "cc\\antya\\5\\31",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "miśra kahe,--\"tomā dekhite haila āgamane\nāpanā pavitra kailuṅ tomāra daraśane\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "miśra kahe—Pradyumna Miśra replied; tomā—you; dekhite—to see; haila āgamane—I came; āpanā—myself; pavitra kailuṅ—I have purified; tomāra daraśane—by seeing you.",
+	"translation": "Pradyumna Miśra replied, \"I came simply to see you. Now I have purified myself by seeing Your Honor.\""
 }

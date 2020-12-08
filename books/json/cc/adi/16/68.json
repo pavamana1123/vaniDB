@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\68.json",
+		"id": "cc\\adi\\16\\68",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yadyapi ei śloke āche pañca alaṅkāra\nei pañca-doṣe śloka kaila chārakhāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yadyapi—although; ei śloke—in this verse; āche—there are; pañca—five; alaṅkāra—literary embellishments; ei pañca-doṣe—by the above-mentioned five faults; śloka—the verse; kaila—has been made; chārakhāra—spoiled.",
+	"translation": "\"Although there are five literary ornaments decorating this verse, the entire verse has been spoiled by these five most faulty presentations."
 }

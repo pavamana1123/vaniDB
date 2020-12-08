@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\7.json",
+		"id": "cc\\antya\\13\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sūkṣma vastra āni' gaurika diyā rāṅgāilā\nśimulīra tulā diyā tāhā pūrāilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sūkṣma vastra—fine cloth; āni'-bringing; gaurika—red oxide; diyā—with the help of; rāṅgāilā—made reddish; śimulīra—of the śimula tree; tulā—cotton; diyā—with; tāhā—that; pūrāilā—filled.",
+	"translation": "He acquired some fine cloth and colored it with red oxide. Then he filled it with cotton from a śimula tree."
 }

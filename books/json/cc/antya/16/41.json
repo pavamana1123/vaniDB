@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\41.json",
+		"id": "cc\\antya\\16\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "siṁha-dvārera uttara-dike kapāṭera āḍe\nbāiśa 'pāhāca'-tale āche eka nimna gāḍe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "siṁha-dvārera—of the Siṁha-dvāra; uttara-dike—on the northern side; kapāṭera āḍe—behind the door; bāiśa 'pāhāca'-of the twenty-two steps; tale—at the bottom; āche—there is; eka—one; nimna—low; gāḍe—ditch.",
+	"translation": "On the northern side of the Siṁha-dvāra, behind the door, there are twenty-two steps leading to the temple, and at the bottom of those steps is a ditch."
 }

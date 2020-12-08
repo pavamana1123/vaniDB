@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\70.json",
+		"id": "cc\\antya\\1\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve dui nāṭaka chila ekatra racanā\ndui-bhāga kari ebe karimu ghaṭanā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—previously; dui nāṭaka—two dramas; chila—there was; ekatra—together; racanā—composition; dui-bhāga kari—dividing into two; ebe—now; karimu ghaṭanā—I shall write the incidents.",
+	"translation": "FormerIy I wrote the two dramas as one composition. Now I shall divide it and describe the incidents in two separate works."
 }

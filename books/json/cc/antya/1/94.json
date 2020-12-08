@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\94.json",
+		"id": "cc\\antya\\1\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina rūpa karena nāṭaka likhana\nācambite mahāprabhura haila āgamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; rūpa—Rūpa Gosvāmī; karena—does; nāṭaka—drama; likhana—writing; ācambite—all of a sudden; mahāprabhura—of Śrī Caitanya Mahāprabhu; haila—there was; āgamana—the coming.",
+	"translation": "One day while Rūpa Gosvāmī was writing his book, Śrī Caitanya Mahāprabhu suddenly appeared."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\146.json",
+		"id": "cc\\adi\\10\\146",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "balabhadra bhaṭṭācārya--bhakti adhikārī\nmathurā-gamane prabhura yeṅho brahmacārī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ballabhadra bhaṭṭācārya—of the name Balabhadra Bhaṭṭācārya; bhakti adhikārī—bona fide devotee; mathurā-gamane—while touring Mathurā; prabhura—of the Lord; yeṅho—who; brahmacārī—acted as a brahmacārī.",
+	"translation": "As a bona fide devotee, Balabhadra Bhaṭṭācārya, the twenty-third principal associate, acted as the brahmacārī of Śrī Caitanya Mahāprabhu when He toured Mathurā.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Balabhadra Bhaṭṭācārya acted as a brahmacārī, or personal assistant of a sannyāsī. A sannyāsī is not supposed to cook. Generally a sannyāsī takes prasāda at the house of a gṛhastha, and a brahmacārī helps in this connection. A sannyāsī is supposed to be a spiritual master and a brahmacārī his disciple. Balabhadra Bhaṭṭācārya acted as a brahmacārī for Śrī Caitanya Mahāprabhu when the Lord toured Mathurā and Vṛndāvana."
+		}
+	]
 }

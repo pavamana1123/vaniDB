@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\150.json",
+		"id": "cc\\adi\\10\\150",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "acyutānanda--advaita-ācārya-tanaya\nnīlācale rahe prabhura caraṇa āśraya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "acyutānanda—of the name Acyutānanda; advaita-ācārya-tanaya—the son of Advaita Ācārya; nīlācale—at Jagannātha Purī; rahe—stays; prabhura—of Lord Caitanya Mahāprabhu; caraṇa—lotus feet; āśraya—taking shelter.",
+	"translation": "Acyutānanda, the thirty-fifth devotee, was the son of Advaita Ācārya. He also lived with Lord Caitanya, taking shelter of His lotus feet at Jagannātha Purī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "There is a statement about Acyutānanda in Chapter Twelve, verse 13, of Ādi-līlā."
+		}
+	]
 }

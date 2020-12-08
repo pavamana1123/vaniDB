@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\64.json",
+		"id": "cc\\adi\\12\\64",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "lokanātha paṇḍita, āra murāri paṇḍita\nśrī-haricaraṇa, āra mādhava paṇḍita\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "lokanātha paṇḍita—of the name Lokanātha Paṇḍita; āra—and; murāri paṇḍita—of the name Murāri Paṇḍita; śrī-haricaraṇa—of the name Śrī Haricaraṇa; āra—and; mādhava paṇḍita—of the name Mādhava Paṇḍita.",
+	"translation": "Lokanātha Paṇḍita, Murāri Paṇḍita, Śrī Haricaraṇa and Mādhava Paṇḍita were the thirty-third, thirty-fourth, thirty-fifth and thirty-sixth branches of Advaita Ācārya."
 }

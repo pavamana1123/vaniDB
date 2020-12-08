@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\adi\\7\\131.json",
+		"id": "cc\\adi\\7\\131",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-veda-sūtre kare kṛṣṇera abhidhāna\nmukhya-vṛtti chāḍi' kaila lakṣaṇā-vyākhyāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-veda-sūtre—in all the aphorisms of the Vedānta-sūtra; kare—establishes; kṛṣṇera—of Lord Kṛṣṇa; abhidhāna—explanation; mukhya-vṛtti—direct interpretation; chāḍi'-giving up; kaila—made; lakṣaṇā—indirect; vyākhyāna—explanation.",
+	"translation": "\"In all the Vedic sūtras and scriptures, it is Lord Kṛṣṇa who is to be understood, but the followers of Śaṅkarācārya have covered the real meaning of the Vedas with indirect explanations.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "It is said:"
+		},
+		{
+			"type": "normal",
+			"content": "vede rāmāyaṇe caiva\npurāṇe bhārate tathā\nādāv ante ca madhye ca\nhariḥ sarvatra gīyate"
+		},
+		{
+			"type": "normal",
+			"content": "In the Vedic literature, including the Rāmāyaṇa, Purāṇas and Mahābhārata, from the very beginning (ādau) to the end (ante ca), as well as within the middle (madhye ca), only Hari, the Supreme Personality of Godhead, is explained."
+		}
+	]
 }

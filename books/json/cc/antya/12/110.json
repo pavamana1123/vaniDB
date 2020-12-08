@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\110.json",
+		"id": "cc\\antya\\12\\110",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei kathā govinda jagadānandere kahila\nmauna kari' rahila paṇḍita, kichu nā kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei kathā—this message; govinda—Govinda; jagadānandere kahila—informed Jagadānanda; mauna kari'-keeping silent; rahila—remained; paṇḍita—Jagadānanda Paṇḍita; kichu—anything; nā kahila—did not reply.",
+	"translation": "When Govinda informed Jagadānanda Paṇḍita of this message, Jagadānanda remained silent, not saying even a word."
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\211.json",
+		"id": "cc\\antya\\4\\211",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mahāprabhura bhakta-gaṇe sabāre miliyā\nsei-pathe cali' yāya se-sthāna dekhiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mahāprabhura—of Śrī Caitanya Mahāprabhu; bhakta-gaṇe—the devotees; sabāre—all; miliyā—meeting; sei-pathe—on the path; cali' yāya—passed through; se—those; sthāna—places; dekhiyā—visiting.",
+	"translation": "Sanātana Gosvāmī met all the devotees of Śrī Caitanya Mahāprabhu and then, traveling by that same path, visited the places through which Śrī Caitanya Mahāprabhu had passed.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktivinoda Ṭhākura writes in a song (Śaraṇāgati 31.3):"
+		},
+		{
+			"type": "normal",
+			"content": "gaura āmāra, ye saba sthāne,\nkarala bhramaṇa raṅge\nse-saba sthāna, heriba āmi,\npraṇayi-bhakata-saṅge."
+		},
+		{
+			"type": "normal",
+			"content": "\"May I visit all the holy places associated with the līlās of Lord Caitanya and His devotees.\" A devotee should make a point of visiting all the places where Śrī Caitanya Mahāprabhu performed His pastimes. Indeed, pure devotees of Śrī Caitanya Mahāprabhu even want to see the places He simply visited for only hours or minutes."
+		}
+	]
 }

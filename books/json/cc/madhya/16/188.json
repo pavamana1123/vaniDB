@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\188.json",
+		"id": "cc\\madhya\\16\\188",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei kahe,--'more yadi kailā aṅgīkāra\neka ājñā deha,--sevā kari ye tomāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei kahe—the Mohammedan governor said; more—me; yadi—if; kailā aṅgīkāra—You have accepted; eka ājñā—one order; deha—give; sevā—service; kari—I may render; ye—so that; tomāra—Your.",
+	"translation": "The Mohammedan governor then said, \"Since You have so kindly accepted me, please give me some order so that I can render You some service.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "If one is purified by following Śrī Caitanya Mahāprabhu's orders-that is, by chanting the holy name of Kṛṣṇa-one must certainly be eager to render service to the Lord. This is the test. When one engages enthusiastically in the Lord's service, it is to be understood that he is reaping the results of chanting the names of Kṛṣṇa and Hari."
+		}
+	]
 }

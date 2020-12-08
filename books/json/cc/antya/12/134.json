@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\134.json",
+		"id": "cc\\antya\\12\\134",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "paṇḍita kahe,--\"ye khāibe, sei pāka-kartā\nāmi-saba--kevala-mātra sāmagrī-āhartā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "paṇḍita kahe—the Paṇḍita said; ye khāibe—He who will eat; sei—He; pāka-kartā—the cook; āmi-saba—as far as I am concerned; kevala-mātra—only; sāmagrī—of ingredients; āhartā—collector.",
+	"translation": "Jagadānanda Paṇḍita replied, \"He who will eat has cooked this. As far as I am concerned, I simply collect the ingredients.\""
 }

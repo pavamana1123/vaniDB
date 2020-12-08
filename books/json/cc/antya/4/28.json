@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\28.json",
+		"id": "cc\\antya\\4\\28",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sanātana kahe,--\"nīca-vaṁśe mora janma\nadharma anyāya yata,--āmāra kula-dharma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sanātana kahe—Sanātana Gosvāmī said; nīca-vaṁśe—in a low family; mora janma—my birth; adharma—irreligion; anyāya—sinful activities; yata—all; āmāra—my; kula-dharma—family business.",
+	"translation": "Sanātana Gosvāmī said, \"I was born in a low family, for my family commits all kinds of irreligious acts that violate the scriptural injunctions."
 }

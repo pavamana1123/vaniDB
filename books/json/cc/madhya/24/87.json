@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\87.json",
+		"id": "cc\\madhya\\24\\87",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "vidhi-bhaktye pārṣada-dehe vaikuṇṭhete yāya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidhi-bhaktye—by executing regulative devotional service; pārṣada-dehe—in the form of an associate of the Lord; vaikuṇṭhete yāya—one achieves the Vaikuṇṭha planets.",
+	"translation": "\"By executing regulative devotional service, one becomes an associate of Nārāyaṇa and attains the Vaikuṇṭhalokas, the spiritual planets in the spiritual sky."
 }

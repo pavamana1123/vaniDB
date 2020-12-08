@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\1.json",
+		"id": "cc\\antya\\8\\1",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "taṁ vande kṛṣṇa-caitanyaṁ\nrāmacandra-purī-bhayāt\nlaukikāhārataḥ svaṁ yo\nbhikṣānnaṁ samakocayat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tam—to Him; vande—I offer my respectful obeisances; kṛṣṇa-caitanyam—Lord Śrī Caitanya Mahāprabhu; rāmacandra-purī-bhayāt—due to fear of Rāmacandra Purī; laukika—ordinary; āhārataḥ—from eating; svam—His own; yaḥ—who; bhikṣā-annam—quantity of food; samakocayat—reduced.",
+	"translation": "Let me offer my respectful obeisances to Śrī Caitanya Mahāprabhu, who reduced His eating due to fear of the criticism of Rāmacandra Purī."
 }

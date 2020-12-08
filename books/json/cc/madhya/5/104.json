@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\104.json",
+		"id": "cc\\madhya\\5\\104",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'ebe muñi grāme āinu, yāimu bhavana\nlokere kahiba giyā sākṣīra āgamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ebe—now; muñi—I; grāme—to the village; āinu—have come; yāimu—I shall go; bhavana—to my home; lokere—the people; kahiba—I shall tell; giyā—going there; sākṣīra—of the witness; āgamana—about the arrival.",
+	"translation": "\"I have now come to my village, and I shall go to my home and tell all the people that the witness has arrived.\""
 }

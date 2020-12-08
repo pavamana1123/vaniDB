@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\211.json",
+		"id": "cc\\madhya\\19\\211",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śānta-rase--'svarūpa-buddhye kṛṣṇaika-niṣṭhatā'\n\"śamo man-niṣṭhatā buddheḥ\" iti śrī-mukha-gāthā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śānta-rase—on the stage of śānta-rasa, or neutrality; svarūpa-buddhye—by self-realization; kṛṣṇa-eka-niṣṭhatā—fully devoted to the lotus feet of Kṛṣṇa; śamaḥ—equilibrium; mat—to Me; niṣṭhatā—the quality of attachment; buddheḥ—of the mind; iti—thus; śrī-mukha—from the mouth of the Supreme Lord; gāthā—a verse.",
+	"translation": "\"When one is fully attached to Kṛṣṇa's lotus feet, one attains the śamatā stage. The word śamatā is derived from the word śama; therefore śānta-rasa, the position of neutrality, means being fully attached to the lotus feet of Kṛṣṇa. This is the verdict from the mouth of the Supreme Personality of Godhead Himself. This state is called self-realization.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The word śama is explained by the Supreme Personality of Godhead in the following verse."
+		}
+	]
 }

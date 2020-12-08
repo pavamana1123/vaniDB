@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\153-154.json",
+		"id": "cc\\antya\\2\\153-154",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina jagadānanda, svarūpa, govinda\nkāśīśvara, śaṅkara, dāmodara, mukunda",
+			"isProse": false
+		},
+		{
+			"roman": "samudra-snāne gelā sabe, śune katho dūre\nharidāsa gāyena, yena ḍāki' kaṇṭha-svare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; jagadānanda—Jagadānanda; svarūpa—Svarūpa; govinda—Govinda; kāśīśvara—Kāśīśvara; śaṅkara—Śaṅkara; dāmodara—Dāmodara; mukunda—Mukunda; samudra-snāne—bathing in the sea; gelā—went; sabe—all of them; śune—could hear; katho dūre—from a distant place; haridāsa gāyena—Junior Haridāsa was singing; yena—as if; ḍāki'-calling; kaṇṭha-svare—in his original voice.",
+	"translation": "One day Jagadānanda, Svarūpa, Govinda, Kāśīśvara, Śaṅkara, Dāmodara and Mukunda all went to bathe in the sea. They could hear Haridāsa singing from a distant place as if calling them in his original voice."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\56.json",
+		"id": "cc\\antya\\10\\56",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrva-vatsarera jhāli ājāḍa kariyā\ndravya bharibāre rākhe anya gṛhe lañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrva-vatsarera—of the previous year; jhāli—bags; ājāḍa kariyā—emptying; dravya bharibāre—to fill with goods; rākhe—keeps; anya gṛhe—to another room; lañā—taking.",
+	"translation": "Govinda thoroughly emptied the bags from the previous year and kept them in another room to fill them with other goods."
 }

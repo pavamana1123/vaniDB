@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\9.json",
+		"id": "cc\\antya\\4\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jagannāthera sevaka phere kārya-anurodhe\ntāṅra sparśa haile mora habe aparādhe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jagannāthera—of Lord Jagannātha; sevaka—different servants; phere—move about; kārya-anurodhe—because of different duties; tāṅra—of them; sparśa—touch; haile—if there is; mora—my; habe—there will be; aparādhe—offense.",
+	"translation": "\"The servants of Lord Jagannātha generally move about tending to their duties, but if they touch me I shall be an offender."
 }

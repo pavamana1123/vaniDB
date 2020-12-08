@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\14\\17.json",
+		"id": "cc\\adi\\14\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei ta' karibe vaiṣṇava-dharmera pracāra\nihā haite habe dui kulera nistāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei ta'-this child; karibe—will do; vaiṣṇava—of Vaiṣṇavism, or devotional service; dharmera—of the religion; pracāra—preaching; ihā haite—from this; habe—there will be; dui—two; kulera—dynasties; nistāra—deliverance.",
+	"translation": "\"This child will preach the Vaiṣṇava cult and deliver both His maternal and paternal families.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Only Nārāyaṇa Himself or His bona fide representative can preach the cult of Vaiṣṇavism, or devotional service. When a Vaiṣṇava is born, he delivers both his maternal and paternal families simultaneously."
+		}
+	]
 }

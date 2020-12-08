@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\190.json",
+		"id": "cc\\adi\\17\\190",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "puḍila sakala dāḍi, mukhe haila vraṇa\nyei peyādā yāya, tāra ei vivaraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "puḍila—burned; sakala—all; dāḍi—beard; mukhe—on the face; haila—there was; vraṇa—blisters; yei—any; peyādā—orderly; yāya—goes; tāra—his; ei—this; vivaraṇa—description.",
+	"translation": "\" 'My beard was burned, and there were blisters on my cheeks.' Every orderly who went gave the same description."
 }

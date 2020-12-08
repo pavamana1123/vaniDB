@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\253.json",
+		"id": "cc\\madhya\\8\\253",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'dhyeya-madhye jīvera kartavya kon dhyāna?'\n'rādhā-kṛṣṇa-padāmbuja-dhyāna--pradhāna'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dhyeya-madhye—out of all types of meditation; jīvera—of the living entity; kartavya—the duty; kon—what; dhyāna—meditation; rādhā-kṛṣṇa-pada-ambuja—on the lotus feet of Rādhā and Kṛṣṇa; dhyāna—meditation; pradhāna—is the chief.",
+	"translation": "Śrī Caitanya Mahāprabhu further inquired, \"Out of many types of meditation, which is required for all living entities?\"\n \nŚrīla Rāmānanda Rāya replied, \"The chief duty of every living entity is to meditate upon the lotus feet of Rādhā and Kṛṣṇa.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīmad-Bhāgavatam (1.2.14) states:"
+		},
+		{
+			"type": "normal",
+			"content": "tasmād ekena manasā\nbhagavān sātvatāṁ patiḥ\nśrotavyaḥ kīrtitavyaś ca\ndhyeyaḥ pūjyaś ca nityadā"
+		},
+		{
+			"type": "normal",
+			"content": "\"[Sūta Gosvāmī replied to the sages headed by Śaunaka:] 'Everyone should very attentively listen to the pastimes of the Supreme Personality of Godhead. One should glorify His activities and meditate upon Him regularly.' \""
+		}
+	]
 }

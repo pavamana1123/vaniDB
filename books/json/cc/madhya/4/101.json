@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\101.json",
+		"id": "cc\\madhya\\4\\101",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka mahā-dhanī kṣatriya karāila mandira\nkeha pāka-bhāṇḍāra kaila, keha ta' prācīra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka—one; mahā-dhanī—very rich man; kṣatriya—of the royal order; karāila—constructed; mandira—a temple; keha—someone; pāka-bhāṇḍāra—clay pots for cooking; kaila—made; keha—someone; ta'-certainly; prācīra—the boundary walls.",
+	"translation": "One very rich kṣatriya of the royal order constructed a temple, someone made cooking utensils, and someone constructed boundary walls."
 }

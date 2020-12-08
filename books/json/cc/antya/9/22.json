@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\22.json",
+		"id": "cc\\antya\\9\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka rāja-putra ghoḍāra mūlya bhāla jāne\ntāre pāṭhāila rājā pātra-mitra sane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka—one; rāja-putra—prince; ghoḍāra mūlya—the price of horses; bhāla—well; jāne—knows; tāre pāṭhāila—sent for him; rājā—the King; pātra-mitra sane—accompanied by ministers and friends.",
+	"translation": "\"One of the princes knew how to estimate the price of horses very well. Thus the King sent for him to come with his ministers and friends."
 }

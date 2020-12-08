@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\27.json",
+		"id": "cc\\madhya\\4\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "purī kahe,--ke tumi, kāhāṅ tomāra vāsa\nke-mate jānile, āmi kari upavāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "purī kahe—Mādhavendra Purī inquired from the boy; ke tumi—who are You; kāhāṅ tomāra vāsa—where do You reside; ke-mate—how; jānile—You know; āmi kari upavāsa—I am fasting.",
+	"translation": "Mādhavendra Purī said, \"Who are You ? Where do You reside? And how did You know that I was fasting?\""
 }

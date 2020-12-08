@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\166.json",
+		"id": "cc\\madhya\\19\\166",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'śuddha-bhakti' haite haya 'premā' utpanna\nataeva śuddha-bhaktira kahiye 'lakṣaṇa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuddha-bhakti—pure devotional service without material contaminations; haite—from; haya—is; premā—love of the Supreme Personality of Godhead; utpanna—produced; ataeva—therefore; śuddha-bhaktira—of pure devotional service; kahiye—let me explain; lakṣaṇa—the symptoms.",
+	"translation": "\"When one is situated in pure devotional service, he develops love of Godhead; therefore let me describe some of the symptoms of pure devotional service.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In Bhagavad-gītā (18.55) it is said: bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ. One cannot understand the Supreme Personality of Godhead in truth unless he takes to devotional service."
+		}
+	]
 }

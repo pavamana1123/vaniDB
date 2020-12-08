@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\65.json",
+		"id": "cc\\adi\\12\\65",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vijaya paṇḍita, āra paṇḍita śrīrāma\nasaṅkhya advaita-śākhā kata la-iba nāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vijaya-paṇḍita—of the name Vijaya Paṇḍita; āra—and; paṇḍita śrīrāma—of the name Śrīrāma Paṇḍita; asaṅkhya—innumerable; advaita-śākhā—branches of Advaita Ācārya; kata—how many; la-iba—shall I enumerate; nāma—their names.",
+	"translation": "Vijaya Paṇḍita and Śrīrāma Paṇḍita were two important branches of Advaita Ācārya. There are innumerable branches, but I am unable to mention them all.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Since Śrīvāsa Paṇḍita was an incarnation of Nārada Muni, his younger brother, Śrīrāma Paṇḍita, is accepted as an incarnation of Parvata Muni, Nārada Muni's most intimate friend."
+		}
+	]
 }

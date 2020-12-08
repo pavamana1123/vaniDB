@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\125.json",
+		"id": "cc\\madhya\\15\\125",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājā bale--vyathā tumi pāile kona ṭhāñi?\nmukunda kahe,--ati-baḍa vyathā pāi nāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājā bale—the King said; vyathā—pain; tumi pāile—you have gotten; kona ṭhāñi—where; mukunda kahe—Mukunda replied; ati-baḍa vyathā—very much pain; pāi nāi—I have not gotten.",
+	"translation": "\"When the King asked Mukunda, 'Where is it paining you?' Mukunda replied, 'I am not very much pained.'"
 }

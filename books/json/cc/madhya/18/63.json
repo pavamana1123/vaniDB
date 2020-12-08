@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\63.json",
+		"id": "cc\\madhya\\18\\63",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "saba dina premāveśe nṛtya-gīta kailā\ntāhāṅ haite mahāprabhu 'khadira-vana, āilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "saba dina—all the days; prema-āveśe—in ecstatic love; nṛtya-gīta kailā—danced and chanted; tāhāṅ haite—from there; mahāprabhu—Śrī Caitanya Mahāprabhu; khadira-vana āilā—came to the place known as Khadiravana.",
+	"translation": "Every day the Lord chanted and danced in ecstatic love. Finally He went to Khadiravana.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Khadiravana is described in the Bhakti-ratnākara (Fifth Wave):"
+		},
+		{
+			"type": "normal",
+			"content": "dekhaha khadira-vana vidita jagate\nviṣṇu-loka-prāpti ethā gamana-mātrete"
+		},
+		{
+			"type": "normal",
+			"content": "\"Behold the forest named Khadiravana, renowned throughout the universe. If one comes to Khadiravana, he can immediately be elevated to Viṣṇuloka.\""
+		}
+	]
 }

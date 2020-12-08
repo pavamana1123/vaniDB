@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\52.json",
+		"id": "cc\\madhya\\3\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pañcāśa pañcāśa ḍoṅgā vyañjane pūriñā\ntina bhogera āśe pāśe rākhila dhariñā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pañcāśa pañcāśa—fifty and fifty; ḍoṅgā—pots; vyañjane—with vegetables; pūriñā—filling; tina—three; bhogera—of eating places; āśe pāśe—all around; rākhila—kept; dhariñā—fixing.",
+	"translation": "All around the three eating places were a hundred pots filled with various kinds of vegetables."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\117.json",
+		"id": "cc\\madhya\\9\\117",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "siddhāntatas tv abhede 'pi\nśrīśa-kṛṣṇa-svarūpayoḥ\nrasenotkṛṣyate kṛṣṇa-\nrūpam eṣā rasa-sthitiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "siddhāntataḥ—in reality; tu—but; abhede—no difference; api—although; śrī-īśa—of the husband of Lakṣmī, Nārāyaṇa; kṛṣṇa—of Lord Kṛṣṇa; svarūpayoḥ—between the forms; rasena—by transcendental mellows; utkṛṣyate—is superior; kṛṣṇa-rūpam—the form of Lord Kṛṣṇa; eṣā—this; rasa-sthitiḥ—reservoir of pleasure.",
+	"translation": "Veṅkaṭa Bhaṭṭa continued, \" 'According to transcendental realization, there is no difference between the forms of Nārāyaṇa and Kṛṣṇa. Yet in Kṛṣṇa there is a special transcendental attraction due to the conjugal mellow, and consequently He surpasses Nārāyaṇa. This is the conclusion of transcendental mellows.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse quoted by Veṅkaṭa Bhaṭṭa is also found in Bhakti-rasāmṛta-sindhu (1.2.59)."
+		}
+	]
 }

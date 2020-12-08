@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\100.json",
+		"id": "cc\\adi\\16\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra kavitva yena gaṅgā-jala-dhāra\ntomā-sama kavi kothā nāhi dekhi āra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—your; kavitva—poetic ingenuity; yena—like; gaṅgā-jala-dhāra—the flowing of the waters of the Ganges; tomā-sama—like you; kavi—poet; kothā—anywhere; nāhi—not; dekhi—I see; āra—anyone else.",
+	"translation": "\"Your poetic skill is like the constant flow of the waters of the Ganges. I find no one in the world who can compete with you."
 }

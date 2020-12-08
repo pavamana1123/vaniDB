@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\45.json",
+		"id": "cc\\madhya\\3\\45",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sārdraka, vāstuka-śāka vividha prakāra\npaṭola, kuṣmāṇḍa-baḍi, mānakacu āra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sārdraka—pots with ginger dishes; vāstuka-śāka—spinach; vividha—various; prakāra—kinds; paṭola—a kind of vegetable; kuṣmāṇḍa—squash; baḍi—with split dāl; mānakacu—the root of a vegetable tree called kacu; āra—and.",
+	"translation": "Among the cooked vegetables were paṭolas, squash, mānakacu and a salad made with pieces of ginger and various types of spinach."
 }

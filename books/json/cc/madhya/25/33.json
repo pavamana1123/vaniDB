@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\33.json",
+		"id": "cc\\madhya\\25\\33",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'brahma'-śabde kahe 'ṣaḍ-aiśvarya-pūrṇa bhagavān'\ntāṅre 'nirviśeṣa' sthāpi, 'pūrṇatā' haya hāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brahma-śabde—by the word brahma; kahe—is meant; ṣaṭ-aiśvarya-pūrṇa bhagavān—the Supreme Personality of Godhead, full in all six opulences; tāṅre—Him; nirviśeṣa sthāpi—if we make impersonal; pūrṇatā haya hāna—His completeness becomes damaged.",
+	"translation": "\"The word Brahman means 'the greatest.' This means that the Supreme Personality of Godhead is full in all six opulences. However, if we take the one-sided impersonalist view, His fullness is diminished.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Supreme Personality of Godhead is originally the Supreme Person. The Lord says in Bhagavad-gītā (9.4):"
+		},
+		{
+			"type": "normal",
+			"content": "mayā tatam idaṁ sarvaṁ\njagad avyakta-mūrtinā\nmat-sthāni sarva-bhūtāni\nna cāhaṁ teṣv avasthitaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them.\""
+		},
+		{
+			"type": "normal",
+			"content": "The potency of Kṛṣṇa that is spread everywhere is impersonal. The sunlight is the impersonal expansion of the sun globe and the sun-god. If we simply take one side of the Supreme Personality of Godhead-His impersonal effulgence-that one side does not fully explain the Absolute Truth. Impersonal appreciation of the Absolute Truth is one-sided and incomplete. One should also accept the other side, the personal side-Bhagavān. Brahmeti paramātmeti bhagavān iti śabdyate. One should not be satisfied simply by understanding the Brahman feature of the Personality of Godhead. One must also know the Lord's personal feature. That is complete understanding of the Absolute Truth."
+		}
+	]
 }

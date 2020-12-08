@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\41.json",
+		"id": "cc\\madhya\\13\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrīkānta, vallabha-sena āra dui jana\nharidāsa-ṭhākura tāhāṅ karena nartana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrīkānta, vallabha-sena—Śrīkānta and Vallabha Sena; āra—another; dui jana—two persons; haridāsa-ṭhākura—Haridāsa Ṭhākura; tāhāṅ—there; karena—performs; nartana—dancing.",
+	"translation": "Another two persons, Śrīkānta and Vallabha Sena, joined as responsive singers. In this group, Haridāsa Ṭhākura [the senior] was the dancer.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the third group, Mukunda was appointed the chief singer. This party was composed of Vāsudeva, Gopīnātha, Murāri, Śrīkānta and Vallabha Sena. The senior Haridāsa Ṭhākura was the dancer."
+		}
+	]
 }

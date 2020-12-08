@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\39-40.json",
+		"id": "cc\\madhya\\1\\39-40",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dāna-keli-kaumudī, āra bahu stavāvalī\naṣṭādaśa līlā-cchanda, āra padyāvalī",
+			"isProse": false
+		},
+		{
+			"roman": "govinda-virudāvalī, tāhāra lakṣaṇa\nmathurā-māhātmya, āra nāṭaka-varṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dāna-keli-kaumudī—of the name Dāna-keli-kaumudī; āra—and; bahu stavāvalī—many prayers; aṣṭādaśa—eighteen; līlā-cchanda—chronological pastimes; āra—and; padyāvalī—of the name Padyāvalī; govinda-virudāvalī—of the name Govinda-virudāvalī; tāhāra lakṣaṇa—the symptoms of the book; mathurā-māhātmya—the glories of Mathurā; āra nāṭaka-varṇana—and descriptions of drama (Nāṭaka-candrikā).",
+	"translation": "Śrīla Rūpa Gosvāmī also compiled the Dāna-keli-kaumudī, Stavāvalī, Līlā-cchanda, Padyāvalī, Govinda-virudāvalī, Mathurā-māhātmya and Nāṭaka-varṇana."
 }

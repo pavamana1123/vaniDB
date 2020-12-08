@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\143.json",
+		"id": "cc\\madhya\\24\\143",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "bhaktye mukti pāileha avaśya kṛṣṇere bhajaya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhaktye—by devotional service; mukti—liberation; pāileha—if one gets; avaśya—certainly; kṛṣṇere—unto Lord Kṛṣṇa; bhajaya—renders service.",
+	"translation": "\"When one is actually liberated by executing devotional service, he always engages in the transcendental loving service of the Lord."
 }

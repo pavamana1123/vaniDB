@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\209.json",
+		"id": "cc\\antya\\3\\209",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tina dina bhitare sei viprera 'kuṣṭha' haila\nati ucca nāsā tāra galiyā paḍila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tina dina—three days; bhitare—within; sei—that; viprera—of the brāhmaṇa; kuṣṭha—leprosy; haila—appeared; ati—very; ucca—raised; nāsā—nose; tāra—his; galiyā—melting; paḍila—fell.",
+	"translation": "Within three days that brāhmaṇa was attacked by leprosy, and as a result his highly raised nose melted away and fell off."
 }

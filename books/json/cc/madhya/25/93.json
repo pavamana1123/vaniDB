@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\93.json",
+		"id": "cc\\madhya\\25\\93",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yei sūtra-kartā, se yadi karaye vyākhyāna\ntabe sūtrera mūla artha lokera haya jñāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yei sūtra-kartā—the person who has made the Vedānta-sūtra; se—that person; yadi—if; karaye vyākhyāna—explains the meaning; tabe—then; sūtrera—of the codes of Vedānta-sūtra; mūla—the original; artha—meaning; lokera—of the people in general; haya jñāna—comes within knowledge.",
+	"translation": "\"If the Vedānta-sūtra is explained by Vyāsadeva himself, who has written it, its original meaning can be understood by the people in general."
 }

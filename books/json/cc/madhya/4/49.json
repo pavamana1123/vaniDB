@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\49.json",
+		"id": "cc\\madhya\\4\\49",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "atyanta niviḍa kuñja,--nāri praveśite\nkuṭhāri kodāli laha dvāra karite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "atyanta—very much; niviḍa—dense; kuñja—bushes; nāri—we are not able; praveśite—to enter; kuṭhāri—choppers; kodāli—spades; laha—take; dvāra karite—to make a way.",
+	"translation": "\"The bushes are very dense, and we will not be able to enter the jungle. Therefore take choppers and spades to clear the way.\""
 }

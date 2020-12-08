@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\95.json",
+		"id": "cc\\adi\\3\\95",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mādhava-īśvara-purī, śacī, jagannātha\nadvaita ācārya prakaṭa hailā sei sātha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mādhava—Mādhavendra Purī; īśvara-purī—Īśvara Purī; śacī—Śacīmātā; jagannātha—Jagannātha Miśra; advaita ācārya—Advaita Ācārya; prakaṭa—manifested; hailā—were; sei—this; sātha—with.",
+	"translation": "Mādhavendra Purī, Īśvara Purī, Śrīmatī Śacīmātā and Śrīla Jagannātha Miśra all appeared with Śrī Advaita Ācārya.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Whenever the Supreme Personality of Godhead descends in His human form, He sends ahead all His devotees, who act as His father, teacher and associates in many roles. Such personalities appear before the descent of the Supreme Personality of Godhead. Before the appearance of Lord Śrī Kṛṣṇa Caitanya Mahāprabhu, there appeared His devotees like Śrī Mādhavendra Purī; His spiritual master, Śrī Īśvara Purī; His mother, Śrīmatī Śacīdevī; His father, Śrī Jagannātha Miśra; and Śrī Advaita Ācārya."
+		}
+	]
 }

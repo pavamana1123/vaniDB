@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\86.json",
+		"id": "cc\\adi\\16\\86",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vicāri' kavitva kaile haya sunirmala\nsālaṅkāra haile artha kare jhalamala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vicāri'-with proper consideration; kavitva—poetic explanation; kaile—if done; haya—it becomes; sunirmala—very pure; sa-alaṅkāra—with metaphorical use of words; haile—if it is; artha—meaning; kare—does; jhalamala—dazzle.",
+	"translation": "\"Poetic skill used with due consideration is very pure, and with metaphors and analogies it is dazzling.\""
 }

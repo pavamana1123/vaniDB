@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\22.json",
+		"id": "cc\\adi\\9\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei dui-skandhe bahu śākhā upajila\ntāra upaśākhā-gaṇe jagat chāila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei—that; dui-skandhe—in two trunks; bahu—many; śākhā—branches; upajila—grew; tāra—of them; upaśākhā-gaṇe—subbranches; jagat—the whole world; chāila—covered.",
+	"translation": "From these two trunks grew many branches and subbranches that covered the entire world."
 }

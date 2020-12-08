@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\228-229.json",
+		"id": "cc\\madhya\\17\\228-229",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "anya-deśa prema uchale 'vṛndāvana'-nāme\nsākṣāt bhramaye ebe sei vṛndāvane",
+			"isProse": false
+		},
+		{
+			"roman": "preme garagara mana rātri-divase\nsnāna-bhikṣādi-nirvāha karena abhyāse\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "anya-deśa—in other countries; prema—love; uchale—increases; vṛndāvana-nāme—by the name of Vṛndāvana; sākṣāt—directly; bhramaye—travels; ebe—now; sei vṛndāvane—in that Vṛndāvana; preme—in ecstatic love; garagara—faltering; mana—mind; rātri-divase—day and night; snāna-bhikṣā-ādi—bathing and accepting food; nirvāha—accomplishing; karena—does; abhyāse—by habit.",
+	"translation": "When Śrī Caitanya Mahāprabhu was elsewhere, the very name of Vṛndāvana was sufficient to increase His ecstatic love. Now, when He was actually traveling in the Vṛndāvana forest, His mind was absorbed in great ecstatic love day and night. He ate and bathed simply out of habit."
 }

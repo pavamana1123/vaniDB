@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\114.json",
+		"id": "cc\\antya\\7\\114",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei vyākhyā karena yāhāṅ yei paḍe āni'\neka-vākyatā nāhi, tāte 'svāmī' nāhi māni\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei—he; vyākhyā karena—explains; yāhāṅ—wherever; yei—whatever; paḍe—reads; āni'-accepting; eka-vākyatā—consistency; nāhi—there is not; tāte—therefore; svāmī—Śrīdhara Svāmī; nāhi māni—I cannot accept.",
+	"translation": "\"Whatever Śrīdhara Svāmī reads he explains according to the circumstances. Therefore he is inconsistent in his explanations and cannot be accepted as an authority.\""
 }

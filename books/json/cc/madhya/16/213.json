@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\213.json",
+		"id": "cc\\madhya\\16\\213",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva ihāṅ tāra nā kailuṅ vistāra\npunarukti haya, grantha bāḍaye apāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva—therefore; ihāṅ—here; tāra—of that incident; nā kailuṅ—I did not give; vistāra—elaboration; punarukti—repetition; haya—it is; grantha—the book; bāḍaye—increases; apāra—unlimitedly.",
+	"translation": "I will not narrate these incidents because they have already been described by Vṛndāvana dāsa Ṭhākura. There is no need to repeat the same information, for such repetition would unlimitedly increase the size of this book."
 }

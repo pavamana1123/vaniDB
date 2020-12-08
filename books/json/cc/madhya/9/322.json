@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\322.json",
+		"id": "cc\\madhya\\9\\322",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kata-kṣaṇe dui janā susthira hañā\nnānā iṣṭa-goṣṭhī kare ekatra vasiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kata-kṣaṇe—after some time; dui—two; janā—people; su-sthira hañā—coming to their senses; nānā—various; iṣṭa-goṣṭhī—discussions; kare—do; ekatra—together; vasiyā—sitting.",
+	"translation": "After some time they regained their senses and sat together to discuss various subjects."
 }

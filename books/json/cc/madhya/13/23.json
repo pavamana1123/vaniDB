@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\23.json",
+		"id": "cc\\madhya\\13\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pañca-daśa dina īśvara mahā-lakṣmī lañā\ntāṅra saṅge krīḍā kaila nibhṛte vasiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pañca-daśa dina—fifteen days; īśvara—the Lord; mahā-lakṣmī—the supreme goddess of fortune; lañā—with; tāṅra saṅge—in her company; krīḍā—enjoyment; kaila—performed; nibhṛte—in a solitary place; vasiyā—sitting.",
+	"translation": "For fifteen days the Lord had remained in a secluded place with the supreme goddess of fortune and had performed His pastimes with her.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The fifteen-day period of anavasara is also called nibhṛta, in honor of the solitary place where the supreme goddess of fortune lives. After living there a fortnight, Lord Jagannātha took permission from the goddess of fortune to leave."
+		}
+	]
 }

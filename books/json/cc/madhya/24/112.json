@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\112.json",
+		"id": "cc\\madhya\\24\\112",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"muktā api līlayā vigrahaṁ\nkṛtvā bhagavantaṁ bhajante\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "muktāḥ—liberated; api—although; līlayā—by pastimes; vigraham—the form of the Lord; kṛtvā—having installed; bhagavantam—the Supreme Personality of Godhead; bhajante—worship.",
+	"translation": "\" 'Even a liberated soul merged in the impersonal Brahman effulgence is attracted to the pastimes of Kṛṣṇa. He thus installs a Deity and renders the Lord service.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Highly elevated Māyāvādī sannyāsīs sometimes worship the Rādhā-Kṛṣṇa Deity and discuss the pastimes of the Lord, but their purpose is not elevation to Goloka Vṛndāvana. They want to merge into the Lord's effulgence. This statement is quoted from Śaṅkarācārya's commentary on the Upaniṣad known as Nṛsiṁha-tāpanī."
+		}
+	]
 }

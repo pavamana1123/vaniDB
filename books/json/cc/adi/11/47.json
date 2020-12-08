@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\11\\47.json",
+		"id": "cc\\adi\\11\\47",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hoḍa kṛṣṇadāsa--nityānanda-prabhu-prāṇa\nnityānanda-pada vinu nāhi jāne āna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hoḍa kṛṣṇadāsa—of the name Hoḍa Kṛṣṇadāsa; nityānanda-prabhu—of Lord Nityānanda; prāṇa—life and soul; nityānanda-pada—the lotus feet of Lord Nityānanda; vinu—except; nāhi—does not; jāne—know; āna—anything else.",
+	"translation": "The thirty-sixth devotee of Lord Nityānanda was Hoḍa Kṛṣṇadāsa, whose life and soul was Nityānanda Prabhu. He was always dedicated to the lotus feet of Nityānanda, and he knew no one else but Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The residence of Kṛṣṇadāsa Hoḍa was Baḍagāchi, which is now in Bangladesh."
+		}
+	]
 }

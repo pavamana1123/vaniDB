@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\37.json",
+		"id": "cc\\adi\\10\\37",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrīmān-paṇḍita śākhā--prabhura nija bhṛtya\ndeuṭi dharena, yabe prabhu karena nṛtya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrīmān-paṇḍita—of the name Śrīmān Paṇḍita; śākhā—branch; prabhura—of the Lord; nija—own; bhṛtya—servant; deuṭi—torch light; dharena—carries; yabe—while; prabhu—Lord Caitanya; karena—does; nṛtya—dance.",
+	"translation": "The fifteenth branch was Śrīmān Paṇḍita, who was a constant servitor of Lord Caitanya Mahāprabhu. He used to carry a torch while the Lord danced.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīmān Paṇḍita was among the companions of Lord Caitanya Mahāprabhu when the Lord performed saṅkīrtana. When Lord Caitanya dressed Himself in the form of the goddess Lakṣmī and danced in the streets of Navadvīpa, Śrīmān Paṇḍita carried a torch to light the way."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\6.json",
+		"id": "cc\\adi\\10\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva tāṅ-sabāre kari' namaskāra\nnāma-mātra kari, doṣa nā labe āmāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva—therefore; tāṅ-sabāre—to all of them; kari'-doing; namaskāra—offer my obeisances; nāma-mātra—that is also a token; kari—I do; doṣa—fault; nā—do not; labe—take; āmāra—of me.",
+	"translation": "I offer my obeisances unto them as a token of respect. I request them not to consider my offenses."
 }

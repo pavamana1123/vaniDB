@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\21.json",
+		"id": "cc\\antya\\6\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prati-dina raghunāthe karaye bhartsanā\n'bāpa-jyeṭhāre āna;, nahe pāibā yātanā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prati-dina—daily; raghunāthe-Raghunātha dāsa; karaye bhartsanā—he chastised; bāpa-jyeṭhāre āna—bring your father and his elder brother; nahe—otherwise; pāibā yātanā—you will be punished.",
+	"translation": "Every day, the Mohammedan would chastise Raghunātha dāsa and tell him, \"Bring your father and his elder brother. Otherwise you will be punished.\""
 }

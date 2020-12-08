@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\220.json",
+		"id": "cc\\madhya\\24\\220",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei cāri artha saha ha-ila 'teiśa' artha\nāra tina artha śuna parama samartha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—these; cāri—four; artha—meanings; saha—with; ha-ila—there were; teiśa artha—twenty-three different varieties of imports; āra tina artha—another three imports; śuna—hear; parama samartha—very strong.",
+	"translation": "\"In addition to the nineteen other meanings, this ātmārāma meaning [including those laboring under the bodily conception] makes four meanings altogether and brings the total to twenty-three meanings. Now hear of another three meanings, which are very suitable.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The three different meanings are (1) the word ca meaning \"in due course' \" (2) the words ca meaning eva, and api meaning \"censure,\" and (3) nirgrantha, meaning \"one who is very poor, without money.\""
+		}
+	]
 }

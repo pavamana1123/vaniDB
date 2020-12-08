@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\41.json",
+		"id": "cc\\madhya\\23\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "evaṁvrataḥ sva-priya-nāma-kīrtyā\n jātānurāgo druta-citta uccaiḥ\nhasaty atho roditi rauti gāyaty\n unmādavan nṛtyati loka-bāhyaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "evam-vrataḥ—when one thus engages in a vow to chant and dance; sva—own; priya—very dear; nāma—the holy name; kīrtyā—by chanting; jāta—in this way develops; anurāgaḥ—attachment; druta-cittaḥ—very eagerly; uccaiḥ—loudly; hasati—laughs; atho—also; roditi—cries; rauti—becomes agitated; gāyati—chants; unmāda-vat—like a madman; nṛtyati—dances; loka-bāhyaḥ—not caring for outsiders.",
+	"translation": "\" 'When a person is actually advanced and takes pleasure in chanting the holy name of the Lord, who is very dear to him, he is agitated and loudly chants the holy name. He also laughs, cries, becomes agitated and chants just like a madman, not caring for outsiders.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is quoted from Śrīmad-Bhāgavatam (11.2.40)."
+		}
+	]
 }

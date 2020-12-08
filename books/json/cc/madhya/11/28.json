@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\28.json",
+		"id": "cc\\madhya\\11\\28",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ye me bhakta-janāḥ pārtha\nna me bhaktāś ca te janāḥ\nmad-bhaktānāṁ ca ye bhaktās\nte me bhakta-tamā matāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ye—those who; me—My; bhakta-janāḥ—devotees; pārtha—O Pārtha; na—not; me—My; bhaktāḥ—devotees; ca—and; te—those; janāḥ—persons; mat-bhaktānām—of My devotees; ca—certainly; ye—those who; bhaktāḥ—devotees; te—such persons; me—My; bhakta-tamāḥ—most advanced devotees; matāḥ—that is My opinion.",
+	"translation": "\"Lord Kṛṣṇa told Arjuna, 'Those who are My direct devotees are actually not My devotees, but those who are the devotees of My servant are factually My devotees.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Caitanya Mahāprabhu quotes this verse from the Ādi Purāṇa. The verse is also included in the Laghu-bhāgavatāmṛta (2.6)."
+		}
+	]
 }

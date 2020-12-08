@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\71.json",
+		"id": "cc\\adi\\1\\71",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "citraṁ bataitad ekena\nvapuṣā yugapat pṛthak\ngṛheṣu dvy-aṣṭa-sāhasraṁ\nstriya eka udāvahat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "citram—wonderful; bata—oh; etat—this; ekena—with one; vapuṣā—form; yugapat—simultaneously; pṛthak—separately; gṛheṣu—in the houses; dvi-aṣṭa-sāhasram—sixteen thousand; striyaḥ—all the queens; ekaḥ—the one Śrī Kṛṣṇa; udāvahat—married.",
+	"translation": "\"It is astounding that Lord Śrī Kṛṣṇa, who is one without a second, expanded Himself in sixteen thousand similar forms to marry sixteen thousand queens in their respective homes.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from Śrīmad-Bhāgavatam (10.69.2)."
+		}
+	]
 }

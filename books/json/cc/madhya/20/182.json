@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\182.json",
+		"id": "cc\\madhya\\20\\182",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aparikalita-pūrvaḥ kaś camatkāra-kārī\nsphuratu mama garīyān eṣa mādhurya-pūraḥ\nayam aham api hanta prekṣya yaṁ lubdha-cetāḥ\nsarabhasam upabhoktuṁ kāmaye rādhikeva\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aparikalita—not experienced; pūrvaḥ—previously; kaḥ—who; camatkāra-kārī—causing wonder; sphuratu—manifests; mama—My; garīyān—more great; eṣaḥ—this; mādhurya-pūraḥ—abundance of sweetness; ayam—this; aham—I; api—even; hanta—alas; prekṣya—seeing; yam—which; lubdha-cetāḥ—My mind being bewildered; sa-rabhasam—impetuously; upabhoktum—to enjoy; kāmaye—desire; rādhikā iva—like Śrīmatī Rādhārāṇī.",
+	"translation": "\" 'Who manifests an abundance of sweetness greater than Mine, which has never been experienced before and which causes wonder to all? Alas, I Myself, My mind bewildered upon seeing this beauty, impetuously desire to enjoy it like Śrīmatī Rādhārāṇī.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse spoken by Vāsudeva in Dvārakā is recorded by Śrīla Rūpa Gosvāmī in his Lalita-mādhava (8.34)."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\64.json",
+		"id": "cc\\adi\\10\\64",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu-priya govindānanda mahābhāgavata\nprabhura kīrtanīyā ādi śrī-govinda datta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu-priya—the most dear to the Lord; govindānanda—of the name Govindānanda; mahā-bhāgavata—great devotee; prabhura—of the Lord; kīrtanīyā—performer of kīrtana; ādi—originally; śrī-govinda datta—of the name of Śrī Govinda Datta.",
+	"translation": "Govindānanda and Govinda Datta, the twenty-fifth and twenty-sixth branches of the tree, were performers of kīrtana in the company of Śrī Caitanya Mahāprabhu. Govinda Datta was the principal singer in Lord Caitanya's kīrtana party.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Govinda Datta appeared in the village of Sukhacara near Khaḍadaha."
+		}
+	]
 }

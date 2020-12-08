@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\111.json",
+		"id": "cc\\antya\\13\\111",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāmadāsa kailā tabe nīlācale vāsa\npaṭṭanāyaka-goṣṭhīke paḍāya 'kāvya-prakāśa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāmadāsa—Rāmadāsa Viśvāsa; kailā—did; tabe—then; nīlācale vāsa—residence at Jagannātha Purī; paṭṭanāyaka-goṣṭhīke—to the Paṭṭanāyaka family (the descendants of Bhavānanda Rāya); paḍāya—teaches; kāvya-prakāśa—on the book Kāvya-prakāśa.",
+	"translation": "Rāmadāsa Viśvāsa then took up residence in Jagannātha Purī and taught the Kāvya-prakāśa to the Paṭṭanāyaka family [the descendants of Bhavānanda Rāya]."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\97.json",
+		"id": "cc\\adi\\1\\97",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sūrya candra bāhirera tamaḥ se vināśe\nbahir-vastu ghaṭa-paṭa-ādi se prakāśe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sūrya—the sun; candra—the moon; bāhirera—of the external world; tamaḥ—darkness; se—they; vināśe—destroy; bahiḥ-vastu—external things; ghaṭa—waterpots; paṭa-ādi—plates, etc.; se—they; prakāśe—reveal.",
+	"translation": "The sun and moon dissipate the darkness of the external world and thus reveal external material objects like pots and plates."
 }

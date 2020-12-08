@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\182.json",
+		"id": "cc\\madhya\\9\\182",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vipra kahe,--prabhu, mora araṇye vasati\npākera sāmagrī vane nā mile samprati\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vipra kahe—the brāhmaṇa replied; prabhu—O Lord; mora—my; araṇye—in the forest; vasati—residence; pākera sāmagrī—the ingredients for cooking; vane—in the forest; nā mile—are not available; samprati—at this time.",
+	"translation": "The brāhmaṇa replied, \"My dear Lord, we are living in the forest. For the time being we cannot get all the ingredients for cooking."
 }

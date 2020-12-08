@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\46.json",
+		"id": "cc\\madhya\\24\\46",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "śukadevera mana harila līlā-śravaṇe\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śukadevera—of Śukadeva Gosvāmī; mana—the mind; harila—carried away; līlā-śravaṇe—by remembering the pastimes of the Lord.",
+	"translation": "\"Śukadeva's mind was carried away by remembering the pastimes of the Lord."
 }

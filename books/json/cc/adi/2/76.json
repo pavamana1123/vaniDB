@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\76.json",
+		"id": "cc\\adi\\2\\76",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'vidheya' kahiye tāre, ye vastu ajñāta\n'anuvāda' kahi tāre, yei haya jñāta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidheya—the predicate; kahiye—I say; tāre—to him; ye—that; vastu—thing; ajñāta—unknown; anuvāda—the subject; kahi—I say; tāre—to him; yei—that which; haya—is; jñāta—known.",
+	"translation": "\"The predicate of a sentence is what is unknown to the reader, whereas the subject is what is known to him."
 }

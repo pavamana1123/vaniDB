@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\21\\85.json",
+		"id": "cc\\madhya\\21\\85",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kona brahmāṇḍa śata-koṭi, kona lakṣa-koṭi\nkona niyuta-koṭi, kona koṭi-koṭi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kona brahmāṇḍa—some universes; śata-koṭi—one billion yojanas; kona—some; lakṣa-koṭi—one trillion yojanas; kona—some; niyuta-koṭi—ten trillion; kona—some; koṭi-koṭi—one hundred trillion.",
+	"translation": "\" 'Some of the universes are one billion yojanas, some one trillion, some ten trillion and some one hundred trillion yojanas. Thus they are almost unlimited in area.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A yojana equals eight miles."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\123.json",
+		"id": "cc\\antya\\2\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"alpa aparādha, prabhu karaha prasāda\nebe śikṣā ha-ila nā karibe aparādha\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "alpa aparādha—the offense is not very great; prabhu—O Lord; karaha prasāda—be merciful; ebe—now; śikṣā ha-ila—he has gotten a sufficient lesson; nā karibe—he will not do; aparādha—offense.",
+	"translation": "\"Haridāsa has committed a small offense,\" they said. \"Therefore, O Lord, please be merciful to him. Now he has received a sufficient lesson. In the future he will not commit such a offense.\""
 }

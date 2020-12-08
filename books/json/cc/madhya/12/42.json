@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\42.json",
+		"id": "cc\\madhya\\12\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-saṅge dui jana kṣetre yabe āilā\nrāmānanda rāya tabe prabhure mililā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-saṅge—together; dui jana—these two persons; kṣetre—at Jagannātha-kṣetra (Jagannātha Purī); yabe—when; āilā—came back; rāmānanda rāya—Rāmānanda Rāya; tabe—at that time; prabhure—Śrī Caitanya Mahāprabhu; mililā—met.",
+	"translation": "The King and Rāmānanda Rāya returned together to Jagannātha-kṣetra [Purī], and Śrī Rāmānanda Rāya met Śrī Caitanya Mahāprabhu."
 }

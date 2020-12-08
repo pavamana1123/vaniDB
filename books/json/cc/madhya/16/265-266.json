@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\265-266.json",
+		"id": "cc\\madhya\\16\\265-266",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eta kahi' āmi yabe vidāya tāṅre dila\ngamana-kāle sanātana 'prahelī' kahila",
+			"isProse": false
+		},
+		{
+			"roman": "yāṅra saṅge haya ei loka lakṣa koṭi\nvṛndāvana yāibāra ei nahe paripāṭī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eta kahi'-saying this; āmi—I; yabe—when; vidāya—farewell; tāṅre—unto them; dila—gave; gamana-kāle—while going; sanātana—Sanātana; prahelī—enigma; kahila—said; yāṅra saṅge—with whom; haya—is; ei—this; loka—crowd of people; lakṣa koṭi—hundreds of thousands; vṛndāvana—to Vṛndāvana-dhāma; yāibāra—for going; ei—this; nahe—not; paripāṭī—the method.",
+	"translation": "\"After speaking to them in this way, I bade them farewell. As I was leaving, Sanātana told Me, 'It is not appropriate for one to be followed by a crowd of thousands when one goes to Vṛndāvana.'"
 }

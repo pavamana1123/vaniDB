@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\63.json",
+		"id": "cc\\adi\\16\\63",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhavānī-śabde kahe mahādevera gṛhiṇī\ntāṅra bhartā kahile dvitīya bhartā jāni\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhavānī śabde—by the word bhavānī (\"the wife of Lord Śiva\"); kahe—is mentioned; mahādevera—of Lord Śiva; gṛhiṇī—the wife; tāṅra—her; bhartā—husband; kahile—if we say; dvitīya—second; bhartā—husband; jāni—we understand.",
+	"translation": "\"The word 'bhavānī' means 'the wife of Lord Śiva.' But when we mention her husband, one might conclude that she has another husband."
 }

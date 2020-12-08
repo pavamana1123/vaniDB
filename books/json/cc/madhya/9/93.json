@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\93.json",
+		"id": "cc\\madhya\\9\\93",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei kṣetre rahe eka vaiṣṇava-brāhmaṇa\ndevālaye āsi' kare gītā āvartana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei kṣetre-in that holy place; rahe-there was; eka-one; vaiṣṇava-brāhmaṇa-a brāhmaṇa following the Vaiṣṇava cult; deva-ālaye-in the temple; āsi'-coming; kare-does; gītā-of the Bhagavad-gītā; āvartana-recitation.",
+	"translation": "In the holy place of Śrī Raṅga-kṣetra, a brāhmaṇa Vaiṣṇava used to visit the temple daily and recite the entire text of the Bhagavad-gītā."
 }

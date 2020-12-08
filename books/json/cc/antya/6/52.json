@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\52.json",
+		"id": "cc\\antya\\6\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei-kṣaṇe nija-loka pāṭhāilā grāme\nbhakṣya-dravya loka saba grāma haite āne\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei-kṣaṇe—immediately; nija-loka—his servants; pāṭhāilā grāme—he sent to the nearby village; bhakṣya-dravya—eatables; loka saba—all the persons; grāma haite—from the village; āne—bring.",
+	"translation": "Raghunātha dāsa immediately sent his own men to the village to purchase all kinds of eatables and bring them back."
 }

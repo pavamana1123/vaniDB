@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\152.json",
+		"id": "cc\\madhya\\5\\152",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śuni' kichu mahāprabhu duḥkha prakāśilā\nīṣat krodha kari' kichu kahite lāgilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuni'-hearing this; kichu—some; mahāprabhu—Lord Caitanya Mahāprabhu; duḥkha—unhappiness; prakāśilā—expressed; īṣat—little; krodha—anger; kari'-showing; kichu—something; kahite—to speak; lāgilā—began.",
+	"translation": "After hearing the story about how His staff had been broken, the Lord expressed a little sadness and, displaying a bit of anger, began to speak as follows.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Nityānanda Prabhu considered Lord Caitanya Mahāprabhu's acceptance of sannyāsa to be useless. He therefore relieved the Lord of the trouble of carrying the staff. Śrī Caitanya Mahāprabhu expressed anger because He wanted to teach all other sannyāsīs that they should not give up the staff before attaining the platform of paramahaṁsa. Seeing that the regulative principles could be slackened by such action, Caitanya Mahāprabhu wanted to carry the staff personally. However, Nityānanda broke it. For this reason Caitanya Mahāprabhu displayed a little anger. It is said in the Bhagavad-gītā (3.21), yad yad ācarati śreṣṭhas tat tad evetaro janaḥ: Whatever great people do, others follow. Śrī Caitanya Mahāprabhu wanted to follow the Vedic principles strictly in order to save inexperienced neophytes who try to imitate paramahaṁsas."
+		}
+	]
 }

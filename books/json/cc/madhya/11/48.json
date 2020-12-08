@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\48.json",
+		"id": "cc\\madhya\\11\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra pratijñā-more nā karibe daraśana\nmora pratijñā-tāṅhā vinā chāḍiba jīvana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra pratijñā—His determination; more—unto me; nā—not; karibe—will do; daraśana—seeing; mora pratijñā—my promise; tāṅhā vinā—without Him; chāḍiba—I will give up; jīvana—life.",
+	"translation": "Mahārāja Pratāparudra continued, \"If Śrī Caitanya Mahāprabhu is determined not to see me, then I am determined to give up my life if I do not see Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A devotee with Mahārāja Pratāparudra's determination will certainly be victorious in advancing in Kṛṣṇa consciousness. Śrī Kṛṣṇa confirms this in the Bhagavad-gītā (9.14):"
+		},
+		{
+			"type": "normal",
+			"content": "satataṁ kīrtayanto māṁ\nyatantaś ca dṛḍha-vratāḥ\nnamasyantaś ca māṁ bhaktyā\nnitya-yuktā upāsate"
+		},
+		{
+			"type": "normal",
+			"content": "\"Always chanting My glories, endeavoring with great determination, bowing down before Me, these great souls perpetually worship Me with devotion.\""
+		},
+		{
+			"type": "normal",
+			"content": "These are the symptoms of a mahātmā engaged in the Lord's service in full Kṛṣṇa consciousness. Thus Mahārāja Pratāparudra's determination is very much exalted and is called dṛḍha-vrata. Because of this determination, he was finally able to receive Lord Caitanya's direct mercy."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\24.json",
+		"id": "cc\\madhya\\20\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'tomāra ṭhāñi jāni kichu dravya āchaya'\nīśāna kahe,--'mora ṭhāñi sāta mohara haya'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra ṭhāñi—in your possession; jāni—I understand; kichu—some; dravya—valuable thing; āchaya—there is; īśāna kahe—Īśāna replied; mora ṭhāñi—in my possession; sāta mohara—seven gold coins; haya—there are.",
+	"translation": "Sanātana asked his servant,\"Īśāna, I think you have some valuable things with you.\" Īśāna replied,\"Yes, I have seven gold coins.\""
 }

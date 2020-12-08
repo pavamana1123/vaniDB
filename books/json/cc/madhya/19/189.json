@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\189.json",
+		"id": "cc\\madhya\\19\\189",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śānta-bhakta--nava-yogendra, sanakādi āra\ndāsya-bhāva-bhakta--sarvatra sevaka apāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śānta-bhakta—the neutral devotees; nava—nine; yogendra—saintly persons; sanaka-ādi āra—and the four Kumāras, headed by Sanaka; dāsya-bhāva-bhakta—devotees in dāsya-rasa; sarvatra sevaka apāra—similar innumerable servants everywhere.",
+	"translation": "\"Examples of śānta-bhaktas are the nine Yogendras and the four Kumāras. Examples of devotees in dāsya-bhakti are innumerable, for such devotees exist everywhere.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The nine Yogendras are Kavi, Havi, Antarīkṣa, Prabuddha, Pippalāyana, Āvirhotra, Draviḍa (Drumila), Camasa and Karabhājana. The four Kumāras are Sanaka, Sanandana, Sanat-kumāra and Sanātana. The servant devotees in Gokula are Raktaka, Citraka, Patraka and so on. In Dvārakā there are servants like Dāruka, and in the Lord's pastimes in the material world there are servants like Hanumān."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\99.json",
+		"id": "cc\\antya\\3\\99",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "haridāsa yabe nija-gṛha tyāga kailā\nbenāpolera vana-madhye kata-dina rahilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "haridāsa—Haridāsa Ṭhākura; yabe—when; nija-gṛha—his own residence; tyāga kailā—gave up; benāpolera—of the village known as Benāpola; vana-madhye—in the forest; kata-dina—for some time; rahilā—stayed.",
+	"translation": "After leaving his home, Haridāsa Ṭhākura stayed for some time in the forest of Benāpola."
 }

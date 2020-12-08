@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\50.json",
+		"id": "cc\\madhya\\18\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhūgarbha-gosāñi, āra śrī-jīva-gosāñi\nśrī-yādava-ācārya, āra govinda gosāñi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhūgarbha-gosāñi—Bhūgarbha Gosāñi; āra—and; śrī-jīva-gosāñi—Śrī Jīva Gosvāmī; śrī-yādava-ācārya—Śrī Yādava Ācārya; āra—and; govinda gosāñi—Govinda Gosvāmī.",
+	"translation": "Bhūgarbha Gosvāmī, Śrī Jīva Gosvāmī, Śrī Yādava Ācārya and Govinda Gosvāmī also accompanied Śrīla Rūpa Gosvāmī."
 }

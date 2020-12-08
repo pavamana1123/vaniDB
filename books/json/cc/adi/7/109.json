@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\7\\109.json",
+		"id": "cc\\adi\\7\\109",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gauṇa-vṛttye yebā bhāṣya karila ācārya\ntāhāra śravaṇe nāśa haya sarva kārya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gauṇa-vṛttye—by indirect meanings; yebā—which; bhāṣya—commentary; karila—prepared; ācārya—Śaṅkarācārya; tāhāra—its; śravaṇe—hearing; nāśa—destruction; haya—becomes; sarva—all; kārya—business.",
+	"translation": "\"Śrīpāda Śaṅkarācārya has described all the Vedic literatures in terms of indirect meanings. One who hears such explanations is ruined."
 }

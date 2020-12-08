@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\50.json",
+		"id": "cc\\antya\\18\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhaye kampa haila, mora netre vahe jala\ngadgada vāṇī, roma uṭhila sakala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhaye—out of fear; kampa—shivering; haila—there was; mora—my; netre—in the eyes; vahe—flow; jala—tears; gadgada—faltering; vāṇī—voice; roma—body hair; uṭhila—stood up; sakala—all.",
+	"translation": "\"I shivered in fear and shed tears. My voice faltered, and all the hairs on my body stood up."
 }

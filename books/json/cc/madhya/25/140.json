@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\140.json",
+		"id": "cc\\madhya\\25\\140",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "smarantaḥ smārayaś ca\nmitho 'ghaugha-haraṁ harim\nbhaktyā sañjātayā bhaktyā\nbibhraty utpulakāṁ tanum\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "smarantaḥ—remembering; smārayaḥ ca—and reminding; mithaḥ—one another; aghaugha-haram—who takes away everything inauspicious from the devotee; harim—the Supreme Personality of Godhead; bhaktyā—by devotion; sañjātayā—awakened; bhaktyā—by devotion; bibhrati—possess; utpulakām—agitated by ecstasy; tanum—body.",
+	"translation": "\" 'Pure devotees develop a spiritual body and symptoms of ecstatic love simply by remembering and reminding others of the Supreme Personality of Godhead, Hari, who takes away everything inauspicious from the devotee. This position is attained by rendering devotional service according to the regulative principles and then rising to the platform of spontaneous love.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (11.3.31)."
+		}
+	]
 }

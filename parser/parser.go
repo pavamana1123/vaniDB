@@ -56,7 +56,9 @@ func (p *Parser) Close() {
 }
 
 func writeAllJSON() {
-	filepath.Walk("../books/html/bg", parse)
+	// filepath.Walk("../books/html/bg", parse)
+	filepath.Walk("../books/html/sb", parse)
+	// filepath.Walk("../books/html/cc", parse)
 }
 
 func parse(path string, info os.FileInfo, err error) error {

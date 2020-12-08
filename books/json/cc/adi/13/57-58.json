@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\57-58.json",
+		"id": "cc\\adi\\13\\57-58",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sapta miśra tāṅra putra--sapta ṛṣīśvara\nkaṁsāri, paramānanda, padmanābha, sarveśvara",
+			"isProse": false
+		},
+		{
+			"roman": "jagannātha, janārdana, trailokyanātha\nnadīyāte gaṅgā-vāsa kaila jagannātha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sapta miśra—seven Miśras; tāṅra—his; putra—sons; sapta—seven; ṛṣi—great saintly persons; īśvara—most influential; kaṁsāri—of the name Kaṁsāri; paramānanda—of the name Paramānanda; padmanābha—of the name Padmanābha; sarveśvara—of the name Sarveśvara; jagannātha—of the name Jagannātha; janārdana—of the name Janārdana; trailokyanātha—of the name Trailokyanātha; nadīyāte—at Navadvīpa; gaṅgā-vāsa—living on the bank of the Ganges; kaila—did; jagannātha—the fifth son of Upendra Miśra.",
+	"translation": "Upendra Miśra had seven sons, who were all saintly and most influential: (1) Kaṁsāri, (2) Paramānanda, (3) Padmanābha, (4) Sarveśvara, (5) Jagannātha, (6) Janārdana and (7) Trailokyanātha. Jagannātha Miśra, the fifth son, decided to reside on the bank of the Ganges at Nadia."
 }

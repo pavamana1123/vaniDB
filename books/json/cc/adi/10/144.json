@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\144.json",
+		"id": "cc\\adi\\10\\144",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bāiśa ghaḍā jala dine bharena rāmāi\ngovinda-ājñāya sevā karena nandāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bāiśa—twenty-two; ghaḍā—big waterpots; jala—water; dine—daily; bharena—fills; rāmāi—of the name Rāmāi; govinda-ājñāya—by the order of Govinda; sevā—service; karena—renders; nandāi—of the name Nandāi.",
+	"translation": "Every day Rāmāi filled twenty-two big waterpots, whereas Nandāi personally assisted Govinda.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the Gaura-gaṇoddeśa-dīpikā (139) it is stated that two servants who formerly supplied milk and water to Lord Kṛṣṇa became Rāmāi and Nandāi in the pastimes of Caitanya Mahāprabhu."
+		}
+	]
 }

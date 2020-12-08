@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\73.json",
+		"id": "cc\\adi\\2\\73",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāre kahe--kene kara kutarkānumāna\nśāstra-viruddhārtha kabhu nā haya pramāṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāre-to him; kahe-one says; kene-why; kara-you make; ku-tarka-of a fallacious argument; anumāna-conjecture; śāstra-viruddha-contrary to scripture; artha-a meaning; kabhu-at any time; nā-not; haya-is; pramāṇa-evidence.",
+	"translation": "To such a misguided interpreter we may reply, \"Why should you suggest such fallacious logic? An interpretation is never accepted as evidence if it opposes the principles of scripture."
 }

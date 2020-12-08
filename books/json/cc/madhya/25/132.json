@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\132.json",
+		"id": "cc\\madhya\\25\\132",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vadanti tat tattva-vidas\ntattvaṁ yaj jñānam advayam\nbrahmeti paramātmeti\nbhagavān iti śabdyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vadanti—they say; tat—that; tattva-vidaḥ—those who know the Absolute Truth; tattvam—the ultimate goal; yat—which; jñānam advayam—identical knowledge; brahma iti—as the impersonal Brahman; paramātmā iti—as the Supersoul; bhagavān iti—as the Supreme Personality of Godhead; śabdyate—it is described.",
+	"translation": "\" 'The Absolute Truth is known by the self-realized souls as a unified identity known by different names-impersonal Brahman, localized Paramātmā, and Bhagavān, the Supreme Personality of Godhead.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (1.2.11)."
+		}
+	]
 }

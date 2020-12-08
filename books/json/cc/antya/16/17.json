@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\17.json",
+		"id": "cc\\antya\\16\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "iṣṭagoṣṭhī kata-kṣaṇa kari' tāṅra sane\njhaḍu-ṭhākura kahe tāṅre madhura vacane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "iṣṭa-goṣṭhī—discussion; kata-kṣaṇa—for some time; kari'-performing; tāṅra sane—with him; jhaḍu-ṭhākura—Jhaḍu Ṭhākura; kahe—says; tāṅre—unto him (Kālidāsa); madhura vacane—in sweet words.",
+	"translation": "After a discussion for some time with Kālidāsa, Jhaḍu Ṭhākura said something to him in sweet words."
 }

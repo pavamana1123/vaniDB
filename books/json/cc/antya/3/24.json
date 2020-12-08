@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\24.json",
+		"id": "cc\\antya\\3\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmā haite ye nā haya, se tomā haite haya\nāmāre karilā daṇḍa, āna kebā haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmā haite—from Me; ye—whatever; nā haya—is not; se—that; tomā haite—from you; haya—becomes possible; āmāre—Me; karilā daṇḍa—punished; āna—others; kebā haya—what to speak of.",
+	"translation": "\"You can do whatever I cannot. Indeed, you can chastise even Me, not to speak of others."
 }

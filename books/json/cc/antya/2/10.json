@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\10.json",
+		"id": "cc\\antya\\2\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sapta-dvīpera loka āra nava-khaṇḍa-vāsī\ndeva, gandharva, kinnara manuṣya-veśe āsi'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sapta-dvīpera loka—people from all of the seven islands within the universe; āra—and; nava-khaṇḍa-vāsī—the in habitants of the nine khaṇḍas; deva—demigods; gandharva—the inhabitants of Gandharvaloka; kinnara—the inhabitants of Kinnaraloka; manuṣya-veśe—in the form of human beings; āsi'-coming.",
+	"translation": "People from all over the universe, including the seven islands, the nine khaṇḍas, the planets of the demigods, Gandharvaloka and Kinnaraloka, would go there in the forms of human beings.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For an explanation of sapta-dvīpa, see Madhya-līlā, Chapter Twenty, verse 218, and Śrīmad-Bhāgavatam, Fifth Canto, Chapters Sixteen and Twenty. in the Siddhānta-śiromaṇi, Chapter One (Golādhyāya), in the Bhuvana-kośa section, the nine khaṇḍas are mentioned as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "aindraṁ kaśeru sakalaṁ kila tāmraparṇam\nanyad gabhastimad ataś ca kumārikākhyam\nnāgaṁ ca saumyam iha vāruṇam antya-khaṇḍaṁ\ngāndharva-saṁjñam iti bhārata-varṣa-madhye"
+		},
+		{
+			"type": "normal",
+			"content": "\"Within Bhārata-varṣa, there are nine khaṇḍas. They are known as (1) Aindra, (2) Kaśeru, (3) Tāmraparṇa, (4) Gabhastimat, (5) Kumārikā, (6) Nāga (7) Saumya, (8) Vāruṇa and (9) Gāndharva.\""
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\311.json",
+		"id": "cc\\antya\\6\\311",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vairāgyera kathā tāṅra adbhuta-kathana\nājanma nā dila jihvāya rasera sparśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vairāgyera—of the renunciation; kathā—talks; tāṅra—of him; adbhuta-kathana—wonderful topics; ā-janma—from birth; nā dila—did not allow; jihvāya—to the tongue; rasera sparśana—tasting.",
+	"translation": "Topics concerning his renunciation are wonderful. Throughout his life he never allowed his tongue sense gratification."
 }

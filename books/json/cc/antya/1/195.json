@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\195.json",
+		"id": "cc\\antya\\1\\195",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kiṁ kāvyena kaves tasya\nkiṁ kāṇḍena dhanuṣ-mataḥ\nparasya hṛdaye lagnaṁ\nna ghūrṇayati yac chiraḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kim—what use; kāvyena—with poetry; kaveḥ—of the poet; tasya—that; kim—what use; kāṇḍena—with the arrow; dhanuḥ-mataḥ—of the bowman; parasya—of another; hṛdaye—in the heart; lagnam—penetrating; na ghūrṇayati—does not cause to roll about; yat—which; śiraḥ—the head.",
+	"translation": "What is the use of a bowman's arrow or a poet's poetry if they penetrate the heart but do not cause the head to spin?'"
 }

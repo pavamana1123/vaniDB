@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\114.json",
+		"id": "cc\\adi\\5\\114",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "deva-gaṇe nā pāya yāṅhāra daraśana\nkṣīrodaka-tīre yāi' karena stavana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "deva-gaṇe—the demigods; nā—not; pāya—get; yāṅhāra—whose; daraśana—sight; kṣīra-udaka-tīre—on the bank of the ocean of milk; yāi'-go; karena stavana—offer prayers.",
+	"translation": "Unable to see Him, the demigods go to the bank of the ocean of milk and offer prayers to Him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The denizens of heaven, who live in the planetary systems beginning from Svarloka, cannot even see Lord Viṣṇu in Śvetadvīpa. Unable to reach the island, they can simply approach the beach of the milk ocean to offer transcendental prayers to the Lord, appealing to Him on special occasions to appear as an incarnation."
+		}
+	]
 }

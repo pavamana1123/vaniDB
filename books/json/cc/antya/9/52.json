@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\52.json",
+		"id": "cc\\antya\\9\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'dravya deha' rājā māge--upāya puchila\n'yathārtha-mūlye ghoḍā laha', teṅha ta' kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dravya deha—pay the dues; rājā māge—the King asks; upāya—the means; puchila—inquired; yathā-artha-mūlye—at a proper price; ghoḍā laha—take the horses; teṅha ta' kahila—he replied.",
+	"translation": "Then he was told that the King demanded the money due him and asked what means he would adopt to pay it. \"Kindly take my horses,\" he replied, \"for a proper price."
 }

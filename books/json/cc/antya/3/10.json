@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\10.json",
+		"id": "cc\\antya\\3\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kata-kṣaṇe se bālaka uṭhi' yabe gelā\nsahite nā pāre, dāmodara kahite lāgilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kata-kṣaṇe—after some time; se bālaka—that boy; uṭhi'-standing up; yabe—when; gelā—left; sahite nā pāre—could not tolerate; dāmodara—Dāmodara Paṇḍita; kahite lāgilā—began to say.",
+	"translation": "After some time, when the boy stood up and left, the intolerant Dāmodara Paṇḍita began to speak."
 }

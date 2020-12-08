@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\84-85.json",
+		"id": "cc\\madhya\\23\\84-85",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "līlā premṇā priyādhikyaṁ\nmādhuryaṁ veṇu-rūpayoḥ\nity asādhāraṇaṁ proktaṁ\ngovindasya catuṣṭayam",
+			"isProse": false
+		},
+		{
+			"roman": "evaṁ guṇāś catur-bhedāś\ncatuḥ-ṣaṣṭir udāhṛtāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "līlā—pastimes; premṇā—with transcendental love; priya-ādhikyam—an abundance of highly elevated devotees; mādhuryam—sweetness; veṇu-rūpayoḥ—of the flute and the beauty of Kṛṣṇa; iti—thus; asādhāraṇam—uncommon; proktam—said; govindasya—of Lord Kṛṣṇa; catuṣṭayam—four special features; evam—thus; guṇāḥ—transcendental qualities; catuḥ-bhedāḥ—having four divisions; catuḥ-ṣaṣṭiḥ—sixty-four; udāhṛtāḥ—declared.",
+	"translation": "\" 'Above Nārāyaṇa, Kṛṣṇa has four specific transcendental qualities-His wonderful pastimes, an abundance of wonderful associates who are very dear to Him [like the gopīs], His wonderful beauty and the wonderful vibration of His flute. Lord Kṛṣṇa is more exalted than ordinary living beings and demigods like Lord Śiva. He is even more exalted than His personal expansion Nārāyaṇa. In all, the Supreme Personality of Godhead has sixty-four transcendental qualities in full.'"
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\70.json",
+		"id": "cc\\adi\\13\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣṇa avatārite ācārya pratijñā kariyā\nkṛṣṇa-pūjā kare tulasī-gaṅgājala diyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇa—Lord Kṛṣṇa; avatārite—to cause His advent; ācārya—Advaita Ācārya; pratijñā—promise; kariyā—making; kṛṣṇa-pūjā—worship of Lord Kṛṣṇa; kare—does; tulasī—tulasī leaves; gaṅgā-jala diyā—with the water of the Ganges.",
+	"translation": "With this consideration, Advaita Ācārya Prabhu, promising to cause Lord Kṛṣṇa to descend, began to worship the Supreme Personality of Godhead, Kṛṣṇa, with tulasī leaves and water of the Ganges.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Tulasī leaves and Ganges water, with, if possible, a little pulp of sandalwood, is sufficient paraphernalia to worship the Supreme Personality of Godhead. The Lord says in Bhagavad-gītā:"
+		},
+		{
+			"type": "normal",
+			"content": "patraṁ puspaṁ phalaṁ toyaṁ\nyo me bhaktyā prayacchati\ntad ahaṁ bhakty-upahṛtam\naśnāmi prayatātmanaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it.\" (Bg. 9.26) Following this principle, Advaita Prabhu pleased the Supreme personality of Godhead with tulasī leaves and water of the Ganges."
+		}
+	]
 }

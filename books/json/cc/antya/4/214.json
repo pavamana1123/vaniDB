@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\214.json",
+		"id": "cc\\antya\\4\\214",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-vatsara rūpa-gosāñira gauḍe vilamba haila\nkuṭumbera 'sthiti'-artha vibhāga kari' dila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-vatsara—for one year; rūpa-gosāñira—of Śrīla Rūpa Gosvāmī; gauḍe—in Bengal; vilamba—delay; haila—there was; kuṭumbera—of the relatives; sthiti-artha—wealth for maintenance; vibhāga—shares; kari'-making; dila—gave.",
+	"translation": "Śrīla Rūpa Gosvāmī was delayed in Bengal for a year because he was dividing his money among his relatives to situate them in their proper positions.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Although Śrīla Rūpa Gosvāmī renounced his family life, he nevertheless was not unjust to his family members. Even after renunciation, he returned to Bengal, where he properly divided whatever money he had and gave it to his relatives so that they would not be inconvenienced."
+		}
+	]
 }

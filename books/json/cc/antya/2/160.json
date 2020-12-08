@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\160.json",
+		"id": "cc\\antya\\2\\160",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prayāga ha-ite eka vaiṣṇava navadvīpa āila\nharidāsera vārtā teṅho sabāre kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prayāga ha-ite—from Prayāga; eka—one; vaiṣṇava—devotee of Lord Kṛṣṇa; navadvīpa āila—came to Navadvīpa; haridāsera vārtā—the news of Haridāsa; teṅho—he; sabāre kahila—informed everyone.",
+	"translation": "A devotee returned to Navadvīpa from Prayāga and told everyone the details of Junior Haridāsa's suicide."
 }

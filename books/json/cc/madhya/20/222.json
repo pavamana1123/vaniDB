@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\222.json",
+		"id": "cc\\madhya\\20\\222",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dakṣiṇādho hasta haite vāmādhaḥ paryanta\ncakrādi astra-dhāraṇa-gaṇanāra anta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dakṣiṇa-adhaḥ—the lower right; hasta—hand; haite—from; vāma-adhaḥ—the lower left hand; paryanta—up to; cakra-ādi—beginning with the disc; astra-dhāraṇa—of holding the weapons; gaṇanāra—of counting; anta—the end.",
+	"translation": "\"The procedure for counting begins with the lower right hand and goes to the upper right hand, the upper left hand, and the lower left hand. Lord Viṣṇu is named according to the order the objects are held in His hands."
 }

@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\130.json",
+		"id": "cc\\madhya\\20\\130",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarvajñera vākye mūla-dhana anubandha\nsarva-śāstre upadeśe, 'śrī-kṛṣṇa'--sambandha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarvajñera—of the astrologer; vākye—by the assurance; mūla-dhana—with the treasure; anubandha—connection; sarva-śāstre—all Vedic literatures; upadeśe—instruct; śrī-kṛṣṇa—Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead; sam-bandha—the central connection.",
+	"translation": "\"By the words of the astrologer, the poor man's connection with the treasure was established. Similarly, Vedic literature advises us that our real connection is with Śrī Kṛṣṇa, the Supreme Personality of Godhead.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In Bhagavad-gītā (7.26), Śrī Kṛṣṇa says:"
+		},
+		{
+			"type": "normal",
+			"content": "vedāhaṁ samatītāni\nvartamānāni cārjuna\nbhaviṣyāṇi ca bhūtāni\nmāṁ tu veda na kaścana"
+		},
+		{
+			"type": "normal",
+			"content": "\"O Arjuna, as the Supreme Personality of Godhead, I know everything that has happened in the past, all that is happening in the present, and all things that are yet to come. I also know all living entities, but Me no one knows.\""
+		},
+		{
+			"type": "normal",
+			"content": "Thus Kṛṣṇa knows the cause of the distressed condition of the conditioned soul. He therefore descends from His original position to instruct the conditioned soul and inform him about his forgetfulness of his relationship with Kṛṣṇa. Kṛṣṇa exhibits Himself in His relationships in Vṛndāvana and at the Battle of Kurukṣetra so that people will be attracted to Him and will again return home, back to Godhead. Kṛṣṇa also says in Bhagavad-gītā that He is the proprietor of all universes, the enjoyer of everything that be and the friend of everyone. Suhṛdaṁ sarva-bhūtānāṁ jñātvā māṁ śāntim ṛcchati (Bg. 5.29). If we revive our original intimate relationship with Kṛṣṇa, our distressed condition in the material world will be mitigated. Everyone is trying to adjust to the distressed conditions of material existence, but the basic problems cannot be solved unless one is in an intimate relationship with Kṛṣṇa."
+		}
+	]
 }

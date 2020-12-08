@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\32.json",
+		"id": "cc\\antya\\16\\32",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei dhūli lañā kālidāsa sarvāṅge lepilā\ntāṅra nikaṭa eka-sthāne lukāñā rahilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei dhūli—that dust; lañā—taking; kālidāsa—Kālidāsa; sarva-aṅge—all over his body; lepilā—smeared; tāṅra nikaṭa—near his place; eka-sthāne—in one place; lukāñā rahilā—remained hidden.",
+	"translation": "Kālidāsa smeared the dust from those footprints all over his body. Then he hid in a place near Jhaḍu Ṭhākura's home."
 }

@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\221.json",
+		"id": "cc\\antya\\3\\221",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ācārya kahena,--\"tumi nā kariha bhaya\nsei ācariba, yei śāstra-mata haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ācārya kahena—Advaita Ācārya said; tumi—you; nā—not; kariha—do; bhaya—fear; sei ācariba—I shall behave in that way; yei—whatever; śāstra-mata—sanctioned by the revealed scriptures; haya—is.",
+	"translation": "Advaita Ācārya replied, \"My dear Haridāsa, do not be afraid. I shall behave strictly according to the principles of the revealed scriptures.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Advaita Ācārya was not afraid of the strict brahminical culture and customs of society. As stated in the śāstric injunctions, which are the true medium of evidence or proof, anyone can go back to Godhead, even if born of a low family. Kṛṣṇa says in Bhagavad-gītā:"
+		},
+		{
+			"type": "normal",
+			"content": "māṁ hi pārtha vyapāśritya\nye 'pi syuḥ pāpa-yonayaḥ\nstriyo vaiśyās tathā śūdrās\nte 'pi yānti parāṁ gatim"
+		},
+		{
+			"type": "normal",
+			"content": "\"O son of Pṛthā, those who take shelter in Me, though they be of lower birth-women, vaiśyas [merchants], as well as śūdras [workers]-can approach the supreme destination.\" (Bg. 9.32) Though having taken a low birth in human society, one who accepts Kṛṣṇa as the Supreme Personality of Godhead is quite competent to go back home, back to Godhead; and one who is a bona fide candidate for going back to Godhead should not be considered lowborn, or caṇḍāla. That is also a śāstric injunction. As stated in Śrīmad-Bhāgavatam (2.4.18):"
+		},
+		{
+			"type": "normal",
+			"content": "kirāta-hūṇāndhra-pulinda-pulkaśā\nābhīra-śumbhā yavanāḥ khasādayaḥ\nye 'nye ca pāpā yad-apāśrayāśrayāḥ\nśudhyanti tasmai prabhaviṣṇave namaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "Not only the yavanas and khasādayaḥ but even those born in still lower families can be purified (śudhyanti) by the grace of a devotee of Lord Kṛṣṇa, for Kṛṣṇa empowers such devotees to perform this purification. Advaita Ācārya had confidence in the śāstric evidence and did not care about social customs. The Kṛṣṇa consciousness movement, therefore, is a cultural movement that does not care about local social conventions. Following in the footsteps of Śrī Caitanya Mahāprabhu and Advaita Ācārya, we can accept a devotee from any part of the world and recognize him as a brāhmaṇa as soon as he is qualified due to following the principles of Vaiṣṇava behavior."
+		}
+	]
 }

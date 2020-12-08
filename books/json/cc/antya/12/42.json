@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\42.json",
+		"id": "cc\\antya\\12\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrvavat prabhu kailā sabāra milana\nstrī-saba dūra ha-ite kailā prabhura daraśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrva-vat—as previously; prabhu—Śrī Caitanya Mahāprabhu; kailā—performed; sabāra milana—meeting everyone; strī—women; saba—all; dūra ha-ite—from a distance; kailā—performed; prabhura daraśana—seeing the Lord.",
+	"translation": "Śrī Caitanya Mahāprabhu received them all, just as He had in previous years. The women, however, saw the Lord from a distance."
 }

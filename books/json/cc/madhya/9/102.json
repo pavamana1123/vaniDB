@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\102.json",
+		"id": "cc\\madhya\\9\\102",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,--gītā-pāṭhe tomārā-i adhikāra\ntumi se jānaha ei gītāra artha-sāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—the Lord replied; gītā-pāṭhe—in reading the Bhagavad-gītā; tomārāi adhikāra—you have the proper authority; tumi—you; se—that; jānaha—know; ei—this; gītāra—of the Bhagavad-gītā; artha-sāra—the real purport.",
+	"translation": "Śrī Caitanya Mahāprabhu told the brāhmaṇa, \"Indeed, you are an authority in the reading of the Bhagavad-gītā. Whatever you know constitutes the real purport of the Bhagavad-gītā.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "According to the śāstras: bhaktyā bhāgavataṁ grāhyaṁ na buddhyā na ca ṭīkayā. One should understand the Bhagavad-gītā and Śrīmad-Bhāgavatam by hearing them from a real devotee. One cannot understand them simply by erudite scholarship or sharp intelligence. It is also said:"
+		},
+		{
+			"type": "normal",
+			"content": "gītādhītā ca yenāpi\nbhakti-bhāvena cetasā\nveda-śāstra-purāṇāni\ntenādhītāni sarvaśaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "To one who reads the Bhagavad-gītā with faith and devotion, the essence of Vedic knowledge is revealed. And according to the Śvetāśvatara Upaniṣad (6.23):"
+		},
+		{
+			"type": "normal",
+			"content": "yasya deve parā bhaktir\nyathā deve tathā gurau\ntasyaite kathitā hy arthāḥ\nprakāśante mahātmanaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "All Vedic scriptures are to be understood with faith and devotion, not by mundane scholarship. We therefore present the Bhagavad-gītā As It Is. There are many so-called scholars and philosophers who read the Bhagavad-gītā in a scholarly way. They simply waste their time and mislead those who read their commentaries."
+		}
+	]
 }

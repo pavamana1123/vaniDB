@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\17\\71.json",
+		"id": "cc\\antya\\17\\71",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei līlā sva-granthe raghunātha-dāsa\ngaurāṅga-stava-kalpavṛkṣe kairāchena prakāśa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei līlā—this pastime; sva-granthe—in his book; raghunātha-dāsa—Raghunātha dāsa Gosvāmī; gaurāṅga-stava-kalpa-vṛkṣe—named Gaurāṅga-stava-kalpavṛkṣa; kairāchena prakāśa—has fully described.",
+	"translation": "Śrīla Raghunātha dāsa Gosvāmī has fully described this pastime in his book Gaurāṅga-stava-kalpavṛkṣa."
 }

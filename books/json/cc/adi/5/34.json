@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\34.json",
+		"id": "cc\\adi\\5\\34",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sūrya-maṇḍala yena bāhire nirviśeṣa\nbhitare sūryera ratha-ādi saviśeṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sūrya-maṇḍala—the sun globe; yena—like; bāhire—externally; nirviśeṣa—with out varieties; bhitare—within; sūryera—of the sun-god; ratha-ādi—opulences like chariots and other things; sa-viśeṣa—full of varieties.",
+	"translation": "It is like the homogeneous effulgence around the sun. But inside the sun are the chariots, horses and other opulences of the sun-god.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Outside of Vaikuṇṭha, the abode of Kṛṣṇa, which is called paravyoma, is the glaring effulgence of Kṛṣṇa's bodily rays. This is called the brahmajyoti. The transcendental region of that effulgence is called Siddhaloka or Brahmaloka. When impersonalists achieve liberation, they merge into that Brahmaloka effulgence. This transcendental region is undoubtedly spiritual, but it contains no manifestations of spiritual activities or variegatedness. It is compared to the glow of the sun. Within the sun's glow is the sphere of the sun, where one can experience all sorts of varieties."
+		}
+	]
 }

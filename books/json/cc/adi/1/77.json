@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\77.json",
+		"id": "cc\\adi\\1\\77",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svarūpam anyākāraṁ yat\ntasya bhāti vilāsataḥ\nprāyeṇātma-samaṁ śaktyā\nsa vilāso nigadyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sva-rūpam—the Lord's own form; anya—other; ākāram—features of the body; yat—which; tasya—His; bhāti—appears; vilāsataḥ—from particular pastimes; prāyena—almost; ātma-samam—self-similar; śaktyā—by His potency; saḥ—that; vilāsaḥ—the vilāsa (pastime) form; nigadyate—is called.",
+	"translation": "\"When the Lord displays numerous forms with different features by His inconceivable potency, such forms are called vilāsa-vigrahas.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is another quotation from the Laghu-bhāgavatāmṛta (1.15)."
+		}
+	]
 }

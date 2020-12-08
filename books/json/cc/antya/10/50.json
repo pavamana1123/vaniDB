@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\50.json",
+		"id": "cc\\antya\\10\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhura ei jala-krīḍā dāsa-vṛndāvana\n'caitanya-maṅgale' vistāri' kariyāchena varṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhura—of Śrī Caitanya Mahāprabhu; ei—these; jala-krīḍā—activities in the water; dāsa-vṛndāvana—Vṛndāvana dāsa Ṭhākura; caitanya-maṅgale—in his book Caitanya-maṅgala, now known as Caitanya-bhāgavata; vistāri'-describing in detail; kariyāchena varṇana—has narrated.",
+	"translation": "In his Caitanya-maṅgala [now known as Caitanya-bhāgavata], Vṛndāvana dāsa Ṭhākura has given a detailed description of the activities the Lord performed in the water."
 }

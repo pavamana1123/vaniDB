@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\64.json",
+		"id": "cc\\adi\\13\\64",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gītā-bhhāgavata kahe ācārya-gosāñi\njñāna-karma nindi' kare bhaktira baḍāi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gītā—Bhagavad-gītā; bhāgavata—Śrīmad-Bhāgavatam; kahe—recites; ācārya-gosāñi—Advaita Ācārya; jñāna—the path of philosophical speculation; karma—fruitive activity; nindi'-decrying; kare—establishes; bhaktira—of devotional service; baḍāi—excellence.",
+	"translation": "In these meetings of the Vaiṣṇavas, Advaita Ācārya used to recite Bhagavad-gītā and Śrīmad-Bhāgavatam, decrying the paths of philosophical speculation and fruitive activity and establishing the superexcellence of devotional service."
 }

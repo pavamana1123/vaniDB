@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\79.json",
+		"id": "cc\\adi\\16\\79",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'gaṅgāte kamala janme'--sabāra subodha\n'kamale gaṅgara janma'--atyanta virodha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gaṅgāte—in the river Ganges; kamala—lotus flower; janme—grows; sabāra—of everyone; subodha—understanding; kamale—in the lotus flower; gaṅgāra—of the Ganges; janma—birth; atyanta—very much; virodha—contradiction.",
+	"translation": "\"Everyone knows that lotus flowers grow in the water of the Ganges. But to say that the Ganges takes birth from a lotus flower seems extremely contradictory."
 }

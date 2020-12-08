@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\9.json",
+		"id": "cc\\madhya\\19\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gauḍe rākhila mudrā daśa-hājāre\nsanātana vyaya kare, rākhe mudi-ghare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gauḍe—in Bengal; rākhila—kept; mudrā—coins; daśa-hājāre—ten thousand; sanātana—his elder brother; vyaya kare—spent; rākhe—deposited; mudi-ghare—in the place of a local grocer.",
+	"translation": "He deposited ten thousand coins, which were later spent by Śrī Sanātana Gosvāmī, in the custody of a local Bengali grocer."
 }

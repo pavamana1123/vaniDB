@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\6.json",
+		"id": "cc\\adi\\2\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "brahma, ātmā, bhagavān--anuvāda tina\naṅga-prabhā, aṁśa, svarūpa--tina vidheya-cihna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brahma—the impersonal Brahman; ātmā—the localized Paramātmā; bhagavān—the Personality of Godhead; anuvāda—subjects; tina—three; aṅga-prabhā—bodily effulgence; aṁśa—partial manifestation; svarūpa—original form; tina—three; vidheya-cihna—predicates.",
+	"translation": "Impersonal Brahman, localized Paramātmā and the Personality of Godhead are three subjects, and the glowing effulgence, the partial manifestation and the original form are their three respective predicates."
 }

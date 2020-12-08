@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\27.json",
+		"id": "cc\\madhya\\18\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-jana āsi' rātre grāmīke balila\n'tomāra grāma mārite turuka-dhārī sājila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-jana—one person; āsi'-coming; rātre—at night; grāmīke—to the inhabitants of the village; balila—said; tomāra—your; grāma—village; mārite—to attack; turuka-dhārī—Turkish Mohammedan soldiers; sājila—are prepared.",
+	"translation": "One person who came to the village informed the inhabitants, \"The Turkish soldiers are now preparing to attack your village."
 }

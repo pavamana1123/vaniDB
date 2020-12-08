@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\233.json",
+		"id": "cc\\madhya\\19\\233",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ākāśādi guṇa yena para para bhūte\neka-dui-tina-cāri krame pañca pṛthivīte\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ākāśa-ādi—beginning with the sky; guṇa—qualities; yena—as; para para—one after another; bhūte—in the material elements; eka—one; dui—two; tina—three; cāri—four; krame—in this way; pañca—all five qualities; pṛthivīte—in earth.",
+	"translation": "\"All the material qualities evolve one after another in the material elements, beginning from ether. By gradual evolution, first one quality develops, then two qualities develop, then three and four, until all five qualities are found in earth."
 }

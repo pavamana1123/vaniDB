@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\283.json",
+		"id": "cc\\madhya\\24\\283",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei āra tina artha gaṇanāte pāila\nei dui artha mili' 'chābbiśa' artha haila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—this example; āra—another; tina artha—three imports; gaṇanāte—in calculating; pāila—we have obtained; ei dui artha mili'-by adding these two imports; chābbiśa—twenty-six; artha—imports; haila—there have been.",
+	"translation": "\"In this way we have found three more meanings. Combine these with the other meanings, and the total number of meanings add up to twenty-six in all."
 }

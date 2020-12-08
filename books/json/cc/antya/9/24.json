@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\24.json",
+		"id": "cc\\antya\\9\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei rāja-putrera svabhāva,--grīvā phirāya\nūrdhva-mukhe bāra-bāra iti-uti cāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei rāja-putrera—of that prince; sva-bhāva—characteristic; grīvā phirāya—turns his neck; ūrdhva-mukhe—with his face toward the sky; bāra-bāra—again and again; iti-uti—here and there; cāya—looks.",
+	"translation": "\"That prince had a personal idiosyncrasy of turning his neck and facing the sky, looking here and there again and again."
 }

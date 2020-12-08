@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\3.json",
+		"id": "cc\\antya\\3\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "puruṣottame eka uḍiyā-brāhmaṇa-kumāra\npitṛ-śūnya, mahā-sundara, mṛdu-vyavahāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "puruṣottame—in Jagannātha Purī; eka—one; uḍiyā-brāhmaṇa-kumāra—young son of a brāhmaṇa from Orissa; pitṛ-śūnya—without his father; mahā-sundara—possessing very beautiful bodily features; mṛdu-vyavahāra—having very gentle behavior.",
+	"translation": "In Jagannātha Purī there was a young boy who had been born of an Orissa brāhmaṇa but had later lost his father. The boy's features were very beautiful, and his behavior was extremely gentle."
 }

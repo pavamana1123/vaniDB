@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\164.json",
+		"id": "cc\\adi\\4\\164",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kāma, prema,--doṅhākāra vibhinna lakṣaṇa\nlauha āra hema yaiche svarūpe vilakṣaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāma—lust; prema—love; doṅhākāra—of the two; vibhinna—separate; lakṣaṇa—symptoms; lauha—iron; āra—and; hema—gold; yaiche—just as; svarūpe—in nature; vilakṣaṇa—different.",
+	"translation": "Lust and love have different characteristics, just as iron and gold have different natures.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "One should try to discriminate between sexual love and pure love, for they belong to different categories, with a gulf of difference between them. They are as different from one another as iron is from gold."
+		}
+	]
 }

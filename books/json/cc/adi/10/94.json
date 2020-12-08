@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\94.json",
+		"id": "cc\\adi\\10\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vṛndāvane dui bhāira caraṇa dekhiyā\ngovardhane tyajiba deha bhṛgupāta kariyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vṛndāvane—at Vṛndāvana; dui bhāira—the two brothers (Rūpa and Sanātana); caraṇa—feet; dekhiyā—after seeing; govardhane—on the hill of Govardhana; tyajiba—will give up; deha—this body; bhṛgupāta—falling down; kariyā—doing so.",
+	"translation": "Śrīla Raghunātha dāsa Gosvāmī intended to go to Vṛndāvana to see the lotus feet of Rūpa and Sanātana and then give up his life by jumping from Govardhana Hill.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Jumping from the top of Govardhana Hill is a system of suicide especially performed by saintly persons. After the disappearance of Lord Caitanya and Svarūpa Dāmodara, Raghunātha dāsa Gosvāmī keenly felt separation from these two exalted personalities and therefore decided to give up his life by jumping from Govardhana Hill in Vṛndāvana. Before doing so, however, he wanted to see the lotus feet of Śrīla Rūpa Gosvāmī and Sanātana Gosvāmī."
+		}
+	]
 }

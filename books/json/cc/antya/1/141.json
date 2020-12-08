@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\141.json",
+		"id": "cc\\antya\\1\\141",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "krame śrī-rūpa-gosāñi sakali kahila\nśuni' prabhura bhakta-gaṇera camatkāra haila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "krame—gradually; śrī-rūpa-gosāñi—Śrīla Rūpa Gosvāmī; sakali kahila—explained everything; śuni'-hearing; prabhura—of Śrī Caitanya Mahāprabhu; bhakta-gaṇera—of the devotees; camatkāra—astonishment; haila—there was.",
+	"translation": "Śrīla Rūpa Gosvāmī gradually informed Rāmānanda Rāya about everything he asked. Hearing his explanations, all the devotees of Śrī Caitanya Mahāprabhu were struck with wonder.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Rūpa Gosvāmī has explained kāma-likhana in his book Ujjvala-nīlamaṇi (Vipralambha-prakaraṇa 26):"
+		},
+		{
+			"type": "normal",
+			"content": "sa lekhaḥ kāma-lekhaḥ syāt\nyaḥ sva-prema-prakāśakaḥ\nyuvatyā yūni yūnā ca\nyuvatyāṁ saṁprahīyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"Exchanges of letters between a young boy and young girl concerning their awakening of attachment for one another are called kāma-lekha.\""
+		}
+	]
 }

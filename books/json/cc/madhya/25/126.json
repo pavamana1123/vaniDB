@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\126.json",
+		"id": "cc\\madhya\\25\\126",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathā mahānti bhūtāni\nbhūteṣūccāvaceṣv anu\npraviṣṭāny apraviṣṭāni\ntathā teṣu na teṣv aham\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā—as; mahānti—the universal; bhūtāni—elements; bhūteṣu—in the living entities; ucca-avaceṣu—both gigantic and minute; anu—after; praviṣṭāni—situated internally; apraviṣṭāni—situated externally; tathā—so; teṣu—in them; na—not; teṣu—in them; aham—I.",
+	"translation": "\" 'As the material elements enter the bodies of all living beings and yet remain outside them all, I exist within all material creations and yet am not within them.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (2.9.35). It is also the third verse of the catuḥ-ślokī. For an explanation see Ādi-līlā, Chapter One, text 55."
+		}
+	]
 }

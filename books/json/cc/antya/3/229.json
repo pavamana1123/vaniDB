@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\229.json",
+		"id": "cc\\antya\\3\\229",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-dina haridāsa goṅphāte vasiyā\nnāma-saṅkīrtana karena ucca kariyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-dina—one day; haridāsa—Haridāsa Ṭhākura; goṅphāte vasiyā—sitting in his cave; nāma-saṅkīrtana karena—was chanting the holy name of the Lord; ucca kariyā—resounding very loudly.",
+	"translation": "One day Haridāsa Ṭhākura was sitting in his cave, reciting very loudly the holy name of the Lord."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\67.json",
+		"id": "cc\\madhya\\23\\67",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nāyakānāṁ śiroratnaṁ\nkṛṣṇas tu bhagavān svayam\nyatra nityatayā sarve\nvirājante mahā-guṇāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nāyakānām—of all heroes; śiroratnam—the crown jewel; kṛṣṇaḥ—Lord Kṛṣṇa; tu—but; bhagavān svayam—the Supreme Personality of Godhead Himself; yatra—in whom; nityatayā—with permanence; sarve—all; virājante—exist; mahā-guṇāḥ—transcendental qualities.",
+	"translation": "\" 'Kṛṣṇa is the Supreme Personality of Godhead Himself, and He is the crown jewel of all heroes. In Kṛṣṇa, all transcendental good qualities are permanently situated.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is also found in the Bhakti-rasāmṛta-sindhu (2.1.17)."
+		}
+	]
 }

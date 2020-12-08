@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\94.json",
+		"id": "cc\\antya\\10\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,--'bhitare tabe āilā kemane?\ntaiche kene prasāda laite nā kailā gamane?'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—Śrī Caitanya Mahāprabhu said; bhitare—inside; tabe—then; āilā—you came; kemane—how; taiche—in the same way; kene—why; prasāda laite—to take prasāda; nā kailā gamane—did you not go.",
+	"translation": "The Lord asked, \"How did you enter the room? Why didn't you go out to take your lunch in the same way?\""
 }

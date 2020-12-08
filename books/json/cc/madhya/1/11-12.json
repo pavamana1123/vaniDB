@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\11-12.json",
+		"id": "cc\\madhya\\1\\11-12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāra madhye yei bhāga dāsa-vṛndāvana\n'caitanya-maṅgale' vistāri' karilā varṇana",
+			"isProse": false
+		},
+		{
+			"roman": "sei bhāgera ihāṅ sūtra-mātra likhiba\ntāhāṅ ye viśeṣa kichu, ihāṅ vistāriba\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāra madhye—amongst them; yei—which; bhāga—portion; dāsa-vṛndāvana—Śrīla Vṛndāvana dāsa Ṭhākura; caitanya-maṅgale—in his book Caitanya-maṅgala; vistāri'-elaborating; karilā varṇana—has described; sei bhāgera—of that portion; ihāṅ—here in this book; sūtra-mātra—the synopsis only; likhiba—I shall write; tāhāṅ—there; ye—whatever; viśeṣa—special details; kichu—something; ihāṅ vistāriba—I shall describe elaborately.",
+	"translation": "I shall describe only in synopsis that portion which Vṛndāvana dāsa Ṭhākura has described very elaborately in his book Caitanya-maṅgala. Whatever incidents are outstanding, however, I shall later elaborate."
 }

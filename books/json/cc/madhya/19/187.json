@@ -1,15 +1,173 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\187.json",
+		"id": "cc\\madhya\\19\\187",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hāsya, adbhuta, vīra, karuṇa, raudra, bībhatsa, bhaya\npañca-vidha-bhakte gauṇa sapta-rasa haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hāsya—laughter; adbhuta—wonder; vīra—chivalry; karuṇa—pathetic feeling; raudra—anger; bībhatsa—disaster; bhaya—fearfulness; pañca-vidha-bhakte—in five kinds of devotees; gauṇa—indirect; sapta-rasa—seven kinds of mellows; haya—there are.",
+	"translation": "\"In addition to the five direct mellows, there are seven indirect mellows, known as laughter, wonder, chivalry, compassion, anger, disaster and fear.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Sānta-bhakti-rasa is described in the Bhakti-rasāmṛta-sindhu (3.1.4, 5, 6)as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "vakṣyamāṇair vibhāvādyaiḥ\nśamināṁ svādyatāṁ gataḥ\nsthāyī śānti-ratir dhīraiḥ\nśānta-bhakti-rasaḥ smṛtaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "prāyaḥ svasukha-jātīyaṁ\nsukhaṁ syād atra yoginām\nkintv ātma-saukhyam aghanaṁ\nghanaṁ tv īśam ayaṁ sukham\ntatrāpīśa-svarūpānubhavasyaivoru-hetutā\ndāsādi-van-mano-jñatva-līlāder na tathā matā"
+		},
+		{
+			"type": "normal",
+			"content": "When śānta-rati (neutral attraction) is continuously existent and mixed with ecstatic emotion, and when the devotee relishes that neutral position, it is called śānta-bhakti-rasa. Sānta-bhakti-rasa devotees generally relish the impersonal feature of the Supreme Personality of Godhead. Since their taste of transcendental bliss is incomplete, it is called aghana, or not concentrated. A comparison is made between ordinary milk and concentrated milk. When the same devotee goes beyond the impersonal and tastes the service of the Supreme Personality of Godhead in His original form as sac-cid-ānanda-vigraha, the taste is called concentrated (ghana) transcendental bliss. Sometimes the devotees in the śānta-rasa relish transcendental bliss after meeting the Supreme Personality of Godhead, but this is not comparable to the transcendental bliss relished by the devotees situated in dāsya-rasa, the transcendental mellow in which one renders service to the Supreme Personality of Godhead."
+		},
+		{
+			"type": "verse",
+			"content": "Dāsya-rasa, or dāsya-bhakti-rasa, is described in the Bhakti-rasāmṛta-sindhu (3.2.4,5) as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "ātmocitair vibhāvādyaiḥ\nprītir āsvādanīyatām\nnītā cetasi bhaktānāṁ\nprīti-bhakti-raso mataḥ"
+		},
+		{
+			"type": "normal",
+			"content": "anugrāhyasya dāsatvāl\nlālyatvād apy ayaṁ dvidhā\nbhidyate sambhrama-prīto\ngaurava-prīta ity api"
+		},
+		{
+			"type": "normal",
+			"content": "When according to the desires of the spirit soul the living entity develops love for the Supreme Personality of Godhead, this beginning of love is called dāsya-bhakti-rasa. Dāsya-bhakti-rasa is divided into two categories called sambhrama-dāsya and gaurava-dāsya. In the sambhrama-dāsya, the devotee renders respectful service to the Supreme Personality of Godhead, but in the more advanced gaurava-dāsya, his service takes the form of giving protection to the Lord."
+		},
+		{
+			"type": "verse",
+			"content": "Sakhya-bhakti-rasa is described as follows in Bhakti-rasāmṛta-sindhu (3.3.1):"
+		},
+		{
+			"type": "normal",
+			"content": "sthāyibhāvo vibhāvādyaiḥ\nsakhyam ātmocitair iha\nnītaś citte satāṁ puṣṭiṁ\nrasaḥ preyānudīryate"
+		},
+		{
+			"type": "normal",
+			"content": "\"According to one's original consciousness, ecstatic emotions are exhibited as continuously existing in eternity. When this stage of Kṛṣṇa consciousness is mature, it is called preyo-rasa or sakhya-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Vātsalya-bhakti-rasa is described in the Bhakti-rasāmṛta-sindhu (3.4.1) as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "vibhāvādyais tu vātsalyaṁ\nsthāyī puṣṭim upāgataḥ\neṣa vatsala-nāmātra\nprokto bhakti-raso budhaiḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"When eternally existing love of Godhead transforms into paternal love and is mixed with corresponding emotions, that stage of spiritual existence is described by learned devotees as vātsalya-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Madhura-bhakti-rasa is described in the Bhakti-rasāmṛta-sindhu (3.5.1) as follows:"
+		},
+		{
+			"type": "normal",
+			"content": "ātmocitair vibhāvādyaiḥ\npuṣṭiṁ nītā satāṁ hṛdi\nmadhurākhyo bhaved bhaktir\naso 'sau madhurā ratiḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"If in accordance with one's own natural development in Kṛṣṇa consciousness one's attraction leans toward conjugal love within the heart, that is called attachment in conjugal love, or madhura-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, hāsya, adbhuta, vīra, karuṇa, raudra, bhaya and bībhatsa-the seven indirect mellows-are explained in the Bhakti-rasāmṛta-sindhu. The hāsya-bhakti-rasa, laughing devotion, is explained as follows (Bhakti-rasāmṛta-sindhu 4.1.6):"
+		},
+		{
+			"type": "normal",
+			"content": "vakṣyamāṇair vibhāvādyaiḥ\npuṣṭiṁ hāsa-ratir gatā\nhāsya-bhakti-raso nāma\nbudhair eṣa nigadyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"When through devotional service a laughing attachment to Kṛṣṇa is developed, it is called hāsya-bhakti-rasa by learned scholars.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, adbhuta-rasa is described in the Bhakti-rasāmṛta-sindhu (4.2.1):"
+		},
+		{
+			"type": "normal",
+			"content": "ātmocitair vibhāvādyaiḥ\nsvādyatvaṁ bhakta-cetasi\nsā vismaya-ratir nītād-\nbhuto-bhakti-raso bhavet"
+		},
+		{
+			"type": "normal",
+			"content": "\"When one's general attachment is fixed in wonder, it is called adbhuta-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Vīra-bhakti-rasa is described (Bhakti-rasāmṛta-sindhu 4.3.1):"
+		},
+		{
+			"type": "normal",
+			"content": "saivotsāha-ratiḥ sthāyī\nvibhāvādyair nijocitaḥ\nānīyamānā svādyatvaṁ\nvīra-bhakti-raso bhavet\nyuddha-dāna-dayā-dharmaiś\ncaturdhā-vīra ucyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"When attachment to Kṛṣṇa mixes with the bellicose tendency, the charitable tendency or the merciful tendency in the heart of the devotee, such devotion is called vīra-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Karuṇa-bhakti-rasa is described as follows (Bhakti-rasāmṛta-sindhu 4.4.1):"
+		},
+		{
+			"type": "normal",
+			"content": "ātmocitair vibhāvādyair\nnītā puṣṭiṁ satāṁ hṛdi\nbhavec choka-ratir bhakti-\nraso hi karuṇābhidhaḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"When one's devotional attitude and attachment for Kṛṣṇa is mixed with lamentation, it is called karuṇa-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Similarly, raudra-bhakti-rasa is described as follows (Bhakti-rasāmṛta-sindhu 4.5.1):"
+		},
+		{
+			"type": "normal",
+			"content": "nītā krodha-ratiḥ puṣṭiṁ\nvibhāvādyair nijocitaiḥ\nhṛdi bhakta-janasyāsau\nraudra-bhakti-raso bhavet"
+		},
+		{
+			"type": "normal",
+			"content": "\"When devotion is mixed with anger in the heart of the devotee, the taste is called raudra-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Bhayānaka-bhakti-rasa is described as follows (Bhakti-rasāmṛta-sindhu 4.6.1):"
+		},
+		{
+			"type": "normal",
+			"content": "vakṣyamāṇair vibhāvādyaiḥ\npuṣṭiṁ bhaya-ratir gatā\nbhayānakābhidho bhakti-\nraso dhīrair udīryate"
+		},
+		{
+			"type": "normal",
+			"content": "\"When devotion is mixed with fear, it is called bhayānaka-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "Bībhatsa-bhakti-rasa is described as follows (Bhakti-rasāmṛta-sindhu 4.7.1):"
+		},
+		{
+			"type": "normal",
+			"content": "puṣṭiṁ nija-vibhāvādyair\njugupsā-ratir āgatā\nasau bhakti-raso dhīrair\nbībhatsākhya itīryate"
+		},
+		{
+			"type": "normal",
+			"content": "\"When one's attachment for Kṛṣṇa develops in an abominable way, and the devotee enjoys it, that is called bībhatsa-bhakti-rasa.\""
+		},
+		{
+			"type": "normal",
+			"content": "In conclusion, when a pure devotee is situated in any of the five principal mellows (śānta, dāsya, sakhya, vātsalya and madhura), and the mellow is mixed with the seven indirect bhakti-rasas (hāsya, adbhuta, vīra, karuṇa, raudra, bhayānaka and bībhatsa), the indirect mellows become prominent."
+		}
+	]
 }

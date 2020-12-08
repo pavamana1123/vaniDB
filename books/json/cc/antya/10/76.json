@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\76.json",
+		"id": "cc\\antya\\10\\76",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "saba lokera uthalila ānanda-sāgara\nsaba loka pāsarila deha-ātma-ghara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "saba lokera—of every person; uthalila—overflowed; ānanda-sāgara—the ocean of transcendental bliss; saba loka—every person; pāsarila—forgot; deha—body; ātma—mind; ghara—home.",
+	"translation": "The ocean of transcendental bliss overflowed, and everyone present forgot his body, mind and home."
 }

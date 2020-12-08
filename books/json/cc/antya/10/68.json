@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\68.json",
+		"id": "cc\\antya\\10\\68",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "\"jagamohana-pari-muṇḍā yāu\"\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jagamohana—the kīrtana hall known as Jagamohana; pari—in; muṇḍā—my head; yāu—let it be offered.",
+	"translation": "\"Let my head fall at the feet of Jagannātha in the kīrtana hall known as Jagamohana.\""
 }

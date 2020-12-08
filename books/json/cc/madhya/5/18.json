@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\18.json",
+		"id": "cc\\madhya\\5\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vipra bale--tumi mora bahu sevā kailā\nsahāya hañā more tīrtha karāilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vipra bale—the elderly brāhmaṇa says; tumi—you; mora—my; bahu—various; sevā—service; kailā—have rendered; sahāya—assistant; hañā—being; more—to me; tīrtha—pilgrimage; karāilā—helped to do.",
+	"translation": "The older man told the younger, \"You have rendered various types of service to me. You have assisted me in traveling to all these places of pilgrimage."
 }

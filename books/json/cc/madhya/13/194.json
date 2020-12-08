@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\194.json",
+		"id": "cc\\madhya\\13\\194",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vāme-'vipra-śāsana' nārikela-vana\nḍāhine ta' puṣpodyāna yena vṛndāvana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vāme—on the left; vipra-śāsana—the place known as vipra-śāsana; nārikela-vana—coconut grove; ḍāhine—on the right side; ta'-indeed; puṣpa-udyāna—flower gardens; yena—as if; vṛndāvana—Vṛndāvana.",
+	"translation": "On the left side, Lord Jagannātha saw the neighborhood of brāhmaṇas known as vipra-śāsana and the coconut tree grove. On the right side, He saw nice flower gardens resembling those in the holy place Vṛndāvana.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Vipra-śāsana is a name generally used in the Orissa province for the quarters where brāhmaṇas live."
+		}
+	]
 }

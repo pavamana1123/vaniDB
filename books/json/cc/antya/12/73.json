@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\73.json",
+		"id": "cc\\antya\\12\\73",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sannyāsī mānuṣa mora, nāhi kona dhana\nki diyā tomāra ṛṇa karimu śodhana?\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sannyāsī mānuṣa—in the renounced order of life; mora—My; nāhi—there is not; kona—any; dhana—money; ki—what; diyā—giving; tomāra ṛṇa—the debt to you; karimu śodhana—shall I repay.",
+	"translation": "\"I am a mendicant and have no money. How can I clear My debt for the favor you have shown Me?"
 }

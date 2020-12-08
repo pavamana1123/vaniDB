@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\166.json",
+		"id": "cc\\antya\\3\\166",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hiraṇya, govardhana--dui mulukera majumadāra\ntāra purohita--'balarāma' nāma tāṅra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hiraṇya—Hiraṇya; govardhana—Govardhana; dui—two; mulukera—of that country; majumadāra—treasurers of the government; tāra—their; purohita—priest; balarāma—Balarāma; nāma—name; tāṅra—his.",
+	"translation": "Hiraṇya and Govardhana were the two governmental treasurers in that division of the country. Their priest was named Balarāma Ācārya.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The word majumadāra refers to a treasurer who keeps accounts of revenue."
+		}
+	]
 }

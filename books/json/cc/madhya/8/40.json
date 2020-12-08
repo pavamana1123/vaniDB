@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\40.json",
+		"id": "cc\\madhya\\8\\40",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mahad-vicalanaṁ nṛṇāṁ\ngṛhiṇāṁ dīna-cetasām\nniḥśreyasāya bhagavan\nnānyathā kalpate kvacit\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mahat-vicalanam—the wandering of saintly persons; nṛṇām—of human beings; gṛhiṇām—who are householders; dīna-cetasām—low-minded; niḥśreyasāya—for the ultimate benefit; bhagavan—O my Lord; na anyathā—not any other purpose; kalpate—one imagines; kvacit—at any time.",
+	"translation": "\" 'My dear Lord, sometimes great saintly persons go to the homes of householders, although these householders are generally low-minded. When a saintly person visits their homes, one can understand that it is for no other purpose than to benefit the householders.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from Śrīmad-Bhāgavatam (10.8.4)."
+		}
+	]
 }

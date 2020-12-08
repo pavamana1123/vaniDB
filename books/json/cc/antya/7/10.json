@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\10.json",
+		"id": "cc\\antya\\7\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yeṣāṁ saṁsmaraṇāt puṁsāṁ\nsadyaḥ śuddhyanti vai gṛhāḥ\nkiṁ punar darśana-sparśa-\npāda-śaucāsanādibhiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yeṣām—of whom; saṁsmaraṇāt-by remembrance; puṁsām-of persons; sadyaḥ-immediately; śuddhyanti-become purified; vai-certainly; gṛhāḥ-the houses; kim punaḥ-what to speak of; darśana-by seeing; sparśa-touching; pāda-śauca—washing the feet; āsana-ādibhiḥ—by offering a seat and so on.",
+	"translation": "\"One can immediately purify his entire house simply by remembering exalted personalities, to say nothing of directly seeing them, touching their lotus feet, washing their feet or offering them places to sit.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (1.19.33)."
+		}
+	]
 }

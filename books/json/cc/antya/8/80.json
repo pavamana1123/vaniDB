@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\80.json",
+		"id": "cc\\antya\\8\\80",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,18 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "pūrva-parayor madhye para-vidhir balavān\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrva-parayoḥ—the former and the latter; madhye—between; para-vidhiḥ—the latter rule; balavān—more prominent.",
+	"translation": "\"Between the former rule and the latter rule, the latter is more important.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the nyāya literatures."
+		}
+	]
 }

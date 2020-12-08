@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\131.json",
+		"id": "cc\\adi\\4\\131",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vibhur api kalayan sadābhivṛddhiṁ\ngurur api gaurava-caryayā vihīnaḥ\nmuhur upacita-vakrimāpi śuddho\njayati mura-dviṣi rādhikānurāgaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vibhuḥ—all-pervading; api—although; kalayan—making; sadā—always; abhivṛddhim—increase; guruḥ—important; api—although; gaurava-caryayā vihīnaḥ—without proud behavior; muhuḥ—again and again; upacita—increased; vakrimā—duplicity; api—although; śuddhaḥ—pure; jayati—all glories to; mura-dviṣi—for Kṛṣṇa, the enemy of the demon Mura; rādhikā—of Śrīmatī Rādhārāṇī; anurāgaḥ—the love.",
+	"translation": "\"All glories to Rādhā's love for Kṛṣṇa, the enemy of the demon Mura. Although it is all-pervading, it tends to increase at every moment. Although it is important, it is devoid of pride. And although it is pure, it is always beset with duplicity.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Dāna-keli-kaumudī (2) of Śrīla Rūpa Gosvāmī."
+		}
+	]
 }

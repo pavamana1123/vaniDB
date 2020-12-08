@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\284.json",
+		"id": "cc\\madhya\\1\\284",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra ājñā lañā gelā prabhura caraṇe\ntāṅra prabhu tāṅre samarpilā svarūpera sthāne\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra—His; ājñā—order; lañā—taking; gelā—approached; prabhura—of Caitanya Mahāprabhu; caraṇe—the lotus feet; prabhu—the Lord; tāṅre—him; samarpilā—handed over; svarūpera—of Svarūpa Dāmodara; sthāne—to the place.",
+	"translation": "Later, Śrīla Raghunātha dāsa Gosvāmī left home and took shelter of Śrī Caitanya Mahāprabhu at Jagannātha Purī. At that time, the Lord received him and placed him under the care of Svarūpa Dāmodara for spiritual enlightenment.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this regard, Śrīla Raghunātha dāsa Gosvāmī writes in Vilāpa-kusumāñjali (5):"
+		},
+		{
+			"type": "normal",
+			"content": "yo māṁ dustara-geha-nirjala-mahā-kūpād apāra-klamāt\nsadyaḥ sāndra-dayāmbudhiḥ prakṛtitaḥ svairīkṛpā-rajjubhiḥ\nuddhṛtyātma-saroja-nindi-caraṇa-prāntaṁ prapadya svayaṁ\nśrī-dāmodara-sac cakāra tam ahaṁ caitanya-candraṁ bhaje"
+		},
+		{
+			"type": "normal",
+			"content": "\"Let me offer my respectful obeisances unto the lotus feet of Śrī Caitanya Mahāprabhu, who, by His unreserved mercy, kindly saved me from household life, which is exactly like a blind well without water, and placed me in the ocean of transcendental joy under the care of Svarūpa Dāmodara Gosvāmī.\""
+		}
+	]
 }

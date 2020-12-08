@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\53.json",
+		"id": "cc\\antya\\13\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"kāhāṅ pāilā tumi ei rātula vasana?\"\n'mukunda-sarasvatī' dila,--kahe sanātana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāhāṅ—where; pāilā—did get; tumi—you; ei—this; rātula vasana—red cloth; mukunda-sarasvatī dila—Mukunda Sarasvatī gave; kahe sanātana—Sanātana replied.",
+	"translation": "\"Where did you get that reddish cloth on your head?\" Jagadānanda asked. Sanātana Gosvāmī replied, \"Mukunda Sarasvatī gave it to me.\""
 }

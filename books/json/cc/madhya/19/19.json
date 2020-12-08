@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\19.json",
+		"id": "cc\\madhya\\19\\19",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pātsāha dekhiyā sabe sambhrame uṭhilā\nsambhrame āsana diyā rājāre vasāilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pātsāha dekhiyā—seeing the Nawab; sabe—all of them; sambhrame—in great respect; uṭhilā—stood up; sambhrame—with great respect; āsana diyā—giving a sitting place; rājāre—the King; vasāilā—made to sit.",
+	"translation": "As soon as all the brāhmaṇas and Sanātana Gosvāmī saw the Nawab appear, they all stood up and respectfully gave him a sitting place to honor him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Although Nawab Hussain Shah was a mleccha-yavana, he was nonetheless the governor of the country, and the learned scholars and Sanātana Gosvāmī offered him all the respect due a king or a governor. When a person occupies an exalted executive post, one should consider that he has acquired the grace of the Lord. In Bhagavad-gītā it is said:"
+		},
+		{
+			"type": "normal",
+			"content": "yad yad vibhūtimat sattvaṁ\nśrīmad ūrjitam eva vā\ntat tad evāvagaccha tvaṁ\nmama tejo 'ṁśa-saṁbhavam"
+		},
+		{
+			"type": "normal",
+			"content": "\"Know that all beautiful, glorious and mighty creations spring from but a spark of My splendor.\" (Bg. 10.41)"
+		},
+		{
+			"type": "normal",
+			"content": "Whenever we see something exalted, we must consider it part of the power of the Supreme Personality of Godhead. A powerful man (vibhūtimat sattvam) is one who has obtained the grace of the Lord or has derived some power from Him. In Bhagavad-gītā (7.10) Kṛṣṇa says, tejas tejasvinām aham: \"I am the power of the powerful.\" The learned brāhmaṇa scholars showed respect to Nawab Hussain Shah because he represented a fraction of Kṛṣṇa's power."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\95.json",
+		"id": "cc\\antya\\10\\95",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "govinda kahe mane--\"āmāra 'sevā' se 'niyama'\naparādha ha-uka, kibā narake gamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govinda kahe—Govinda said; mane—within his mind; āmāra sevā—my service; se niyama—that is the regulation; aparādha ha-uka—let there be offenses; kibā—or; narake—to hell; gamana—going.",
+	"translation": "Govinda mentally replied, \"My duty is to serve, even if I have to commit offenses or go to hell."
 }

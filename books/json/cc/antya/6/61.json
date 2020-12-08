@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\61.json",
+		"id": "cc\\antya\\6\\61",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāmadāsa, sundarānanda, dāsa-gadādhara\nmurāri, kamalākara, sadāśiva, purandara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāmadāsa—Rāmadāsa; sundarānanda—Sundarānanda; dāsa-gadādhara—Gadādhara dāsa; murāri—Murāri; kamalākara—Kamalākara; sadāśiva—Sadāśiva; purandara—Purandara.",
+	"translation": "Among them were Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva and Purandara."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\94.json",
+		"id": "cc\\madhya\\22\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-dharmān parityajya\nmam ekaṁ śaraṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo\nmokṣayiṣyāmi mā śucaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-dharmān—all kinds of occupational duties; parityajya—giving up; mām ekam—unto Me only; śaraṇam—as shelter; vraja—go; aham—I; tvām—unto you; sarva-pāpebhyaḥ—from all the reactions of sinful life; mokṣayiṣyāmi—will give liberation; mā—don't; śucaḥ—worry.",
+	"translation": "\" 'After giving up all kinds of religious and occupational duties, if you come to Me, the Supreme Personality of Godhead, and take shelter, I shall give you protection from all of life's sinful reactions. Do not worry.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (18.66) spoken by Lord Kṛṣṇa. For an explanation, refer to Madhya-līlā (8.63)."
+		}
+	]
 }

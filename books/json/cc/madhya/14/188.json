@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\188.json",
+		"id": "cc\\madhya\\14\\188",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "lajjā, harṣa, abhilāṣa, sambhrama, vāmya, bhaya\neta bhāva mili' rādhāya cañcala karaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "lajjā—timidity; harṣa—jubilation; abhilāṣa—ambition; sambhrama—respect; vāmya—characteristics of the left-wing gopīs; bhaya—fear; eta—these; bhāva—ecstatic symptoms; mili'-coming together; rādhāya—Śrīmatī Rādhārāṇī; cañcala karaya—agitate.",
+	"translation": "Svarūpa Dāmodara said, \"Timidity, jubilation, ambition, respect, fear and the characteristics of the left-wing gopīs were all ecstatic symptoms combined to agitate Śrīmatī Rādhārāṇī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is explained in the following verse found in the Govinda-līlāmṛta (9.11)."
+		}
+	]
 }

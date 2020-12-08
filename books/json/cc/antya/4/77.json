@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\77.json",
+		"id": "cc\\antya\\4\\77",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "parera dravya tumi kene cāha vināśite?\ndharmādharma vicāra kibā nā pāra karite?\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "parera dravya—another's property; tumi—you; kene—why; cāha—want; vināśite—to destroy; dharma-adharma—what is pious and what is impious; vicāra—consideration; kibā—why; nā—not; pāra—you can; karite—do.",
+	"translation": "\"Why should you want to destroy another's property? Can't you consider what is right and wrong?"
 }

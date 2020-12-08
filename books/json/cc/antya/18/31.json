@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\31.json",
+		"id": "cc\\antya\\18\\31",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "koṇārkera dike prabhure taraṅge lañā yāya\nkabhu ḍubāñā rākhe, kabhu bhāsāñā lañā yāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "koṇārkera dike—toward the Koṇārka temple; prabhure—Śrī Caitanya Mahāprabhu; taraṅge—the waves; lañā yāya—take away; kabhu—sometimes; ḍubāñā—causing to sink; rākhe—keep; kabhu—sometimes; bhāsāñā—floating; lañā yāya—take away.",
+	"translation": "Keeping the Lord sometimes submerged and sometimes afloat, the waves carried Him toward the Koṇārka temple.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Koṇārka, generally known as Arka-tīrtha, is a temple of Lord Sūrya, the sun-god. It is situated on the seashore, nineteen miles north of Jagannātha Purī. It was constructed of black stone in the beginning of the thirteenth century of the Śaka Era, and it shows expert craftsmanship and architecture."
+		}
+	]
 }

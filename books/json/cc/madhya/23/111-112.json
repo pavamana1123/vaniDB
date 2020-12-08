@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\111-112.json",
+		"id": "cc\\madhya\\23\\111-112",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "samaḥ śatrau ca mitre ca\ntathā mānāpamānayoḥ\nśītoṣṇa-sukha-duḥkheṣu\nsamaḥ saṅga-vivarjitaḥ",
+			"isProse": false
+		},
+		{
+			"roman": "tulya-nindā-stutir maunī\nsantuṣṭo yena kenacit\naniketaḥ sthira-matir\nbhaktimān me priyo naraḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "samaḥ—equal; śatrau—to the enemy; ca—also; mitre—to the friend; ca—and; tathā—similarly; māna-apamānayoḥ—in honor and dishonor; śīta—in winter; uṣṇa—and in scorching heat; sukha—in happiness; duḥkheṣu—and in distress; samaḥ—equipoised; saṅga-vivarjitaḥ—without affection; tulya—equal; nindā—blasphemy; stutiḥ—and praise; maunī—grave; santuṣṭaḥ—always satisfied; yena kenacit—by whatever comes; aniketaḥ—without attachment for a residence; sthira—steady; matiḥ—minded; bhaktimān—devotee; me—My; priyaḥ—dear; naraḥ—a person.",
+	"translation": "\" 'One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always grave and satisfied with anything, who doesn't care for any residence, and who is fixed in devotional service, is very dear to Me."
 }

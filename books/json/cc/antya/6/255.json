@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\255.json",
+		"id": "cc\\antya\\6\\255",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "daśa-daṇḍa rātri gele 'puṣpāñjali' dekhiyā\nsiṁha-dvāre khāḍā haya āhāra lāgiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "daśa-daṇḍa—ten daṇḍas (240 minutes); rātri—night; gele—having gone; puṣpāñjali—the puṣpāñjali performance; dekhiyā—after seeing; siṁha-dvāre—at the Siṁha-dvāra gate; khāḍā haya—stands; āhāra lāgiyā—to get some alms for eating.",
+	"translation": "\"After ten daṇḍas [four hours] of the night have passed and Raghunātha dāsa has seen the performance of puṣpāñjali, he stands at the Siṁha-dvāra gate to beg some alms to eat."
 }

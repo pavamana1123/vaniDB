@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\123.json",
+		"id": "cc\\antya\\1\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāya kahe,--\"kon grantha kara hena jāni?\nyāhāra bhitare ei siddhāntera khani?\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāya kahe—Rāmānanda Rāya inquired; kon—what; grantha—dramatic literature; kara—you are writing; hena—such; jāni—I can understand; yāhāra bhitare—within which; ei—these; siddhāntera khani—a mine of conclusive statements.",
+	"translation": "Rāmānanda Rāya inquired, \"What kind of drama are you writing? We ca understand that it is a mine of conclusive statements.\""
 }

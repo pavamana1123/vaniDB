@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\103.json",
+		"id": "cc\\adi\\2\\103",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jīva-śakti taṭasthākhya, nāhi yāra anta\nmukhya tina śakti, tāra vibheda ananta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jīva-śakti—the energy of the living entity; taṭa-stha-ākhya—known as marginal; nāhi—there is not; yāra—of which; anta—end; mukhya—principal; tina—three; śakti—energies; tāra—of them; vibheda—varieties; ananta—unlimited.",
+	"translation": "\"The marginal potency, which is between these two, consists of the numberless living beings. These are the three principal energies, which have unlimited categories and subdivisions.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The internal potency of the Lord, which is called cit-śakti or antaraṅga-śakti, exhibits variegatedness in the transcendental Vaikuṇṭha cosmos. Besides ourselves, there are unlimited numbers of liberated living beings who associate with the Personality of Godhead in His innumerable features. The material cosmos displays the external energy, in which the conditioned living beings are provided all liberty to go back to the Personality of Godhead after leaving the material tabernacle. The Śvetāśvatara Upaniṣad (6.8) informs us:"
+		},
+		{
+			"type": "normal",
+			"content": "na tasya kāryaṁ karaṇaṁ ca vidyate\nna tat-samaś cābhyadhikaś ca dṛśyate\nparāsya śaktir vividhaiva śrūyate\nsvābhāvikī jñāna-bala-kriyā ca"
+		},
+		{
+			"type": "normal",
+			"content": "\"The Supreme Lord is one without a second. He has nothing to do personally, nor does He have material senses. No one is equal to Him or greater than Him. He has unlimited, variegated potencies of different names, which exist within Him as autonomous attributes and provide Him full knowledge, power and pastimes.\""
+		}
+	]
 }

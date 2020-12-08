@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\214.json",
+		"id": "cc\\madhya\\17\\214",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vamśī-dhārī jagan-nāri-\ncitta-hārī sa śārike\nvihārī gopa-nārībhir\njīyān madana-mohanaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vaṁśī-dhārī—the carrier of the flute; jagat-nārī—of all women of the universe; citta-hārī—the stealer of the hearts; saḥ—He; śārike—my dear śārī; vihārī—enjoyer; gopa-nārībhiḥ—with the gopīs; jīyāt—let Him be glorified; madana—of Cupid; mohanaḥ—the enchanter.",
+	"translation": "The parrot then said, \"My dear śārī [female parrot], Śrī Kṛṣṇa carries a flute and enchants the hearts of all women throughout the universe. He is specifically the enjoyer of beautiful gopīs, and He is the enchanter of Cupid also. Let Him be glorified!\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is also found in the Govinda-līlāmṛta (13.31)."
+		}
+	]
 }

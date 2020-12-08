@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\230.json",
+		"id": "cc\\adi\\17\\230",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe ta' karilā saba bhakte vara dāna\nucchiṣṭa diyā nārāyaṇīra karila sammāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—thereafter; ta'-certainly; karilā—did; saba bhakte—unto all devotees; vara—benediction; dāna—charity; ucchiṣṭa—food remnants; diyā—giving; nārāyaṇīra—of Nārāyaṇī; karila—did; sammāna—respect.",
+	"translation": "Thereafter the Lord charitably bestowed His benediction upon all His devotees. He gave the remnants of His food to Nārāyaṇī, showing her special respect.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Nārāyaṇī was a niece of Śrīvāsa Ṭhākura, and later she became the mother of Śrīla Vṛndāvana dāsa Ṭhākura. In this connection the sahajiyās cite a malicious story that after eating the remnants of Lord Caitanya's food Nārāyaṇī became pregnant and gave birth to Vṛndāvana dāsa Ṭhākura. The rascal sahajiyās may manufacture such false statements, but no one should believe them because they are motivated by enmity against the Vaiṣṇavas."
+		}
+	]
 }

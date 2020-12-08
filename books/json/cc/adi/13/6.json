@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\6.json",
+		"id": "cc\\adi\\13\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei ta' kahila granthārambhe mukha-bandha\nebe kahi caitanya-līlā-krama-anubandha\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei ta'-thus; kahila—I have spoken; grantha-ārambhe—in the beginning of the book; mukha-bandha—preface; ebe—now; kahi—I speak; caitanya—of Lord Caitanya Mahāprabhu; līlā-krama—the chronological order of His pastimes; anubandha—as they are combined together.",
+	"translation": "Thus I have spoken the preface of Caitanya-caritāmṛta. Now I shall describe Caitanya Mahāprabhu's pastimes in chronological order."
 }

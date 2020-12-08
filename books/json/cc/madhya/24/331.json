@@ -1,15 +1,117 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\331.json",
+		"id": "cc\\madhya\\24\\331",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mantra-adhikārī, mantra-siddhy-ādi-śodhana\ndīkṣā, prātaḥ-smṛti-kṛtya, śauca, ācamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mantra-adhikārī—qualification for receiving mantra initiation; mantra-siddhi-ādi—the perfection of the mantra and so on; śodhana—purification; dīkṣā—initiation; prātaḥ-smṛti-kṛtya—morning duties and remembrance of the Supreme Lord; śauca—cleanliness; ācamana—washing the mouth and other parts of the body.",
+	"translation": "\"You should discuss the qualifications necessary for receiving a mantra, the perfection of the mantra, the purification of the mantra, initiation, morning duties, remembrance of the Supreme Lord, cleanliness, and washing the mouth and other parts of the body.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The following injunction is given in the Hari-bhakti-vilāsa (1.194):"
+		},
+		{
+			"type": "normal",
+			"content": "tāntrikeṣu ca mantreṣu\ndīkṣāyāṁ yoṣitām api\nsādhvīnām adhikāro 'sti\nśūdrādīnāṁ ca sad-dhiyām"
+		},
+		{
+			"type": "normal",
+			"content": "\"Śūdras and women who are chaste and sincerely interested in understanding the Absolute Truth are qualified to be initiated with the pāñcarātrika-mantras.\" This is also confirmed in Bhagavad-gītā (9.32):"
+		},
+		{
+			"type": "normal",
+			"content": "māṁ hi pārtha vyapāśritya\nye 'pi syuḥ pāpa-yonayaḥ\nstriyo vaiśyās tathā śūdrās\nte 'pi yānti parāṁ gatiṁ"
+		},
+		{
+			"type": "normal",
+			"content": "\"O son of Pṛthā, those who take shelter in Me, though they be of lower birth-women, vaiśyas [merchants], as well as śūdras [workers]-can approach the supreme destination.\""
+		},
+		{
+			"type": "normal",
+			"content": "If one actually wants to serve Kṛṣṇa, it doesn't matter whether one is a śūdra, vaiśya, or even a woman. If one is sincerely eager to chant the Hare Kṛṣṇa mantra or dīkṣā-mantra, he is qualified to be initiated according to the pāñcarātrika process. According to Vedic principles, only a brāhmaṇa who is fully engaged in his occupational duties can be initiated. Śūdras and women are not admitted to a vaidika initiation. Unless one is fit according to the estimation of the spiritual master, one cannot accept a mantra from the pāñcarātrika-vidhi or the vaidika-vidhi. When one is fit to accept the mantra, he is initiated by the pāñcarātrika-vidhi or the vaidika-vidhi. In any case, the result is the same."
+		},
+		{
+			"type": "normal",
+			"content": "Regarding mantra-siddhi-ādi-śodhana, the efficiency of the mantra, Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura gives sixteen divisions, which are confirmed in the Hari-bhakti-vilāsa (beginning with 1.204):"
+		},
+		{
+			"type": "normal",
+			"content": "siddha-sādhya-susiddhāri-\nkramāj jñeyo vicakṣaṇaiḥ"
+		},
+		{
+			"type": "normal",
+			"content": "These are (1) siddha, (2) sādhya, (3) susiddha and (4) ari. These four principles can be divided further: (1) siddha-siddha, (2) siddha-sādhya, (3) siddha-susiddha, (4) siddha-ari, (5) sādhya-siddha, (6) sādhya-sādhya, (7) sādhya-susiddha, (8) sādhya-ari, (9) susiddha-siddha, (10) susiddha-sādhya, (11) susiddha-susiddha, (12) susiddha-ari, (13) ari-siddha, (14) ari-sādhya, (15) ari-susiddha, and (16) ari-ari."
+		},
+		{
+			"type": "normal",
+			"content": "Those who are initiated with the eighteen-alphabet mantra do not need to consider the above-mentioned sixteen divisions. As enjoined in the Hari-bhakti-vilāsa (1.215, 219, 220):"
+		},
+		{
+			"type": "normal",
+			"content": "na cātra śātravā doṣā\nnarṇasvādi-vicāraṇā\nṛkṣarāśi-vicāro vā\nna kartavyo manau priye"
+		},
+		{
+			"type": "normal",
+			"content": "nātra cintyo 'ri-śuddhyādir\n    nāri-mitrādi-lakṣaṇam\nsiddha-sādhya-susiddhāri-\n    rūpā nātra vicāraṇā"
+		},
+		{
+			"type": "normal",
+			"content": "There is śodhana, or purification of the mantra, but there is no such consideration for the Kṛṣṇa mantra. Balitvāt kṛṣṇa-mantrāṇāṁ saṁskārāpekṣaṇaṁ na hi. \"The Kṛṣṇa mantra is so strong that there is no question of śodhana. (1.235)"
+		},
+		{
+			"type": "normal",
+			"content": "As far as dīkṣā is concerned, one should consult Madhya-līlā, Chapter Fifteen (108). On the whole, when a person is initiated according to the pāñcarātrika-vidhi, he has already attained the position of a brāhmaṇa. This is enjoined in the Hari-bhakti-vilāsa (2.12):"
+		},
+		{
+			"type": "normal",
+			"content": "yathā kāñcanatāṁ yāti\nkāṁsyaṁ rasa-vidhānataḥ\ntathā dīkṣā-vidhānena\ndvijatvaṁ jāyate nṛṇām"
+		},
+		{
+			"type": "normal",
+			"content": "\"As bell metal can be turned into gold when treated with mercury, a disciple initiated by a bona fide guru immediately attains the position of a brāhmaṇa.\""
+		},
+		{
+			"type": "normal",
+			"content": "As far as the time of dīkṣā (initiation) is concerned, everything depends on the position of the guru. As soon as a bona fide guru is received by chance or by a program, one should immediately take the opportunity to receive initiation. In the book called Tattva-sāgara, it is stated:"
+		},
+		{
+			"type": "normal",
+			"content": "durlabhe sad-gurūṇāṁ ca\nsakṛt-saṅga upasthite\ntad-anujñā yadā labdhā\nsa dīkṣāvasaro mahān"
+		},
+		{
+			"type": "normal",
+			"content": "grāme vā yadi vāraṇye\nkṣetre vā divase niśi\nāgacchati gurur daivād\nyathā dīkṣā tad-ājñayā"
+		},
+		{
+			"type": "normal",
+			"content": "yadaivecchā tadā dīkṣā\nguror ājñānurūpataḥ\nna tīrthaṁ na vrataṁ hemo\nna snānaṁ na japa-kriyā"
+		},
+		{
+			"type": "normal",
+			"content": "dīkṣāyāḥ karaṇaṁ kintu\nsvecchā-prāpte tu sad-gurau"
+		},
+		{
+			"type": "normal",
+			"content": "\"If, by chance, one gets a sad-guru, it doesn't matter whether one is in the temple or the forest. If the sad-guru, the bona fide spiritual master, agrees, one can be initiated immediately, without waiting for a suitable time or place.\""
+		},
+		{
+			"type": "normal",
+			"content": "In the early morning hours (known as brāhma-muhūrta) one should get up and immediately chant the Hare Kṛṣṇa mantra, or, at least, \"Kṛṣṇa, Kṛṣṇa, Kṛṣṇa.\" In this way, one should remember Kṛṣṇa. Some ślokas or prayers should also be chanted. By chanting, one immediately becomes auspicious and transcendental to the infection of material qualities. Actually one has to chant and remember Lord Kṛṣṇa twenty-four hours daily, or as much as possible."
+		},
+		{
+			"type": "normal",
+			"content": "smartavyaḥ satataṁ viṣṇur\nvismartavyo na jātucit\nsarve vidhi-niṣedhāḥ syur\netayor eva kiṅkarāḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"Kṛṣṇa is the origin of Lord Viṣṇu. He should always be remembered and never forgotten at any time. All the rules and prohibitions mentioned in the śāstras should be the servants of these two principles.\" This is a quotation from padma Purāṇa in the portion called Bṛhat-sahasra-nāma-stotra. prātaḥ-kṛtya means that one should evacuate regularly and then cleanse himself by taking a bath. One has to gargle (ācamana) and brush his teeth (danta-dhāvana). He should do this either with twigs or a toothbrush-whatever is available. This will purify the mouth. Then one should take his bath. Actually householders and vānaprasthas should bathe two times a day (prātar-madhyāhnayoḥ snānaṁ vānaprastha-gṛhasthayoḥ). A sannyāsī should bathe three times daily, and a brahmacārī may take only one bath a day. Whenever one is not able to bathe in water, he can bathe by chanting the Hare Kṛṣṇa mantra. One also has to perform his sandhyādi-vandana-that is, one has to chant his Gāyatrī mantra three times daily-morning, noon and evening."
+		}
+	]
 }

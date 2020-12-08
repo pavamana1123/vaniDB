@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\126.json",
+		"id": "cc\\antya\\1\\126",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vidagdha-mādhava āra lalita-mādhava\ndui nāṭake prema-rasa adabhuta saba\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vidagdha-mādhava—one is named Vidagdha-mādhava; āra—and; lalita-mādhava—named Lalita-mādhava; dui nāṭake—in two plays; prema-rasa—ecstatic mellows of emotional love for Kṛṣṇa; adabhuta—wonderful; saba—all.",
+	"translation": "\"The two plays are called Vidagdha-mādhava and Lalita-mādhava. Both of them wonderfully describe ecstatic emotional love of God.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura informs us in this connection that Śrīla Rūpa Gosvāmī composed the drama known as Vidagdha-mādhava in the year Śakābda 1454, and he finished Lalita-mādhava in Śakābda 1459. The discussion between Rāmānanda Rāya and Śrīla Rūpa Gosvāmī at Jagannātha Purī took place in Śakābda 1437."
+		}
+	]
 }

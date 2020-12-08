@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\11\\1.json",
+		"id": "cc\\antya\\11\\1",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "namāmi haridāsaṁ taṁ\ncaitanyaṁ taṁ ca tat-prabhum\nsaṁsthitām api yan-mūrtiṁ\nsvāṅke kṛtvā nanarta yaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "namāmi—I offer my respectful obeisances; haridāsam—unto Haridāsa Ṭhākura; tam—him; caitanyam—unto Lord Caitanya; tam—Him; ca—also; tat-prabhum—his master; saṁsthitām—dead; api—certainly; yat—whose; mūrtim—bodily form; sva-aṅke—on His lap; kṛtvā—keeping; nanarta—danced; yaḥ—He who.",
+	"translation": "Let me offer my respectful obeisances unto Haridāsa Ṭhākura and his master, Śrī Caitanya Mahāprabhu, who danced with the body of Haridāsa Ṭhākura on His lap."
 }

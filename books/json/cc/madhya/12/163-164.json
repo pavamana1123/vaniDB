@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\12\\163-164.json",
+		"id": "cc\\madhya\\12\\163-164",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svarūpa-gosāñi, jagadānanda, dāmodara\nkāśīśvara, gopīnātha, vāṇīnātha, śaṅkara",
+			"isProse": false
+		},
+		{
+			"roman": "pariveśana kare tāhāṅ ei sāta-jana\nmadhye madhye hari-dhvani kare bhakta-gaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svarūpa-gosāñi—Svarūpa Dāmodara Gosvāmī; jagadānanda—Jagadānanda; dāmodara—Dāmodara Paṇḍita; kāśīśvara—Kāśīśvara; gopīnātha, vāṇīnātha, śaṅkara—Gopīnātha, Vāṇīnātha and Śaṅkara; pariveśana kare—distribute; tāhāṅ—there; ei—these; sāta-jana—seven persons; madhye madhye—at intervals; hari-dhvani—resounding of the holy name of Hari; kare—do; bhakta-gaṇa—all the devotees.",
+	"translation": "Svarūpa Dāmodara Gosvāmī, Jagadānanda, Dāmodara Paṇḍita, Kāśīśvara, Gopīnātha, Vāṇīnātha and Śaṅkara distributed prasāda, and the devotees chanted the holy names at intervals."
 }

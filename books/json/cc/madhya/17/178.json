@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\178.json",
+		"id": "cc\\madhya\\17\\178",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yad yad ācarati śreṣṭhas\ntat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute\nlokas tad anuvartate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yat yat—however; ācarati—behaves; śreṣṭaḥ—the best man; tat tat—that; eva—certainly; itaraḥ—the lesser; janaḥ—men; saḥ—he; yat—which; pramāṇam—standard; kurute—shows; lokaḥ—the people; tat—that; anuvartate—follow.",
+	"translation": "\"Whatever action is performed by a great man, common men follow. And whatever standards he sets by exemplary acts, all the world pursues.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (3.21)."
+		}
+	]
 }

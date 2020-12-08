@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\51.json",
+		"id": "cc\\adi\\2\\51",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hiraṇya-garbhera ātmā garbhodaka-śāyī\nvyaṣṭi-jīva-antaryāmī kṣīrodaka-śāyī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hiraṇya-garbhera—of the total of the living entities; ātmā—the Supersoul; garbha-udaka-śāyī—Garbhodakaśāyī Viṣṇu; vyaṣṭi—the individual; jīva—of the living entity; antaḥ-yāmī—Supersoul; kṣīra-udaka-śāyī—Kṣīrodakaśāyī Viṣṇu.",
+	"translation": "\"Garbhodakaśāyī Viṣṇu is the Supersoul of the aggregate of living entities, and Kṣīrodakaśāyī Viṣṇu is the Supersoul of each individual living being."
 }

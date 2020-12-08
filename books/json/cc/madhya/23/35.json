@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\35.json",
+		"id": "cc\\madhya\\23\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "madhuraṁ madhuraṁ vapur asya vibhor\n madhuraṁ madhuraṁ vadanaṁ madhuram\nmadhu-gandhi mṛḍu-smitam etad aho\n madhuraṁ madhuraṁ madhuraṁ madhuram\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "madhuram—sweet; madhuram—sweet; vapuḥ—the transcendental form; asya—His; vibhoḥ—of the Lord; madhuram—sweet; madhuram—sweet; vadanam—face; madhuram—more sweet; madhu-gandhi—the fragrance of honey; mṛḍu-smitam—soft smiling; etat—this; aho—oh; madhuram—sweet; madhuram—sweet; madhuram—sweet; madhuram—still more sweet.",
+	"translation": "\" 'O my Lord, the transcendental body of Kṛṣṇa is very sweet, and His face is even sweeter than His body. The soft smile on His face, which is like the fragrance of honey, is sweeter still.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse quoted from Bilvamaṅgala Ṭhākura's Kṛṣṇa-karṇāmṛta (92)."
+		}
+	]
 }

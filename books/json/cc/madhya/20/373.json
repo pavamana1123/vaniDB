@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\373.json",
+		"id": "cc\\madhya\\20\\373",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jñāna-śakty-ādi-kala yā\nyatrāviṣṭo janārdanaḥ\nta āveśā nigadyante\njīvā eva mahattamāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jñāna-śakti-ādi-kalayā—by portions of the potencies of knowledge, devotional service, creation, personal service, ruling over the material world, carrying the different planets, and killing the rogues and miscreants; yatra—wherever; āviṣṭaḥ—is entered; janārdanaḥ—the Supreme Personality of Godhead, Viṣṇu; te—they; āveśāḥ—empowered; nigadyante—are called; jīvāḥ—living entities; eva—although; mahat-tamāḥ—most exalted devotees.",
+	"translation": "\" 'Whenever the Lord is present in someone by portions of His various potencies, the living entity representing the Lord is called śaktyāveśa-avatāra-that is, an incarnation invested with special power.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Laghu-bhāgavatāmṛta (1.18)."
+		}
+	]
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\256.json",
+		"id": "cc\\madhya\\8\\256",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'upāsyera madhye kon upāsya pradhāna?'\n'śreṣṭha upāsya--yugala 'rādhā-kṛṣṇa' nāma'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "upāsyera—objects of worship; madhye—among; kon—which; upāsya—worshipable object; pradhāna—the chief; śreṣṭha—the chief; upāsya—worshipable object; yugala—the couple; rādhā-kṛṣṇa nāma—the holy name of Rādhā-Kṛṣṇa, or Hare Kṛṣṇa.",
+	"translation": "Śrī Caitanya Mahāprabhu asked, \"Among all worshipable objects, which is the chief?\"\n \nRāmānanda Rāya replied, \"The chief worshipable object is the holy name of Rādhā and Kṛṣṇa, the Hare Kṛṣṇa mantra.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "According to Śrīmad-Bhāgavatam (6.3.22):"
+		},
+		{
+			"type": "normal",
+			"content": "etāvān eva loke 'smin\npuṁsāṁ dharmaḥ paraḥ smṛtaḥ\nbhakti-yogo bhagavati\ntan-nāma-grahaṇādibhiḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"In this material world the living entity's only business is to accept the path of bhakti-yoga and chant the holy name of the Lord.\""
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\13\\80.json",
+		"id": "cc\\adi\\13\\80",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "caudda-śata chaya śake śeṣa māgha māse\njagannātha-śacīra dehe kṛṣṇera praveśe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "caudda-śata—1400; chaya—6; śake—in the year of the Śaka Era; śeṣa—last; māgha—Māgha; māse—in the month; jagannātha—of Jagannātha Miśra; śacīra—and of Śacīdevī; dehe—in the bodies; kṛṣṇera—of Lord Kṛṣṇa; praveśe—by the entrance.",
+	"translation": "In the month of January in the year 1406 of the Śaka Era (A.D. 1485), Lord Kṛṣṇa entered the bodies of both Jagannātha Miśra and Śacī.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Lord Caitanya Mahāprabhu took His birth in the year 1407 Śaka Era (A.D. 1486), in the month of Phālguna. But here we see that He entered the bodies of His parents in the year 1406 in the month of Māgha. Therefore, the Lord entered the bodies of His parents thirteen full months before His birth. Generally a common child remains within the womb of his mother for ten lunar months, but here we see that the Lord remained within the body of His mother for thirteen lunar months."
+		}
+	]
 }

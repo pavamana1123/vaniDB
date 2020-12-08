@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\56.json",
+		"id": "cc\\adi\\12\\56",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-yadunandanācārya--advaitera śākhā\ntāṅra śākhā-upaśākhāra nāhi haya lekhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-yadunandana-ācārya—of the name Śrī Yadunandana Ācārya; advaitera—of Advaita Ācārya; śākhā—branch; tāṅra—his; śākhā—branches; upaśākhāra—subbranches; nāhi—not; haya—there is; lekhā—writing.",
+	"translation": "The fifth branch of Advaita Ācārya was Śrī Yadunandana Ācārya, who had so many branches and subbranches that it is impossible to write of them.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Yadunandana Ācārya was the official initiator spiritual master of Raghunātha dāsa Gosvāmī. In other words, when Raghunātha dāsa Gosvāmī was a householder, Yadunandana Ācārya initiated him at home. Later Raghunātha dāsa Gosvāmī took shelter of Śrī Caitanya Mahāprabhu at Jagannātha Purī."
+		}
+	]
 }

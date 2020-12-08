@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\41.json",
+		"id": "cc\\madhya\\5\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jñāti loka kahe,--'morā tomāke chāḍiba'\nstrī-putra kahe,--'viṣa khāiyā mariba'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jñāti loka—the relatives; kahe—answer; morā—we all; tomāke—you; chāḍiba—will give up; strī—wife; putra—sons; kahe—say; viṣa—poison; khāiyā—drinking; mariba—we shall die.",
+	"translation": "The relatives unanimously said, \"If you give your daughter to that boy, we shall give up all connection with you.\" Indeed, his wife and sons declared, \"If such a thing happens, we shall take poison and die.\""
 }

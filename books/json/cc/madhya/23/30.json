@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\23\\30.json",
+		"id": "cc\\madhya\\23\\30",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "samutkaṇṭhā haya sadā lālasā-pradhāna\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "samutkaṇṭhā—eagerness; haya—is; sadā—always; lālasā—ardent desire; pradhāna—chiefly characterized by.",
+	"translation": "\"This eagerness is chiefly characterized by an ardent desire to associate with the Lord."
 }

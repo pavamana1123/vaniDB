@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\59.json",
+		"id": "cc\\antya\\7\\59",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ihāṅi rahena sabe, vāsā--nānā-sthāne\nihāṅi pāibā tumi sabāra darśane\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ihāṅi—here; rahena sabe—all of them are living; vāsā—their residential places; nānā-sthāne—in various quarters; ihāṅi—here; pāibā—will get; tumi—you; sabāra darśane—everyone's audience.",
+	"translation": "\"At present they are all living here. Their residences are in various quarters. Here you will get the audience of them all.\""
 }

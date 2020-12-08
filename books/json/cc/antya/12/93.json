@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\93.json",
+		"id": "cc\\antya\\12\\93",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mātā kahe,--\"kata rāndhi uttama vyañjana\nnimāñi ihāṅ khāya,--icchā haya mora mana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mātā kahe—mother said; kata—how many; rāndhi—I cook; uttama vyañjana—first-class vegetables; nimāñi—Nimāi; ihāṅ—here; khāya—may eat; icchā—desire; haya—is; mora mana—my mind.",
+	"translation": "Śacīmātā said, \"I wish Nimāi would eat all the nice vegetables I cook. That is my desire."
 }

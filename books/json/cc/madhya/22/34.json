@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\34.json",
+		"id": "cc\\madhya\\22\\34",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sakṛd eva prapanno yas\ntavāsmīti ca yācate\nabhayaṁ sarvadā tasmai\ndadāmy etad vrataṁ mama\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sakṛt—once only; eva—certainly; prapannaḥ—surrendered; yaḥ—anyone who; tava—Yours; asmi—I am; iti—thus; ca—also; yācate—prays; abhayam—fearlessness; sarvadā—always; tasmai—unto him; dadāmi—I give; etat—this; vratam—vow; mama—My.",
+	"translation": "\" 'It is My vow that if one only once seriously surrenders unto Me, saying, \"My dear Lord, from this day I am Yours,\" and prays to Me for courage, I shall immediately award courage to that person, and he will always remain safe from that time on.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Rāmāyaṇa."
+		}
+	]
 }

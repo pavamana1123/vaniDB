@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\13\\33.json",
+		"id": "cc\\madhya\\13\\33",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cāri sampradāye haila cabbiśa gāyana\ndui dui mārdaṅgika haila aṣṭa jana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "cāri sampradāye—in the four parties; haila—there were; cabbiśa—twenty-four; gāyana—performers of kīrtana; dui dui—two in each party; mārdaṅgika—players of mṛdaṅga drums; haila—there were; aṣṭa jana—eight persons.",
+	"translation": "There were altogether four parties of kīrtana performers, comprising twenty-four chanters. In each party there were also two mṛdaṅga players, making an additional eight persons."
 }

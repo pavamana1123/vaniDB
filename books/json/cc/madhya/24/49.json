@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\49.json",
+		"id": "cc\\madhya\\24\\49",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "śrī-aṅga-rūpe hare gopikāra mana\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-aṅga—of His transcendental body; rūpe—by the beauty; hare—attracts; gopikāra mana—the minds of the gopīs.",
+	"translation": "\"Lord Śrī Kṛṣṇa attracts the minds of all the gopīs with His beautiful transcendental bodily features."
 }

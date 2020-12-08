@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\138.json",
+		"id": "cc\\adi\\5\\138",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vṛṣāyamāṇau nardantau\nyuyudhāte parasparam\nanukṛtya rutair jantūṁś\nceratuḥ prākṛtau yathā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vṛṣāyamāṇau—becoming like bulls; nardantau—making roaring sounds; yuyudhāte—both used to fight; parasparam—each other; anukṛtya—imitating; rutaiḥ—with cries; jantūn—the animals; ceratuḥ—used to play; prākṛtau—ordinary boys; yathā—just like.",
+	"translation": "\"Acting just like ordinary boys, They played like roaring bulls as They fought each other, and They imitated the calls of various animals.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This and the following quotation are from the Bhāgavatam (10.11.40 and 10.15.14)."
+		}
+	]
 }

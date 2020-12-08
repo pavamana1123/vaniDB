@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\18.json",
+		"id": "cc\\antya\\8\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pūrve yabe mādhavendra karena antardhāna\nrāmacandra-purī tabe āilā tāṅra sthāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pūrve—formerly; yabe—when; mādhavendra—Mādhavendra Purī; karena antardhāna—was about to die; rāmacandra-purī—Rāmacandra Purī; tabe—at that time; āilā—came; tāṅra sthāna—to his place.",
+	"translation": "Formerly, when Mādhavendra Purī was at the last stage of his life, Rāmacandra Purī came to where he was staying."
 }

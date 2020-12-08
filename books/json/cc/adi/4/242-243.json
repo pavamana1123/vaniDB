@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\242-243.json",
+		"id": "cc\\adi\\4\\242-243",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "koṭi-kāma jini' rūpa yadyapi āmāra\nasamordhva-mādhurya--sāmya nāhi yāra",
+			"isProse": false
+		},
+		{
+			"roman": "mora rūpe āpyāyita haya tribhuvana\nrādhāra darśane mora juḍāya nayana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "koṭi-kāma—ten million Cupids; jini'-conquering; rūpa—beauty; yadyapi—although; āmāra—Mine; asama-ūrdhva—unequaled and unsurpassed; mādhurya—sweetness; sāmya—equality; nāhi—there is not; yāra—of whom; mora—My; rūpe—in beauty; āpyāyita—pleased; haya—becomes; tri-bhuvana—all three worlds; rādhāra—of Śrīmatī Rādhārāṇī; darśane—seeing; mora—My; juḍāya—satisfies; nayana—eyes.",
+	"translation": "\"Although My beauty defeats the beauty of ten million Cupids, although it is unequaled and unsurpassed and although it gives pleasure to the three worlds, seeing Rādhārāṇī gives pleasure to My eyes."
 }

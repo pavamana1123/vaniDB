@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\30.json",
+		"id": "cc\\antya\\7\\30",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śuddha-bhāve sakhā kare skandhe ārohaṇa\nśuddha-bhāve vrajeśvarī karena bandhana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuddha-bhāve—in pure consciousness; sakhā—friend; kare—does; skandhe—on the shoulder; ārohaṇa—rising; śuddha-bhāve—in pure consciousness; vraja-īśvarī—the Queen of Vraja; karena bandhana—binds.",
+	"translation": "\"In pure Kṛṣṇa consciousness, a friend mounts the shoulder of Kṛṣṇa, and mother Yaśodā binds the Lord.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śuddha-bhāva, pure consciousness, is not dependent on an understanding of the Lord's opulences. Even without such opulences, the devotee in śuddha-bhāva is inclined to love Kṛṣṇa as a friend or son."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\131.json",
+		"id": "cc\\madhya\\6\\131",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sūtrera artha bhāṣya kahe prakāśiyā\ntumi, bhāṣya kaha--sūtrera artha ācchādiyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sūtrera artha—meanings of the sūtras; bhāṣya—the purport; kahe—one speaks; prakāśiyā—clearly manifesting; tumi—you; bhāṣya kaha—make a comment; sūtrera—of the sūtras; artha—the meanings; ācchādiyā—covering.",
+	"translation": "\"The meaning of the aphorisms in the Vedānta-sūtra contain clear purports in themselves, but other purports you presented simply covered the meaning of the sūtras like a cloud.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Please refer to Ādi-līlā, Seventh Chapter, verses 106-146, for an explanation of this verse."
+		}
+	]
 }

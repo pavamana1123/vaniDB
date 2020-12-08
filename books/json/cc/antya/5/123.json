@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\123.json",
+		"id": "cc\\antya\\5\\123",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"deha-dehi-vibhāgo 'yaṁ\nneśvare vidyate kvacit\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "deha—of the body; dehi—of the embodied; vibhāgaḥ—distinction; ayam—this; na—not; īśvare—in the Supreme Personality of Godhead; vidyate—exists; kvacit—at any time.",
+	"translation": "\"There is no distinction between the body and soul of the Supreme Personality of Godhead at any time.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This quotation, which is included in the Laghu-bhāgavatāmṛta (1.5.342), is from the Kūrma Purāṇa."
+		}
+	]
 }

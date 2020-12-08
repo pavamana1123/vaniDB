@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\16\\117.json",
+		"id": "cc\\antya\\16\\117",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "surata-vardhanaṁ śoka-nāśanaṁ\nsvarita-veṇunā suṣṭhu-cumbitam\nitara-rāga-vismāraṇaṁ nṛṇāṁ\nvitara vīra nas te 'dharāmṛtam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "surata-vardhanam—which increases the lusty desire for enjoyment; śoka-nāśanam—which vanquishes all lamentation; svarita-veṇunā—by the vibrating flute; suṣṭhu—nicely; cumbitam—touched; itara-rāga-vismāraṇam—which causes forgetfulness of all other attachment; nṛṇām—of the human beings; vitara—please deliver; vīra—O hero of charity; naḥ—unto us; te—Your; adhara-amṛtam—the nectar of the lips.",
+	"translation": "\"O hero of charity, please deliver unto us the nectar of Your lips. That nectar increases lusty desires for enjoyment and diminishes lamentation in the material world. Kindly give us the nectar of Your lips, which are touched by Your transcendentally vibrating flute, for that nectar makes all human beings forget all other attachments.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (10.31.14)."
+		}
+	]
 }

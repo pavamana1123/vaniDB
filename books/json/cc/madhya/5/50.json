@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\50.json",
+		"id": "cc\\madhya\\5\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'tumi more kanyā dite karyācha aṅgīkāra\nebe kichu nāhi kaha, ki tomāra vicāra'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tumi—you; more—to me; kanyā—your daughter; dite—to give in charity; karyācha—have made; aṅgīkāra—a promise; ebe—now; kichu—something; nāhi—not; kaha—you say; ki—what; tomāra—your; vicāra—conclusion.",
+	"translation": "\"You have promised to give your daughter in charity to me. Now you do not say anything. What is your conclusion?\""
 }

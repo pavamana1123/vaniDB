@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\207.json",
+		"id": "cc\\madhya\\15\\207",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "battiśā-āṭhiyā kalāra āṅgaṭiyā pāte\ntina-māna taṇḍulera ubhārila bhāte\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "battiśā-āṭhiyā—named battiśā-āṭhiyā; kalāra—of the banana tree; āṅgaṭiyā—without being divided; pāte—on a leaf; tina—three; māna—mānas (a certain weight); taṇḍulera—of rice; ubhārila—poured; bhāte—cooked rice.",
+	"translation": "First, three mānas of cooked rice-almost six pounds-was poured on a big banana leaf.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is the beginning of a description of the food prepared for Śrī Caitanya Mahāprabhu. This description is given by Kavirāja Gosvāmī, who, it is assumed, was an expert cook who knew both how to prepare and how to serve food."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\12\\57.json",
+		"id": "cc\\adi\\12\\57",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vāsudeva dattera teṅho kṛpāra bhājana\nsarva-bhāve āśriyāche caitanya-caraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vāsudeva dattera—of Vāsudeva Datta; teṅho—he was; kṛpāra—of the mercy; bhājana—competent to receive; sarva-bhāve—in all respects; āśriyāche—took shelter; caitanya-caraṇa—of the lotus feet of Lord Caitanya.",
+	"translation": "Śrī Yadunandana Ācārya was a student of Vāsudeva Datta, and he received all his mercy. Therefore he could accept Lord Caitanya's lotus feet, from all angles of vision, as the supreme shelter.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Gaura-gaṇoddeśa-dīpikā, verse 140, describes that Vāsudeva Datta was formerly Madhuvrata, a singer in Vṛndāvana."
+		}
+	]
 }

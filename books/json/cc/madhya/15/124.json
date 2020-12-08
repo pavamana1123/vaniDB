@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\124.json",
+		"id": "cc\\madhya\\15\\124",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājāra jñāna,--rāja-vaidyera ha-ila maraṇa\nāpane nāmiyā tabe karāila cetana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājāra jñāna—the King thought; rāja-vaidyera—of the royal physician; ha-ila maraṇa—there was death; āpane—personally; nāmiyā—getting down; tabe—thereupon; karāila cetana—brought him to consciousness.",
+	"translation": "\"The King, fearing that the royal physician was killed, personally descended and brought him to his consciousness."
 }

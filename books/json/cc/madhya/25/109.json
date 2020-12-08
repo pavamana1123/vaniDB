@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\109.json",
+		"id": "cc\\madhya\\25\\109",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yāvān ahaṁ yathā-bhāvo\nyad-rūpa-guṇa-karmakaḥ\ntathaiva tattva-vijñānam\nastu te mad-anugrahāt\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yāvān—as I am in My eternal form; aham—I; yathā—in whichever manner; bhāvaḥ—transcendental existence; yat—whatever; rūpa—various forms and colors; guṇa—qualities; karmakaḥ—activities; tathā eva—exactly so; tattva-vijñānam—factual realization; astu—let there be; te—your; mat—My; anugrahāt—by causeless mercy.",
+	"translation": "\" 'By My causeless mercy, be enlightened in truth about My personality, manifestations, qualities and pastimes.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (2.9.32). For an explanation see Ādi-līlā, Chapter One, texts 51-52."
+		}
+	]
 }

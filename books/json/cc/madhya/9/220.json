@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\220.json",
+		"id": "cc\\madhya\\9\\220",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ciyaḍatalā tīrthe dekhi' śrī-rāma-lakṣmaṇa\ntila-kāñcī āsi' kaila śiva daraśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ciyaḍatalā—named Ciyaḍatalā; tīrthe—at the holy place; dekhi'-seeing; śrī-rāma-lakṣmaṇa—the Deity of Lord Rāma and Lakṣmaṇa; tila-kāñcī—to Tila-kāñcī; āsi'-coming; kaila—did; śiva daraśana—visiting the temple of Lord Śiva.",
+	"translation": "After this, Śrī Caitanya Mahāprabhu went to a holy place known as Ciyaḍatalā, where He saw the Deities of the two brothers Lord Rāmacandra and Lakṣmaṇa. He then proceeded to Tila-kāñcī, where He saw the temple of Lord Śiva.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Ciyaḍatalā is sometimes known as Cheratalā. It is near the city of Kaila, and there is a temple there dedicated to Lord Śrī Rāmacandra and His brother Lakṣmaṇa. Tila-kāñcī is about thirty miles northeast of the city of Tirunelveli."
+		}
+	]
 }

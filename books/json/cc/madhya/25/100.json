@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\100.json",
+		"id": "cc\\madhya\\25\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva brahma-sūtrera bhāṣya-śrī-bhāgavata\nbhāgavata-śloka, upaniṣat kahe 'eka' mata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva—therefore; brahma-sūtrera bhāṣya—the commentary on the Brahma-sūtra codes; śrī-bhāgavata—Śrīmad-Bhāgavatam; bhāgavata-śloka—the verses in Śrīmad-Bhāgavatam; upaniṣat—the explanations in the Upaniṣads; kahe—state; eka mata—the same version.",
+	"translation": "\"That which is explained in the verses of Śrīmad-Bhāgavatam and in the Upaniṣads serves the same purpose."
 }

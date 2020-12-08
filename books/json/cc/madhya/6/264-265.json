@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\264-265.json",
+		"id": "cc\\madhya\\6\\264-265",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣṇera vigraha yei satya nāhi māne\nyei nindā-yuddhādika kare tāṅra sane",
+			"isProse": false
+		},
+		{
+			"roman": "sei duira daṇḍa haya--'brahma-sāyujya-mukti'\ntāra mukti phala nahe, yei kare bhakti\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇera—of Lord Śrī Kṛṣṇa; vigraha—the transcendental form; yei—anyone who; satya—as truth; nāhi—not; māne—accepts; yei—anyone who; nindā—blaspheming; yuddha-ādika—fighting and so forth; kare—does; tāṅra sane—with Him, Śrī Kṛṣṇa; sei—these; duira—of the two; daṇḍa haya—there is punishment; brahma-sāyujya-mukti—merging into the Brahman effulgence; tāra—of him; mukti—such liberation; phala—the result; nahe—not; yei—who; kare—executes; bhakti—devotional service.",
+	"translation": "The Bhaṭṭācārya continued, \"The impersonalists, who do not accept the transcendental form of Lord Śrī Kṛṣṇa, and the demons, who are always engaged in blaspheming and fighting with Him, are punished by being merged into the Brahman effulgence. But that does not happen to the person engaged in the devotional service of the Lord."
 }

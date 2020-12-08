@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\44.json",
+		"id": "cc\\antya\\2\\44",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-kānta āsiyā gauḍe sandeśa kahila\nśuni' bhakta-gaṇa-mane ānanda ha-ila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-kānta—Śrīkānta Sena; āsiyā—coming back; gauḍe—in Bengal; sandeśa—message; kahila—delivered; śuni'-hearing; bhakta-gaṇa-mane—in the minds of the devotees; ānanda ha-ila—there was great happiness.",
+	"translation": "When Śrīkānta Sena returned to Bengal and delivered this message, the minds of all the devotees were very pleased."
 }

@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\254.json",
+		"id": "cc\\madhya\\8\\254",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'sarva tyaji' jīvera kartavya kāhāṅ vāsa?'\n'vraja-bhūmi vṛndāvana yāhāṅ līlā-rāsa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva—everything; tyaji'-giving up; jīvera—of the living entity; kartavya—to be done; kāhāṅ—where; vāsa—residence; vraja-bhūmi—the land known as Vrajabhūmi; vṛndāvana—the holy place named Vṛndāvana; yāhāṅ—where; līlā-rāsa—Lord Kṛṣṇa performed His rāsa dance.",
+	"translation": "Śrī Caitanya Mahāprabhu asked, \"Where should the living entity live, abandoning all other places?\"\n \nRāmānanda Rāya replied, \"The holy place known as Vṛndāvana or Vrajabhūmi, where the Lord performed His rāsa dance.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "According to Śrīmad-Bhāgavatam (10.47.61):"
+		},
+		{
+			"type": "normal",
+			"content": "āsām aho caraṇa-reṇu-juṣām ahaṁ syām\nvṛndāvane kim api gulma-latauṣadhīnām\nyā dustyajaṁ sva-janam ārya-pathaṁ ca hitvā\nbhejur mukunda-padavīṁ śrutibhir vimṛgyām"
+		},
+		{
+			"type": "normal",
+			"content": "\"[Uddhava said:] 'Let me become one of Vṛndāvana's herbs and plants that are trampled by the gopīs, who gave up all connections with family and friends and decided to worship the lotus feet of Mukunda. Those lotus feet are sought by all great saintly persons expert in the study of Vedic literature.' \""
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\67.json",
+		"id": "cc\\madhya\\24\\67",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cānvācaye samāhāre\n'nyo 'nyārthe ca samuccaye\nyatnāntare tathā pāda-\npūraṇe 'py avadhāraṇe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ca—this word ca; anvācaye—in connecting one with another; samāhāre—in the sense of aggregation; anyo 'nya-arthe—to help one another in the imports; ca-the word ca; samuccaye—in aggregate understanding; yatna-antare—in another effort; tathā—as well as; pāda-pūraṇe—in completing the verse; api—also; avadhāraṇe—in the sense of certainty.",
+	"translation": "\" 'The word ca [and] is used to connect a word or sentence with a previous word or sentence, to give the sense of aggregation, to assist the meaning, to give a collective understanding, to suggest another effort or exertion, or to fulfill the meter of a verse. It is also used in the sense of certainty.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Viśva-prakāśa dictionary."
+		}
+	]
 }

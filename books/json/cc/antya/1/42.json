@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\42.json",
+		"id": "cc\\antya\\1\\42",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āmāra nāṭaka pṛthak karaha racana\n\"āmāra kṛpāte nāṭaka haibe vilakṣaṇa\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmāra nāṭaka—my drama; pṛthak karaha racana—write separately; āmāra kṛpāte—by my mercy; nāṭaka—the drama; haibe—will be; vilakṣaṇa—extraordinarily beautiful.",
+	"translation": "\"Write a separate drama about me,\" she said. \"By my mercy, it will be extraordinarily beautiful.\""
 }

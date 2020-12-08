@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\119.json",
+		"id": "cc\\antya\\3\\119",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āra dina rātri haile veśyā āila\nharidāsa tāre bahu āśvāsa karila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āra dina—the next day; rātri—night; haile—when there was; veśyā—the prostitute; āila—came; haridāsa—Haridāsa Ṭhākura; tāre—unto her; bahu—many; āśvāsa karila—gave assurances.",
+	"translation": "The next night, when the prostitute came again, Haridāsa Ṭhākura gave her many assurances."
 }

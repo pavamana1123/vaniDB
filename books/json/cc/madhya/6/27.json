@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\6\\27.json",
+		"id": "cc\\madhya\\6\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāra milane yabe āmāra haila mana\ndaive sei kṣaṇe pāiluṅ tomāra daraśana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāra—of you; milane—in meeting; yabe—when; āmāra—of me; haila—there was; mana—the mind; daive—by chance; sei kṣaṇe—at that very moment; pāiluṅ—got; tomāra—your; daraśana—meeting.",
+	"translation": "\"Just as I was thinking of meeting you, by chance we have actually met."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\189.json",
+		"id": "cc\\madhya\\24\\189",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ahaṁ sarvasya prabhavo\nmattaḥ sarvaṁ pravartate\niti matvā bhajante māṁ\nbudhā bhāva-samanvitāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aham—I, Lord Kṛṣṇa; sarvasya—of everyone; prabhavaḥ—the original source; mattaḥ—from Me; sarvam—everything; pravartate—emanates; iti—thus; matvā—understanding; bhajante—they engage in devotional service; mām—to Me; budhāḥ—those who are learned; bhāva-samanvitāḥ—with love and devotion.",
+	"translation": "\" 'I [Kṛṣṇa] am the original source of everything. Everything emanates from Me. The wise who perfectly know this engage in My service with love and devotion.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (10.8)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\10.json",
+		"id": "cc\\antya\\8\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tina-jane iṣṭha-goṣṭhī kailā kata-kṣaṇa\njagadānanda-paṇḍita tāṅre kailā nimantraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tina-jane—three persons; iṣṭha-goṣṭhī—discussion on Kṛṣṇa; kailā—performed; kata-kṣaṇa—for some time; jagadānanda-paṇḍita—Jagadānanda Paṇḍita; tāṅre—Rāmacandra Purī; kailā nimantraṇa—invited.",
+	"translation": "The three of them talked about Kṛṣṇa for some time, and then Jagadānanda came and extended an invitation to Rāmacandra Purī."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\60.json",
+		"id": "cc\\antya\\5\\60",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "teṅho kahe,--\"ye kahilā vidyānagare\nsei kathā krame tumi kahibā āmāre\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "teṅho kahe—he replied; ye—what; kahilā—you spoke; vidyā-nagare—at Vidyānagara; sei kathā—those topics; krame—according to the order; tumi—you; kahibā—please speak; āmāre—to me.",
+	"translation": "Pradyumna Miśra replied, \"Kindly tell me about the same topics you spoke about at Vidyānagara."
 }

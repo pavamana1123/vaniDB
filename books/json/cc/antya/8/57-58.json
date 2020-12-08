@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\antya\\8\\57-58.json",
+		"id": "cc\\antya\\8\\57-58",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei-dina eka-vipra kaila nimantraṇa\neka-cauṭhi bhāta, pāṅca-gaṇḍāra vyañjana",
+			"isProse": false
+		},
+		{
+			"roman": "ei-mātra govinda kaila aṅgīkāra\nmāthāya ghā māre vipra, kare hāhākāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei-dina-that day; eka-vipra-one brāhmaṇa; kaila nimantraṇa-invited; eka-cauṭhi bhāta-one-fourth of a pot of rice; pāṅca-gaṇḍāra vyañjana-vegetables worth only five gaṇḍās; ei-mātra-only this; govinda-the servant of Lord Caitanya Mahāprabhu; kaila aṅgīkāra-accepted; māthāya-his head; ghā māre-struck; vipra-the brāhmaṇa; kare hāhā-kāra-began to say, \"alas, alas.\"",
+	"translation": "That day, a brāhmaṇa extended an invitation to Śrī Caitanya Mahāprabhu. When Govinda accepted only five gaṇḍās worth of vegetables and a fourth of a pot of rice, the brāhmaṇa, in great despair, struck his head with his hand and cried, \"Alas! Alas!\""
 }

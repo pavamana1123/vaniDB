@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\48.json",
+		"id": "cc\\antya\\9\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathārtha mūlye ghoḍā laha, yebā bākī haya\nkrame krame dibe, vyartha prāṇa kene laya\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā-artha mūlye—for the proper price; ghoḍā laha—accept the horses; yebā—whatever; bākī haya—balance is due; krame krame—gradually; dibe—he will give; vyartha—unnecessarily; prāṇa—his life; kene—why; laya—are you taking.",
+	"translation": "\"It would be better to take the horses for a proper price and let him gradually repay the balance. Why are you killing him unnecessarily?\""
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\174.json",
+		"id": "cc\\antya\\3\\174",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aneka paṇḍita sabhāya, brāhmaṇa, sajjana\ndui bhāi mahā-paṇḍita--hiraṇya, govardhana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aneka paṇḍita—many learned scholars; sabhāya—in that assembly; brāhmaṇa—brāhmaṇas; sat-jana—respectable gentlemen; dui bhāi—the two brothers; mahā-paṇḍita—very learned scholars; hiraṇya—Hiraṇya; govardhana—Govardhana.",
+	"translation": "In that assembly were many learned scholars, brāhmaṇas and respectable gentlemen. The two brothers Hiraṇya and Govardhana were also greatly learned."
 }

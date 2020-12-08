@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\12.json",
+		"id": "cc\\madhya\\24\\12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"ātmā deha-mano-brahma-svabhāva-dhṛti-buddhiṣu\nprayatne ca\" iti   xxx\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ātmā—the word ātmā; deha—the body; manaḥ—the mind; brahma—the Absolute Truth; sva-bhāva—nature; dhṛti—firmness; buddhiṣu—in the sense of intelligence; prayatne—in endeavor; ca—and; iti—thus.",
+	"translation": "\" 'The following are synonyms of the word ātmā: the body, mind, Absolute Truth, natural characteristics, firmness, intelligence and endeavor.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Viśva-prakāśa dictionary."
+		}
+	]
 }

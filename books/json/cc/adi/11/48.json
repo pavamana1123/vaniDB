@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\11\\48.json",
+		"id": "cc\\adi\\11\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nakaḍi, mukunda, sūrya, mādhava, śrīdhara\nrāmānanda vasu, jagannātha, mahīdhara\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nakaḍi—of the name Nakaḍi; mukunda—of the name Mukunda; sūrya—of the name Sūrya; mādhava—of the name Mādhava; śrīdhara—of the name Śrīdhara; rāmānanda vasu—of the name Rāmānanda Vasu; jagannātha—of the name Jagannātha; mahīdhara—of the name Mahīdhara.",
+	"translation": "Among Lord Nityānanda's devotees, Nakaḍi was the thirty-seventh, Mukunda the thirty-eighth, Sūrya the thirty-ninth, Mādhava the fortieth, Śrīdhara the forty-first, Rāmānanda the forty-second, Jagannātha the forty-third and Mahīdhara the forty-fourth.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīdhara was the twelfth gopāla."
+		}
+	]
 }

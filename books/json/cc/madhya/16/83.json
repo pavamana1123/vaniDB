@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\16\\83.json",
+		"id": "cc\\madhya\\16\\83",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāra madhye ye ye varṣe āchaye viśeṣa\nvistāriyā āge tāhā kahiba niḥśeṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāra madhye—within those episodes; ye ye—whatever; varṣe—in years; āchaye—there is; viśeṣa—particular occurrence; vistāriyā—elaborating; āge—ahead; tāhā—that; kahiba—I shall say; niḥśeṣa—completely.",
+	"translation": "Whatever happened during those years that is worth noting shall be described later."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\21.json",
+		"id": "cc\\adi\\16\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhura viraha-sarpa lakṣmīre daṁśila\nviraha-sarpa-viṣe tāṅra paraloka haila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhura—of the Lord; viraha-sarpa—the separation snake; lakṣmīre—Lakṣmīdevī; daṁśila—bit; viraha-sarpa—of the separation snake; viṣe—by the poison; tāṅra—her; para-loka—next world; haila—it so happened.",
+	"translation": "The snake of separation bit Lakṣmīdevī, and its poison caused her death. Thus she passed to the next world. She went back home, back to Godhead.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in the Bhagavad-gītā (8.6), yaṁ yaṁ vāpi smaran bhāvaṁ tyajaty ante kalevaram: one's practice in thinking throughout his entire life determines the quality of his thoughts at death, and thus at death one obtains a suitable body. According to this principle, Lakṣmīdevī, the goddess of fortune from Vaikuṇṭha, who was absorbed in thought of the Lord in separation from Him, certainly went back home to Vaikuṇṭhaloka after death."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\21.json",
+		"id": "cc\\antya\\10\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "priyeṇa saṅgrathya vipakṣa-sannidhāv\nupāhitāṁ vakṣasi pīvara-stanī\nsrajaṁ na kācid vijahau jalāvilāṁ\nvasanti hi premṇi guṇā na vastuni\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "priyeṇa—by the lover; saṅgrathya—after stringing; vipakṣa-sannidhau—in the presence of an opposite party; upāhitām—placed; vakṣasi—on the chest; pīvara-stanī—having raised breasts; srajam—a garland; na—not; kācit—some beloved; vijahau—rejected; jala-āvilām—muddy; vasanti—reside; hi—because; premṇi—in love; guṇāḥ—attributes; na—not; vastuni—in the material things.",
+	"translation": "\"A dear lover strung a garland and placed it on the shoulder of his beloved in the presence of her co-wives. She had raised breasts and was very beautiful, yet although the garland was tainted with mud, she did not reject it, for its value lay not in material things but in love.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from the Kirātārjunīya by Bhāravī."
+		}
+	]
 }

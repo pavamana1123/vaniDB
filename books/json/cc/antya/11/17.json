@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\11\\17.json",
+		"id": "cc\\antya\\11\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dekhe,--haridāsa ṭhākura kariyāche śayana\nmanda manda kariteche saṅkhyā-saṅkīrtana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dekhe—he saw; haridāsa ṭhākura—Haridāsa Ṭhākura; kariyāche śayana—was lying down; manda manda—very slowly; kariteche—he was doing; saṅkhyā saṅkīrtana—chanting the fixed number of rounds.",
+	"translation": "When Govinda came to Haridāsa, he saw that Haridāsa Ṭhākura was lying on his back and chanting his rounds very slowly."
 }

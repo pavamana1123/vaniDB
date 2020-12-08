@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\76.json",
+		"id": "cc\\adi\\10\\76",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gopīnātha siṁha--eka caitanyera dāsa\nakrūra bali' prabhu yāṅre kailā parihāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gopīnātha siṁha—of the name of Gopīnātha Siṁha; eka—one; caitanyera dāsa—servant of Lord Caitanya; akrūra bali'-famous as Akrūra; prabhu—the Lord; yāṅre—whom; kaila—did; parihāsa—joking.",
+	"translation": "Gopīnātha Siṁha, the thirty-eighth branch of the tree, was a faithful servant of Lord Caitanya Mahāprabhu. The Lord jokingly addressed him as Akrūra.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Actually he was Akrūra, as stated in the Gaura-gaṇoddeśa-dīpikā, verse 117."
+		}
+	]
 }

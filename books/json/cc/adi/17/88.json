@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\88.json",
+		"id": "cc\\adi\\17\\88",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei mata bāra-māsa kīrtana-avasāne\nāmra-mahotsava prabhu kare dine dine\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei mata—in this way; bāra-māsa—for twelve months; kīrtana—chanting of the Hare Kṛṣṇa mantra; avasāne—at the end; āmra-mahā-utsava—festival of eating mangoes; prabhu—the Lord; kare—performs; dine dine—every day.",
+	"translation": "In this way the Lord Performed saṅkīrtana every day, and at the end of saṅkīrtana there was a mango-eating festival every day for twelve months.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "On principle, Lord Caitanya Mahāprabhu would distribute prasāda at the end of kīrtana performances. Similarly, the members of the Kṛṣṇa consciousness movement must distribute some prasāda to the audience after performing kīrtana."
+		}
+	]
 }

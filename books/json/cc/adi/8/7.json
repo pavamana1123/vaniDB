@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\7.json",
+		"id": "cc\\adi\\8\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei saba nā māne yebā kare kṛṣṇa-bhakti\nkṛṣṇa-kṛpā nāhi tāre, nāhi tāra gati\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—these; saba—all; nā māne—does not accept; yebā—anyone who; kare—executes; kṛṣṇa-bhakti—devotional service; kṛṣṇa-kṛpā—mercy of Kṛṣṇa; nāhi—is not; tāre—unto him; nāhi—there is not; tāra—his; gati—advancement.",
+	"translation": "One who does not accept the glories of the Pañca-tattva but still makes a show of devotional service to Kṛṣṇa can never achieve the mercy of Kṛṣṇa or advance to the ultimate goal.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "If one is seriously interested in Kṛṣṇa conscious activities, he must be ready to follow the rules and regulations laid down by the ācāryas, and he must understand their conclusions. The śāstra says: dharmasya tattvaṁ nihitaṁ guhāyāṁ mahā-jano yena gataḥ sa panthāḥ (Mahābhārata, Vana-parva 313.117). It is very difficult to understand the secret of Kṛṣṇa consciousness, but one who advances by the instruction of the previous ācāryas and follows in the footsteps of his predecessors in the line of disciplic succession will have success. Others will not. Śrīla Narottama dāsa Ṭhākura says in this connection, chāḍiyā vaiṣṇava-sevā nistāra pāyeche kebā: \"Unless one serves the spiritual master and ācāryas, one cannot be liberated.\" Elsewhere he says:"
+		},
+		{
+			"type": "normal",
+			"content": "ei chaya gosāñi yāra--mui tāra dāsa\ntāṅ' sabāra pada-reṇu mora pañca-grāsa"
+		},
+		{
+			"type": "normal",
+			"content": "\"I simply accept a person who follows in the footsteps of the six Gosvāmīs, and the dust of such a person's lotus feet is my food.\""
+		}
+	]
 }

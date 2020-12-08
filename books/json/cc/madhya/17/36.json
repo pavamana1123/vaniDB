@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\36.json",
+		"id": "cc\\madhya\\17\\36",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dhanyāḥ sma mūḍha-matayo 'pi hariṇya etā\nyā nanda-nandanam upātta-vicitra-veśam\nākarṇya veṇu-raṇitaṁ saha-kṛṣṇa-sārāḥ\npūjāṁ dadhur viracitāṁ praṇayāvalokaiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dhanyāḥ—fortunate, blessed; sma—certainly; mūḍha-matayaḥ—foolish, without good sense; api—although; hariṇyaḥ—she-deer; etāḥ—these; yāḥ—who; nanda-nandanam—the son of Mahārāja Nanda; upātta-vicitra-veśam—dressed very attractively; ākarṇya—hearing; veṇu-raṇitam—the sound of His flute; saha-kṛṣṇa-sārāḥ—accompanied by the black deer (their husbands); pūjām dadhuḥ—they worshiped; viracitām—performed; praṇaya-avalokaiḥ—by their affectionate glances.",
+	"translation": "\"Blessed are all these foolish deer because they have approached the son of Mahārāja Nanda, who is gorgeously dressed and is playing on His flute. Indeed, both the does and the bucks worship the Lord with looks of love and affection.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from Śrīmad-Bhāgavatam (10.21.11) spoken by the gopīs of Vṛndāvana."
+		}
+	]
 }

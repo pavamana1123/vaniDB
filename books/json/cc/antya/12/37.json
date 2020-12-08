@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\37.json",
+		"id": "cc\\antya\\12\\37",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "peṭāṅgi-gāya kare daṇḍavat-namaskāra\ngovinda kahe,--'śrīkānta, āge peṭāṅgi utāra'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "peṭāṅgi—shirt and coat; gāya—on the body; kare—performs; daṇḍavat-namaskāra—offering of obeisances; govinda kahe—Govinda said; śrīkānta—my dear Śrīkānta; āge—first; peṭāṅgi utāra—take off your shirt and coat.",
+	"translation": "When Śrīkānta offered obeisances to the Lord, he was still wearing his shirt and coat. Therefore Govinda told him, \"My dear Śrīkānta, first take off these garments.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "One is forbidden to enter the Deity room or offer anything to the Deity while wearing a shirt or coat. in the tantras it is said:"
+		},
+		{
+			"type": "normal",
+			"content": "vastreṇāvṛta-dehas tu\nyo naraḥ praṇamed dharim\nśvitrī bhavati mūḍhātmā\nsapta janmāni bhāvini"
+		},
+		{
+			"type": "normal",
+			"content": "\"Anyone who offers respects and obeisances to the Deity while wearing garments on the upper portion of his body is condemned to be a leper for seven births.\""
+		}
+	]
 }

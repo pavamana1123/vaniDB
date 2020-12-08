@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\100.json",
+		"id": "cc\\madhya\\5\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-sera anna rāndhi' kariha samarpaṇa\ntāhā khāñā tomāra saṅge kariba gamana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-sera—one kilogram; anna—of rice; rāndhi'-cooking; kariha—do; samarpaṇa—offering; tāhā—that; khāñā—eating; tomāra—of you; saṅge—in the company; kariba—I shall do; gamana—walking.",
+	"translation": "\"Cook one kilogram of rice daily and offer it. I shall eat that rice and follow behind you.\""
 }

@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\139.json",
+		"id": "cc\\madhya\\20\\139",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ataeva 'bhakti'--kṛṣṇa-prāptyera upāya\n'abhidheya' bali' tāre sarva-śāstre gāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ataeva-therefore; bhakti-devotional service; kṛṣṇa-prāptyera-of achieving the lotus feet of Kṛṣṇa; upāya-the only means; abhidheya-abhidheya; bali'-calling; tāre-this system; sarva-śāstre-in all revealed scriptures; gāya-is described.",
+	"translation": "\"The conclusion is that devotional service is the only means to approach the Supreme Personality of Godhead. This system is therefore called abhidheya. This is the verdict of all revealed scriptures.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in Bhagavad-gītā (18.55)."
+		},
+		{
+			"type": "normal",
+			"content": "bhaktyā mām abhijānāti\nyāvān yaś cāsmi tattvataḥ\ntato māṁ tattvato jñātvā\nviśate tad-anantaram"
+		},
+		{
+			"type": "normal",
+			"content": "\"One can understand the Supreme Personality as He is only by devotional service. And when one is in full consciousness of the Supreme Lord by such devotion, he can enter the kingdom of God.\""
+		},
+		{
+			"type": "normal",
+			"content": "The aim of life is to get rid of the material conditioning and enter into spiritual existence. Although the śāstras prescribe different methods for different men, the Supreme Personality of Godhead says that one ultimately must accept the path of devotional service as the assured path of spiritual advancement. Devotional service to the Lord is the only process actually confirmed by the Lord. Sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja (Bg. 18.66). One must become a devotee if one wants to return home, back to Godhead, and become eternally blissful."
+		}
+	]
 }

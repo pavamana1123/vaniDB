@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\1\\22.json",
+		"id": "cc\\adi\\1\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "se maṅgalācaraṇa haya tri-vidha prakāra\nvastu-nirdeśa, āśīrvāda, namaskāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "se—that; maṅgala-ācaraṇa—auspicious invocation; haya—is; tri-vidha—three kinds; prakāra—processes; vastu-nirdeśa—defining the object; āśīḥ-vāda—benedictions; namaḥ-kāra—obeisances.",
+	"translation": "The invocation involves three processes: defining the objective, offering benedictions and offering obeisances."
 }

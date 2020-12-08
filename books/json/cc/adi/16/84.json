@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\84.json",
+		"id": "cc\\adi\\16\\84",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sthūla ei pañca doṣa, pañca alaṅkāra\nsūkṣma vicāriye yadi āchaye apāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sthūla—gross; ei—these; pañca—five; doṣa—faults; pañca—five; alaṅkāra—literary ornaments; sūkṣma—in detail; vicāriye—we consider; yadi—if; āchaye—there are; apāra—unlimited.",
+	"translation": "\"I have simply discussed the five gross faults and five literary embellishments of this verse, but if we consider it in fine detail we will find unlimited faults."
 }

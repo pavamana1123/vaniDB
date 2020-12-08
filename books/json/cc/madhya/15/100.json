@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\100.json",
+		"id": "cc\\madhya\\15\\100",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"nandanandana kṛṣṇa--mora prāṇa-nātha\"\nei vākye vikāinu tāṅra vaṁśera hāta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nanda-nandana kṛṣṇa—Kṛṣṇa, the son of Nanda Mahārāja; mora prāṇa-nātha—my life and soul; ei vākye—because of this statement; vikāinu—I became sold; tāṅra—of him; vaṁśera hāta—in the hands of the descendants.",
+	"translation": "Śrī Caitanya Mahāprabhu said, \" 'Kṛṣṇa, the son of Nanda Mahārāja, is my life and soul.' By this statement I am sold into the hands of the descendants of Guṇarāja Khān.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The full verse referred to here is:"
+		},
+		{
+			"type": "normal",
+			"content": "eka-bhāve vanda hari yoḍa kari' hāta\nnandanandana kṛṣṇa--mora prāṇa-nātha"
+		},
+		{
+			"type": "normal",
+			"content": "\"With folded hands I offer my prayers unto Kṛṣṇa, the son of Nanda Mahārāja, who is my life and soul.\""
+		}
+	]
 }

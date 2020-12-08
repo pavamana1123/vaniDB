@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\10.json",
+		"id": "cc\\antya\\18\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "se saba ślokera artha, se saba 'vikāra'\nse saba varṇite grantha haya ati-vistāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "se saba—all those; ślokera—of verses; artha—meanings; se—those; saba—all; vikāra—transformations; se saba—all of them; varṇite—to describe; grantha haya—the book becomes; ati-vistāra—very, very large.",
+	"translation": "To explain fully all those verses and all the transformations that took place in the Lord's body would require a very large volume."
 }

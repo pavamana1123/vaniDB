@@ -1,15 +1,49 @@
 {
 	"info": {
-		"id": "cc\\madhya\\18\\52.json",
+		"id": "cc\\madhya\\18\\52",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'govinda' bhakta, āra vāṇī-kṛṣṇadāsa\npuṇḍarīkākṣa, īśāna, āra laghu-haridāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govinda—Govinda; bhakta—a great devotee; āra—and; vāṇī-kṛṣṇadāsa—Vāṇī Kṛṣṇadāsa; puṇḍarīkākṣa—Puṇḍarīkākṣa; īśāna—Īśāna; āra—and; laghu-haridāsa—Laghu Haridāsa.",
+	"translation": "The great devotee Govinda, Vāṇī Kṛṣṇadāsa, Puṇḍarīkākṣa, Īśāna and Laghu Haridāsa also accompanied him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Laghu Haridāsa should not be confused with Junior Haridāsa, who committed suicide at Prayāga. Generally a devotee is called Haridāsa, and consequently there are many Haridāsas. The chief was Ṭhākura Haridāsa. There was also a Madhyama Haridāsa."
+		},
+		{
+			"type": "normal",
+			"content": "In Bhakti-ratnākara (Sixth Wave), there is a list of many of the chief devotees who accompanied Śrīla Rūpa Gosvāmī."
+		},
+		{
+			"type": "normal",
+			"content": "gosvāmī gopāla-bhaṭṭa ati dayāmaya\nbhūgarbha, śrī-lokanātha--guṇera ālaya"
+		},
+		{
+			"type": "normal",
+			"content": "śrī-mādhava, śrī-paramānanda-bhaṭṭācārya\nśrī-madhu-paṇḍita--yāṅra caritra āścarya"
+		},
+		{
+			"type": "normal",
+			"content": "premī kṛṣṇadāsa kṛṣṇadāsa brahmacārī\nyādava ācārya, nārāyaṇa kṛpāvān\nśrī-puṇḍarīkākṣa-gosāñi, govinda, īśāna"
+		},
+		{
+			"type": "normal",
+			"content": "śrī-govinda vāṇī-kṛṣṇadāsa aty-udāra\nśrī-uddhava--madhye-madhye gauḍe gati yāṅra"
+		},
+		{
+			"type": "normal",
+			"content": "dvija-haridāsa kṛṣṇadāsa kavirāja\nśrī-gopāla-dāsa yāṅra alaukika kāya\nśrī-gopāla, mādhavādi yateka vaiṣṇava"
+		},
+		{
+			"type": "normal",
+			"content": "\"The following Vaiṣṇavas were present with Śrīla Rūpa Gosvāmī: the merciful Gopāla Bhaṭṭa Gosvāmī; Bhūgarbha Gosvāmī; Śrī Lokanātha dāsa Gosvāmī, a reservoir of good qualities; Śrī Mādhava; Śrī Paramānanda Bhaṭṭācārya; Śrī Madhu Paṇḍita, whose characteristics are all wonderful; Premī Kṛṣṇadāsa; Kṛṣṇadāsa Brahmacārī; Yādava Ācārya; the merciful Nārāyaṇa; Śrī Puṇḍarīkākṣa Gosvāmī; Govinda; Īśāna; Śrī Govinda; the magnanimous Vāṇī Kṛṣṇadāsa; Śrī Uddhava, who occasionally visited Bengal; Dvija Haridāsa; Kṛṣṇadāsa Kavirāja; Śrī Gopāla dāsa, whose body is completely spiritual; Śrī Gopāla; Mādhava; and many others.\""
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\19.json",
+		"id": "cc\\adi\\9\\19",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ekaika śākhāte upaśākhā śata śata\nyata upajila śākhā ke gaṇibe kata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ekaika—each branch; śākhāte—in the branch; upaśākhā—subbranches; śata śata—hundreds and hundreds; yata—all; upajila—grew; śākhā—branches; ke—who; gaṇibe—can count; kata—how much.",
+	"translation": "From each branch grew many hundreds of subbranches. No one can count how many branches thus grew."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\14.json",
+		"id": "cc\\adi\\8\\14",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yadi vā tārkika kahe,--tarka se pramāṇa\ntarka-śāstre siddha yei, sei sevyamāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yadi—if; vā—or; tārkika—logician; kahe—says; tarka—logic; se—that; pramāṇa—evidence; tarka-śāstre—in the logic; siddha—accepted; yei—whatever; sei—that; sevyamāna—is worshipable.",
+	"translation": "Logicians say, \"Unless one gains understanding through logic and argument, how can one decide upon a worshipable Deity?\""
 }

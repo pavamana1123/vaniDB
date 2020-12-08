@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\27.json",
+		"id": "cc\\antya\\18\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "candra-kāntye uchalita taraṅga ujjvala\njhalamala kare,--yena 'yamunāra jala'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "candra-kāntye—by the shining of the moon; uchalita—swollen high; taraṅga—waves; ujjvala—very bright; jhalamala kare—glitter; yena—as if; yamunāra jala—the water of the River Yamunā.",
+	"translation": "Brightened by the shining light of the moon, the high waves of the sea glittered like the waters of the River Yamunā."
 }

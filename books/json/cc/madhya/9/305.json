@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\9\\305.json",
+		"id": "cc\\madhya\\9\\305",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "brāhmaṇa-samāja saba--vaiṣṇava-carita\nvaiṣṇava sakala paḍe 'kṛṣṇa-karṇāmṛta'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brāhmaṇa-samāja—the community of brāhmaṇas; saba—all; vaiṣṇava-carita—pure devotees; vaiṣṇava sakala—all the Vaiṣṇavas; paḍe—study; kṛṣṇa-karṇāmṛta—the Kṛṣṇa-karṇāmṛta of Bilvamaṅgala Ṭhākura.",
+	"translation": "The brāhmaṇa community there was composed of pure devotees, who regularly studied a book entitled Kṛṣṇa-karṇāmṛta, which was composed by Bilvamaṅgala Ṭhākura.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This book was composed by Bilvamaṅgala Ṭhākura in 112 verses. There are two or three other books bearing the same name, and there are also two commentaries on Bilvamaṅgala's book. One commentary was written by Kṛṣṇadāsa Kavirāja Gosvāmī and the other by Caitanya dāsa Gosvāmī."
+		}
+	]
 }

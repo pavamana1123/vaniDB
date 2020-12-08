@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\40.json",
+		"id": "cc\\antya\\18\\40",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,18 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "\"aniṣṭa-śaṅkīni bandhu-hṛdayāni bhavanti hi\"\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aniṣṭa—of some mishap; śaṅkīni—possessing doubts; bandhu—of friends or relatives; hṛdayāni—hearts; bhavanti—become; hi—certainly.",
+	"translation": "\"A relative or intimate friend is always fearful of some injury to his beloved.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from the Abhijñāna-śakuntala-nāṭaka."
+		}
+	]
 }

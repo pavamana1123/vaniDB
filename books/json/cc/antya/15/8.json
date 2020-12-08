@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\15\\8.json",
+		"id": "cc\\antya\\15\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka-bāre sphure prabhura kṛṣṇera pañca-guṇa\npañca-guṇe kare pañcendriya ākarṣaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka-bāre—at one time; sphure—manifest; prabhura—of Śrī Caitanya Mahāprabhu; kṛṣṇera—of Lord Kṛṣṇa; pañca-guṇa—five attributes; pañca-guṇe—five attributes; kare—do; pañca-indriya—of the five senses; ākarṣaṇa—attraction.",
+	"translation": "When He realized Lord Jagannātha to be Kṛṣṇa Himself, Śrī Caitanya Mahāprabhu's five senses were immediately absorbed in attraction for the five attributes of Lord Kṛṣṇa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Kṛṣṇa's beauty attracted the eyes of Lord Caitanya Mahāprabhu. Kṛṣṇa's singing and the vibration of His flute attracted the Lord's ears, the transcendental fragrance of Kṛṣṇa's lotus feet attracted His nostrils, Kṛṣṇa's transcendental sweetness attracted His tongue, and Kṛṣṇa's bodily touch attracted the Lord's sensation of touch. Thus each of Śrī Caitanya Mahāprabhu's five senses was attracted by one of the five attributes of Lord Kṛṣṇa."
+		}
+	]
 }

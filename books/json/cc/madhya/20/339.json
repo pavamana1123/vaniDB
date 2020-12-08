@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\339.json",
+		"id": "cc\\madhya\\20\\339",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei mantre dvāpare kare kṛṣṇārcana\n'kṛṣṇa-nāma-saṅkīrtana'--kali-yugera dharma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei mantre—by this mantra; dvāpare—in the age of Dvāpara; kare—perform; kṛṣṇa-arcana—the worship of Lord Kṛṣṇa; kṛṣṇa-nāma-saṅkīrtana—chanting of the holy name of Lord Kṛṣṇa; kali-yugera dharma—the occupational duty in the Age of Kali.",
+	"translation": "\"By this mantra, the people worship Lord Kṛṣṇa in the Dvāpara-yuga. In the Kali-yuga the occupational duty of the people is to chant congregationally the holy name of Kṛṣṇa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in Śrīmad-Bhāgavatam (12.3.51):"
+		},
+		{
+			"type": "normal",
+			"content": "kaler doṣa-nidhe rājann\nasti hy eko mahān guṇaḥ\nkīrtanād eva kṛṣṇasya\nmukta-saṅgaḥ paraṁ vrajet"
+		},
+		{
+			"type": "normal",
+			"content": "In Kali-yuga one worships Lord Kṛṣṇa by chanting Hare Kṛṣṇa, Hare Kṛṣṇa, Kṛṣṇa Kṛṣṇa, Hare Hare Hare Rāma, Hare Rāma, Rāma Rāma, Hare Hare. To propagate this movement, Lord Kṛṣṇa personally appeared as Lord Caitanya Mahāprabhu. That is described in the following verse."
+		}
+	]
 }

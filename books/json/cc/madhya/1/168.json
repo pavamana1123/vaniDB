@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\1\\168.json",
+		"id": "cc\\madhya\\1\\168",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gauḍeśvara yavana-rājā prabhāva śuniñā\nkahite lāgila kichu vismita hañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gauḍa-īśvara—King of Bengal; yavana-rājā—Muslim king; prabhāva—influence; śuniñā—hearing; kahite—to say; lāgila—began; kichu—something; vismita—astonished; hañā—becoming.",
+	"translation": "When the Muslim King of Bengal heard of Caitanya Mahāprabhu's influence in attracting innumerable people, he became very astonished and began to speak as follows.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "At that time the Muslim king of Bengal was Nawab Hussain Shah Bādasāha."
+		}
+	]
 }

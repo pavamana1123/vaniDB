@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\16.json",
+		"id": "cc\\adi\\16\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tāṅra icchā,--prabhu-saṅge navadvīpe vasi\nprabhu ājñā dila,--tumi yāo vārāṇasī\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tāṅra icchā—his desire; prabhu-saṅge—with the Lord; navadvīpe—in Navadvīpa; vasi—I live there; prabhu ājñā dila—but the Lord advised him; tumi—you; yāo—go; vārāṇasī—to Benares.",
+	"translation": "Tapana Miśra desired to live with the Lord in Navadvīpa, but the Lord asked him to go to Vārāṇasī [Benares]."
 }

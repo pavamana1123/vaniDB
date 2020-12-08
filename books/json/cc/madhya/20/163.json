@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\163.json",
+		"id": "cc\\madhya\\20\\163",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "athavā bahunaitena\nkiṁ jñātena tavārjuna\nviṣṭabhyāham idaṁ kṛtsnam\nekāṁśena sthito jagat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "athavā—or; bahunā—much; etena—with this; kim—what use; jñātena—being known; tava—by you; arjuna—O Arjuna; viṣṭabhya—pervading; aham—I; idam—this; kṛtsnam—entire; eka-aṁśena—with one portion; sthitaḥ—situated; jagat—universe.",
+	"translation": "\" 'But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself, I pervade and support this entire universe.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Bhagavad-gītā (10.42)."
+		}
+	]
 }

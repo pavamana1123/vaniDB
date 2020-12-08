@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\252.json",
+		"id": "cc\\madhya\\8\\252",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'kāṅhāra smaraṇa jīva karibe anukṣaṇa?'\n'kṛṣṇa-nāma-guṇa-līlā--pradhāna smaraṇa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāṅhāra—of whom; smaraṇa—remembering; jīva—the living entity; karibe—should do; anukṣaṇa—constantly; kṛṣṇa-nāma—the holy name of Lord Kṛṣṇa; guṇa-līlā—His qualities and pastimes; pradhāna smaraṇa—most important remembrance.",
+	"translation": "Śrī Caitanya Mahāprabhu asked, \"What should all living entities constantly remember?\"\n \nRāmānanda Rāya replied, \"The chief objects of remembrance are always the Lord's holy name, qualities and pastimes.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīmad-Bhāgavatam (2.2.36) states:"
+		},
+		{
+			"type": "normal",
+			"content": "tasmāt sarvātmanā rājan\n hariḥ sarvatra sarvadā\nśrotavyaḥ kīrtitavyaś ca\nsmartavyo bhagavān nṛṇām"
+		},
+		{
+			"type": "normal",
+			"content": "\"[Śukadeva Gosvāmī concludes:] 'The business of the living entity is to always remember the Supreme Personality of Godhead in every circumstance. The Lord should be heard about, glorified and remembered by all human beings.' \""
+		}
+	]
 }

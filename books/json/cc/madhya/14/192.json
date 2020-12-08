@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\192.json",
+		"id": "cc\\madhya\\14\\192",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vinyāsa-bhaṅgir aṅgānāṁ\nbhrū-vilāsa-manoharā\nsukumārā bhaved yatra\nlalitaṁ tad udāhṛtam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vinyāsa—in arrangement; bhaṅgiḥ—curvature; aṅgānām—of bodily limbs; bhrū-vilāsa—due to the pastimes of the eyebrows; manoharā—very beautiful; su-kumārā—delicate; bhavet—may be; yatra—where; lalitam—lalita; tat—that; udāhṛtam—called.",
+	"translation": "\" 'When the bodily features are delicate and expertly curved, and when the eyebrows are very beautifully agitated, the ornament of charm, called lalita alaṅkāra, is manifest.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is from Ujjvala-nīlamaṇi (Anubhāva-prakaraṇa 56)."
+		}
+	]
 }

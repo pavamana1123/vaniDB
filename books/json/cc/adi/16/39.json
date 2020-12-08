@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\39.json",
+		"id": "cc\\adi\\16\\39",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka ślokera artha yadi kara nija-mukhe\nśuni' saba loka tabe pāiba baḍa-sukhe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka—one; ślokera—of a verse; artha—the meaning; yadi—if; kara—you do; nija-mukhe—by your own mouth; śuni'-hearing; saba—all; loka—persons; tabe—thereafter; pāiba—we shall get; baḍa-sukhe—with great happiness.",
+	"translation": "\"But if you explain the meaning of one verse, we can all hear it from your own mouth and thus be very happy.\""
 }

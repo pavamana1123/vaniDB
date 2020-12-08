@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\94.json",
+		"id": "cc\\antya\\2\\94",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"buddhi bhraṣṭa haila tomāra gopālera saṅge\nmāyāvāda śunibāre upajila raṅge\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "buddhi—intelligence; bhraṣṭa—lost; haila—has been; tomāra—your; gopālera saṅge—in the association of Gopāla; māyāvāda śunibāre—to hear the commentary of Māyāvāda philosophy; upajila raṅge—has awakened the propensity.",
+	"translation": "\"You have lost your intelligence in the association of Gopāla, and therefore you are eager to hear the Māyāvāda philosophy."
 }

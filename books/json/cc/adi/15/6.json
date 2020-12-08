@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\15\\6.json",
+		"id": "cc\\adi\\15\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "alpa-kāle hailā pañjī-ṭīkāte pravīṇa\ncira-kālera paḍuyā jine ha-iyā navīna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "alpa-kāle—within a very short time; hailā—became; pañjī-ṭīkāte—in the commentary on grammar named Pañjī-ṭīkā; pravīṇa—very expert; cira-kālera—all older; paḍuyā—students; jine—conquers; ha-iyā—being; navīna—their junior.",
+	"translation": "He soon became so expert in commenting on the Pañjī-ṭīkā that He could win victory over all the other students, although He was a neophyte.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrīla Bhaktivinoda Ṭhākura says there was a commentary on grammar named Pañjī-ṭīkā that was later explained very lucidly by Śrī Caitanya Mahāprabhu."
+		}
+	]
 }

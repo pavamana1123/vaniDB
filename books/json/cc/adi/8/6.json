@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\6.json",
+		"id": "cc\\adi\\8\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "e-saba nā māne yei paṇḍita sakala\ntā-sabāra vidyā-pāṭha bheka-kolāhala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "e-saba—all these; nā—does not; māne—accept; yei—anyone; paṇḍita—so-called learned; sakala—all; tā-sabāra—of all of them; vidyā-pāṭha—the educational cultivation; bheka—of frogs; kolāhala—tumultuous sound.",
+	"translation": "The education cultivated by so-called learned scholars who do not believe these statements of Śrī Caitanya-caritāmṛta is like the tumultuous croaking of frogs.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The croaking of the frogs in the rainy season resounds very loudly in the forest, with the result that snakes, hearing the croaking in the darkness, approach the frogs and swallow them. Similarly, the so-called educational vibrations of the tongues of university professors who do not have spiritual knowledge is like the croaking of frogs."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\5.json",
+		"id": "cc\\antya\\4\\5",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jhārikhaṇḍera jalera doṣe, upavāsa haite\ngātre kaṇḍu haila, rasā paḍe khājuyāite\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jhārikhaṇḍera—at the place known as Jhārikhaṇḍa; jalera—of the water; doṣe—by the fault; upavāsa haite—by fasting; gātre—on the body; kaṇḍu—itches; haila—there were; rasā—fluid; paḍe—oozes out; khājuyāite—by itching.",
+	"translation": "Because of bad water in Jhārikhaṇḍa and because of fasting, Sanātana Gosvāmī contracted a disease that made his body itch. Thus he was afflicted with itching sores from which fluid oozed."
 }

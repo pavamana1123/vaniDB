@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\62.json",
+		"id": "cc\\antya\\9\\62",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājāra ki doṣa rājā nija-dravya cāya\ndite nāre dravya, daṇḍa āmāre jānāya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājāra—of the King; ki doṣa—what is the fault; rājā—the King; nija—own; dravya—money; cāya—wants; dite nāre—they cannot give; dravya—money; daṇḍa—punishment; āmāre—to Me; jānāya—they inform.",
+	"translation": "\"What is the fault on the part of the King? He wants the government's money. However, when they are punished for failing to pay the government its due, they come to Me to release them."
 }

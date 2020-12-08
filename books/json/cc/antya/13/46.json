@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\13\\46.json",
+		"id": "cc\\antya\\13\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sanātanera gophāte duṅhe rahe eka-ṭhāñi\npaṇḍita pāka karena devālaye yāi'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sanātanera gophāte—in the cave where Sanātana Gosvāmī stayed; duṅhe—both; rahe—stay; eka-ṭhāñi—in one place; paṇḍita—Jagadānanda; pāka karena—cooks; devālaye yāi—going to a temple.",
+	"translation": "They stayed in Sanātana Gosvāmī's cave, but Jagadānanda Paṇḍita would go cook for himself at a nearby temple."
 }

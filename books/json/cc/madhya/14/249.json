@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\249.json",
+		"id": "cc\\madhya\\14\\249",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei paṭṭa-ḍorīra tumi hao yajamāna\nprati-vatsara ānibe 'ḍorī' kariyā nirmāṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei paṭṭa-ḍorīra—of these paṭṭa-ḍorīs, silken ropes; tumi—you; hao—become; yajamāna—the worshipers; prati-vatsara—every year; ānibe—you must bring; ḍorī—ropes; kariyā nirmāṇa—manufacturing.",
+	"translation": "Śrī Caitanya Mahāprabhu ordered Rāmānanda and Satyarāja Khān to become the worshipers of these ropes and every year bring silken ropes from their village.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "It is understood that silken rope was being manufactured by the local inhabitants of Kulīna-grāma; therefore Śrī Caitanya Mahāprabhu asked Rāmānanda Vasu and Satyarāja Khān to get ropes every year for Lord Jagannātha's service."
+		}
+	]
 }

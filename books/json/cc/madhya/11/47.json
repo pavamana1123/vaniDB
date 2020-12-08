@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\47.json",
+		"id": "cc\\madhya\\11\\47",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "adarśanīyān api nīca-jātīn\nsaṁvīkṣate hanta tathāpi no mām\nmad-eka-varjaṁ kṛpayiṣyatīti\nnirṇīya kiṁ so 'vatatāra devaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "adarśanīyān—upon those who are unfit to be seen; api—although; nīca-jātīn—the lower class of men; saṁvīkṣate—puts His merciful glance; hanta—alas; tathā api—still; na u—not; mām—upon me; mat—myself; eka—alone; varjam—rejecting; kṛpayiṣyati—He will bestow His mercy; iti—thus; nirṇīya—deciding; kim—whether; saḥ—Lord Śrī Caitanya Mahāprabhu; avatatāra—has descended; devaḥ—the Supreme Personality of Godhead.",
+	"translation": "\" 'Alas, has Śrī Caitanya Mahāprabhu made His advent deciding that He will deliver all others with the exception of me? He bestows His merciful glance upon many lower-class men who are usually not even to be seen.' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Śrī Caitanya-candrodaya-nāṭaka (8.28)."
+		}
+	]
 }

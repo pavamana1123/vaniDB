@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\207-209.json",
+		"id": "cc\\madhya\\19\\207-209",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sā ca mene tadātmānaṁ\nvariṣṭhāṁ sarva-yoṣitām\nhitvā gopīḥ kāmayānā\nmām asau bhajate priyaḥ",
+			"isProse": false
+		},
+		{
+			"roman": "tato gatvā vanoddeśaṁ\ndṛptā keśavam abravīt\nna pāraye 'haṁ calituṁ\nnaya māṁ yatra te manaḥ",
+			"isProse": false
+		},
+		{
+			"roman": "evam uktaḥ priyām āha\nskandham āruhyatām iti\ntataś cāntardadhe kṛṣṇaḥ\nsā vadhūr anvatapyata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sā—Śrīmatī Rādhārāṇī; ca—also; mene—considered; tadā—at that time; ātmānam—Herself; variṣṭhām—the most glorious; sarva-yoṣitām—among all the gopīs; hitvā—giving up; gopīḥ—all the other gopīs; kāmayānāḥ—who were desiring the company of Kṛṣṇa; mām—Me; asau—that Śrī Kṛṣṇa; bhajate—worships; priyaḥ—the most dear; tataḥ—thereafter; gatvā—going; vana-uddeśam—to the deep forest; dṛptā—being very proud; keśavam—unto Kṛṣṇa; abravīt—said; na pāraye—am unable; aham—I; calitum—to walk; naya—just carry; mām—Me; yatra—wherever; te—Your; manaḥ—mind; evam uktaḥ—thus being ordered by Śrīmatī Rādhārāṇī; priyām—to this most dear gopī; āha—said; skandham—My shoulders; āruhyatām—please get on; iti—thus; tataḥ—thereafter; ca—also; antardadhe—disappeared; kṛṣṇaḥ—Lord Kṛṣṇa; sā—Śrīmatī Rādhārāṇī; vadhūḥ—the gopī; anvatapyata—began to lament.",
+	"translation": "\" ' \"My dearmost Kṛṣṇa, You are worshiping Me and giving up the company of all the other gopīs who wanted to enjoy themselves with You.\" Thinking like this, Śrīmatī Rādhārāṇī considered Herself Kṛṣṇa's most beloved gopī. She had become proud and had left the rāsa-līlā with Kṛṣṇa. In the deep forest She said, \"My dear Kṛṣṇa, I cannot walk any more. You can take Me wherever You like.\" When Śrīmatī Rādhārāṇī petitioned Kṛṣṇa in this way, Kṛṣṇa said, \"Just get up upon My shoulders.\" As soon as Śrīmatī Rādhārāṇī began to do so, He disappeared. Śrīmatī Rādhārāṇī then began to grieve over Her request and Kṛṣṇa's disappearance.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "These three verses are quoted from Śrīmad-Bhāgavatam (10.30.36-38)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\183.json",
+		"id": "cc\\antya\\3\\183",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "haridāsa kahena,--\"yaiche sūryera udaya\nudaya nā haite ārambhe tamera haya kṣaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "haridāsa kahena—Haridāsa Ṭhākura began to explain; yaiche—like; sūryera udaya—sunrise; udaya nā haite—although not visible; ārambhe—from the beginning; tamera—of darkness; haya kṣaya—there is dissipation.",
+	"translation": "Haridāsa Ṭhākura said, \"As the sun begins to rise, even before visible it dissipates the darkness of night."
 }

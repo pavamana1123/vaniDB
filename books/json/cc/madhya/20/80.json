@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\80.json",
+		"id": "cc\\madhya\\20\\80",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"sanātana, tumi yāvat kāśīte rahibā\ntāvat āmāra ghare bhikṣā ye karibā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sanātana—O Sanātana; tumi—you; yāvat—as long as; kāśīte—in Benares; rahibā—will remain; tāvat—so long; āmāra—my; ghare—at the home; bhikṣā—lunch; ye—that; karibā—please accept.",
+	"translation": "The brāhmaṇa said, \"My dear Sanātana, as long as you remain at Kāśī, please accept lunch at my place.\""
 }

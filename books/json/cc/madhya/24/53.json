@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\53.json",
+		"id": "cc\\madhya\\24\\53",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "vaṁśī-gīte hare kṛṣṇa lakṣmy-ādira mana\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vaṁśī-gīte—by the vibration of His flute; hare—attracts; kṛṣṇa—Lord Kṛṣṇa; laksmī-ādira—of the goddess of fortune and others; mana—the mind.",
+	"translation": "\"Lord Kṛṣṇa even attracts the mind of the goddess of fortune simply by vibrating His transcendental flute."
 }

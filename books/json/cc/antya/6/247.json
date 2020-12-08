@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\247.json",
+		"id": "cc\\antya\\6\\247",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tomāre pāṭhāite patrī pāṭhāila more\njhāṅkarā ha-ite tomā nā pāñā gela ghare\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tomāre—you; pāṭhāite-to send back; patrī-letter; pāṭhāila more-sent to me; jhāṅkarā ha-ite—from Jhāṅkarā; tomā-you; nā pāñā-not getting; gela ghare-returned home.",
+	"translation": "\"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā.\""
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\5\\113.json",
+		"id": "cc\\antya\\5\\113",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śloka śuni' sarva-loka tāhāre vākhāne\nsvarūpa kahe,--'ei śloka karaha vyākhyāne'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śloka śuni'-hearing the verse; sarva-loka—everyone; tāhāre—him; vākhāne—praised; svarūpa kahe—Svarūpa Dāmodara Gosvāmī said; ei śloka—this verse; karaha vyākhyāne—kindly explain.",
+	"translation": "When everyone present heard the verse, they all commended the poet, but Svarūpa Dāmodara Gosvāmī requested him, \"Kindly explain this verse.\""
 }

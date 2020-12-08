@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\66.json",
+		"id": "cc\\madhya\\20\\66",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "prabhu kahe,--\"tomāra dui-bhāi prayāge mililā\nrūpa, anupama--duṅhe vṛndāvana gelā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "prabhu kahe—Śrī Caitanya Mahāprabhu said; tomāra—your; dui-bhāi—two brothers; prayāge mililā—met Me at Prayāga; rūpa—Rūpa Gosvāmī; anupama—his brother Anupama; duṅhe—both of them; vṛndāvana gelā—have gone to Vṛndāvana.",
+	"translation": "Śrī Caitanya Mahāprabhu said, \"I met your two brothers, Rūpa and Anupama, at Prayāga. They have now gone to Vṛndāvana.\""
 }

@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\85.json",
+		"id": "cc\\madhya\\24\\85",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "rāga-bhaktye vraje svayaṁ-bhagavāne pāya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāga-bhaktye—by the discharge of spontaneous devotional service; vraje—in Vṛndāvana; svayam—Himself; bhagavāne—the Supreme Personality of Godhead; pāya—one gets.",
+	"translation": "\"By executing spontaneous devotional service in Vṛndāvana, one attains the original Supreme Personality of Godhead, Kṛṣṇa."
 }

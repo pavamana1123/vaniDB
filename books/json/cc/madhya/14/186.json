@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\186.json",
+		"id": "cc\\madhya\\14\\186",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dekhite nānā-bhāva haya vilakṣaṇa\nse vailakṣaṇyera nāma 'vilāsa'-bhūṣaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dekhite—while seeing; nānā-bhāva—of various ecstasies; haya—there are; vilakṣaṇa—symptoms; se—those; vailakṣaṇyera—of different symptoms; nāma—the name; vilāsa—vilāsa; bhūṣaṇa—ornaments.",
+	"translation": "\"The symptoms of various ecstasies that become manifest at that time are called vilāsa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is described in the following verse, taken from the Ujjvala-nīlamaṇi (Anubhāva-prakaraṇa 31)."
+		}
+	]
 }

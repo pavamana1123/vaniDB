@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\186.json",
+		"id": "cc\\madhya\\19\\186",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hāsyo 'dbhutas tathā vīraḥ\nkaruṇo raudra ity api\nbhayānakaḥ sa bībhatsa\niti gauṇaś ca saptadhā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hāsyaḥ—laughter; adbhutaḥ—wonder; tathā—then; vīraḥ—chivalry; karuṇaḥ—compassion; raudraḥ—anger; iti—thus; api—also; bhayānakaḥ—fear; saḥ—that; bībhatsaḥ—disaster; iti—thus; gauṇaḥ—indirect; ca—also; sapta-dhā—seven kinds.",
+	"translation": "\"Besides the five direct mellows, there are seven indirect mellows, known as laughter, wonder, chivalry, compassion, anger, disaster and fear.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Bhakti-rasāmṛta-sindhu (2.5.116)."
+		}
+	]
 }

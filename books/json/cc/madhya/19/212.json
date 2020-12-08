@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\19\\212.json",
+		"id": "cc\\madhya\\19\\212",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śamo man-niṣṭhatā buddher\niti śrī-bhagavad-vacaḥ\ntan-niṣṭhā durghaṭā buddher\netāṁ śānta-ratiṁ vinā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śamaḥ—equality or neutrality; mat-niṣṭhatā—being fixed in My lotus feet; buddheḥ—of the intelligence; iti—thus; śrī-bhagavat-vacaḥ—words of the Supreme Personality of Godhead; tat-niṣṭhā—attachment or attraction for Him; durghaṭā—very difficult to achieve; buddheḥ—of intelligence; etām—thus; śānta-ratim—attachment on the platform of śānta-rasa; vinā—without.",
+	"translation": "\"These are the words of the Supreme Personality of Godhead: 'When one's intelligence is fully attached to My lotus feet but one does not render practical service, one has attained the stage called śānta-rati, or śama. Without śānta-rati, attachment to Kṛṣṇa is very difficult to achieve.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse is found in the Bhakti-rasāmṛta-sindhu (3.1.47)."
+		}
+	]
 }

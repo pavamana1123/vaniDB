@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\25.json",
+		"id": "cc\\madhya\\20\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śuni' sanātana tāre karilā bhartsana\n'saṅge kene āniyācha ei kāla-yama?'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuni'—hearing; sanātana—Sanātana Gosvāmī; tāre—him; karilā bhartsana—chastised; saṅge—with you; kene—why; āniyācha—have you brought; ei—this; kāla-yama—death knell.",
+	"translation": "Hearing this, Sanātana Gosvāmī chastised his servant, saying,\"Why have you brought this death knell with you?\""
 }

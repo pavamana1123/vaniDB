@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\45.json",
+		"id": "cc\\adi\\8\\45",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sūtra kari' saba līlā karila granthana\npāche vistāriyā tāhāra kaila vivaraṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sūtra kari'-making a synopsis; saba—all; līlā—pastimes; karila—did; granthana—writing in the book; pāche—later; vistāriyā—vividly describing; tāhāra—all of them; kaila—did; vivaraṇa—description.",
+	"translation": "He first summarized all the pastimes of the Lord and later described them vividly in detail."
 }

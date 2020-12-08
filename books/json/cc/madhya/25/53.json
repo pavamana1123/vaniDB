@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\53.json",
+		"id": "cc\\madhya\\25\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "chayera chaya mata vyāsa kailā āvartana\nsei saba sūtra lañā 'vedānta'-varṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "chayera—of the six philosophers; chaya mata—six different theses; vyāsa—Vyāsadeva; kailā āvartana—analyzed fully; sei—that; saba—all; sūtra—the codes; lañā—taking; vedānta-varṇana—explaining the Vedānta philosophy.",
+	"translation": "\"After studying the six philosophical theses, Vyāsadeva completely summarized them all in the codes of Vedānta philosophy."
 }

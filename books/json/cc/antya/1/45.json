@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\45.json",
+		"id": "cc\\antya\\1\\45",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhāvite bhāvite śīghra āilā nīlācale\nāsi' uttarilā haridāsa-vāsā-sthale\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhāvite bhāvite—thinking and thinking; śīghra—very soon; āilā nīlācale—reached Nīlācala (Jagannātha Purī); āsi'-coming; uttarilā—approached; haridāsa-vāsā-sthale—the place where Haridāsa Ṭhākura was residing.",
+	"translation": "Thus absorbed in thought, he quickly reached Jagannātha Purī. When he arrived, he approached the hut of Haridāsa Ṭhākura."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\6\\250.json",
+		"id": "cc\\antya\\6\\250",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "govardhanera putra teṅho, nāma--'raghunātha'\nnīlācale paricaya āche tomāra sātha?\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "govardhanera—of Govardhana; putra—the son; teṅho—he; nāma—named; raghunātha—Raghunātha dāsa; nīlācale—in Nīlācala; paricaya āche—is there acquaintance; tomāra sātha—with you.",
+	"translation": "\"That person is Raghunātha dāsa, the son of Govardhana Majumadāra. Did you meet him in Nīlācala?\""
 }

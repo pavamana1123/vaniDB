@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\3.json",
+		"id": "cc\\adi\\4\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "caturtha ślokera artha kaila vivaraṇa\npañcama ślokera artha śuna bhakta-gaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "caturtha—fourth; ślokera—of the verse; artha—the meaning; kaila—made; vivaraṇa—description; pañcama—fifth; ślokera—of the verse; artha—the meaning; śuna—please hear; bhakta-gaṇa—O devotees.",
+	"translation": "I have described the meaning of the fourth verse. Now, O devotees, kindly hear the explanation of the fifth verse."
 }

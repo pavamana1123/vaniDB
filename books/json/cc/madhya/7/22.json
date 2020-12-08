@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\7\\22.json",
+		"id": "cc\\madhya\\7\\22",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kabhu yadi iṅhāra vākya kariye anyathā\nkrodhe tina dina more nāhi kahe kathā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kabhu—sometimes; yadi—if; iṅhāra—of Jagadānanda; vākya—the words; kariye—I do; anyathā—other than; krodhe—in anger; tina dina—for three days; more—to Me; nāhi—not; kahe—speaks; kathā—words.",
+	"translation": "\"If I sometimes do something against his desire, out of anger he will not talk to Me for three days."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\23.json",
+		"id": "cc\\antya\\9\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei rāja-putra mūlya kare ghāṭāñā\ngopīnāthera krodha haila mūlya śuniyā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei-that; rāja-putra-prince; mūlya-price; kare-estimates; ghāṭāñā-reducing; gopīnāthera-of Gopīnātha; krodha haila-there was anger; mūlya śuniyā-hearing the price.",
+	"translation": "\"The prince, however, purposely gave a reduced estimate for the value of the horses. When Gopīnātha Paṭṭanāyaka heard the price quoted, he was very angry."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\4.json",
+		"id": "cc\\adi\\5\\4",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-avatārī kṛṣṇa svayaṁ bhagavān\ntāṅhāra dvitīya deha śrī-balarāma\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-avatārī—the source of all incarnations; kṛṣṇa—Lord Kṛṣṇa; svayam—personally; bhagavān—the Supreme Personality of Godhead; tāṅhāra—His; dvitīya—second; deha—expansion of the body; śrī-balarāma—Lord Balarāma.",
+	"translation": "The Supreme Personality of Godhead, Kṛṣṇa, is the fountainhead of all incarnations. Lord Balarāma is His second body.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Lord Śrī Kṛṣṇa, the absolute Personality of Godhead, is the primeval Lord, the original form of Godhead, and His first expansion is Śrī Balarāma. The Personality of Godhead can expand Himself in innumerable forms. The forms that have unlimited potency are called svāṁśa, and forms that have limited potencies (the living entities) are called vibhinnāṁśa."
+		}
+	]
 }

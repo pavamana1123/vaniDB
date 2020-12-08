@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\43.json",
+		"id": "cc\\adi\\17\\43",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe saba śiṣṭa-loka kare hāhākāra\naiche karma hethā kaila kon durācāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—thereafter; saba—all; śiṣṭa-loka—gentlemen; kare—exclaimed; hāhā-kāra—alas, alas; aiche—such; karma—activities; hethā—here; kaila—did; kon—who; durācāra—sinful person.",
+	"translation": "Then all the assembled gentlemen exclaimed, \"What is this? What is this? Who has performed such mischievous activities? Who is that sinful man?\""
 }

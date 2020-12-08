@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\17.json",
+		"id": "cc\\antya\\1\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka kukkura cale śivānanda-sane\nbhakṣya diyā lañā cale kariyā pālane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka—one; kukkura—dog; cale—goes; śivānanda-sane—with Śivānanda Sena; bhakṣya—food; diyā—giving; lañā—taking; cale—goes; kariyā pālane—maintaining the dog.",
+	"translation": "While going to Jagannātha Purī, Śivānanda Sena allowed a dog to go with him. He supplied it food to eat and maintained it."
 }

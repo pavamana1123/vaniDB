@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\163.json",
+		"id": "cc\\madhya\\22\\163",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pati-putra-suhṛd-bhrātṛ-\npitṛvan mitravad dharim\nye dhyāyanti sadodyuktās\ntebhyo 'pīha namo namaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pati—a husband; putra—a son; suhṛt—a friend; bhrātṛ—a brother; pitṛ—a father; vat—like; mitra—an intimate friend; vat—like; harim—on the Supreme Personality of Godhead; ye—all those who; dhyāyanti—meditate; sadā—always; udyuktāḥ—full of eagerness; tebhyaḥ—unto them; api—also; iha—here; namaḥ namaḥ—repeated respectful obeisances.",
+	"translation": "\" 'Let me offer my respectful obeisances again and again to those who always eagerly meditate upon the Supreme Personality of Godhead as a husband, son, friend, brother, father or intimate friend.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse appears in the Bhakti-rasāmṛta-sindhu (1.2.308)."
+		}
+	]
 }

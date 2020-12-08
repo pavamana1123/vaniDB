@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\140.json",
+		"id": "cc\\adi\\17\\140",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tarja-garja kare loka, kare kolāhala\ngauracandra-bale loka praśraya-pāgala\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tarja-garja—murmuring in anger; kare—do; loka—the people; kare—do; kolāhala—roaring; gauracandra—of Lord Śrī Caitanya Mahāprabhu; bale—by the power; loka—people; praśraya-pāgala—became mad by such indulgence.",
+	"translation": "Murmuring in anger and making a roaring sound, the people, under the protection of Lord Caitanya, became mad through such indulgence.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Kazi had issued an order not to perform kīrtana, congregational chanting of the holy name of the Lord. But when this was brought up to Lord Caitanya Mahāprabhu, He ordered civil disobedience to the Kazi's order. Lord Caitanya and all His devotees, naturally enthusiastic although agitated, must have made a great noise with their loud cries."
+		}
+	]
 }

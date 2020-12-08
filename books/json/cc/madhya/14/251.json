@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\14\\251.json",
+		"id": "cc\\madhya\\14\\251",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei paṭṭa-ḍorīte haya 'śeṣa'-adhiṣṭhāna\ndaśa-mūrti hañā yeṅho seve bhagavān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei paṭṭa-ḍorīte—in this rope; haya—there is; śeṣa-adhiṣṭhāna—the abode of Śeṣa Nāga; daśa-mūrti hañā—expanding into ten forms; yeṅho—who; seve—worships; bhagavān—the Supreme Personality of Godhead.",
+	"translation": "Śrī Caitanya Mahāprabhu then informed Rāmānanda and Satyarāja Khān that this rope was the abode of Lord Śeṣa, who expands Himself into ten forms and serves the Supreme Personality of Godhead.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "For a description of Śeṣa Nāga, refer to Ādi-līlā (5.123-124)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\1\\119.json",
+		"id": "cc\\antya\\1\\119",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bāra bāra prabhu yadi tāre ājñā dila\ntabe sei śloka rūpa-gosāñi kahila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bāra bāra—again and again; prabhu—Śrī Caitanya Mahāprabhu; yadi—when; tāre—him; ājñā dila—ordered; tabe—at that time; sei śloka—that particular verse; rūpa-gosāñi—of the name Rūpa Gosvāmī; kahila—recited.",
+	"translation": "When the Lord persisted in asking this again and again, Rūpa Gosvāmī recited that verse [as follows]."
 }

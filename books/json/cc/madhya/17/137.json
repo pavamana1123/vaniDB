@@ -1,15 +1,45 @@
 {
 	"info": {
-		"id": "cc\\madhya\\17\\137.json",
+		"id": "cc\\madhya\\17\\137",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "brahmānanda haite pūrṇānanda līlā-rasa\nbrahma-jñānī ākarṣiyā kare ātma-vaśa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "brahma-ānanda—the pleasure of self-realization; haite—from; pūrṇa-ānanda—complete pleasure; līlā-rasa—the mellows of the pastimes of the Lord; brahma-jñānī—those who are on the platform of Brahman understanding; ākarṣiyā—attracting; kare—make; ātma-vaśa—subordinate to Kṛṣṇa.",
+	"translation": "\"The mellows of Lord Kṛṣṇa's pastimes, which are full of bliss, attract the jñānī from the pleasure of Brahman realization and conquer him.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "When one understands that he belongs not to the material world but to the spiritual world, one is called liberated. Being situated in the spiritual world is certainly pleasurable, but those who realize the transcendental name, form, qualities and pastimes of Lord Kṛṣṇa enjoy transcendental bliss many times more than one who has simply realized the self. When one is situated on the platform of self-realization, he can certainly be easily attracted by Kṛṣṇa and become a servant of the Lord. This is explained in Bhagavad-gītā:"
+		},
+		{
+			"type": "normal",
+			"content": "brahma-bhūtaḥ prasannātmā\nna śocati na kāṅkṣati\nsamaḥ sarveṣu bhūteṣu\nmad-bhaktiṁ labhate parām"
+		},
+		{
+			"type": "normal",
+			"content": "\"One who is thus transcendentally situated at once realizes the Supreme Brahman and becomes joyful. He never laments or desires to have anything; he is equally disposed to every living entity. In that state he attains pure devotional service unto Me.\" (Bg. 18.54)"
+		},
+		{
+			"type": "normal",
+			"content": "When one becomes spiritually realized (brahma-bhūta), he becomes happy (prasannātmā), for he is relieved from material conceptions. One who has attained this platform is not agitated by material action and reaction. He sees everyone on the platform of spirit soul (paṇḍitāḥ sama-darśinaḥ). When one is completely realized, he can rise to the platform of pure devotional service (mad-bhaktiṁ-labhate parām). When one comes to the platform of bhakti, devotional service, he automatically realizes who Kṛṣṇa is."
+		},
+		{
+			"type": "normal",
+			"content": "bhaktyā mām abhijānāti\nyāvān yaś cāsmi tattvataḥ\ntato māṁ tattvato jñātvā\nviśate tad-anantaram"
+		},
+		{
+			"type": "normal",
+			"content": "\"One can understand the Supreme Personality as He is only by devotional service. And when one is in full consciousness of the Supreme Lord by such devotion, he can enter into the kingdom of God.\" (Bg. 18.55)"
+		},
+		{
+			"type": "normal",
+			"content": "It is only on the bhakti platform that one can understand the Supreme Personality of Godhead Kṛṣṇa and His transcendental name, form, qualities, pastimes and entourage. Being thus qualified spiritually (viśate tad-anantaram), one is allowed to enter the spiritual kingdom of God and return home, back to Godhead."
+		}
+	]
 }

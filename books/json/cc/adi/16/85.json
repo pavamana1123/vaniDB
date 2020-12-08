@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\85.json",
+		"id": "cc\\adi\\16\\85",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pratibhā, kavitva tomāra devatā-prasāde\navicāra kāvye avaśya paḍe doṣa-bādhe\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pratibhā—ingenuity; kavitva—poetic imagination; tomāra—your; devatā—of a demigod; prasāde—by the grace; avicāra—without good judgment; kāvye—in the poetry; avaśya—certainly; paḍe—there is; doṣa—fault; bādhe—obstruction.",
+	"translation": "\"You have achieved poetic imagination and ingenuity by the grace of your worshipable demigod. But poetry not well reviewed is certainly subject to criticism."
 }

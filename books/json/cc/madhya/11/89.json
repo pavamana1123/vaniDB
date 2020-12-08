@@ -1,15 +1,53 @@
 {
 	"info": {
-		"id": "cc\\madhya\\11\\89.json",
+		"id": "cc\\madhya\\11\\89",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rāghava paṇḍita, iṅha ācārya nandana\nśrīmān paṇḍita ei, śrīkānta, nārāyaṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rāghava paṇḍita—Rāghava Paṇḍita; iṅha—here; ācārya nandana—Ācārya Nandana; śrīmān paṇḍita—Śrīmān Paṇḍita; ei—this; śrīkānta—Śrīkānta; nārāyaṇa—and also Nārāyaṇa.",
+	"translation": "\"Here is Rāghava Paṇḍita, here is Ācārya Nandana, there is Śrīmān Paṇḍita, and here are Śrīkānta and Nārāyaṇa.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Narottama dāsa Ṭhākura, honoring the personal associates of Lord Śrī Caitanya Mahāprabhu, has sung as follows (Prārthanā 13):"
+		},
+		{
+			"type": "normal",
+			"content": "gaurāṅgera saṅgi-gaṇe,     nitya-siddha kari' māne\nse yāya vrajendra-suta-pāśa"
+		},
+		{
+			"type": "normal",
+			"content": "One who is intelligent understands that all the personal associates and devotees of Lord Śrī Caitanya Mahāprabhu are ever liberated. This means that they do not belong to this material world because they are always engaged in the devotional service of the Lord. One who is engaged in the Lord's devotional service twenty-four hours daily and never forgets the Lord is called nitya-siddha. Śrīla Rūpa Gosvāmī confirms this statement:"
+		},
+		{
+			"type": "normal",
+			"content": "īhā yasya harer dāsye\nkarmaṇā manasā girā\nnikhilāsv apy avasthāsu\njīvan-muktaḥ sa ucyate"
+		},
+		{
+			"type": "normal",
+			"content": "\"A person acting in the service of Kṛṣṇa with body, mind, intelligence and words is a liberated person even within the material world, although he may be engaged in many so-called material activities.\" (Bhakti-rasāmṛta-sindhu 1.2.187)"
+		},
+		{
+			"type": "normal",
+			"content": "A devotee is always thinking of how better to serve Lord Kṛṣṇa, the Supreme Personality of Godhead, and how to broadcast His name, fame and qualities throughout the world. One who is nitya-siddha has no business other than broadcasting the glories of the Lord all over the world according to his ability. Such people are already associates of Lord Caitanya Mahāprabhu. Therefore Narottama dāsa Ṭhākura says, nitya-siddha kari' māne. One should not think that because Śrī Caitanya Mahāprabhu was personally present five hundred years ago, only His associates were liberated. Rather, Śrīla Narottama dāsa Ṭhākura says that anyone is a nitya-siddha if he acts on behalf of Śrī Caitanya Mahāprabhu by spreading the glories of the holy name of the Lord. We should respect those devotees preaching the glories of the Lord as nitya-siddha and should not consider them conditioned."
+		},
+		{
+			"type": "normal",
+			"content": "māṁ ca yo 'vyabhicāreṇa\nbhakti-yogena sevate\nsa guṇān samatītyaitān\nbrahma-bhūyāya kalpate"
+		},
+		{
+			"type": "normal",
+			"content": "(Bg. 14.26)"
+		},
+		{
+			"type": "normal",
+			"content": "One who has transcended the material modes of nature is said to be on the Brahman platform. That is also the platform of nitya-siddha. The nitya-siddha not only stays on the Brahman platform but also works on that platform. Simply by accepting the associates of Lord Caitanya Mahāprabhu as nitya-siddha, one can very easily go back home, back to Godhead."
+		}
+	]
 }

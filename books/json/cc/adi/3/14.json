@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\14.json",
+		"id": "cc\\adi\\3\\14",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cira-kāla nāhi kari prema-bhakti dāna\nbhakti vinā jagatera nāhi avasthāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "cira-kāla—for a long time; nāhi kari—I have not done; prema-bhakti—loving devotional service; dāna—giving; bhakti—devotional service; vinā—without; jagatera—of the universe; nāhi—not; avasthāna—existence.",
+	"translation": "\"For a long time I have not bestowed unalloyed loving service to Me upon the inhabitants of the world. Without such loving attachment, the existence of the material world is useless.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The Lord seldom awards pure transcendental love, but without such pure love of God, freed from fruitive activities and empiric speculation, one cannot attain perfection in life."
+		}
+	]
 }

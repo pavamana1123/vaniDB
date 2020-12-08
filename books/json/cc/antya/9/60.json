@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\9\\60.json",
+		"id": "cc\\antya\\9\\60",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"ihāṅ rahite nāri, yāmu ālālanātha\nnānā upadrava ihāṅ, nā pāi soyātha\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ihāṅ rahite nāri—I cannot stay here; yāmu ālālanātha—I shall go to Ālālanātha; nānā—various; upadrava—disturbances; ihāṅ—here; nā pāi—I cannot get; soyātha—rest.",
+	"translation": "\"I cannot stay here any longer,\" the Lord said.\"I shall go to Ālālanātha. There are too many disturbances here, and I cannot get any rest."
 }

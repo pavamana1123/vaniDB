@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\4\\48.json",
+		"id": "cc\\antya\\4\\48",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "bhāla haila, tomāra ihāṅ haila āgamane\nei ghare raha ihāṅ haridāsa-sane\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhāla haila—it was very good; tomāra—your; ihāṅ—here; haila—there was; āgamane—arrival; ei ghare—in this room; raha—remain; ihāṅ—here; haridāsa-sane—with Haridāsa Ṭhākura.",
+	"translation": "\"It is very good that you have arrived here. Now stay in this room with Haridāsa Ṭhākura."
 }

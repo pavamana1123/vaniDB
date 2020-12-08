@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\74.json",
+		"id": "cc\\antya\\12\\74",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "deha-mātra dhana tomāya kailuṅ samarpaṇa\ntāhāṅ vikāi, yāhāṅ vecite tomāra mana\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "deha—body; mātra—only; dhana—asset; tomāya—unto you; kailuṅ samarpaṇa—I have dedicated; tāhāṅ—there; vikāi—I sell; yāhāṅ—where; vecite—to sell; tomāra mana—your mind.",
+	"translation": "\"I have only this body, and therefore I surrender it unto you. Now, if you wish, you may sell it anywhere you like. It is your property.\""
 }

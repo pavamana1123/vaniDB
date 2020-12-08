@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\128.json",
+		"id": "cc\\madhya\\25\\128",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "visṛjati hṛdayaṁ na yasya sākṣād\ndharir avaśābhihito 'py aghaugha-nāśaḥ\npraṇaya-rasanayā dhṛtāṅghri-padmaḥ\nsa bhavati bhāgavata-pradhāna uktaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "visṛjati—gives up; hṛdayam—the heart; na—not; yasya—whose; sākṣāt—directly; hariḥ—the Supreme Personality of Godhead; avaśa-abhihitaḥ—who is automatically glorified; api—although; aghaugha-nāśaḥ—who annihilates all kinds of inauspicious offenses for a devotee; praṇaya-rasanayā—with the rope of love; dhṛta-aṅghri-padmaḥ—whose lotus feet are bound; saḥ—such a devotee; bhavati—is; bhāgavata-pradhānaḥ—the most elevated devotee; uktaḥ—is said.",
+	"translation": "\" 'Hari, the Supreme Personality of Godhead, who destroys everything inauspicious for His devotees, does not leave the hearts of His devotees even if they remember Him and chant about Him inattentively. This is because the rope of love always binds the Lord within the devotees' hearts. Such devotees should be accepted as most elevated.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a quotation from Śrīmad-Bhāgavatam (11.2.55)."
+		}
+	]
 }

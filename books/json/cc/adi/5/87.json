@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\87.json",
+		"id": "cc\\adi\\5\\87",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "etad īśanam īśasya\nprakṛti-stho 'pi tad-guṇaiḥ\nna yujyate sadātma-sthair\nyathā buddhis tad-āśrayā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "etat—this is; īśanam—opulence; īśasya—of the Lord; prakṛti-sthaḥ—within this material world; api—although; tat-guṇaiḥ—by the material qualities; na yujyate—never affected; sadā—always; ātma-sthaiḥ—situated in His own energy; yathā—as also; buddhiḥ—intelligence; tat—His; āśrayā—devotees.",
+	"translation": "\"This is the opulence of the Lord. Although situated within the material nature, He is never affected by the modes of nature. Similarly, those who have surrendered to Him and have fixed their intelligence upon Him are not influenced by the modes of nature.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse from Śrīmad-Bhāgavatam (1.11.38)."
+		}
+	]
 }

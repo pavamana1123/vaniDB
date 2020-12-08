@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\6.json",
+		"id": "cc\\antya\\20\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sei sei bhāve nija-śloka paḍiyā\nślokera artha āsvādaye dui-bandhu lañā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sei sei bhāve—in that particular emotion; nija-śloka paḍiyā—reciting His own verses; ślokera—of the verses; artha—meaning; āsvādaye—tastes; dui-bandhu lañā—with two friends.",
+	"translation": "He would recite His own verses, expressing their meanings and emotions, and thus enjoy tasting them with these two friends."
 }

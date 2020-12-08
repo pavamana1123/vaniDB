@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\8\\34.json",
+		"id": "cc\\adi\\8\\34",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣṇa-līlā bhāgavate kahe veda-vyāsa\ncaitanya-līlāra vyāsa--vṛndāvana-dāsa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣṇa-līlā—the pastimes of Lord Kṛṣṇa; bhāgavate—in the book Śrīmad-Bhāgavatam; kahe—tells; veda-vyāsa—Vyāsadeva, the editor of the Vedic literature; caitanya-līlāra—of the pastimes of Lord Caitanya; vyāsa—compiler; vṛndāvana-dāsa—is Vṛndāvana dāsa.",
+	"translation": "As Vyāsadeva has compiled all the pastimes of Lord Kṛṣṇa in Śrīmad-Bhāgavatam, Ṭhākura Vṛndāvana dāsa has depicted the pastimes of Lord Caitanya."
 }

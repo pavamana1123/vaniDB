@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\12\\113.json",
+		"id": "cc\\antya\\12\\113",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei sukha lāgi' āmi kariluṅ sannyāsa!\nāmāra 'sarva-nāśa'--tomā-sabāra 'parihāsa'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei—this; sukha—happiness; lāgi'-for; āmi—I; kariluṅ sannyāsa—have taken to the renounced order; āmāra sarva-nāśa—My ruination; tomā-sabāra—of all of you; parihāsa—joking.",
+	"translation": "\"Have I taken sannyāsa for such happiness? Accepting this oil would bring My ruination, and all of you would laugh.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Śrī Caitanya Mahāprabhu declared Himself a strict sannyāsī. A sannyāsī is not supposed to take help from anyone. Retaining a masseur to give Him massages would indicate His dependence on others. Śrī Caitanya Mahāprabhu wanted to follow very strictly the principle of not accepting anyone's help for His bodily comfort."
+		}
+	]
 }

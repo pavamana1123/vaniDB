@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\10\\51.json",
+		"id": "cc\\antya\\10\\51",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "punaḥ ihāṅ varṇile punarukti haya\nvyartha likhana haya, āra grantha bāḍaya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "punaḥ—again; ihāṅ—here; varṇile—if I describe; punaḥ-ukti haya—it will be repetition; vyartha—useless; likhana—writing; haya—is; āra—and; grantha bāḍaya—increases the volume of the book.",
+	"translation": "There is no use describing here the activities of the Lord again. It would simply be repetitious and would increase the size of this book."
 }

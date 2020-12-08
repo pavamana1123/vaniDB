@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\9\\24.json",
+		"id": "cc\\adi\\9\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śiṣya, praśiṣya, āra upaśiṣya-gaṇa\njagat vyāpila tāra nāhika gaṇana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śiṣya—disciples; praśiṣya—granddisciples; ara—and; upaśiṣya-gaṇa—admirers; jagat—the whole world; vyāpila—spread; tāra—of that; nāhika—there is none; gaṇana—enumeration.",
+	"translation": "Thus the disciples and the granddisciples and their admirers spread throughout the entire world, and it is not possible to enumerate them all."
 }

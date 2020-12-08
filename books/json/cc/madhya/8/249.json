@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\249.json",
+		"id": "cc\\madhya\\8\\249",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'mukta-madhye kon jīva mukta kari' māni?'\n'kṛṣṇa-prema yāṅra, sei mukta-śiromaṇi'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mukta-madhye—among the liberated; kon—what; jīva—living entity; mukta—liberated; kari'-considering as; māni—We accept; kṛṣṇa-prema—one who loves Kṛṣṇa; yāṅra—of whom; sei—such a person; mukta-śiromaṇi—the topmost of all liberated souls.",
+	"translation": "Śrī Caitanya Mahāprabhu then inquired, \"Out of all liberated persons, who should be accepted as the greatest?\"\n \nRāmānanda Rāya replied, \"He who has love for Kṛṣṇa has attained the topmost liberation.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In Śrīmad-Bhāgavatam (6.14.5), it is said:"
+		},
+		{
+			"type": "normal",
+			"content": "muktānām api siddhānāṁ\nnārāyaṇa-parāyaṇaḥ\nsu-durlabhaḥ praśāntātmā\nkotiṣv api mahā-mune"
+		},
+		{
+			"type": "normal",
+			"content": "\"O great sage, of the many millions of liberated persons and of the millions who have attained perfection, he who is a devotee of Lord Nārāyaṇa is very, very rare. Indeed, he is the most perfect and peaceful person.\""
+		}
+	]
 }

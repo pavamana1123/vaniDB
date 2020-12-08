@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\2\\53.json",
+		"id": "cc\\adi\\2\\53",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "virāḍ hiraṇya-garbhaś ca\nkāraṇaṁ cety upādhayaḥ\nīśasya yat tribhir hīnaṁ\nturīyaṁ tat pracakṣate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "virāṭ—the virāṭ manifestation; hiraṇya-garbhaḥ—the hiraṇyagarbha manifestation; ca—and; kāraṇam—the kāraṇa manifestation; ca—and; iti—thus; upādhayaḥ—particular designations; īśasya—of the Lord; yat—that which; tribhiḥ—these three; hīnam—without; turīyam—the fourth; tat—that; pracakṣate—is considered.",
+	"translation": "\" 'In the material world the Lord is designated as virāṭ, hiraṇyagarbha and kāraṇa. But beyond these three designations, the Lord is ultimately in the fourth dimension.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The phenomenal manifestation of the Supreme Whole, the numinous soul of everything, and the cause or causal nature are all but designations of the puruṣas, who are responsible for material creation. The transcendental position surpasses these designations and is therefore called the position of the fourth dimension. This is a quotation from Śrīdhara Svāmī's commentary on the Eleventh Canto, Fifteenth Chapter, verse 16, of Śrīmad-Bhāgavatam."
+		}
+	]
 }

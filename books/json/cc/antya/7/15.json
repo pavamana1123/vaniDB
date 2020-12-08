@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\7\\15.json",
+		"id": "cc\\antya\\7\\15",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "santv avatārā bahavaḥ\npuṣkara-nābhasya sarvato-bhadrāḥ\nkṛṣṇād anyaḥ ko vā latāsv\napi premado bhavati\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "santu—let there be; avatārāḥ—incarnations; bahavaḥ—many; puṣkara-nābhasya—of the Lord, from whose navel grows a lotus flower; sarvataḥ bhadrāḥ—completely auspicious; kṛṣṇāt—than Lord Kṛṣṇa; anyaḥ—other; kaḥ vā—who possibly; latāsu—on the surrendered souls; api—also; prema-daḥ—the bestower of love; bhavati—is.",
+	"translation": "\"There may be many all-auspicious incarnations of the Personality of Godhead, but who other than Lord Śrī Kṛṣṇa can bestow love of God upon the surrendered souls?' \"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is a verse written by Bilvamaṅgala Ṭhākura. it is found in the Laghu-bhāgavatāmṛta (1.5.37)."
+		}
+	]
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\17\\188.json",
+		"id": "cc\\adi\\17\\188",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kājī kahe,--ihā āmi kāre nā kahila\nsei dina āmāra eka piyādā āila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kājī kahe—the Kazi said; ihā—this; āmi—I; kāre—to others; nā kahila—did not tell; sei dina—on that day; āmāra—my; eka—one; piyādā—orderly; āila—came to see me.",
+	"translation": "The Kazi continued, \"I did not speak to anyone about this incident, but on that very day one of my orderlies came to see me."
 }

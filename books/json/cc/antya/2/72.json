@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\72.json",
+		"id": "cc\\antya\\2\\72",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śuni śivānandera citte ha-ila saṁśaya\nkibā premāveśe kahe, kibā satya haya\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śuni—hearing; śivānandera—of Śivānanda; citte—in the mind; ha-ila saṁśaya—there was some doubt; kibā—whether; prema-āveśe kahe—was speaking something in ecstatic love; kibā—or; satya haya—it was a fact.",
+	"translation": "When Śivānanda Sena heard this statement, he was unsure whether Nṛsiṁhānanda Brahmacārī was speaking that way because of ecstatic love or because it was actually a fact."
 }

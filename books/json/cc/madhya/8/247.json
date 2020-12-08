@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "cc\\madhya\\8\\247.json",
+		"id": "cc\\madhya\\8\\247",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'sampattira madhye jīvera kon sampatti gaṇi?'\n'rādhā-kṛṣṇe prema yāṅra, sei baḍa dhanī'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sampattira—riches; madhye—among; jīvera—of the living entities; kon—what; sampatti—the wealth; gaṇi—we accept; rādhā-kṛṣṇe—to Śrīmatī Rādhārāṇī and Kṛṣṇa; prema—loving service; yāṅra—whose; sei—he; baḍa—very great; dhanī—capitalist.",
+	"translation": "Śrī Caitanya Mahāprabhu asked, \"Of the many capitalists who possess great riches, who is the topmost?\" Rāmānanda Rāya replied, \"He who is richest in love for Rādhā and Kṛṣṇa is the greatest capitalist.\"",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Everyone in this material world is attempting to acquire riches to satisfy the senses. Actually no one cares for anything other than acquiring material possessions and maintaining them. The wealthy are generally accepted as the most important personalities in this material world, but when we compare a material man of wealth to one wealthy in devotional service to Rādhā and Kṛṣṇa, the latter is found to be the greatest capitalist. According to Śrīmad-Bhāgavatam (10.39.2):"
+		},
+		{
+			"type": "normal",
+			"content": "kim alabhyaṁ bhagavati\nprasanne śrī-niketane\ntathāpi tat-parā rājan\nna hi vāñchanti kiñcana"
+		},
+		{
+			"type": "normal",
+			"content": "\"What is difficult for the devotees of Lord Kṛṣṇa, who is the shelter of the goddess of fortune? Although such devotees can obtain anything, O King, they do not desire anything.\""
+		}
+	]
 }

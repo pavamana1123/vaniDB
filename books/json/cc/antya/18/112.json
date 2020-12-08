@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\18\\112.json",
+		"id": "cc\\antya\\18\\112",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"yamunāra bhrame tumi samudre paḍilā\nsamudreṛa taraṅge āsi, eta dūra āilā!\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yamunāra bhrame—in mistaking for the Yamunā; tumi—You; samudre—in the sea; paḍilā—fell; samudrera taraṅge—by the waves of the sea; āsi—coming; eta—this; dūra—far; āilā—You have come.",
+	"translation": "\"You mistook the sea for the Yamunā River,\" he said, \"and You jumped into it. You have been carried this far by the waves of the sea."
 }

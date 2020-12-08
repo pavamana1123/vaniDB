@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\5\\176.json",
+		"id": "cc\\adi\\5\\176",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ekete viśvāsa, anye nā kara sammāna\n\"ardha-kukkuṭī-nyāya\" tomāra pramāṇa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ekete viśvāsa—faith in one; anye—in the other; nā—not; kara—do; sammāna—respect; ardha-kukkuṭī-nyāya—the logic of accepting half of a hen; tomāra—your; pramāṇa—evidence.",
+	"translation": "\"If you have faith in one but disrespect the other, your logic is like the logic of accepting half a hen."
 }

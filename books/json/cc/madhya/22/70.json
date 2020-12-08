@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\22\\70.json",
+		"id": "cc\\madhya\\22\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yo bhavet komala-śraddhaḥ\nsa kaniṣṭho nigadyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yaḥ—anyone who; bhavet—may be; komala—soft; śraddhaḥ—having faith; saḥ—such a person; kaniṣṭhaḥ—neophyte devotee; nigadyate—is said to be.",
+	"translation": "\" 'One whose faith is not very strong, who is just beginning, should be considered a neophyte devotee.'",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse also appears in the Bhakti-rasāmṛta-sindhu (1.2.19)."
+		}
+	]
 }

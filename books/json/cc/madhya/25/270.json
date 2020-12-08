@@ -1,15 +1,41 @@
 {
 	"info": {
-		"id": "cc\\madhya\\25\\270.json",
+		"id": "cc\\madhya\\25\\270",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ihāra prasāde pāibā kṛṣṇa-tattva-sāra\nsarva-śāstra-siddhāntera ihāṅ pāibā pāra\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ihāra prasāde—by hearing these teachings of Śrī Caitanya Mahāprabhu; pāibā—you will get; kṛṣṇa-tattva-sāra—the essence of the truth of Kṛṣṇa; sarva-śāstra—of all revealed scriptures; siddhāntera—of conclusions; ihāṅ—here; pāibā—you will get; pāra—the ultimate limit.",
+	"translation": "By understanding the pastimes of Śrī Caitanya Mahāprabhu, one can understand the truth about Kṛṣṇa. By understanding Kṛṣṇa, one can understand the limit of all knowledge described in various revealed scriptures.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in Bhagavad-gītā (7.3):"
+		},
+		{
+			"type": "normal",
+			"content": "manuṣyāṇāṁ sahasreṣu\nkaścid yatati siddhaye\nyatatām api siddhānāṁ\nkaścin māṁ vetti tattvataḥ"
+		},
+		{
+			"type": "normal",
+			"content": "\"Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth.\""
+		},
+		{
+			"type": "normal",
+			"content": "It is very difficult to understand Kṛṣṇa, but if one tries to understand Śrīmad-Bhāgavatam through Caitanya Mahāprabhu's bhakti cult, one will undoubtedly understand Kṛṣṇa very easily. If somehow or other one understands Kṛṣṇa, his life will be successful. Again, as stated in Bhagavad-gītā (4.9):"
+		},
+		{
+			"type": "normal",
+			"content": "janma karma ca me divyam\nevaṁ yo vetti tattvataḥ\ntyaktvā dehaṁ punar janma\nnaiti mām eti so 'rjuna"
+		},
+		{
+			"type": "normal",
+			"content": "\"One who knows the transcendental nature of My appearance and activities does not, upon leaving the body, take his birth again in this material world, but attains My eternal abode, O Arjuna.\""
+		}
+	]
 }

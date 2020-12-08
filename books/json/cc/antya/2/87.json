@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\antya\\2\\87.json",
+		"id": "cc\\antya\\2\\87",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ghare bhāta kari' karena vividha vyañjana\nekale gosāñi lañā karāna bhojana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ghare—at home; bhāta kari'-preparing rice; karena—prepares; vividha vyañjana—varieties of vegetables; ekale—alone; gosāñi lañā—taking Śrī Caitanya Mahāprabhu; karāna bhojana—makes to eat.",
+	"translation": "Bhagavān Ācārya prepared varieties of rice and vegetables at home and brought the Lord there alone to eat.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Generally those who invited Śrī Caitanya Mahāprabhu for dinner used to offer Him the remnants of food that had first been offered to Lord Jagannātha. Bhagavān Ācārya, however, instead of giving Him the remnants of Jagannātha's food, prepared dinner at his home. In Orissa, food offered to Lord Jagannātha is called prasādī, and that which is not offered to Lord Jagannātha is known as āmānī or ghara-bhāta, rice prepared at home."
+		}
+	]
 }

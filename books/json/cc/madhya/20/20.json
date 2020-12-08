@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\20\\20.json",
+		"id": "cc\\madhya\\20\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "\"rātrye parvata pāra kariba nija-loka diyā\nbhojana karaha tumi randhana kariyā\"\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rātrye—at night; parvata—the hilly tract; pāra kariba—I shall cross; nija-loka diyā—with my own men; bhojana karaha—just take your meal; tumi—you; randhana kariyā—cooking.",
+	"translation": "The landlord said,\"I shall get you across that hilly tract at night with my own men. Now just take your lunch and cook for yourself.\""
 }

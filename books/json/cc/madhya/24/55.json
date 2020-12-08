@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\55.json",
+		"id": "cc\\madhya\\24\\55",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "yogya-bhāve jagate yata yuvatīra gaṇa\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yogya-bhāve—by proper behavior; jagate—within the three worlds; yata—all; yuvatīra gaṇa—the groups of young girls.",
+	"translation": "\"Kṛṣṇa attracts not only the minds of the gopīs and the goddesses of fortune but the minds of all the young girls in the three worlds as well."
 }

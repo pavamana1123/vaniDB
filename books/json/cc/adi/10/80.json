@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\10\\80.json",
+		"id": "cc\\adi\\10\\80",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kulīnagrāma-vāsī satyarāja, rāmānanda\nyadunātha, puruṣottama, śaṅkara, vidyānanda\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kulīna-grāma-vāsī—the inhabitants of Kulīna-grāma; satyarāja—of the name Satyarāja; rāmānanda—of the name Rāmānanda; yadunātha—of the name Yadunātha; puruṣottama—of the name Puruṣottama; śaṅkara—of the name Śaṅkara; vidyānanda—of the name Vidyānanda.",
+	"translation": "Satyarāja, Rāmānanda, Yadunātha, Puruṣottama, Śaṅkara and Vidyānanda all belonged to the twentieth branch. They were inhabitants of the village known as Kulīna-grāma."
 }

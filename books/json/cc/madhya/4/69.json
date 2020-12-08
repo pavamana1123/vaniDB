@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\4\\69.json",
+		"id": "cc\\madhya\\4\\69",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "daśa-vipra anna rāndhi' kare eka stūpa\njanā-pāṅca rāndhe vyañjanādi nānā sūpa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "daśa-vipra—ten brāhmaṇas; anna—food grains; rāndhi'-cooking; kare—do; eka stūpa—in one stack; janā-pāṅca—five brāhmaṇas; rāndhe—cook; vyañjana-ādi—vegetables; nānā—various; sūpa—liquid.",
+	"translation": "Ten brāhmaṇas cooked the food grains, and five brāhmaṇas cooked both dry and liquid vegetables."
 }

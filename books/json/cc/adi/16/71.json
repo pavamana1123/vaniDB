@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\16\\71.json",
+		"id": "cc\\adi\\16\\71",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rasālaṅkāra-vat kāvyaṁ\ndoṣa-yuk ced vibhūṣitam\nsyād vapuḥ sundaram api\nśvitreṇaikena durbhagam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rasa—with humors; alaṅkāra-vat—with ornaments (metaphors, similes, etc.); kāvyam—poetry; doṣa-yuk—faulty; cet—if; vibhūṣitam—very nicely decorated; syāt—it becomes so; vapuḥ—the body; sundaram—beautiful; api—even though; śvitreṇa—by a white spot of leprosy; ekena—one; durbhagam—unfortunate.",
+	"translation": "\" 'As one's body, although well-decorated with ornaments, is made unfortunate by even one spot of white leprosy, so an entire poem is made useless by a fault, despite alliteration, similes and metaphors.'"
 }

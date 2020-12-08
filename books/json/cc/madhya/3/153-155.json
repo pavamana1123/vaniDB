@@ -1,15 +1,23 @@
 {
 	"info": {
-		"id": "cc\\madhya\\3\\153-155.json",
+		"id": "cc\\madhya\\3\\153-155",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrīvāsa, rāmāi, vidyānidhi, gadādhara\ngaṅgādāsa, vakreśvara, murāri, śuklāmbara",
+			"isProse": false
+		},
+		{
+			"roman": "buddhimanta khāṅ, nandana, śrīdhara, vijaya\nvāsudeva, dāmodara, mukunda, sañjaya",
+			"isProse": false
+		},
+		{
+			"roman": "kata nāma la-iba yata navadvīpa-vāsī\nsabāre mililā prabhu kṛpā-dṛṣṭye hāsi'\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrīvāsa—Śrīvāsa; rāmāi—Rāmāi; vidyānidhi—Vidyānidhi; gadādhara—Gadādhara; gaṅgādāsa—Gaṅgādāsa; vakreśvara—Vakreśvara; murāri—Murāri; śuklāmbara—Śuklāmbara; buddhimanta khāṅ—Buddhimanta Khāṅ; nandana—Nandana; śrīdhara—Śrīdhara; vijaya—Vijaya; vāsudeva—Vāsudeva; dāmodara—Dāmodara; mukunda—Mukunda; sañjaya—Sañjaya; kata nāma—how many names; la-iba—I shall mention; yata—all; navadvīpa-vāsī—the inhabitants of Navadvīpa; sabāre—all of them; mililā—met; prabhu—the Lord; kṛpā-dṛṣṭye—with merciful glances; hāsi'-smiling.",
+	"translation": "Śrīvāsa, Rāmāi, Vidyānidhi, Gadādhara, Gaṅgādāsa, Vakreśvara, Murāri, Śuklāmbara, Buddhimanta Khāṅ, Nandana, Śrīdhara, Vijaya, Vāsudeva, Dāmodara, Mukunda, Sañjaya and all the others, however many I can mention-indeed, all the inhabitants of Navadvīpa-arrived there, and the Lord met them with smiles and glances of mercy."
 }

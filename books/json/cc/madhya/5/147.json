@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\147.json",
+		"id": "cc\\madhya\\5\\147",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "calite calite prabhu āilā 'āṭhāranālā'\ntāhāṅ āsi' prabhu kichu bāhya prakāśilā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "calite calite—walking in this way; prabhu—the Lord; āilā—arrived; āṭhāranālā—at a place known as Āṭhāranālā; tāhāṅ—there; āsi'-coming; prabhu—the Lord; kichu—some; bāhya—external consciousness; prakāśilā—expressed.",
+	"translation": "Thus walking and walking, the Lord eventually arrived at the place known as Āṭhāranālā. Arriving there, He expressed His external consciousness, speaking to Śrī Nityānanda Prabhu.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "At the entrance to Jagannātha Purī is a bridge with eighteen arches called Āṭhāranālā. (Āṭhāra means eighteen.)"
+		}
+	]
 }

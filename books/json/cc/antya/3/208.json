@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\3\\208.json",
+		"id": "cc\\antya\\3\\208",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tabe se hiraṇya-dāsa nija ghare āila\nsei brāhmaṇe nija dvāra-mānā kaila\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tabe—thereupon; se—that; hiraṇya-dāsa—Hiraṇya Majumadāra; nija—own; ghare—to home; āila—returned; sei—that; brāhmaṇe—to Gopāla Cakravartī; nija—own; dvāra—door; mānā—prohibition; kaila—issued.",
+	"translation": "Then Hiraṇya dāsa Majumadāra returned to his home and ordered that Gopāla Cakravartī not be admitted therein."
 }

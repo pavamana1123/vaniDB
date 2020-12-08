@@ -1,6 +1,6 @@
 {
 	"info": {
-		"id": "cc\\madhya\\24\\139.json",
+		"id": "cc\\madhya\\24\\139",
 		"nextId": "",
 		"prevId": ""
 	},
@@ -8,8 +8,12 @@
 		{
 			"roman": "",
 			"isProse": false
+		},
+		{
+			"roman": "bhakti vinu mukti nāhi, bhaktye mukti haya\n",
+			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "bhakti—devotional service; vinu—without; mukti—liberation; nāhi—there is not; bhaktye—actually by devotional service; mukti haya—liberation is attained.",
+	"translation": "\"One does not attain liberation without rendering devotional service. Liberation is only attained by devotional service."
 }

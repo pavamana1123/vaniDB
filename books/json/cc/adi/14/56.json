@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "cc\\adi\\14\\56.json",
+		"id": "cc\\adi\\14\\56",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vara śuni' kanyā-gaṇera antare santoṣa\nbāhire bhartsana kare kari' mithyā roṣa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vara śuni'-hearing the benediction; kanyā-gaṇera—of the girls; antare—within; santoṣa—very much satisfaction; bāhire—externally; bhartsana—rebuking; kare—they do; kari'-making; mithyā—false; roṣa—anger.",
+	"translation": "Hearing this benediction from Śrī Caitanya Mahāprabhu, all the girls were inwardly very happy, but externally, as is natural for girls, they rebuked the Lord under the pretense of anger.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This double-dealing is natural for girls. When they are satisfied within, they externally show dissatisfaction. Such feminine dealings are very palatable to boys who try to make friendships with them."
+		}
+	]
 }

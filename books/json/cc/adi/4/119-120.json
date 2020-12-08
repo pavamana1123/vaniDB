@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "cc\\adi\\4\\119-120.json",
+		"id": "cc\\adi\\4\\119-120",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ei mata pūrve kṛṣṇa rasera sadana\nyadyapi karila rasa-niryāsa-carvaṇa",
+			"isProse": false
+		},
+		{
+			"roman": "tathāpi nahila tina vāñchita pūraṇa\ntāhā āsvādite yadi karila yatana\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ei mata—like this; pūrve—previously; kṛṣṇa—Lord Kṛṣṇa; rasera—of mellows; sadana—the reservoir; yadyapi—even though; karila—did; rasa—of the mellows; niryāsa—the essence; carvaṇa—chewing; tathāpi—still; nahila—was not; tina—three; vāñchita—desired objects; pūraṇa—fulfilling; tāhā—that; āsvādite—to taste; yadi—though; karila—were made; yatana—efforts.",
+	"translation": "Even though Lord Kṛṣṇa, the abode of all mellows, had previously in this way chewed the essence of the mellows of love, still He was unable to fulfill three desires, although He made efforts to taste them."
 }

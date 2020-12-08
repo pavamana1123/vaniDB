@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\antya\\20\\92.json",
+		"id": "cc\\antya\\20\\92",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "'āmi likhi',--eha mithyā kari anumāna\nāmāra śarīra kāṣṭha-putalī-samāna\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āmi likhi—I write; eha mithyā—this is false; kari anumāna—I can infer; āmāra śarīra—my body; kāṣṭha-putalī-samāna—is exactly like a wooden doll.",
+	"translation": "I infer that \"I have written\" is a false understanding, for my body is like a wooden doll."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\15\\121.json",
+		"id": "cc\\madhya\\15\\121",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "eka dina mleccha-rājāra ucca-ṭuṅgite\ncikitsāra vāt kahe tāṅhāra agrete\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "eka dina—one day; mleccha-rājāra—of the Mohammedan King; ucca-ṭuṅgite—on a high platform; cikitsāra vāt—talk of medical treatment; kahe—was speaking; tāṅhāra agrete—before him.",
+	"translation": "\"One day Mukunda dāsa, the royal physician, was seated with the Mohammedan King on a high platform and was telling the King about medical treatment."
 }

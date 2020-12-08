@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\adi\\3\\83.json",
+		"id": "cc\\adi\\3\\83",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aham eva kvacid brahman\nsannyāsāśramam āśritaḥ\nhari-bhaktiṁ grāhayāmi\nkalau pāpa-hatān narān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aham—I; eva—certainly; kvacit—somewhere; brahman—O brāhmaṇa; sannyāsa-āśramam—the renounced order of life; āśritaḥ—taking recourse to; hari-bhaktim—devotional service to the Supreme Personality of Godhead; grāhayāmi—I shall give; kalau—in the Age of Kali; pāpa-hatān—sinful; narān—to men.",
+	"translation": "\"O learned brāhmaṇa, sometimes I accept the renounced order of life to induce the fallen people of the Age of Kali to accept devotional service to the Lord.\""
 }

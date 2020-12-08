@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "cc\\madhya\\5\\26.json",
+		"id": "cc\\madhya\\5\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "choṭa-vipra bale,--\"tomāra strī-putra saba\nbahu jñāti-goṣṭhī tomāra bahuta bāndhava\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "choṭa-vipra—the young brāhmaṇa; bale—says; tomāra—your; strī-putra—wife and sons; saba—all; bahu—many; jñāti—of family relations; goṣṭhī—group; tomāra—your; bahuta—many; bāndhava—friends.",
+	"translation": "The young brāhmaṇa said, \"You have a wife and sons, and you have a large circle of relatives and friends."
 }
