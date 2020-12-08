@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\12\\8.json",
+		"id": "bg\\12\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mayy eva mana ādhatsva\nmayi buddhiṁ niveśaya\nnivasiṣyasi mayy eva\nata ūrdhvaṁ na saṁśayaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mayi—unto Me; eva—certainly; manaḥ—mind; ādhatsva—fix; mayi—upon Me; buddhim—intelligence; niveśaya—apply; nivasiṣyasi—you lead; mayi—unto Me; eva—certainly; ataḥ—therefore; ūrdhvam—up; na—never; saṁśayaḥ—doubt.",
+	"translation": "Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "One who is engaged in Lord Kṛṣṇa's devotional service lives in a direct relationship with the Supreme Lord, so there is no doubt that his position is transcendental from the very beginning. A devotee does not live on the material plane-he lives in Kṛṣṇa. The holy name of the Lord and the Lord are nondifferent; therefore when a devotee chants Hare Kṛṣṇa, Kṛṣṇa and His internal potency are dancing on the tongue of the devotee. When he offers Kṛṣṇa food, Kṛṣṇa directly accepts these eatables, and the devotee becomes Kṛṣṇa-ized by eating the remnants. One who does not engage in such service cannot understand how this is so, although this is a process recommended in the Gītā and in other Vedic literatures."
+		}
+	]
 }

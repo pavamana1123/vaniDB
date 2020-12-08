@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\11\\28.json",
+		"id": "bg\\11\\28",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathā nadīnāṁ bahavo 'mbu-vegāḥ\nsamudram evābhimukhā dravanti\ntathā tavāmī nara-loka-vīrā\nviśanti vaktrāṇy abhivijvalanti\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā—as; nadīnām—of the rivers; bahavaḥ—many; ambu-vegāḥ—waves of the waters; samudram—ocean; eva—certainly; abhimukhāḥ—towards; dravanti—gliding; tathā—similarly; tava—Your; amī—all those; nara-lokavīrāḥ—the kings of human society; viśanti—entering; vaktrāṇi—into the mouths; abhivijvalanti—blazing.",
+	"translation": "As the rivers flow into the sea, so all these great warriors enter Your blazing mouths and perish."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\1\\27.json",
+		"id": "bg\\1\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tān samīkṣya sa kaunteyaḥ\nsarvān bandhūn avasthitān\nkṛpayā parayāviṣṭo\nviṣīdann idam abravīt\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tān—all of them; samīkṣya—after seeing; saḥ—he; kaunteyaḥ—the son of Kuntī; sarvān—all kinds of; bandhūn—relatives; avasthitān—situated; kṛpayā—by compassion; parayā—of a high grade; āviṣṭaḥ—overwhelmed by; viṣīdan—while lamenting; idam—thus; abravīt—spoke.",
+	"translation": "When the son of Kuntī, Arjuna, saw all these different grades of friends and relatives, he became overwhelmed with compassion and spoke thus:"
 }

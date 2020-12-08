@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\18\\76.json",
+		"id": "bg\\18\\76",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "rājan saṁsmṛtya saṁsmṛtya\nsaṁvādam imam adbhutam\nkeśavārjunayoḥ puṇyaṁ\nhṛṣyāmi ca muhur muhuḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "rājan—O King; saṁsmṛtya—remembering; saṁsmṛtya—remembering; saṁvādam—message; imam—this; adbhutam—wonderful; keśava—Lord Kṛṣṇa; arjunayoḥ—and Arjuna; puṇyam—pious; hṛṣyāmi—taking pleasure; ca—also; muhuḥ muhuḥ—always, repeatedly.",
+	"translation": "O King, as I repeatedly recall this wondrous and holy dialogue between Kṛṣṇa and Arjuna, I take pleasure, being thrilled at every moment.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The understanding of Bhagavad-gītā is so transcendental that anyone who becomes conversant with the topics of Arjuna and Kṛṣṇa becomes righteous, and he cannot forget such talks. This is the transcendental position of spiritual life. In other words, one who hears the Gītā from the right source, directly from Kṛṣṇa, attains full Kṛṣṇa consciousness. The result of Kṛṣṇa consciousness is that one becomes increasingly enlightened, and he enjoys life with a thrill, not only for some time, but at every moment."
+		}
+	]
 }

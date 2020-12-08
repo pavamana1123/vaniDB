@@ -38,7 +38,7 @@ func getSynonyms(path string) (string, error) {
 }
 
 func getTranslation(path string) (string, error) {
-	return getVSTFromHTML(path, "TRANSLATION", "PURPORT")
+	return getVSTFromHTML(path, "TRANSLATION", "PURPORT;Link to this page")
 }
 
 func getVSTFromHTML(path, t1, t2 string) (string, error) {
@@ -57,8 +57,10 @@ func getVSTFromHTML(path, t1, t2 string) (string, error) {
 	for err != io.EOF {
 		b, _, err = r.ReadLine()
 		l := string(b)
-		if strings.Contains(l, t2) {
-			break
+		for _, tt2 := range strings.Split(t2, ";") {
+			if strings.Contains(l, tt2) {
+				goto found
+			}
 		}
 		if start {
 			if strings.Contains(l, "margin-top") {
@@ -74,6 +76,7 @@ func getVSTFromHTML(path, t1, t2 string) (string, error) {
 		}
 	}
 
+found:
 	// Load the HTML document
 	doc, err := goquery.NewDocumentFromReader(strings.NewReader(res))
 	if err != nil {

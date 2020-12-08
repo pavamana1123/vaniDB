@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\1\\7.json",
+		"id": "bg\\1\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "asmākaṁ tu viśiṣṭā ye\ntān nibodha dvijottama\nnāyakā mama sainyasya\nsaṁjñārthaṁ tān bravīmi te\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "asmākam—our; tu—but; viśiṣṭāḥ—especially powerful; ye—those; tān—them; nibodha—just take note, be informed; dvijottama—the best of the brāhmaṇas; nāyakāḥ—captains; mama—my; sainyasya—of the soldiers; saṁjñā-artham—for information; tān—them; bravīmi—I am speaking; te—your.",
+	"translation": "O best of the brāhmaṇas, for your information, let me tell you about the captains who are especially qualified to lead my military force."
 }

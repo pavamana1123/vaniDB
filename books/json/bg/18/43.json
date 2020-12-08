@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\18\\43.json",
+		"id": "bg\\18\\43",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śauryaṁ tejo dhṛtir dākṣyaṁ\nyuddhe cāpy apalāyanam\ndānam īśvara-bhāvaś ca\nkṣātraṁ karma svabhāva-jam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śauryam—heroism; tejaḥ—power; dhṛtiḥ—determination; dākṣyam—resourcefulness; yuddhe—in battle; ca—and; api—also; apalāyanam—not fleeing; dānam—generosity; īśvara—leadership; bhāvaḥ—nature; ca—and kṣātram-kṣatriya; karma—duty; svabhāva-jam—born of his own nature.",
+	"translation": "Heroism, power, determination, resourcefulness, courage in battle, generosity, and leadership are the qualities of work for the kṣatriyas."
 }

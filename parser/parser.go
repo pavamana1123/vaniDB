@@ -47,8 +47,6 @@ func (p *Parser) WriteJSON(t Text) error {
 		return err
 	}
 
-	log.Println("writing", t.Info.ID)
-
 	return ioutil.WriteFile(p.JSONFile, b, 0666)
 }
 
@@ -58,7 +56,7 @@ func (p *Parser) Close() {
 }
 
 func writeAllJSON() {
-	filepath.Walk("../books", parse)
+	filepath.Walk("../books/html/bg", parse)
 }
 
 func parse(path string, info os.FileInfo, err error) error {
@@ -69,7 +67,7 @@ func parse(path string, info os.FileInfo, err error) error {
 		if filepath.Join(filepath.Dir(path), info.Name()) == path {
 			return nil
 		}
-		filepath.Walk(path, parse)
+		return filepath.Walk(path, parse)
 	}
 
 	p, err := NewParser(path, strings.ReplaceAll(path, "html", "json"))
@@ -78,35 +76,45 @@ func parse(path string, info os.FileInfo, err error) error {
 	}
 	defer p.Close()
 
+	t, err := getCompleteText(path)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	log.Println(t.Info.ID)
+	return p.WriteJSON(t)
+
+}
+
+func getCompleteText(path string) (Text, error) {
 	t := NewText()
 	t.Info.ID = getTextID(path)
 
 	v, err := getVerse(path)
 	if err != nil {
-		log.Fatal(err)
+		return t, err
 	}
 	t.Verses = v
 
 	s, err := getSynonyms(path)
 	if err != nil {
-		log.Fatal(err)
+		return t, err
 	}
 	t.Synonyms = s
 
 	tr, err := getTranslation(path)
 	if err != nil {
-		log.Fatal(err)
+		return t, err
 	}
 	t.Translation = tr
 
 	pr, err := getPurport(path)
 	if err != nil {
-		log.Fatal(err)
+		return t, err
 	}
 	t.Purport = pr
 
-	return p.WriteJSON(t)
-
+	return t, nil
 }
 
 func getTextID(path string) string {

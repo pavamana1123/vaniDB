@@ -1,15 +1,25 @@
 {
 	"info": {
-		"id": "bg\\1\\46.json",
+		"id": "bg\\1\\46",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sañjaya uvāca\nevam uktvārjunaḥ saṅkhye\nrathopastha upāviśat\nvisṛjya sa-śaraṁ cāpaṁ\nśoka-saṁvigna-mānasaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sañjayaḥ—Sañjaya; uvāca—said; evam—thus; uktvā—saying; arjunaḥ—Arjuna; saṅkhye—in the battlefield; ratha—chariot; upasthaḥ—situated on; upāviśat—sat down again; visṛjya—keeping aside; sa-śaram—along with arrows; cāpam—the bow; śoka—lamentation; saṁvigna—distressed; mānasaḥ—within the mind.",
+	"translation": "Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "While observing the situation of his enemy, Arjuna stood up on the chariot, but he was so afflicted with lamentation that he sat down again, setting aside his bow and arrows. Such a kind and softhearted person, in the devotional service of the Lord, is fit to receive self-knowledge."
+		},
+		{
+			"type": "normal",
+			"content": "Thus end the Bhaktivedanta Purports to the First Chapter of the Śrīmad-Bhagavad-gītā in the matter of Observing the Armies on the Battlefield of Kurukṣetra."
+		}
+	]
 }

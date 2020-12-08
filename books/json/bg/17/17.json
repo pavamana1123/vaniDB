@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\17\\17.json",
+		"id": "bg\\17\\17",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śraddhayā parayā taptaṁ\ntapas tat tri-vidhaṁ naraiḥ\naphalākāṅkṣibhir yuktaiḥ\nsāttvikaṁ paricakṣate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śraddhayā—with faith; parayā—transcendental; taptam—executed; tapaḥ—austerity; tat—that; tri-vidham—three kinds; naraiḥ—by men; aphala-ākāṅkṣibhiḥ—without desires for fruits; yuktaiḥ—engaged; sāttvikam—in the mode of goodness; pari-cakṣate—is called.",
+	"translation": "This threefold austerity, practiced by men whose aim is not to benefit themselves materially but to please the Supreme, is of the nature of goodness."
 }

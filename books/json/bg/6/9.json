@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\6\\9.json",
+		"id": "bg\\6\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "suhṛn-mitrāry-udāsīna-\nmadhyastha-dveṣya-bandhuṣu\nsādhuṣv api ca pāpeṣu\nsama-buddhir viśiṣyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "suhṛt—by nature a well-wisher; mitra—benefactor with affection; ari—enemy; udāsīna—neutral between the belligerents; madhyastha—mediator between the belligerents; dveṣya—envious; bandhuṣu—among the relatives or well-wishers; sādhuṣu—unto the pious; api—as well as; ca—and; pāpeṣu—unto the sinners; sama-buddhiḥ—having equal intelligence; viśiṣyate—is far advanced.",
+	"translation": "A person is said to be still further advanced when he regards all—the honest well-wisher, friends and enemies, the envious, the pious, the sinner and those who are indifferent and impartial—with an equal mind."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\14\\9.json",
+		"id": "bg\\14\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sattvaṁ sukhe sañjayati\nrajaḥ karmaṇi bhārata\njñānam āvṛtya tu tamaḥ\npramāde sañjayaty uta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sattvam—mode of goodness; sukhe—in happiness; sañjayati—develops; rajaḥ—mode of passion; karmaṇi—fruits of activities; bhārata—O son of Bharata; jñānam—knowledge; āvṛtya—covering; tu—but; tamaḥ—the mode of ignorance; pramāde—in madness; sañjayati—develops; uta—it is said.",
+	"translation": "The mode of goodness conditions one to happiness, passion conditions him to the fruits of action, and ignorance to madness.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A person in the mode of goodness is satisfied by his work or intellectual pursuit, just as a philosopher, scientist, or educator may be engaged in a particular field of knowledge and may be satisfied in that way. A man in the modes of passion and goodness may be engaged in fruitive activity; he owns as much as he can and spends for good causes. Sometimes he tries to open hospitals, give to charity institutions, etc. These are the signs of one in the mode of passion. And the mode of ignorance covers knowledge. In the mode of ignorance, whatever one does is neither good for him nor for anyone."
+		}
+	]
 }

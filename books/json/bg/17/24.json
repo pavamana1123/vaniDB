@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\17\\24.json",
+		"id": "bg\\17\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tasmād oṁ ity udāhṛtya\nyajña-dāna-tapaḥ-kriyāḥ\npravartante vidhānoktāḥ\nsatataṁ brahma-vādinām\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tasmāt—therefore; om—beginning with om; iti—thus; udāhṛtya—indicating; yajña—sacrifice; dāna—charity; tapaḥ—penance; kriyāḥ—performances; pravartante—begins; vidhāna-uktāḥ—according to scriptural regulation; satatam—always; brahma-vādinām—of the transcendentalists.",
+	"translation": "Thus the transcendentalists undertake sacrifices, charities, and penances, beginning always with om, to attain the Supreme.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Om tad viṣṇoḥ paramaṁ padam. The lotus feet of Viṣṇu are the supreme devotional platform. The performance of everything on behalf of the Supreme Personality of Godhead assures the perfection of all activity."
+		}
+	]
 }

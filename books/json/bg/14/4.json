@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\14\\4.json",
+		"id": "bg\\14\\4",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "sarva-yoniṣu kaunteya\nmūrtayaḥ sambhavanti yāḥ\ntāsāṁ brahma mahad yonir\nahaṁ bīja-pradaḥ pitā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "sarva-yoniṣu—in all species of life; kaunteya—O son of Kuntī; mūrtayaḥ—forms; sambhavanti—as they appear; yāḥ—which; tāsām—all of them; brahma—supreme; mahat yoniḥ—the source of birth in the material substance; aham—Myself; bīja-pradaḥ—seed-giving; pitā—father.",
+	"translation": "It should be understood that all species of life, O son of Kuntī, are made possible by birth in this material nature, and that I am the seed-giving father.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In this verse it is clearly explained that the Supreme Personality of Godhead, Kṛṣṇa, is the original father of all living entities. The living entities are combinations of the material nature and the spiritual nature. Such living entities are seen not only on this planet, but in every planet, even in the highest where Brahmā is situated. Everywhere there are living entities; within the earth there are living entities, even within water and within fire. All these appearances are due to the mother, material nature, and Kṛṣṇa's seed-giving process. The purport is that the living entities, being impregnated in the material world, come out and form at the time of creation according to their past deeds."
+		}
+	]
 }

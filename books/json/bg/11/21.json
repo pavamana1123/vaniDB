@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\11\\21.json",
+		"id": "bg\\11\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "amī hi tvāṁ sura-saṅghā viśanti\nkecid bhītāḥ prāñjalayo gṛṇanti\nsvastīty uktvā maharṣi-siddha-saṅghāḥ\nstuvanti tvāṁ stutibhiḥ puṣkalābhiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "amī—all those; hi—certainly; tvām—unto You; sura-saṅghāḥ—groups of demigods; viśanti—entering; kecit—some of them; bhītāḥ—out of fear; prāñjalayaḥ—with folded hands; gṛṇanti—offering prayers unto; svasti—all peace; iti—thus; uktvā—speaking like that; maharṣi—great sages; siddha-saṅghāḥ—perfect sages; stuvanti—singing hymns; tvām—unto You; stutibhiḥ—with prayers; puṣkalābhiḥ—Vedic hymns.",
+	"translation": "All the demigods are surrendering and entering into You. They are very much afraid, and with folded hands they are singing the Vedic hymns.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The demigods in all the planetary systems feared the terrific manifestation of the universal form and its glowing effulgence and so prayed for protection."
+		}
+	]
 }

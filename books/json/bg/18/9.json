@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\18\\9.json",
+		"id": "bg\\18\\9",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kāryam ity eva yat karma\nniyataṁ kriyate 'rjuna\nsaṅgaṁ tyaktvā phalaṁ caiva\nsa tyāgaḥ sāttviko mataḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kāryam—must be done; iti—thus; eva—thus; yat—that which; karma—work; niyatam—prescribed; kriyate—performed; arjuna—O Arjuna; saṅgam—association; tyaktvā—giving up; phalam—result; ca—also; eva—certainly; saḥ—that; tyāgaḥ—renunciation; sāttvikaḥ—in the mode of goodness; mataḥ—in My opinion.",
+	"translation": "But he who performs his prescribed duty only because it ought to be done, and renounces all attachment to the fruit-his renunciation is of the nature of goodness, O Arjuna.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Prescribed duties must be performed with this mentality. One should act without attachment for the result; he should be disassociated from the modes of work. A man working in Kṛṣṇa consciousness in a factory does not associate himself with the work of the factory, nor with the workers of the factory. He simply works for Kṛṣṇa. And when he gives up the result for Kṛṣṇa, he is acting transcendentally."
+		}
+	]
 }

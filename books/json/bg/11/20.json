@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\11\\20.json",
+		"id": "bg\\11\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "dyāv ā-pṛthivyor idam antaraṁ hi\nvyāptaṁ tvayaikena diśaś ca sarvāḥ\ndṛṣṭvādbhutaṁ rūpam ugraṁ tavedaṁ\nloka-trayaṁ pravyathitaṁ mahātman\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "dyau—in outer space; āpṛthivyoḥ—of the earth; idam—this; antaram—in between; hi—certainly; vyāptam—pervaded; tvayā—by You; ekena—by one; diśaḥ—directions; ca—and; sarvāḥ—all; dṛṣṭvā—by seeing; adbhutam—wonderful; rūpam—form; ugram—terrible; tava—Your; idam—this; loka—planetary system; trayam—three; pravyathitam—perturbed; mahātman—O great one.",
+	"translation": "Although You are one, You are spread throughout the sky and the planets and all space between. O great one, as I behold this terrible form, I see that all the planetary systems are perplexed.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Dyāv āpṛthivyoḥ (the space between heaven and earth) and lokatrayam (three worlds) are significant words in this verse because it appears that not only Arjuna saw this universal form of the Lord, but others in other planetary systems also saw it. The vision was not a dream. All who were spiritually awake with the divine vision saw it."
+		}
+	]
 }

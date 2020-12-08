@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\18\\70.json",
+		"id": "bg\\18\\70",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "adhyeṣyate ca ya imaṁ\ndharmyaṁ saṁvādam āvayoḥ\njñāna-yajñena tenāham\niṣṭaḥ syām iti me matiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "adhyeṣyate—will study; ca—also; yaḥ—he; imam—this; dharmyaṁ—sacred; saṁvādam—conversation; āvayoḥ—of ours; jñāna—knowledge; yajñena—by sacrifice; tena—by him; aham—I; iṣṭaḥ—worshiped; syām—shall be; iti—thus; me—My; matiḥ—opinion.",
+	"translation": "And I declare that he who studies this sacred conversation worships Me by his intelligence."
 }

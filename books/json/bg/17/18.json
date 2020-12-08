@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\17\\18.json",
+		"id": "bg\\17\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "satkāra-māna-pūjārthaṁ\ntapo dambhena caiva yat\nkriyate tad iha proktaṁ\nrājasaṁ calam adhruvam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "satkāra—respect; māna—honor; pūjā-artham—for worship; tapaḥ—austerity; dambhena—with pride; ca—also; eva—certainly; yat—which is; kriyate—performed; tat—that; iha—in this world; proktam—is said; rājasam—in the mode of passion; calam—flickering; adhruvam—temporary.",
+	"translation": "Those ostentatious penances and austerities which are performed in order to gain respect, honor and reverence are said to be in the mode of passion. They are neither stable nor permanent.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Sometimes penance and austerity are executed to attract people and receive honor, respect and worship from others. Persons in the mode of passion arrange to be worshiped by subordinates and let them wash their feet and offer riches. Such arrangements artificially made by the performance of penances are considered to be in the mode of passion. The results are temporary; they can be continued for some time, but they are not permanent."
+		}
+	]
 }

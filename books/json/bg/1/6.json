@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\1\\6.json",
+		"id": "bg\\1\\6",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yudhāmanyuś ca vikrānta\nuttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca\nsarva eva mahā-rathāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yudhāmanyuḥ—Yudhāmanyu; ca—and; vikrāntaḥ—mighty; uttamaujāḥ—Uttamaujā; ca—and; vīryavān—very powerful; saubhadraḥ—the son of Subhadrā; draupadeyāḥ—the sons of Draupadī; ca—and; sarve—all; eva—certainly; mahā-rathāḥ—great chariot fighters.",
+	"translation": "There are the mighty Yudhāmanyu, the very powerful Uttamaujā, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters."
 }

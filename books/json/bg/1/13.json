@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\1\\13.json",
+		"id": "bg\\1\\13",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tataḥ śaṅkhāś ca bheryaś ca\npaṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta\nsa śabdas tumulo 'bhavat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tataḥ—thereafter; śaṅkhāḥ—conchshells; ca—also; bheryaḥ—bugles; ca—and; paṇava-ānaka—trumpets and drums; go-mukhāḥ—horns; sahasā—all of a sudden; eva—certainly; abhyahanyanta—being simultaneously sounded; saḥ—that; śabdaḥ—combined sound; tumulaḥ—tumultuous; abhavat—became.",
+	"translation": "After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous."
 }

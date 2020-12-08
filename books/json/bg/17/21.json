@@ -1,15 +1,25 @@
 {
 	"info": {
-		"id": "bg\\17\\21.json",
+		"id": "bg\\17\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yat tu pratyupakārārthaṁ\nphalam uddiśya vā punaḥ\ndīyate ca parikliṣṭaṁ\ntad dānaṁ rājasaṁ smṛtam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yat—that which; tu—but; prati-upakāra-artham—for the sake of getting some return; phalam—result; uddiśya—desiring; vā—or; punaḥ—again; dīyate—is given in charity; ca—also; parikliṣṭam—grudgingly; tat—that; dānam—charity; rājasam—in the mode of passion; smṛtam—is understood to be.",
+	"translation": "But charity performed with the expectation of some return, or with a desire for fruitive results, or in a grudging mood, is said to be charity in the mode of passion.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Charity is sometimes performed for elevation to the heavenly kingdom and sometimes with great trouble and with repentance afterwards. \"Why have I spent so much in this way?\" Charity is also sometimes made under some obligation, at the request of a superior. These kinds of charity are said to be made in the mode of passion."
+		},
+		{
+			"type": "normal",
+			"content": "There are many charitable foundations which offer their gifts to institutions where sense gratification goes on. Such charities are not recommended in the Vedic scripture. Only charity in the mode of goodness is recommended."
+		}
+	]
 }

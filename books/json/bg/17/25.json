@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\17\\25.json",
+		"id": "bg\\17\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tad ity anabhisandhāya\nphalaṁ yajña-tapaḥ-kriyāḥ\ndāna-kriyāś ca vividhāḥ\nkriyante mokṣa-kāṅkṣibhiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tat—that; iti—they; anabhisandhāya—without fruitive result; phalam—result of sacrifice; yajña—sacrifice; tapaḥ—penance; kriyāḥ—activities; dāna—charity; kriyāḥ—activities; ca—also; vividhāḥ—varieties; kriyante—done; mokṣa-kāṅkṣibhiḥ—those who actually desire liberation.",
+	"translation": "One should perform sacrifice, penance and charity with the word tat. The purpose of such transcendental activities is to get free from the material entanglement.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "To be elevated to the spiritual position, one should not act for any material gain. Acts should be performed for the ultimate gain of being transferred to the spiritual kingdom, back to home, back to Godhead."
+		}
+	]
 }

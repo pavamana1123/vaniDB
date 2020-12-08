@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\10\\41.json",
+		"id": "bg\\10\\41",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yad yad vibhūtimat sattvaṁ\nśrīmad ūrjitam eva vā\ntat tad evāvagaccha tvaṁ\nmama tejo-'ṁśa-sambhavam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yat yat—whatever; vibhūti—opulences; mat—having; sattvam—existence; śrīmat—beautiful; ūrjitam—glorious; eva—certainly; vā—or; tat tat—all those; eva—certainly; avagaccha—you must know; tvam—you; mama—My; tejaḥ—splendor; aṁśa—partly; sambhavam—born of.",
+	"translation": "Know that all beautiful, glorious, and mighty creations spring from but a spark of My splendor.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Any glorious or beautiful existence should be understood to be but a fragmental manifestation of Kṛṣṇa's opulence, whether it be in the spiritual or material world. Anything extraordinarily opulent should be considered to represent Kṛṣṇa's opulence."
+		}
+	]
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\18\\26.json",
+		"id": "bg\\18\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "mukta-saṅgo 'nahaṁ-vādī\ndhṛty-utsāha-samanvitaḥ\nsiddhy-asiddhyor nirvikāraḥ\nkartā sāttvika ucyate\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "mukta-saṅgaḥ—liberated from all material association; anaham-vādī—without false ego; dhṛti-utsāha—with great enthusiasm; samanvitaḥ—qualified in that way; siddhi—perfection; asiddhyoḥ—failure; nirvikāraḥ—without change; kartā—worker; sāttvikaḥ—in the mode of goodness; ucyate—is said to be.",
+	"translation": "The worker who is free from all material attachments and false ego, who is enthusiastic and resolute and who is indifferent to success or failure, is a worker in the mode of goodness.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A person in Kṛṣṇa consciousness is always transcendental to the material modes of nature. He has no expectations for the result of the work entrusted to him because he is above false ego and pride. Still, he is always enthusiastic till the completion of such work. He does not worry about the distress undertaken; he is always enthusiastic. He does not care for success or failure; he is equal both in distress or happiness. Such a worker is situated in the mode of goodness."
+		}
+	]
 }

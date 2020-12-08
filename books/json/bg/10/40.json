@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\10\\40.json",
+		"id": "bg\\10\\40",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nānto 'sti mama divyānāṁ\nvibhūtīnāṁ parantapa\neṣa tūddeśataḥ prokto\nvibhūter vistaro mayā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "na—nor; antaḥ—a limit; asti—is there; mama—of My; divyānām—divine; vibhūtīnam—opulences; parantapa—O conquerer of the enemies; eṣaḥ—all this; tu—that; uddeśataḥ—examples; proktaḥ—spoken; vibhūteḥ—opulences; vistaraḥ—expanded; mayā—by Me.",
+	"translation": "O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in the Vedic literature, although the opulences and energies of the Supreme are understood in various ways, there is no limit to such opulences; therefore not all the opulences and energies can be explained. Simply a few examples are being described to Arjuna to pacify his inquisitiveness."
+		}
+	]
 }

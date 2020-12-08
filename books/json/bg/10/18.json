@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "bg\\10\\18.json",
+		"id": "bg\\10\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vistareṇātmano yogaṁ\nvibhūtiṁ ca janārdana\nbhūyaḥ kathaya tṛptir hi\nśṛṇvato nāsti me 'mṛtam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vistareṇa—in description; ātmanaḥ—of Yourself; yogam—mystic power; vibhūtim—opulences; ca—also; janārdana—O killer of the atheists; bhūyaḥ—again; kathaya—describe; tṛptiḥ—satisfaction; hi—certainly; śṛṇvataḥ—hearing; na asti—there is no; me—my; amṛtam—nectar.",
+	"translation": "Tell me again in detail, O Janārdana [Kṛṣṇa], of Your mighty potencies and glories, for I never tire of hearing Your ambrosial words.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A similar statement was made to Sūta Gosvāmī by the ṛṣis of Naimiṣāraṇya, headed by Śaunaka. That statement is:"
+		},
+		{
+			"type": "verse",
+			"content": "vayaṁ tu na vitṛpyāma uttama-śloka-vikrame\nyac chṛṇvatāṁ rasa-jñānāṁ svādu svādu pade pade."
+		},
+		{
+			"type": "normal",
+			"content": "\"One can never be satiated even though one continuously hears the transcendental pastimes of Kṛṣṇa, who is glorified by Vedic hymns. Those who have entered into a transcendental relationship with Kṛṣṇa relish in every step descriptions of the pastimes of the Lord.\" Thus Arjuna is interested to hear about Kṛṣṇa, specifically how He remains as the all-pervading Supreme Lord."
+		},
+		{
+			"type": "normal",
+			"content": "Now as far as amṛtam, nectar, is concerned, any narration or statement concerning Kṛṣṇa is just like nectar. And this nectar can be perceived by practical experience. Modern stories, fiction and histories are different from the transcendental pastimes of the Lord in that one will tire of hearing mundane stories, but one never tires of hearing about Kṛṣṇa. It is for this reason only that the history of the whole universe is replete with references to the pastimes of the incarnations of Godhead. For instance, the Purāṇas are histories of bygone ages that relate the pastimes of the various incarnations of the Lord. In this way the reading matter remains forever fresh, despite repeated readings."
+		}
+	]
 }

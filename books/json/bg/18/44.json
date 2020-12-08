@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "bg\\18\\44.json",
+		"id": "bg\\18\\44",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṛṣi-go-rakṣya-vāṇijyaṁ\nvaiśya-karma svabhāva-jam\nparicaryātmakaṁ karma\nśūdrasyāpi svabhāva-jam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṛṣi—ploughing; go—cows; rakṣya—protection; vāṇijyam—trade; vaiśya-vaiśya; karma—duty; svabhāva-jam—born of his own nature; paricaryā—service; ātmakam—nature; karma—duty; śūdrasya—of the śūdra; api—also; svabhāva-jam—born of his own nature.",
+	"translation": "Farming, cattle raising and business are the qualities of work for the vaiśyas, and for the śūdras there is labor and service to others."
 }

@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\18\\19.json",
+		"id": "bg\\18\\19",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "jñānaṁ karma ca kartā ca\ntridhaiva guṇa-bhedataḥ\nprocyate guṇa-saṅkhyāne\nyathāvac chṛṇu tāny api\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "jñānam—knowledge; karma—work; ca—also; kartā—worker; ca—also; tridhā—three kinds; eva—certainly; guṇa-bhedataḥ—in terms of different modes of material nature; procyate—is said; guṇa-saṅkhyāne—in terms of different modes; yathāvat—as they act; śṛṇu—hear; tāni—all of them; api—also.",
+	"translation": "In accordance with the three modes of material nature, there are three kinds of knowledge, action, and performers of action. Listen as I describe them.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the Fourteenth Chapter the three divisions of the modes of material nature were elaborately described. In that chapter it was said that the mode of goodness is illuminating, the mode of passion materialistic, and the mode of ignorance conducive to laziness and indolence. All the modes of material nature are binding; they are not sources of liberation. Even in the mode of goodness one is conditioned. In the Seventeenth Chapter, the different types of worship by different types of men in different modes of material nature were described. In this verse, the Lord wishes to speak about the different types of knowledge, workers, and work itself according to the three material modes."
+		}
+	]
 }

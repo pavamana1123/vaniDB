@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "bg\\18\\12.json",
+		"id": "bg\\18\\12",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "aniṣṭam iṣṭaṁ miśraṁ ca\ntri-vidhaṁ karmaṇaḥ phalam\nbhavaty atyāgināṁ pretya\nna tu sannyāsināṁ kvacit\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aniṣṭam—leading to hell; iṣṭam—leading to heaven; miśram ca—or mixture; tri-vidham—three kinds; karmaṇaḥ—work; phalam—result; bhavati—becomes; atyāginām—of the renouncer; pretya—after death; na tu—but not; sannyāsinām—of the renounced order; kvacit—at any time.",
+	"translation": "For one who is not renounced, the threefold fruits of action-desirable, undesirable and mixed-accrue after death. But those who are in the renounced order of life have no such results to suffer or enjoy.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "A person in Kṛṣṇa consciousness or in the mode of goodness does not hate anyone or anything which troubles his body. He does work in the proper place and at the proper time without fearing the troublesome effects of his duty. Such a person situated in transcendence should be understood to be most intelligent and beyond all doubts in his activities."
+		}
+	]
 }
