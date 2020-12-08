@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\3\\10\\23.json",
+		"id": "sb\\3\\10\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kharo ’śvo ’śvataro gauraḥ\nśarabhaś camarī tathā\nete caika-śaphāḥ kṣattaḥ\nśṛṇu pañca-nakhān paśūn\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kharaḥ—ass; aśvaḥ—horse; aśvataraḥ—mule; gauraḥ—white deer; śarabhaḥ—bison; camarī—wild cow; tathā—thus; ete—all these; ca—and; eka—only one; śaphāḥ—hoof; kṣattaḥ—O Vidura; śṛṇu—just hear now; pañca—five; nakhān—nails; paśūn—animals.",
+	"translation": "The horse, mule, ass, gaura, śarabha bison and wild cow all have only one hoof. Now you may hear from me about the animals who have five nails."
 }

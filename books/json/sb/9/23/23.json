@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\23\\23.json",
+		"id": "sb\\9\\23\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "durmado bhadrasenasya\ndhanakaḥ kṛtavīryasūḥ\nkṛtāgniḥ kṛtavarmā ca\nkṛtaujā dhanakātmajāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "durmadaḥ—Durmada; bhadrasenasya—of Bhadrasena; dhanakaḥ—Dhanaka; kṛtavīrya-sūḥ—giving birth to Kṛtavīrya; kṛtāgniḥ—by the name Kṛtāgni; kṛtavarmā—Kṛtavarmā; ca—also; kṛtaujāḥ—Kṛtaujā; dhanaka-ātmajāḥ—sons of Dhanaka.",
+	"translation": "The sons of Bhadrasena were known as Durmada and Dhanaka. Dhanaka was the father of Kṛtavīrya and also of Kṛtāgni, Kṛtavarmā and Kṛtaujā."
 }

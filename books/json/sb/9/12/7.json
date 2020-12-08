@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\12\\7.json",
+		"id": "sb\\9\\12\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tasmāt prasuśrutas tasya\nsandhis tasyāpy amarṣaṇaḥ\nmahasvāṁs tat-sutas tasmād\nviśvabāhur ajāyata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tasmāt—from Maru; prasuśrutaḥ—Prasuśruta, his son; tasya—of Prasuśruta; sandhiḥ—a son named Sandhi; tasya—his (Sandhi’s); api—also; amarṣaṇaḥ—a son named Amarṣaṇa; mahasvān—the son of Amarṣaṇa; tat—his; sutaḥ—son; tasmāt—from him (Mahasvān); viśvabāhuḥ—Viśvabāhu; ajāyata—took birth.",
+	"translation": "From Maru was born a son named Prasuśruta, from Prasuśruta came Sandhi, from Sandhi came Amarṣaṇa, and from Amarṣaṇa a son named Mahasvān. From Mahasvān, Viśvabāhu took his birth."
 }

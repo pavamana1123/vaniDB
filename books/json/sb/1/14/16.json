@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\1\\14\\16.json",
+		"id": "sb\\1\\14\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vāyur vāti khara-sparśo\nrajasā visṛjaṁs tamaḥ\nasṛg varṣanti jaladā\nbībhatsam iva sarvataḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vāyuḥ—wind; vāti—blowing; khara-sparśaḥ—sharply; rajasā—by the dust; visṛjan—creating; tamaḥ—darkness; asṛk—blood; varṣanti—are raining; jaladāḥ—the clouds; bībhatsam—disastrous; iva—like; sarvataḥ—everywhere.",
+	"translation": "The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters."
 }

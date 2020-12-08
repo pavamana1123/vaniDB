@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "sb\\6\\12\\10.json",
+		"id": "sb\\6\\12\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "yathā dārumayī nārī\nyathā patramayo mṛgaḥ\nevaṁ bhūtāni maghavann\nīśa-tantrāṇi viddhi bhoḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "yathā—just as; dāru-mayī—made of wood; nārī—a woman; yathā—just as; patra-mayaḥ—made of leaves; mṛgaḥ—an animal; evam—thus; bhūtāni—all things; maghavan—O King Indra; īśa—the Supreme Personality of Godhead; tantrāṇi—depending upon; viddhi—please know; bhoḥ—O sir.",
+	"translation": "O King Indra, as a wooden doll that looks like a woman or as an animal made of grass and leaves cannot move or dance independently, but depends fully on the person who handles it, all of us dance according to the desire of the supreme controller, the Personality of Godhead. No one is independent.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is confirmed in Caitanya-caritāmṛta (Ādi 5.142):"
+		},
+		{
+			"type": "normal",
+			"content": "ekale īśvara kṛṣṇa, āra saba bhṛtya\nyāre yaiche nācāya, se taiche kare nṛtya"
+		},
+		{
+			"type": "normal",
+			"content": "“Lord Kṛṣṇa alone is the supreme controller, and all others are His servants. They dance as He makes them do so.” We are all servants of Kṛṣṇa; we have no independence. We are dancing according to the desire of the Supreme Personality of Godhead, but out of ignorance and illusion we think we are independent of the supreme will. Therefore it is said:"
+		},
+		{
+			"type": "normal",
+			"content": "īśvaraḥ paramaḥ kṛṣṇaḥ\nsac-cid-ānanda-vigrahaḥ\nanādir ādir govindaḥ\nsarva-kāraṇa-kāraṇam"
+		},
+		{
+			"type": "normal",
+			"content": "“Kṛṣṇa, who is known as Govinda, is the supreme controller. He has an eternal, blissful, spiritual body. He is the origin of all. He has no other origin, for He is the prime cause of all causes.” (Brahma-saṁhitā 5.1)"
+		}
+	]
 }

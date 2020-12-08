@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\12\\5.json",
+		"id": "sb\\9\\12\\5",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "puṣpo hiraṇyanābhasya\ndhruvasandhis tato ’bhavat\nsudarśano ’thāgnivarṇaḥ\nśīghras tasya maruḥ sutaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "puṣpaḥ—Puṣpa; hiraṇyanābhasya—the son of Hiraṇyanābha; dhruvasandhiḥ—Dhruvasandhi; tataḥ—from him; abhavat—was born; sudarśanaḥ—from Dhruvasandhi, Sudarśana was born; atha—thereafter; agnivarṇaḥ—Agnivarṇa, the son of Sudarśana; śīghraḥ—Śīghra; tasya—his (Agnivarṇa’s); maruḥ—Maru; sutaḥ—son.",
+	"translation": "The son of Hiraṇyanābha was Puṣpa, and the son of Puṣpa was Dhruvasandhi. The son of Dhruvasandhi was Sudarśana, whose son was Agnivarṇa. The son of Agnivarṇa was named Śīghra, and his son was Maru."
 }

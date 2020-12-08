@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\3\\20\\24.json",
+		"id": "sb\\3\\20\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tato hasan sa bhagavān\nasurair nirapatrapaiḥ\nanvīyamānas tarasā\nkruddho bhītaḥ parāpatat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tataḥ—then; hasan—laughing; saḥ bhagavān—the worshipful Lord Brahmā; asuraiḥ—by the demons; nirapatrapaiḥ—shameless; anvīyamānaḥ—being followed; tarasā—in great haste; kruddhaḥ—angry; bhītaḥ—being afraid; parāpatat—ran away.",
+	"translation": "The worshipful Brahmā first laughed at their stupidity, but finding the shameless asuras close upon him, he grew indignant and ran in great haste out of fear.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Sexually inclined demons have no respect even for their father, and the best policy for a saintly father like Brahmā is to leave such demoniac sons."
+		}
+	]
 }

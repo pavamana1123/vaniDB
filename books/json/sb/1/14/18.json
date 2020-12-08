@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\1\\14\\18.json",
+		"id": "sb\\1\\14\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "nadyo nadāś ca kṣubhitāḥ\nsarāṁsi ca manāṁsi ca\nna jvalaty agnir ājyena\nkālo 'yaṁ kiṁ vidhāsyati\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "nadyaḥ—rivers; nadāḥ ca—and the tributaries; kṣubhitāḥ—all perturbed; sarāṁsi—reservoirs of water; ca—and; manāṁsi—the mind; ca—also; na—does not; jvalati—ignite; agniḥ—fire; ājyena—with the help of butter; kālaḥ—the time; ayam—extraordinary it is; kim—what; vidhāsyati—going to happen.",
+	"translation": "Rivers, tributaries, ponds, reservoirs and the mind are all perturbed. Butter no longer ignites fire. What is this extraordinary time? What is going to happen?"
 }

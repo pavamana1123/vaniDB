@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\1\\14\\7.json",
+		"id": "sb\\1\\14\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "gatāḥ saptādhunā māsā\nbhīmasena tavānujaḥ\nnāyāti kasya vā hetor\nnāhaṁ vededam añjasā\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "gatāḥ—has gone; sapta—seven; adhunā—to date; māsāḥ—months; bhīmasena—O Bhīmasena; tava—your; anujaḥ—younger brother; na—does not; āyāti—come back; kasya—for what; vā—or; hetoḥ—reason; na—not; aham—I; veda—know; idam—this; añjasā—factually.",
+	"translation": "Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there."
 }

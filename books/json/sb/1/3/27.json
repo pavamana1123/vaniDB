@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\1\\3\\27.json",
+		"id": "sb\\1\\3\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ṛṣayo manavo devā\nmanu-putrā mahaujasaḥ\nkalāḥ sarve harer eva\nsaprajāpatayaḥ smṛtāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ṛṣayaḥ—all the sages; manavaḥ—all the Manus; devāḥ—all the demigods; manu-putrāḥ—all the descendants of Manu; mahā-ojasaḥ—very powerful; kalāḥ—portion of the plenary portion; sarve—all collectively; hareḥ—of the Lord; eva—certainly; sa-prajāpatayaḥ—along with the Prajāpatis; smṛtāḥ—are known.",
+	"translation": "All the ṛṣis, Manus, demigods and descendants of Manu, who are especially powerful, are plenary portions or portions of the plenary portions of the Lord. This also includes the Prajāpatis.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Those who are comparatively less powerful are called vibhūti, and those who are comparatively more powerful are called āveśa incarnations."
+		}
+	]
 }

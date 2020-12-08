@@ -1,15 +1,19 @@
 {
 	"info": {
-		"id": "sb\\9\\23\\3-4.json",
+		"id": "sb\\9\\23\\3-4",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śibir varaḥ kṛmir dakṣaś\ncatvārośīnarātmajāḥ\nvṛṣādarbhaḥ sudhīraś ca\nmadraḥ kekaya ātmavān",
+			"isProse": false
+		},
+		{
+			"roman": "śibeś catvāra evāsaṁs\ntitikṣoś ca ruṣadrathaḥ\ntato homo ’tha sutapā\nbaliḥ sutapaso ’bhavat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śibiḥ—Śibi; varaḥ—Vara; kṛmiḥ—Kṛmi; dakṣaḥ—Dakṣa; catvāraḥ—four; uśīnara-ātmajāḥ—the sons of Uśīnara; vṛṣādarbhaḥ—Vṛṣādarbha; sudhīraḥ ca—as well as Sudhīra; madraḥ—Madra; kekayaḥ—Kekaya; ātmavān—self-realized; śibeḥ—of Śibi; catvāraḥ—four; eva—indeed; āsan—there were; titikṣoḥ—of Titikṣu; ca—also; ruṣadrathaḥ—a son named Ruṣadratha; tataḥ—from him (Ruṣadratha); homaḥ—Homa; atha—from him (Homa); sutapāḥ—Sutapā; baliḥ—Bali; sutapasaḥ—of Sutapā; abhavat—there was.",
+	"translation": "The four sons of Uśīnara were Śibi, Vara, Kṛmi and Dakṣa, and from Śibi again came four sons, named Vṛṣādarbha, Sudhīra, Madra and ātma-tattva-vit Kekaya. The son of Titikṣu was Ruṣadratha. From Ruṣadratha came Homa; from Homa, Sutapā; and from Sutapā, Bali."
 }

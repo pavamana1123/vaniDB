@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\6\\9\\11.json",
+		"id": "sb\\6\\9\\11",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "hata-putras tatas tvaṣṭā\njuhāvendrāya śatrave\nindra-śatro vivardhasva\nmā ciraṁ jahi vidviṣam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "hata-putraḥ—who lost his son; tataḥ—thereafter; tvaṣṭā—Tvaṣṭā; juhāva—performed a sacrifice; indrāya—of Indra; śatrave—for creating an enemy; indra-śatro—O enemy of Indra; vivardhasva—increase; mā—not; ciram—after a long time; jahi—kill; vidviṣam—your enemy.",
+	"translation": "After Viśvarūpa was killed, his father, Tvaṣṭā, performed ritualistic ceremonies to kill Indra. He offered oblations in the sacrificial fire, saying, “O enemy of Indra, flourish to kill your enemy without delay.”",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "There was some defect in Tvaṣṭā’s chanting of the mantra because he chanted it long instead of short, and therefore the meaning changed. Tvaṣṭā intended to chant the word indra-śatro, meaning, “O enemy of Indra.” In this mantra, the word indra is in the possessive case (ṣaṣṭhī), and the word indra-śatro is called a tat-puruṣa compound (tatpuruṣa-samāsa). Unfortunately, instead of chanting the mantra short, Tvaṣṭā chanted it long, and its meaning changed from “the enemy of Indra” to “Indra, who is an enemy.” Consequently instead of an enemy of Indra’s, there emerged the body of Vṛtrāsura, of whom Indra was the enemy."
+		}
+	]
 }

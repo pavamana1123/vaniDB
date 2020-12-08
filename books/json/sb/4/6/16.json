@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\4\\6\\16.json",
+		"id": "sb\\4\\6\\16",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "svarṇārṇa-śata-patraiś ca\nvara-reṇuka-jātibhiḥ\nkubjakair mallikābhiś ca\nmādhavībhiś ca maṇḍitam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "svarṇārṇa—golden colored; śata-patraiḥ—with lotuses; ca—and; vara-reṇuka-jātibhiḥ—with varas, reṇukas and mālatīs; kubjakaiḥ—with kubjakas; mallikābhiḥ—with mallikās; ca—and; mādhavībhiḥ—with mādhavīs; ca—and; maṇḍitam—decorated.",
+	"translation": "There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\3\\12\\50.json",
+		"id": "sb\\3\\12\\50",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ṛṣīṇāṁ bhūri-vīryāṇām\napi sargam avistṛtam\njñātvā tad dhṛdaye bhūyaś\ncintayām āsa kaurava\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ṛṣīṇām—of the great sages; bhūri-vīryāṇām—with great potential power; api—in spite of; sargam—the creation; avistṛtam—not extended; jñātvā—knowing; tat—that; hṛdaye—in his heart; bhūyaḥ—again; cintayām āsa—he began to consider; kaurava—O son of the Kurus.",
+	"translation": "O son of the Kurus, when Brahmā saw that in spite of the presence of sages of great potency there was no sufficient increase in population, he seriously began to consider how the population could be increased."
 }

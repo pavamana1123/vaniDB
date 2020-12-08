@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\10\\13\\55.json",
+		"id": "sb\\10\\13\\55",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "evaṁ sakṛd dadarśājaḥ\npara-brahmātmano ’khilān\nyasya bhāsā sarvam idaṁ\nvibhāti sa-carācaram\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "evam—thus; sakṛt—at one time; dadarśa—saw; ajaḥ—Lord Brahmā; para-brahma—of the Supreme Absolute Truth; ātmanaḥ—expansions; akhilān—all the calves and boys, etc.; yasya—of whom; bhāsā—by the manifestation; sarvam—all; idam—this; vibhāti—is manifested; sa-cara-acaram—whatever is moving and nonmoving.",
+	"translation": "Thus Lord Brahmā saw the Supreme Brahman, by whose energy this entire universe, with its moving and nonmoving living beings, is manifested. He also saw at the same time all the calves and boys as the Lord’s expansions.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "By this incident, Lord Brahmā was able to see how Kṛṣṇa maintains the entire universe in different ways. It is because Kṛṣṇa manifests everything that everything is visible."
+		}
+	]
 }

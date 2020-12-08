@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\3\\20\\20.json",
+		"id": "sb\\3\\20\\20",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "kṣut-tṛḍbhyām upasṛṣṭās te\ntaṁ jagdhum abhidudruvuḥ\nmā rakṣatainaṁ jakṣadhvam\nity ūcuḥ kṣut-tṛḍ-arditāḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "kṣut-tṛḍbhyām—by hunger and thirst; upasṛṣṭāḥ—were overcome; te—the demons (Yakṣas and Rākṣasas); tam—Lord Brahmā; jagdhum—to eat; abhidudruvuḥ—ran toward; mā—do not; rakṣata—spare; enam—him; jakṣadhvam—eat; iti—thus; ūcuḥ—said; kṣut-tṛṭ-arditāḥ—afflicted by hunger and thirst.",
+	"translation": "Overpowered by hunger and thirst, they ran to devour Brahmā from all sides and cried, “Spare him not! Eat him up!”",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The representatives of the Yakṣas and Rākṣasas still exist in some countries of the world. It is understood that such uncivilized men take pleasure in killing their own grandfathers and holding a “love feast” by roasting the bodies."
+		}
+	]
 }

@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "sb\\8\\17\\2-3.json",
+		"id": "sb\\8\\17\\2-3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "cintayanty ekayā buddhyā\nmahā-puruṣam īśvaram\npragṛhyendriya-duṣṭāśvān\nmanasā buddhi-sārathiḥ",
+			"isProse": false
+		},
+		{
+			"roman": "manaś caikāgrayā buddhyā\nbhagavaty akhilātmani\nvāsudeve samādhāya\ncacāra ha payo-vratam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "cintayanti—constantly thinking; ekayā—with one attention; buddhyā—and intelligence; mahā-puruṣam—upon the Supreme Personality of Godhead; īśvaram—the supreme controller, Lord Viṣṇu; pragṛhya—completely controlling; indriya—the senses; duṣṭa—formidable, powerful; aśvān—horses; manasā—by the mind; buddhi-sārathiḥ—with the help of intelligence, the chariot driver; manaḥ—the mind; ca—also; eka-agrayā—with full attention; buddhyā—with the intelligence; bhagavati—unto the Supreme Personality of Godhead; akhila-ātmani—the Supreme Soul, the Supersoul of all living entities; vāsudeve—unto Lord Vāsudeva; samādhāya—keeping full attention; cacāra—executed; ha—thus; payaḥ-vratam—the ritualistic ceremony known as payo-vrata.",
+	"translation": "With full, undiverted attention, Aditi thought of the Supreme Personality of Godhead and in this way brought under full control her mind and senses, which resembled forceful horses. She concentrated her mind upon the Supreme Lord, Vāsudeva. Thus she performed the ritualistic ceremony known as payo-vrata.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This is the process of bhakti-yoga."
+		},
+		{
+			"type": "normal",
+			"content": "anyābhilāṣitā-śūnyaṁ\njñāna-karmādy-anāvṛtam\nānukūlyena kṛṣṇānu-\nśīlanaṁ bhaktir uttamā\n [Madhya 19.167]"
+		},
+		{
+			"type": "normal",
+			"content": "“One should render transcendental loving service to the Supreme Lord Kṛṣṇa favorably and without desire for material profit or gain through fruitive activities or philosophical speculation. That is called pure devotional service.” One simply has to concentrate upon the lotus feet of Vāsudeva, Kṛṣṇa (sa vai manaḥ kṛṣṇa-padāravindayoḥ). Then the mind and senses will be controlled, and one can engage himself fully in the devotional service of the Lord. The devotee does not need to practice the haṭha-yoga system to control the mind and senses; his mind and senses are automatically controlled because of unalloyed devotional service to the Lord."
+		}
+	]
 }

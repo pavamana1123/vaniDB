@@ -1,15 +1,29 @@
 {
 	"info": {
-		"id": "sb\\9\\20\\23.json",
+		"id": "sb\\9\\20\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "pitary uparate so ’pi\ncakravartī mahā-yaśāḥ\nmahimā gīyate tasya\nharer aṁśa-bhuvo bhuvi\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "pitari—after his father; uparate—passed away; saḥ—the King’s son; api—also; cakravartī—the emperor; mahā-yaśāḥ—very famous; mahimā—glories; gīyate—are glorified; tasya—his; hareḥ—of the Supreme Personality of Godhead; aṁśa-bhuvaḥ—a partial representation; bhuvi—upon this earth.",
+	"translation": "Śukadeva Gosvāmī said: When Mahārāja Duṣmanta passed away from this earth, his son became the emperor of the world, the proprietor of the seven islands. He is referred to as a partial representation of the Supreme Personality of Godhead in this world.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In Bhagavad-gītā (10.41) it is said:"
+		},
+		{
+			"type": "normal",
+			"content": "yad yad vibhūtimat sattvaṁ\nśrīmad ūrjitam eva vā\ntat tad evāvagaccha tvaṁ\nmama tejo ’ṁśa-sambhavam"
+		},
+		{
+			"type": "normal",
+			"content": "Anyone extraordinarily powerful must be considered a partial representation of the opulence of the Supreme Godhead. Therefore when the son of Mahārāja Duṣmanta became the emperor of the entire world, he was celebrated in this way."
+		}
+	]
 }

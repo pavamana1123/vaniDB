@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\3\\27.json",
+		"id": "sb\\9\\3\\27",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "uttānabarhir ānarto\nbhūriṣeṇa iti trayaḥ\nśaryāter abhavan putrā\nānartād revato ’bhavat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "uttānabarhiḥ—Uttānabarhi; ānartaḥ—Ānarta; bhūriṣeṇaḥ—Bhūriṣeṇa; iti—thus; trayaḥ—three; śaryāteḥ—of King Śaryāti; abhavan—were begotten; putrāḥ—sons; ānartāt—from Ānarta; revataḥ—Revata; abhavat—was born.",
+	"translation": "King Śaryāti begot three sons, named Uttānabarhi, Ānarta and Bhūriṣeṇa. From Ānarta came a son named Revata."
 }

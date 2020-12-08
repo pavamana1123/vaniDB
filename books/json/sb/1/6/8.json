@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\1\\6\\8.json",
+		"id": "sb\\1\\6\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ahaṁ ca tad-brahma-kule\nūṣivāṁs tad-upekṣayā\ndig-deśa-kālāvyutpanno\nbālakaḥ pañca-hāyanaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "aham—I; ca—also; tat—that; brahma-kule—in the school of the brāhmaṇas; ūṣivān—lived; tat—her; upekṣayā—being dependent on; dik-deśa—direction and country; kāla—time; avyutpannaḥ—having no experience; bālakaḥ—a mere child; pañca—five; hāyanaḥ—years old.",
+	"translation": "When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands."
 }

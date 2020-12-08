@@ -1,15 +1,33 @@
 {
 	"info": {
-		"id": "sb\\7\\9\\55.json",
+		"id": "sb\\7\\9\\55",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-nārada uvāca\nevaṁ pralobhyamāno ’pi\nvarair loka-pralobhanaiḥ\nekāntitvād bhagavati\nnaicchat tān asurottamaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-nāradaḥ uvāca—the great saint Nārada said; evam—thus; pralobhyamānaḥ—being allured or induced; api—although; varaiḥ—by benedictions; loka—of the world; pralobhanaiḥ—by different kinds of allurements; ekāntitvāt—because of being solely surrendered; bhagavati—unto the Supreme Personality of Godhead; na aicchat—did not want; tān—those benedictions; asura-uttamaḥ—Prahlāda Mahārāja, the best of the family of asuras.",
+	"translation": "Nārada Muni said: Prahlāda Mahārāja was the best person in the family of asuras, who always aspire for material happiness. Nonetheless, although allured by the Supreme Personality of Godhead, who offered him all benedictions for material happiness, because of his unalloyed Kṛṣṇa consciousness he did not want to take any material benefit for sense gratification.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Pure devotees like Prahlāda Mahārāja and Dhruva Mahārāja do not aspire for any material benefit at any stage of devotional service. When the Lord was present before Dhruva Mahārāja, Dhruva did not want to take any material benefit from the Lord: svāmin kṛtārtho ’smi varaṁ na yāce. As a pure devotee, he could not ask the Lord for any material benefit. In this regard, Śrī Caitanya Mahāprabhu instructed us:"
+		},
+		{
+			"type": "normal",
+			"content": "na dhanaṁ na janaṁ na sundarīṁ\nkavitāṁ vā jagad-īśa kāmaye\nmama janmani janmanīśvare\nbhavatād bhaktir ahaitukī tvayi"
+		},
+		{
+			"type": "normal",
+			"content": "“O my Lord, Jagadīśa, I do not pray for benedictions by which to achieve material wealth, popularity or beauty. My only desire is to serve You. Kindly engage me in the service of the servant of Your servant.”"
+		},
+		{
+			"type": "normal",
+			"content": "Thus end the Bhaktivedanta purports of the Seventh Canto, Ninth Chapter, of the Śrīmad-Bhāgavatam, entitled “Prahlāda Pacifies Lord Nṛsiṁhadeva with Prayers.”"
+		}
+	]
 }

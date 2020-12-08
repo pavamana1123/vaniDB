@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\12\\8.json",
+		"id": "sb\\9\\12\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tataḥ prasenajit tasmāt\ntakṣako bhavitā punaḥ\ntato bṛhadbalo yas tu\npitrā te samare hataḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tataḥ—from Viśvabāhu; prasenajit—a son named Prasenajit was born; tasmāt—from him; takṣakaḥ—Takṣaka; bhavitā—would take birth; punaḥ—again; tataḥ—from him; bṛhadbalaḥ—a son named Bṛhadbala; yaḥ—he who; tu—but; pitrā—by father; te—your; samare—in the fight; hataḥ—killed.",
+	"translation": "From Viśvabāhu came a son named Prasenajit, from Prasenajit came Takṣaka, and from Takṣaka came Bṛhadbala, who was killed in a fight by your father."
 }

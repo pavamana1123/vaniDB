@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\8\\1\\23.json",
+		"id": "sb\\8\\1\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tṛtīya uttamo nāma\npriyavrata-suto manuḥ\npavanaḥ sṛñjayo yajña-\nhotrādyās tat-sutā nṛpa\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tṛtīyaḥ—the third; uttamaḥ—Uttama; nāma—named; priyavrata—of King Priyavrata; sutaḥ—the son; manuḥ—he became the Manu; pavanaḥ—Pavana; sṛñjayaḥ—Sṛñjaya; yajñahotra-ādyāḥ—Yajñahotra and others; tat-sutāḥ—the sons of Uttama; nṛpa—O King.",
+	"translation": "O King, the third Manu, Uttama, was the son of King Priyavrata. Among the sons of this Manu were Pavana, Sṛñjaya and Yajñahotra."
 }

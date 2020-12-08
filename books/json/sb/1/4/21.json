@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\1\\4\\21.json",
+		"id": "sb\\1\\4\\21",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "tatrarg-veda-dharaḥ pailaḥ\nsāmago jaiminiḥ kaviḥ\nvaiśampāyana evaiko\nniṣṇāto yajuṣām uta\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "tatra—thereupon; ṛg-veda-dharaḥ—the professor of the Ṛg Veda; pailaḥ—the ṛṣi named Paila; sāma-gaḥ—that of the Sāma Veda; jaiminiḥ—the ṛṣi named Jaimini; kaviḥ—highly qualified; vaiśampāyanaḥ—the ṛṣi named Vaiśampāyana; eva—only; ekaḥ—alone; niṣṇātaḥ—well versed; yajuṣām—of the Yajur Veda; uta—glorified.",
+	"translation": "After the Vedas were divided into four divisions, Paila Ṛṣi became the professor of the Ṛg Veda, Jaimini the professor of the Sāma Veda, and Vaiśampāyana alone became glorified by the Yajur Veda.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "The different Vedas were entrusted to different learned scholars for development in various ways."
+		}
+	]
 }

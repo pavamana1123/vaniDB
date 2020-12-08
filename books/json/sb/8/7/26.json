@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\8\\7\\26.json",
+		"id": "sb\\8\\7\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "agnir mukhaṁ te ’khila-devatātmā\nkṣitiṁ vidur loka-bhavāṅghri-paṅkajam\nkālaṁ gatiṁ te ’khila-devatātmano\ndiśaś ca karṇau rasanaṁ jaleśam\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "agniḥ—fire; mukham—mouth; te—of Your Lordship; akhila-devatā-ātmā—the origin of all demigods; kṣitim—the surface of the globe; viduḥ—they know; loka-bhava—O origin of all planets; aṅghri-paṅkajam—your lotus feet; kālam—eternal time; gatim—progress; te—of Your Lordship; akhila-devatā-ātmanaḥ—the total aggregate of all the demigods; diśaḥ—all directions; ca—and; karṇau—your ears; rasanam—taste; jala-īśam—the demigod controller of the water.",
+	"translation": "O father of all planets, learned scholars know that fire is your mouth, the surface of the globe is your lotus feet, eternal time is your movement, all the directions are your ears, and Varuṇa, master of the waters, is your tongue.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "In the śruti-mantras it is said, agniḥ sarva-devatāḥ: “Fire is the aggregate of all demigods.” Agni is the mouth of the Supreme Personality of Godhead. It is through Agni, or fire, that the Lord accepts all sacrificial oblations."
+		}
+	]
 }

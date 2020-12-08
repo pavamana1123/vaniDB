@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\6\\10\\24.json",
+		"id": "sb\\6\\10\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "na te ’dṛśyanta sañchannāḥ\nśara-jālaiḥ samantataḥ\npuṅkhānupuṅkha-patitair\njyotīṁṣīva nabho-ghanaiḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "na—not; te—they (the demigods); adṛśyanta—were seen; sañchannāḥ—being completely covered; śara-jālaiḥ—by networks of arrows; samantataḥ—all around; puṅkha-anupuṅkha—one arrow after another; patitaiḥ—falling; jyotīṁṣi iva—like the stars in the sky; nabhaḥ-ghanaiḥ—by the dense clouds.",
+	"translation": "As the stars in the sky cannot be seen when covered by dense clouds, the demigods, being completely covered by networks of arrows falling upon them one after another, could not be seen."
 }

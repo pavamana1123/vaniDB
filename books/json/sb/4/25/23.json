@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\4\\25\\23.json",
+		"id": "sb\\4\\25\\23",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "piśaṅga-nīvīṁ suśroṇīṁ\nśyāmāṁ kanaka-mekhalām\npadbhyāṁ kvaṇadbhyāṁ calantīṁ\nnūpurair devatām iva\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "piśaṅga—yellow; nīvīm—garment; su-śroṇīm—beautiful waist; śyāmām—blackish; kanaka—golden; mekhalām—belt; padbhyām—with the feet; kvaṇadbhyām—tinkling; calantīm—walking; nūpuraiḥ—with ankle bells; devatām—a denizen of the heavens; iva—like.",
+	"translation": "The waist and hips of the woman were very beautiful. She was dressed in a yellow sārī with a golden belt. While she walked, her ankle bells rang. She appeared exactly like a denizen of the heavens.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "This verse expresses the joyfulness of the mind upon seeing a woman with raised hips and breasts dressed in an attractive sārī and bedecked with ornaments."
+		}
+	]
 }

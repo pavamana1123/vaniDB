@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\20\\2.json",
+		"id": "sb\\9\\20\\2",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "janamejayo hy abhūt pūroḥ\npracinvāṁs tat-sutas tataḥ\npravīro ’tha manusyur vai\ntasmāc cārupado ’bhavat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "janamejayaḥ—King Janamejaya; hi—indeed; abhūt—appeared; pūroḥ—from Pūru; pracinvān—Pracinvān; tat—his (Janamejaya’s); sutaḥ—son; tataḥ—from him (Pracinvān); pravīraḥ—Pravīra; atha—thereafter; manusyuḥ—Pravīra’s son Manusyu; vai—indeed; tasmāt—from him (Manusyu); cārupadaḥ—King Cārupada; abhavat—appeared.",
+	"translation": "King Janamejaya was born of this dynasty of Pūru. Janamejaya’s son was Pracinvān, and his son was Pravīra. Thereafter, Pravīra’s son was Manusyu, and from Manusyu came the son named Cārupada."
 }

@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\17\\8.json",
+		"id": "sb\\9\\17\\8",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "alarkāt santatis tasmāt\nsunītho ’tha niketanaḥ\ndharmaketuḥ sutas tasmāt\nsatyaketur ajāyata\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "alarkāt—from Alarka; santatiḥ—a son known as Santati; tasmāt—from him; sunīthaḥ—Sunītha; atha—from him; niketanaḥ—a son named Niketana; dharmaketuḥ—Dharmaketu; sutaḥ—a son; tasmāt—and from Dharmaketu; satyaketuḥ—Satyaketu; ajāyata—was born.",
+	"translation": "From Alarka came a son named Santati, and his son was Sunītha. The son of Sunītha was Niketana, the son of Niketana was Dharmaketu, and the son of Dharmaketu was Satyaketu."
 }

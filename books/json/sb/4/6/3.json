@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\4\\6\\3.json",
+		"id": "sb\\4\\6\\3",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "upalabhya puraivaitad\nbhagavān abja-sambhavaḥ\nnārāyaṇaś ca viśvātmā\nna kasyādhvaram īyatuḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "upalabhya—knowing; purā—beforehand; eva—certainly; etat—all these events of Dakṣa’s sacrifice; bhagavān—the possessor of all opulences; abja-sambhavaḥ—born from a lotus flower (Lord Brahmā); nārāyaṇaḥ—Nārāyaṇa; ca—and; viśva-ātmā—the Supersoul of the entire universe; na—not; kasya—of Dakṣa; adhvaram—to the sacrifice; īyatuḥ—did go.",
+	"translation": "Both Lord Brahmā and Viṣṇu had already known that such events would occur in the sacrificial arena of Dakṣa, and knowing beforehand, they did not go to the sacrifice.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in Bhagavad-gītā (7.26), vedāhaṁ samatītāni vartamānāni cārjuna. The Lord says, “I know everything that has happened in the past and is going to happen in the future.” Lord Viṣṇu is omniscient, and He therefore knew what would happen at Dakṣa’s sacrificial arena. For this reason neither Nārāyaṇa nor Lord Brahmā attended the great sacrifice performed by Dakṣa."
+		}
+	]
 }

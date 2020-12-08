@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\7\\2\\2.json",
+		"id": "sb\\7\\2\\2",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "āha cedaṁ ruṣā pūrṇaḥ\nsandaṣṭa-daśana-cchadaḥ\nkopojjvaladbhyāṁ cakṣurbhyāṁ\nnirīkṣan dhūmram ambaram\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "āha—said; ca—and; idam—this; ruṣā—with anger; pūrṇaḥ—full; sandaṣṭa—bitten; daśana-chadaḥ—whose lips; kopa-ujjvaladbhyām—blazing with anger; cakṣurbhyām—with eyes; nirīkṣan—looking over; dhūmram—smoky; ambaram—the sky.",
+	"translation": "Filled with rage and biting his lips, Hiraṇyakaśipu gazed at the sky with eyes that blazed in anger, making the whole sky smoky. Thus he began to speak.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As usual, the demon is envious of the Supreme Personality of Godhead and inimical toward Him. These were Hiraṇyakaśipu’s external bodily features as he considered how to kill Lord Viṣṇu and devastate His kingdom, Vaikuṇṭhaloka."
+		}
+	]
 }

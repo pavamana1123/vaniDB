@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\8\\8\\13.json",
+		"id": "sb\\8\\8\\13",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "meghā mṛdaṅga-paṇava-\nmurajānaka-gomukhān\nvyanādayan śaṅkha-veṇu-\nvīṇās tumula-niḥsvanān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "meghāḥ—personified clouds; mṛdaṅga—drums; paṇava—kettledrums; muraja—another kind of drum; ānaka—another type of drum; gomukhān—a type of bugle; vyanādayan—vibrated; śaṅkha—conchshells; veṇu—flutes; vīṇāḥ—stringed instruments; tumula—tumultuous; niḥsvanān—vibration.",
+	"translation": "The clouds in personified form beat various types of drums, known as mṛdaṅgas, paṇavas, murajas and ānakas. They also blew conchshells and bugles known as gomukhas and played flutes and stringed instruments. The combined sound of these instruments was tumultuous."
 }

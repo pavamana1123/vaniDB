@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\3\\11\\25.json",
+		"id": "sb\\3\\11\\25",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "manvantareṣu manavas\ntad-vaṁśyā ṛṣayaḥ surāḥ\nbhavanti caiva yugapat\nsureśāś cānu ye ca tān\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "manu-antareṣu—after the dissolution of each and every Manu; manavaḥ—other Manus; tat-vaṁśyāḥ—and their descendants; ṛṣayaḥ—the seven famous sages; surāḥ—devotees of the Lord; bhavanti—flourish; ca eva—also all of them; yugapat—simultaneously; sura-īśāḥ—demigods like Indra; ca—and; anu—followers; ye—all; ca—also; tān—them.",
+	"translation": "After the dissolution of each and every Manu, the next Manu comes in order, along with his descendants, who rule over the different planets; but the seven famous sages, and demigods like Indra and their followers, such as the Gandharvas, all appear simultaneously with Manu.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "There are fourteen Manus in one day of Brahmā, and each of them has different descendants."
+		}
+	]
 }

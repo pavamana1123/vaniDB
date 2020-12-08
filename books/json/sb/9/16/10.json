@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\16\\10.json",
+		"id": "sb\\9\\16\\10",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "ekadāśramato rāme\nsabhrātari vanaṁ gate\nvairaṁ siṣādhayiṣavo\nlabdha-cchidrā upāgaman\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "ekadā—once upon a time; āśramataḥ—from the āśrama of Jamadagni; rāme—when Lord Paraśurāma; sa-bhrātari—with his brothers; vanam—into the forest; gate—having gone; vairam—revenge for past enmity; siṣādhayiṣavaḥ—desiring to fulfill; labdha-chidrāḥ—taking the opportunity; upāgaman—they came near the residence of Jamadagni.",
+	"translation": "Once when Paraśurāma left the āśrama for the forest with Vasumān and his other brothers, the sons of Kārtavīryārjuna took the opportunity to approach Jamadagni’s residence to seek vengeance for their grudge."
 }

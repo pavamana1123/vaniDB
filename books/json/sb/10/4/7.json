@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\10\\4\\7.json",
+		"id": "sb\\10\\4\\7",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "śrī-śuka uvāca\nupaguhyātmajām evaṁ\nrudatyā dīna-dīnavat\nyācitas tāṁ vinirbhartsya\nhastād ācicchide khalaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "śrī-śukaḥ uvāca—Śrī Śukadeva Gosvāmī said; upaguhya—embracing; ātmajām—her daughter; evam—in this way; rudatyā—by Devakī, who was crying; dīna-dīna-vat—very piteously, like a poor woman; yācitaḥ—being begged; tām—her (Devakī); vinirbhartsya—chastising; hastāt—from her hands; ācicchide—separated the child by force; khalaḥ—Kaṁsa, the most cruel.",
+	"translation": "Śukadeva Gosvāmī continued: piteously embracing her daughter and crying, Devakī begged Kaṁsa for the child, but he was so cruel that he chastised her and forcibly snatched the child from her hands.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Although Devakī was crying like a very poor woman, actually she was not poor, and therefore the word used here is dīnavat. She had already given birth to Kṛṣṇa. Therefore, who could have been richer than she? Even the demigods had come to offer prayers to Devakī, but she played the part of a poor, piteously afflicted woman because she wanted to save the daughter of Yaśodā."
+		}
+	]
 }

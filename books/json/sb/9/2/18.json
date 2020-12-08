@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\9\\2\\18.json",
+		"id": "sb\\9\\2\\18",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vasoḥ pratīkas tat-putra\noghavān oghavat-pitā\nkanyā caughavatī nāma\nsudarśana uvāha tām\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vasoḥ—of Vasu; pratīkaḥ—named Pratīka; tat-putraḥ—his son; oghavān—named Oghavān; oghavat-pitā—who was the father of Oghavān; kanyā—his daughter; ca—also; oghavatī—Oghavatī; nāma—by the name; sudarśanaḥ—Sudarśana; uvāha—married; tām—that daughter (Oghavatī).",
+	"translation": "The son of Vasu was Pratīka, whose son was Oghavān. Oghavān’s son was also known as Oghavān, and his daughter was Oghavatī. Sudarśana married that daughter."
 }

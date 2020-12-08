@@ -1,15 +1,37 @@
 {
 	"info": {
-		"id": "sb\\10\\11\\35.json",
+		"id": "sb\\10\\11\\35",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "vṛndāvanaṁ sampraviśya\nsarva-kāla-sukhāvaham\ntatra cakrur vrajāvāsaṁ\nśakaṭair ardha-candravat\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "vṛndāvanam—the sacred place by the name Vṛndāvana; sampraviśya—after entering; sarva-kāla-sukha-āvaham—where in all seasons it is pleasing to live; tatra—there; cakruḥ—they made; vraja-āvāsam—inhabitation of Vraja; śakaṭaiḥ—by the bullock carts; ardha-candravat—making a semicircle like a half moon.",
+	"translation": "In this way they entered Vṛndāvana, where it is always pleasing to live in all seasons. They made a temporary place to inhabit by placing their bullock carts around them in the shape of a half moon.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "As stated in the Viṣṇu Purāṇa:"
+		},
+		{
+			"type": "normal",
+			"content": "śakaṭī-vāṭa-paryantaś\ncandrārdha-kāra-saṁsthite"
+		},
+		{
+			"type": "normal",
+			"content": "And as stated in the Hari-vaṁśa:"
+		},
+		{
+			"type": "normal",
+			"content": "kaṇṭakībhiḥ pravṛddhābhis\ntathā kaṇṭakībhir drumaiḥ\nnikhātocchrita-śākhābhir\nabhiguptaṁ samantataḥ"
+		},
+		{
+			"type": "normal",
+			"content": "There was no need to make fences all around. One side was already defended by thorn trees, and thus the thorn trees, the bullock carts and the animals encircled the inhabitants in their temporary residence."
+		}
+	]
 }

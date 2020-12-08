@@ -1,15 +1,21 @@
 {
 	"info": {
-		"id": "sb\\8\\21\\26.json",
+		"id": "sb\\8\\21\\26",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "atha tārkṣya-suto jñātvā\nvirāṭ prabhu-cikīrṣitam\nbabandha vāruṇaiḥ pāśair\nbaliṁ sūtye ’hani kratau\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "atha—thereafter; tārkṣya-sutaḥ—Garuḍa; jñātvā—knowing; virāṭ—the king of birds; prabhu-cikīrṣitam—the desire of Lord Viṣṇu as Vāmanadeva; babandha—arrested; vāruṇaiḥ—belonging to Varuṇa; pāśaiḥ—by the ropes; balim—Bali; sūtye—when soma-rasa is taken; ahani—on the day; kratau—at the time of sacrifice.",
+	"translation": "Thereafter, on the day of soma-pāna, after the sacrifice was finished, Garuḍa, king of the birds, understanding the desire of his master, arrested Bali Mahārāja with the ropes of Varuṇa.",
+	"purport": [
+		{
+			"type": "normal",
+			"content": "Garuḍa, the constant companion of the Supreme Personality of Godhead, knows the confidential part of the Lord’s desire. Bali Mahārāja’s tolerance and devotion were undoubtedly superexcellent. Garuḍa arrested Bali Mahārāja to show the entire universe the greatness of the King’s tolerance."
+		}
+	]
 }

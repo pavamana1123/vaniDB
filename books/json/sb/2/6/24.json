@@ -1,15 +1,15 @@
 {
 	"info": {
-		"id": "sb\\2\\6\\24.json",
+		"id": "sb\\2\\6\\24",
 		"nextId": "",
 		"prevId": ""
 	},
 	"verses": [
 		{
-			"roman": "",
+			"roman": "teṣu yajñasya paśavaḥ\nsavanaspatayaḥ kuśāḥ\nidaṁ ca deva-yajanaṁ\nkālaś coru-guṇānvitaḥ\n",
 			"isProse": false
 		}
 	],
-	"synonyms": "",
-	"translation": ""
+	"synonyms": "teṣu—in such sacrifices; yajñasya—of the sacrificial performance; paśavaḥ—the animals or the sacrificial ingredients; sa-vanaspatayaḥ—along with flowers and leaves; kuśāḥ—the straw; idam—all these; ca—as also; deva-yajanam—the sacrificial altar; kālaḥ—a suitable time; ca—as also; uru—great; guṇa-anvitaḥ—qualified.",
+	"translation": "For performing sacrificial ceremonies, one requires sacrificial ingredients, such as flowers, leaves and straw, along with the sacrificial altar and a suitable time [spring]."
 }
